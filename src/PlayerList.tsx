@@ -30,7 +30,7 @@ import { getLogoCode } from "./utils/getLogoClub";
 // import rawTopPlayers from "../public/es/rayo_vallecano_top_goals.json"; //sudah
 
 // import rawTopPlayers from "../public/es/rcd_espanyol_barcelona_top_goals.json"; //sudah
-// import rawTopPlayers from "../public/es/rcd_mallorca_top_goals.json";
+import rawTopPlayers from "../public/es/rcd_mallorca_top_goals.json";
 // import rawTopPlayers from "../public/es/real_betis_balompié_top_goals.json";
 // import rawTopPlayers from "../public/es/real_madrid_top_goals.json";
 // import rawTopPlayers from "../public/es/real_sociedad_top_goals.json";
@@ -38,7 +38,7 @@ import { getLogoCode } from "./utils/getLogoClub";
 // import rawTopPlayers from "../public/es/sevilla_fc_top_goals.json";
 // import rawTopPlayers from "../public/es/ud_las_palmas_top_goals.json";
 // import rawTopPlayers from "../public/es/valencia_cf_top_goals.json";
-import rawTopPlayers from "../public/es/villarreal_cf_top_goals.json";
+// import rawTopPlayers from "../public/es/villarreal_cf_top_goals.json";
 
 
 const { fontFamily: rubikFont } = loadRubik();

@@ -121,6 +121,7 @@ const countryCodeMap: { [key: string]: string } = {
     'kn': 'kn', // Saint Kitts and Nevis
     'kp': 'kp', // North Korea
     'kr': 'kr', // South Korea
+    'xk': 'xk', // Kosovo
     'kw': 'kw', // Kuwait
     'ky': 'ky', // Cayman Islands
     'kz': 'kz', // Kazakhstan
