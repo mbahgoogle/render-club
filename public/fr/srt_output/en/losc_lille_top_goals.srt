@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+LOSC Lille All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Zarko Olarevic (Serbia) - LOSC Lille
+Appearances: 126 | Goals: 31 | Assists: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Bruno Cheyrou (France) - LOSC Lille
+Appearances: 114 | Goals: 32 | Assists: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Roberto Cabral (Argentina) - LOSC Lille
+Appearances: 111 | Goals: 34 | Assists: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Salomon Kalou (Cote d'Ivoire) - LOSC Lille
+Appearances: 80 | Goals: 34 | Assists: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Gervinho (Cote d'Ivoire) - LOSC Lille
+Appearances: 93 | Goals: 36 | Assists: 15
+
+7
+00:00:35,000 --> 00:00:41,600
+Moussa Sow (Senegal) - LOSC Lille
+Appearances: 76 | Goals: 36 | Assists: 6
+
+8
+00:00:41,600 --> 00:00:48,200
+René Fatoux (France) - LOSC Lille
+Appearances: 49 | Goals: 36
+
+9
+00:00:48,200 --> 00:00:54,800
+Stanislav Karasi (Serbia) - LOSC Lille
+Appearances: 120 | Goals: 36
+
+10
+00:00:54,800 --> 00:01:01,400
+Nicolas Pépé (Cote d'Ivoire) - LOSC Lille
+Appearances: 79 | Goals: 37 | Assists: 18
+
+11
+00:01:01,400 --> 00:01:08,000
+Nolan Roux (France) - LOSC Lille
+Appearances: 138 | Goals: 37 | Assists: 17
+
+12
+00:01:08,000 --> 00:01:14,600
+Yohan Cabaye (France) - LOSC Lille
+Appearances: 252 | Goals: 37 | Assists: 32
+
+13
+00:01:14,600 --> 00:01:21,200
+Francois Heutte (France) - LOSC Lille
+Appearances: 105 | Goals: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Laurent Peyrelade (France) - LOSC Lille
+Appearances: 133 | Goals: 38 | Assists: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+Matt Moussilou (Congo) - LOSC Lille
+Appearances: 140 | Goals: 39 | Assists: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Marius Walter (France) - LOSC Lille
+Appearances: 99 | Goals: 39
+
+17
+00:01:41,000 --> 00:01:47,600
+Jean Lechantre (Belgium) - LOSC Lille
+Appearances: 99 | Goals: 42
+
+18
+00:01:47,600 --> 00:01:54,200
+Djezon Boutoille (France) - LOSC Lille
+Appearances: 273 | Goals: 44 | Assists: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Erwin Vandenbergh (Belgium) - LOSC Lille
+Appearances: 130 | Goals: 44
+
+20
+00:02:00,800 --> 00:02:07,400
+Fernand Devlaminck (France) - LOSC Lille
+Appearances: 79 | Goals: 48
+
+21
+00:02:07,400 --> 00:02:14,000
+Eden Hazard (Belgium) - LOSC Lille
+Appearances: 194 | Goals: 50 | Assists: 53
+
+22
+00:02:14,000 --> 00:02:20,600
+André Guy (France) - LOSC Lille
+Appearances: 89 | Goals: 51
+
+23
+00:02:20,600 --> 00:02:27,200
+Christian Coste (France) - LOSC Lille
+Appearances: 109 | Goals: 54
+
+24
+00:02:27,200 --> 00:02:33,800
+Gérard Bourbotte (France) - LOSC Lille
+Appearances: 174 | Goals: 60
+
+25
+00:02:33,800 --> 00:02:40,400
+Yvon Douis (France) - LOSC Lille
+Appearances: 173 | Goals: 61
+
+26
+00:02:40,400 --> 00:02:47,000
+Jean Vincent (France) - LOSC Lille
+Appearances: 179 | Goals: 62
+
+27
+00:02:47,000 --> 00:02:53,600
+Pierre Pleimelding (France) - LOSC Lille
+Appearances: 131 | Goals: 62 | Assists: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Bernard Lefèvre (France) - LOSC Lille
+Appearances: 156 | Goals: 64
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean Baratte (France) - LOSC Lille
+Appearances: 187 | Goals: 97
+
+30
+00:03:06,800 --> 00:03:13,400
+Jonathan David (Canada) - LOSC Lille
+Appearances: 225 | Goals: 107 | Assists: 27
+
+31
+00:03:13,400 --> 00:03:20,000
+André Strappe (France) - LOSC Lille
+Appearances: 318 | Goals: 112
+

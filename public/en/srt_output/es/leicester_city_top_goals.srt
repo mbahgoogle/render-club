@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Leicester City Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Tony Cottee (England) - Leicester City
+Partidos: 100 | Goles: 34
+
+3
+00:00:08,600 --> 00:00:15,200
+Ken Leek (Wales) - Leicester City
+Partidos: 95 | Goles: 34
+
+4
+00:00:15,200 --> 00:00:21,800
+Iain Hume (Canada) - Leicester City
+Partidos: 132 | Goles: 34 | Asistencias: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Keith Weller (England) - Leicester City
+Partidos: 266 | Goles: 35
+
+6
+00:00:28,400 --> 00:00:35,000
+Derek Dougan (Northern Ireland) - Leicester City
+Partidos: 72 | Goles: 36
+
+7
+00:00:35,000 --> 00:00:41,600
+Howard Riley (England) - Leicester City
+Partidos: 195 | Goles: 36
+
+8
+00:00:41,600 --> 00:00:48,200
+Steve Lynex (England) - Leicester City
+Partidos: 154 | Goles: 39 | Asistencias: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Lloyd Dyer (England) - Leicester City
+Partidos: 265 | Goles: 39 | Asistencias: 30
+
+10
+00:00:54,800 --> 00:01:01,400
+Albert Cheesebrough (England) - Leicester City
+Partidos: 126 | Goles: 40 | Asistencias: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Paul Dickov (Scotland) - Leicester City
+Partidos: 125 | Goles: 40 | Asistencias: 4
+
+12
+00:01:08,000 --> 00:01:14,600
+Emile Heskey (England) - Leicester City
+Partidos: 168 | Goles: 41 | Asistencias: 10
+
+13
+00:01:14,600 --> 00:01:21,200
+Arthur Chandler (England) - Leicester City
+Partidos: 56 | Goles: 43
+
+14
+00:01:21,200 --> 00:01:27,800
+Dave Gibson (Scotland) - Leicester City
+Partidos: 291 | Goles: 44 | Asistencias: 4
+
+15
+00:01:27,800 --> 00:01:34,400
+Muzzy Izzet (Türkiye) - Leicester City
+Partidos: 305 | Goles: 45 | Asistencias: 21
+
+16
+00:01:34,400 --> 00:01:41,000
+Harvey Barnes (England) - Leicester City
+Partidos: 187 | Goles: 45 | Asistencias: 32
+
+17
+00:01:41,000 --> 00:01:47,600
+Riyad Mahrez (Algeria) - Leicester City
+Partidos: 179 | Goles: 48 | Asistencias: 35
+
+18
+00:01:47,600 --> 00:01:54,200
+Jackie Sinclair (Scotland) - Leicester City
+Partidos: 109 | Goles: 51
+
+19
+00:01:54,200 --> 00:02:00,800
+James Maddison (England) - Leicester City
+Partidos: 203 | Goles: 55 | Asistencias: 39
+
+20
+00:02:00,800 --> 00:02:07,400
+David Nugent (England) - Leicester City
+Partidos: 180 | Goles: 59 | Asistencias: 28
+
+21
+00:02:07,400 --> 00:02:14,000
+Gary Lineker (England) - Leicester City
+Partidos: 114 | Goles: 61 | Asistencias: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Kelechi Iheanacho (Nigeria) - Leicester City
+Partidos: 232 | Goles: 61 | Asistencias: 34
+
+23
+00:02:20,600 --> 00:02:27,200
+Andy King (Wales) - Leicester City
+Partidos: 379 | Goles: 62 | Asistencias: 24
+
+24
+00:02:27,200 --> 00:02:33,800
+Matty Fryatt (England) - Leicester City
+Partidos: 189 | Goles: 62 | Asistencias: 12
+
+25
+00:02:33,800 --> 00:02:40,400
+Alan Smith (England) - Leicester City
+Partidos: 171 | Goles: 65 | Asistencias: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Arthur Rowley (England) - Leicester City
+Partidos: 86 | Goles: 69 | Asistencias: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Ken Keyworth (England) - Leicester City
+Partidos: 188 | Goles: 70 | Asistencias: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Frank Worthington (England) - Leicester City
+Partidos: 224 | Goles: 75
+
+29
+00:03:00,200 --> 00:03:06,800
+Jimmy Walsh (Scotland) - Leicester City
+Partidos: 181 | Goles: 81
+
+30
+00:03:06,800 --> 00:03:13,400
+Mike Stringfellow (England) - Leicester City
+Partidos: 317 | Goles: 88 | Asistencias: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Jamie Vardy (England) - Leicester City
+Partidos: 493 | Goles: 198 | Asistencias: 69
+

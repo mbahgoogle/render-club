@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Borussia Mönchengladbach 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Ewald Nienhaus (Germany) - Borussia Mönchengladbach
+출전: 115 | 골: 46
+
+3
+00:00:08,600 --> 00:00:15,200
+Thorgan Hazard (Belgium) - Borussia Mönchengladbach
+출전: 182 | 골: 46 | 도움: 44
+
+4
+00:00:15,200 --> 00:00:21,800
+Willi Wicken (Germany) - Borussia Mönchengladbach
+출전: 183 | 골: 46
+
+5
+00:00:21,800 --> 00:00:28,400
+Jonas Hofmann (Germany) - Borussia Mönchengladbach
+출전: 214 | 골: 48 | 도움: 51
+
+6
+00:00:28,400 --> 00:00:35,000
+Horst Köppel (Germany) - Borussia Mönchengladbach
+출전: 219 | 골: 51 | 도움: 14
+
+7
+00:00:35,000 --> 00:00:41,600
+Karl Heinz Mülhausen (Germany) - Borussia Mönchengladbach
+출전: 179 | 골: 51
+
+8
+00:00:41,600 --> 00:00:48,200
+Lothar Matthäus (Germany) - Borussia Mönchengladbach
+출전: 200 | 골: 51 | 도움: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Ewald Lienen (Germany) - Borussia Mönchengladbach
+출전: 329 | 골: 51 | 도움: 6
+
+10
+00:00:54,800 --> 00:01:01,400
+Patrick Herrmann (Germany) - Borussia Mönchengladbach
+출전: 420 | 골: 56 | 도움: 66
+
+11
+00:01:01,400 --> 00:01:08,000
+Christian Kulik (Germany) - Borussia Mönchengladbach
+출전: 324 | 골: 58 | 도움: 11
+
+12
+00:01:08,000 --> 00:01:14,600
+Henning Jensen (Denmark) - Borussia Mönchengladbach
+출전: 182 | 골: 60 | 도움: 13
+
+13
+00:01:14,600 --> 00:01:21,200
+Christian Hochstätter (Germany) - Borussia Mönchengladbach
+출전: 395 | 골: 61 | 도움: 28
+
+14
+00:01:21,200 --> 00:01:27,800
+Arie van Lent (Netherlands) - Borussia Mönchengladbach
+출전: 158 | 골: 62 | 도움: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Rainer Bonhof (Germany) - Borussia Mönchengladbach
+출전: 329 | 골: 63 | 도움: 19
+
+16
+00:01:34,400 --> 00:01:41,000
+Alassane Pléa (France) - Borussia Mönchengladbach
+출전: 230 | 골: 67 | 도움: 52
+
+17
+00:01:41,000 --> 00:01:47,600
+Herbert Wimmer (Germany) - Borussia Mönchengladbach
+출전: 469 | 골: 68 | 도움: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+Martin Dahlin (Sweden) - Borussia Mönchengladbach
+출전: 146 | 골: 68 | 도움: 22
+
+19
+00:01:54,200 --> 00:02:00,800
+Raffael (Brazil) - Borussia Mönchengladbach
+출전: 201 | 골: 71 | 도움: 35
+
+20
+00:02:00,800 --> 00:02:07,400
+Wilfried Hannes (Germany) - Borussia Mönchengladbach
+출전: 326 | 골: 72 | 도움: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Lars Stindl (Germany) - Borussia Mönchengladbach
+출전: 271 | 골: 83 | 도움: 61
+
+22
+00:02:14,000 --> 00:02:20,600
+Hans-Günter Bruns (Germany) - Borussia Mönchengladbach
+출전: 407 | 골: 85 | 도움: 9
+
+23
+00:02:20,600 --> 00:02:27,200
+Frank Mill (Germany) - Borussia Mönchengladbach
+출전: 190 | 골: 86 | 도움: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Ulrich Kohn (Germany) - Borussia Mönchengladbach
+출전: 150 | 골: 87
+
+25
+00:02:33,800 --> 00:02:40,400
+Bernd Rupp (Germany) - Borussia Mönchengladbach
+출전: 201 | 골: 100 | 도움: 41
+
+26
+00:02:40,400 --> 00:02:47,000
+Uwe Rahn (Germany) - Borussia Mönchengladbach
+출전: 288 | 골: 113 | 도움: 4
+
+27
+00:02:47,000 --> 00:02:53,600
+Hans-Jörg Criens (Germany) - Borussia Mönchengladbach
+출전: 347 | 골: 117 | 도움: 19
+
+28
+00:02:53,600 --> 00:03:00,200
+Allan Simonsen (Denmark) - Borussia Mönchengladbach
+출전: 249 | 골: 117 | 도움: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Günter Netzer (Germany) - Borussia Mönchengladbach
+출전: 358 | 골: 137 | 도움: 75
+
+30
+00:03:06,800 --> 00:03:13,400
+Herbert Laumen (Germany) - Borussia Mönchengladbach
+출전: 274 | 골: 141 | 도움: 19
+
+31
+00:03:13,400 --> 00:03:20,000
+Jupp Heynckes (Germany) - Borussia Mönchengladbach
+출전: 417 | 골: 298 | 도움: 49
+

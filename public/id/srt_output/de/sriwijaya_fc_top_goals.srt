@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Sriwijaya FC Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Reyhan Firdaus (Indonesia) - Sriwijaya FC
+Einsätze: 19 | Tore: 4 | Vorlagen: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Marckho Merauje (Indonesia) - Sriwijaya FC
+Einsätze: 58 | Tore: 4 | Vorlagen: 3
+
+4
+00:00:15,200 --> 00:00:21,800
+Vendry Mofu (Indonesia) - Sriwijaya FC
+Einsätze: 17 | Tore: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Asri Akbar (Indonesia) - Sriwijaya FC
+Einsätze: 17 | Tore: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Hamka Hamzah (Indonesia) - Sriwijaya FC
+Einsätze: 15 | Tore: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Siswanto (Indonesia) - Sriwijaya FC
+Einsätze: 52 | Tore: 4 | Vorlagen: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Achmad Jufriyanto (Indonesia) - Sriwijaya FC
+Einsätze: 65 | Tore: 5 | Vorlagen: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Ponaryo Astaman (Indonesia) - Sriwijaya FC
+Einsätze: 67 | Tore: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Nur Iskandar (Indonesia) - Sriwijaya FC
+Einsätze: 85 | Tore: 5 | Vorlagen: 10
+
+11
+00:01:01,400 --> 00:01:08,000
+Rivaldi Bawuo (Indonesia) - Sriwijaya FC
+Einsätze: 18 | Tore: 5 | Vorlagen: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Airlangga Sucipto (Indonesia) - Sriwijaya FC
+Einsätze: 24 | Tore: 5 | Vorlagen: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Tijani Belaid (Tunisia) - Sriwijaya FC
+Einsätze: 26 | Tore: 5 | Vorlagen: 12
+
+14
+00:01:21,200 --> 00:01:27,800
+Muhammad Fadly (Indonesia) - Sriwijaya FC
+Einsätze: 16 | Tore: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Lewis Eric Weeks (Liberia) - Sriwijaya FC
+Einsätze: 18 | Tore: 6
+
+16
+00:01:34,400 --> 00:01:41,000
+Dedi Hartono (Indonesia) - Sriwijaya FC
+Einsätze: 13 | Tore: 6 | Vorlagen: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Firman Utina (Indonesia) - Sriwijaya FC
+Einsätze: 40 | Tore: 6
+
+18
+00:01:47,600 --> 00:01:54,200
+Habibi Jusuf (Indonesia) - Sriwijaya FC
+Einsätze: 11 | Tore: 7 | Vorlagen: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Lancine Kone (Cote d'Ivoire) - Sriwijaya FC
+Einsätze: 17 | Tore: 7
+
+20
+00:02:00,800 --> 00:02:07,400
+Ramdani Lestaluhu (Indonesia) - Sriwijaya FC
+Einsätze: 25 | Tore: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Herman Dzumafo (Indonesia) - Sriwijaya FC
+Einsätze: 16 | Tore: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Manuchekhr Dzhalilov (Tajikistan) - Sriwijaya FC
+Einsätze: 30 | Tore: 7 | Vorlagen: 5
+
+23
+00:02:20,600 --> 00:02:27,200
+Thierry Gathuessi (Cameroon) - Sriwijaya FC
+Einsätze: 36 | Tore: 7
+
+24
+00:02:27,200 --> 00:02:33,800
+Boakay Foday (Liberia) - Sriwijaya FC
+Einsätze: 28 | Tore: 9
+
+25
+00:02:33,800 --> 00:02:40,400
+Muhammad Ridwan (Indonesia) - Sriwijaya FC
+Einsätze: 47 | Tore: 9 | Vorlagen: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Tantan (Indonesia) - Sriwijaya FC
+Einsätze: 32 | Tore: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+Chencho Gyeltshen (Bhutan) - Sriwijaya FC
+Einsätze: 28 | Tore: 11 | Vorlagen: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Esteban Vizcarra (Indonesia) - Sriwijaya FC
+Einsätze: 32 | Tore: 11 | Vorlagen: 4
+
+29
+00:03:00,200 --> 00:03:06,800
+Keith Gumbs (St. Kitts & Nevis) - Sriwijaya FC
+Einsätze: 46 | Tore: 28
+
+30
+00:03:06,800 --> 00:03:13,400
+Beto (Indonesia) - Sriwijaya FC
+Einsätze: 70 | Tore: 37 | Vorlagen: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Hilton Moreira (Indonesia) - Sriwijaya FC
+Einsätze: 84 | Tore: 40 | Vorlagen: 6
+

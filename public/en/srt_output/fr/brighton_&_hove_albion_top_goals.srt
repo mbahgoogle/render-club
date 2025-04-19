@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Brighton & Hove Albion Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Gerry Ryan (Ireland) - Brighton & Hove Albion
+Apparitions: 102 | Buts: 18
+
+3
+00:00:08,600 --> 00:00:15,200
+Gordon Smith (Scotland) - Brighton & Hove Albion
+Apparitions: 98 | Buts: 19 | Passes décisives: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Iñigo Calderón (Spain) - Brighton & Hove Albion
+Apparitions: 232 | Buts: 19 | Passes décisives: 14
+
+5
+00:00:21,800 --> 00:00:28,400
+Will Buckley (England) - Brighton & Hove Albion
+Apparitions: 109 | Buts: 19 | Passes décisives: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Sam Baldock (England) - Brighton & Hove Albion
+Apparitions: 94 | Buts: 20 | Passes décisives: 18
+
+7
+00:00:35,000 --> 00:00:41,600
+Alexis Mac Allister (Argentina) - Brighton & Hove Albion
+Apparitions: 112 | Buts: 20 | Passes décisives: 9
+
+8
+00:00:41,600 --> 00:00:48,200
+Jake Robinson (England) - Brighton & Hove Albion
+Apparitions: 144 | Buts: 20 | Passes décisives: 4
+
+9
+00:00:48,200 --> 00:00:54,800
+Kaoru Mitoma (Japan) - Brighton & Hove Albion
+Apparitions: 102 | Buts: 21 | Passes décisives: 15
+
+10
+00:00:54,800 --> 00:01:01,400
+Peter Ward (England) - Brighton & Hove Albion
+Apparitions: 75 | Buts: 22 | Passes décisives: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Dean Cox (England) - Brighton & Hove Albion
+Apparitions: 177 | Buts: 22 | Passes décisives: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Kazenga LuaLua (DR Congo) - Brighton & Hove Albion
+Apparitions: 183 | Buts: 22 | Passes décisives: 25
+
+13
+00:01:14,600 --> 00:01:21,200
+Andy Ritchie (England) - Brighton & Hove Albion
+Apparitions: 93 | Buts: 24
+
+14
+00:01:21,200 --> 00:01:27,800
+Craig Mackail-Smith (Scotland) - Brighton & Hove Albion
+Apparitions: 122 | Buts: 24 | Passes décisives: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Leandro Trossard (Belgium) - Brighton & Hove Albion
+Apparitions: 121 | Buts: 25 | Passes décisives: 13
+
+16
+00:01:34,400 --> 00:01:41,000
+Solly March (England) - Brighton & Hove Albion
+Apparitions: 292 | Buts: 26 | Passes décisives: 29
+
+17
+00:01:41,000 --> 00:01:47,600
+Dean Hammond (England) - Brighton & Hove Albion
+Apparitions: 193 | Buts: 26 | Passes décisives: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Neal Maupay (France) - Brighton & Hove Albion
+Apparitions: 109 | Buts: 27 | Passes décisives: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Anthony Knockaert (France) - Brighton & Hove Albion
+Apparitions: 139 | Buts: 27 | Passes décisives: 25
+
+20
+00:02:00,800 --> 00:02:07,400
+Leonardo Ulloa (Argentina) - Brighton & Hove Albion
+Apparitions: 70 | Buts: 28 | Passes décisives: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+João Pedro (Brazil) - Brighton & Hove Albion
+Apparitions: 67 | Buts: 28 | Passes décisives: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Lewis Dunk (England) - Brighton & Hove Albion
+Apparitions: 481 | Buts: 31 | Passes décisives: 15
+
+23
+00:02:20,600 --> 00:02:27,200
+Pascal Groß (Germany) - Brighton & Hove Albion
+Apparitions: 261 | Buts: 32 | Passes décisives: 52
+
+24
+00:02:27,200 --> 00:02:33,800
+Tomer Hemed (Israel) - Brighton & Hove Albion
+Apparitions: 108 | Buts: 33 | Passes décisives: 12
+
+25
+00:02:33,800 --> 00:02:40,400
+Danny Welbeck (England) - Brighton & Hove Albion
+Apparitions: 154 | Buts: 34 | Passes décisives: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Leon Knight (England) - Brighton & Hove Albion
+Apparitions: 114 | Buts: 34 | Passes décisives: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Michael Robinson (Ireland) - Brighton & Hove Albion
+Apparitions: 120 | Buts: 39 | Passes décisives: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Nicky Forster (England) - Brighton & Hove Albion
+Apparitions: 118 | Buts: 51 | Passes décisives: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Bobby Zamora (England) - Brighton & Hove Albion
+Apparitions: 108 | Buts: 51 | Passes décisives: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Ashley Barnes (England) - Brighton & Hove Albion
+Apparitions: 170 | Buts: 53 | Passes décisives: 22
+
+31
+00:03:13,400 --> 00:03:20,000
+Glenn Murray (England) - Brighton & Hove Albion
+Apparitions: 287 | Buts: 111 | Passes décisives: 20
+

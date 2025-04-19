@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Southampton FC Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Nathan Redmond (England) - Southampton FC
+Partidos: 232 | Goles: 30 | Asistencias: 27
+
+3
+00:00:08,600 --> 00:00:15,200
+Egil Østenstad (Norway) - Southampton FC
+Partidos: 108 | Goles: 32 | Asistencias: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Iain Dowie (Northern Ireland) - Southampton FC
+Partidos: 138 | Goles: 32 | Asistencias: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Adam Armstrong (England) - Southampton FC
+Partidos: 142 | Goles: 32 | Asistencias: 18
+
+6
+00:00:28,400 --> 00:00:35,000
+Graham Baker (England) - Southampton FC
+Partidos: 180 | Goles: 33 | Asistencias: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Martin Chivers (England) - Southampton FC
+Partidos: 79 | Goles: 33
+
+8
+00:00:41,600 --> 00:00:48,200
+Grzegorz Rasiak (Poland) - Southampton FC
+Partidos: 87 | Goles: 33 | Asistencias: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Nick Holmes (England) - Southampton FC
+Partidos: 367 | Goles: 35 | Asistencias: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Jay Rodríguez (England) - Southampton FC
+Partidos: 126 | Goles: 35 | Asistencias: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Colin Clarke (Northern Ireland) - Southampton FC
+Partidos: 88 | Goles: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+Glenn Cockerill (England) - Southampton FC
+Partidos: 331 | Goles: 37 | Asistencias: 5
+
+13
+00:01:14,600 --> 00:01:21,200
+Shane Long (Ireland) - Southampton FC
+Partidos: 245 | Goles: 37 | Asistencias: 23
+
+14
+00:01:21,200 --> 00:01:27,800
+Alan Shearer (England) - Southampton FC
+Partidos: 150 | Goles: 38 | Asistencias: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Phil Boyer (England) - Southampton FC
+Partidos: 114 | Goles: 39 | Asistencias: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Kevin Keegan (England) - Southampton FC
+Partidos: 78 | Goles: 43 | Asistencias: 13
+
+17
+00:01:41,000 --> 00:01:47,600
+Marians Pahars (Latvia) - Southampton FC
+Partidos: 155 | Goles: 45 | Asistencias: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Danny Ings (England) - Southampton FC
+Partidos: 100 | Goles: 46 | Asistencias: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Ché Adams (Scotland) - Southampton FC
+Partidos: 191 | Goles: 48 | Asistencias: 20
+
+20
+00:02:00,800 --> 00:02:07,400
+Terry Paine (England) - Southampton FC
+Partidos: 378 | Goles: 51 | Asistencias: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Rod Wallace (England) - Southampton FC
+Partidos: 152 | Goles: 53 | Asistencias: 3
+
+22
+00:02:14,000 --> 00:02:20,600
+James Ward-Prowse (England) - Southampton FC
+Partidos: 410 | Goles: 55 | Asistencias: 52
+
+23
+00:02:20,600 --> 00:02:27,200
+Adam Lallana (England) - Southampton FC
+Partidos: 283 | Goles: 60 | Asistencias: 47
+
+24
+00:02:27,200 --> 00:02:33,800
+David Armstrong (England) - Southampton FC
+Partidos: 242 | Goles: 61 | Asistencias: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Danny Wallace (England) - Southampton FC
+Partidos: 284 | Goles: 65 | Asistencias: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+James Beattie (England) - Southampton FC
+Partidos: 232 | Goles: 76 | Asistencias: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Steve Moran (England) - Southampton FC
+Partidos: 203 | Goles: 87 | Asistencias: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+Rickie Lambert (England) - Southampton FC
+Partidos: 235 | Goles: 117 | Asistencias: 58
+
+29
+00:03:00,200 --> 00:03:06,800
+Ron Davies (Wales) - Southampton FC
+Partidos: 259 | Goles: 144 | Asistencias: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Mick Channon (England) - Southampton FC
+Partidos: 440 | Goles: 148 | Asistencias: 20
+
+31
+00:03:13,400 --> 00:03:20,000
+Matt Le Tissier (England) - Southampton FC
+Partidos: 518 | Goles: 195 | Asistencias: 58
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PS Barito Putera सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Beni Oktovianto (Indonesia) - PS Barito Putera
+प्रदर्शन: 35 | गोल: 4 | असिस्ट: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Bagas Kaffa (Indonesia) - PS Barito Putera
+प्रदर्शन: 111 | गोल: 4 | असिस्ट: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Marcel Sacramento (Brazil) - PS Barito Putera
+प्रदर्शन: 14 | गोल: 5 | असिस्ट: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Rafinha (Brazil) - PS Barito Putera
+प्रदर्शन: 24 | गोल: 5 | असिस्ट: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Syahroni (Indonesia) - PS Barito Putera
+प्रदर्शन: 33 | गोल: 5
+
+7
+00:00:35,000 --> 00:00:41,600
+Aleksandar Rakic (Serbia) - PS Barito Putera
+प्रदर्शन: 20 | गोल: 5 | असिस्ट: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Bruno Matos (Brazil) - PS Barito Putera
+प्रदर्शन: 15 | गोल: 5 | असिस्ट: 4
+
+9
+00:00:48,200 --> 00:00:54,800
+Dandi Maulana (Indonesia) - PS Barito Putera
+प्रदर्शन: 88 | गोल: 7 | असिस्ट: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Morelatto (Brazil) - PS Barito Putera
+प्रदर्शन: 26 | गोल: 7 | असिस्ट: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Murilo (Brazil) - PS Barito Putera
+प्रदर्शन: 47 | गोल: 7 | असिस्ट: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Yongki Aribowo (Indonesia) - PS Barito Putera
+प्रदर्शन: 62 | गोल: 8 | असिस्ट: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Paulo Sitanggang (Indonesia) - PS Barito Putera
+प्रदर्शन: 106 | गोल: 8 | असिस्ट: 5
+
+14
+00:01:21,200 --> 00:01:27,800
+Dedi Hartono (Indonesia) - PS Barito Putera
+प्रदर्शन: 91 | गोल: 8 | असिस्ट: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Francisco Torres (Brazil) - PS Barito Putera
+प्रदर्शन: 15 | गोल: 8 | असिस्ट: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Matías Mier (Uruguay) - PS Barito Putera
+प्रदर्शन: 9 | गोल: 8 | असिस्ट: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Bayu Pradana (Indonesia) - PS Barito Putera
+प्रदर्शन: 136 | गोल: 8 | असिस्ट: 5
+
+18
+00:01:47,600 --> 00:01:54,200
+Makan Konate (Mali) - PS Barito Putera
+प्रदर्शन: 30 | गोल: 8 | असिस्ट: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+James Koko Lomell (Liberia) - PS Barito Putera
+प्रदर्शन: 20 | गोल: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Matías Córdoba (Argentina) - PS Barito Putera
+प्रदर्शन: 66 | गोल: 9 | असिस्ट: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Mike Ott (Philippines) - PS Barito Putera
+प्रदर्शन: 60 | गोल: 10 | असिस्ट: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Luiz Júnior (Brazil) - PS Barito Putera
+प्रदर्शन: 12 | गोल: 11
+
+23
+00:02:20,600 --> 00:02:27,200
+Eksel Runtukahu (Indonesia) - PS Barito Putera
+प्रदर्शन: 51 | गोल: 12 | असिस्ट: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Gavin Kwan (Indonesia) - PS Barito Putera
+प्रदर्शन: 71 | गोल: 12 | असिस्ट: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Renan Alves (Brazil) - PS Barito Putera
+प्रदर्शन: 86 | गोल: 18 | असिस्ट: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Douglas Packer (Brazil) - PS Barito Putera
+प्रदर्शन: 62 | गोल: 18 | असिस्ट: 4
+
+27
+00:02:47,000 --> 00:02:53,600
+Samsul Arif (Indonesia) - PS Barito Putera
+प्रदर्शन: 68 | गोल: 19 | असिस्ट: 13
+
+28
+00:02:53,600 --> 00:03:00,200
+Djibril Coulibaly (Mali) - PS Barito Putera
+प्रदर्शन: 30 | गोल: 20
+
+29
+00:03:00,200 --> 00:03:06,800
+Gustavo Tocantins (Brazil) - PS Barito Putera
+प्रदर्शन: 49 | गोल: 21 | असिस्ट: 5
+
+30
+00:03:06,800 --> 00:03:13,400
+Rizky Pora (Indonesia) - PS Barito Putera
+प्रदर्शन: 248 | गोल: 28 | असिस्ट: 64
+
+31
+00:03:13,400 --> 00:03:20,000
+Rafael Silva (Brazil) - PS Barito Putera
+प्रदर्शन: 64 | गोल: 31 | असिस्ट: 9
+

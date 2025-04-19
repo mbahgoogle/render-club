@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persikabo 1973 Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Bruno Dybal (Brazil) - Persikabo 1973
+Partidas: 27 | Gols: 3 | Assistências: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Pedro (Brazil) - Persikabo 1973
+Partidas: 12 | Gols: 3
+
+4
+00:00:15,200 --> 00:00:21,800
+Louise Parfait (Cameroon) - Persikabo 1973
+Partidas: 35 | Gols: 3 | Assistências: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Dmitriy Rekish (Belarus) - Persikabo 1973
+Partidas: 12 | Gols: 3 | Assistências: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+José Varela (Cape Verde) - Persikabo 1973
+Partidas: 17 | Gols: 3 | Assistências: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Soon-hak Hong (Korea, South) - Persikabo 1973
+Partidas: 20 | Gols: 3
+
+8
+00:00:41,600 --> 00:00:48,200
+Didik Wahyu (Indonesia) - Persikabo 1973
+Partidas: 104 | Gols: 3 | Assistências: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Sílvio Junior (Brazil) - Persikabo 1973
+Partidas: 12 | Gols: 3 | Assistências: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Pedrinho (Brazil) - Persikabo 1973
+Partidas: 31 | Gols: 4 | Assistências: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Khurshed Beknazarov (Tajikistan) - Persikabo 1973
+Partidas: 37 | Gols: 4 | Assistências: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Nikita Melnikov (Russia) - Persikabo 1973
+Partidas: 6 | Gols: 4 | Assistências: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Ryan Kurnia (Indonesia) - Persikabo 1973
+Partidas: 38 | Gols: 5 | Assistências: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Leonel Núñez (Argentina) - Persikabo 1973
+Partidas: 10 | Gols: 5 | Assistências: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Roni Sugeng (Indonesia) - Persikabo 1973
+Partidas: 165 | Gols: 6 | Assistências: 14
+
+16
+00:01:34,400 --> 00:01:41,000
+Fareed Sadat (Afghanistan) - Persikabo 1973
+Partidas: 12 | Gols: 6 | Assistências: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Gustavo Tocantins (Brazil) - Persikabo 1973
+Partidas: 20 | Gols: 6
+
+18
+00:01:47,600 --> 00:01:54,200
+Pedro Henrique (Timor-Leste) - Persikabo 1973
+Partidas: 12 | Gols: 7 | Assistências: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Erwin Ramdani (Indonesia) - Persikabo 1973
+Partidas: 36 | Gols: 7 | Assistências: 6
+
+20
+00:02:00,800 --> 00:02:07,400
+Ahmad Nufiandani (Indonesia) - Persikabo 1973
+Partidas: 74 | Gols: 8 | Assistências: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Andy Setyo (Indonesia) - Persikabo 1973
+Partidas: 132 | Gols: 8 | Assistências: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Manahati Lestusen (Indonesia) - Persikabo 1973
+Partidas: 156 | Gols: 9 | Assistências: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Loris Arnaud (France) - Persikabo 1973
+Partidas: 27 | Gols: 9 | Assistências: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Sansan Fauzi (Indonesia) - Persikabo 1973
+Partidas: 45 | Gols: 11 | Assistências: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Élio Martins (Portugal) - Persikabo 1973
+Partidas: 21 | Gols: 11 | Assistências: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Yandi Sofyan (Indonesia) - Persikabo 1973
+Partidas: 60 | Gols: 12 | Assistências: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Osas Saha (Indonesia) - Persikabo 1973
+Partidas: 31 | Gols: 14 | Assistências: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Wawan Febrianto (Indonesia) - Persikabo 1973
+Partidas: 97 | Gols: 16 | Assistências: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Aleksandar Rakic (Serbia) - Persikabo 1973
+Partidas: 45 | Gols: 25 | Assistências: 6
+
+30
+00:03:06,800 --> 00:03:13,400
+Dimas Drajad (Indonesia) - Persikabo 1973
+Partidas: 101 | Gols: 28 | Assistências: 18
+
+31
+00:03:13,400 --> 00:03:20,000
+Ciro Alves (Brazil) - Persikabo 1973
+Partidas: 74 | Gols: 37 | Assistências: 15
+

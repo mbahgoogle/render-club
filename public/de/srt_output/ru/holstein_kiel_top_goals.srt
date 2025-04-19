@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Holstein Kiel Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Rafael Kazior (Germany) - Holstein Kiel
+Матчи: 172 | Голы: 33 | Голевые передачи: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Pavel Dobry (Czech Republic) - Holstein Kiel
+Матчи: 102 | Голы: 33
+
+4
+00:00:15,200 --> 00:00:21,800
+Kingsley Schindler (Ghana) - Holstein Kiel
+Матчи: 101 | Голы: 34 | Голевые передачи: 22
+
+5
+00:00:21,800 --> 00:00:28,400
+Jaroslaw Lindner (Poland) - Holstein Kiel
+Матчи: 117 | Голы: 34 | Голевые передачи: 20
+
+6
+00:00:28,400 --> 00:00:35,000
+Helmut Schweger (Germany) - Holstein Kiel
+Матчи: 108 | Голы: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Janni Serra (Germany) - Holstein Kiel
+Матчи: 91 | Голы: 35 | Голевые передачи: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Steven Skrzybski (Germany) - Holstein Kiel
+Матчи: 106 | Голы: 35 | Голевые передачи: 13
+
+9
+00:00:48,200 --> 00:00:54,800
+Manfred Jochimiak (Germany) - Holstein Kiel
+Матчи: 123 | Голы: 36 | Голевые передачи: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Eggert Dolling (Germany) - Holstein Kiel
+Матчи: 239 | Голы: 36 | Голевые передачи: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Harry Witt (Germany) - Holstein Kiel
+Матчи: 190 | Голы: 38
+
+12
+00:01:08,000 --> 00:01:14,600
+Diether Trede (Germany) - Holstein Kiel
+Матчи: 160 | Голы: 38
+
+13
+00:01:14,600 --> 00:01:21,200
+Walter Hain (Germany) - Holstein Kiel
+Матчи: 108 | Голы: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Tim Siedschlag (Germany) - Holstein Kiel
+Матчи: 289 | Голы: 39 | Голевые передачи: 40
+
+15
+00:01:27,800 --> 00:01:34,400
+Michael Holt (Germany) - Holstein Kiel
+Матчи: 80 | Голы: 44 | Голевые передачи: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Alexander Mühling (Germany) - Holstein Kiel
+Матчи: 238 | Голы: 44 | Голевые передачи: 31
+
+17
+00:01:41,000 --> 00:01:47,600
+Rainer Menzel (Germany) - Holstein Kiel
+Матчи: 120 | Голы: 45 | Голевые передачи: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Franz-Josef Hönig (Germany) - Holstein Kiel
+Матчи: 88 | Голы: 45
+
+19
+00:01:54,200 --> 00:02:00,800
+Fiete Sykora (Germany) - Holstein Kiel
+Матчи: 166 | Голы: 45 | Голевые передачи: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Daniel Jurgeleit (Germany) - Holstein Kiel
+Матчи: 110 | Голы: 47
+
+21
+00:02:07,400 --> 00:02:14,000
+Emil Maier (Germany) - Holstein Kiel
+Матчи: 97 | Голы: 49
+
+22
+00:02:14,000 --> 00:02:20,600
+Hans-Peter Ehlers (Germany) - Holstein Kiel
+Матчи: 372 | Голы: 49
+
+23
+00:02:20,600 --> 00:02:27,200
+Axel Möller (Germany) - Holstein Kiel
+Матчи: 193 | Голы: 53
+
+24
+00:02:27,200 --> 00:02:33,800
+Horst Martinsen (Germany) - Holstein Kiel
+Матчи: 105 | Голы: 54
+
+25
+00:02:33,800 --> 00:02:40,400
+André Bistram (Germany) - Holstein Kiel
+Матчи: 142 | Голы: 66
+
+26
+00:02:40,400 --> 00:02:47,000
+Carsten Nemitz (Germany) - Holstein Kiel
+Матчи: 125 | Голы: 71
+
+27
+00:02:47,000 --> 00:02:53,600
+Gerd Saborowski (Germany) - Holstein Kiel
+Матчи: 92 | Голы: 74
+
+28
+00:02:53,600 --> 00:03:00,200
+Marc Heider (United States) - Holstein Kiel
+Матчи: 241 | Голы: 85 | Голевые передачи: 53
+
+29
+00:03:00,200 --> 00:03:06,800
+Dmitrijus Guscinas (Lithuania) - Holstein Kiel
+Матчи: 217 | Голы: 87 | Голевые передачи: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Alfred Bornemann (Germany) - Holstein Kiel
+Матчи: 222 | Голы: 114
+
+31
+00:03:13,400 --> 00:03:20,000
+Gerd Koll (Germany) - Holstein Kiel
+Матчи: 253 | Голы: 135
+

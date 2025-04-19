@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Southampton FC Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Nathan Redmond (England) - Southampton FC
+Penampilan: 232 | Gol: 30 | Asis: 27
+
+3
+00:00:08,600 --> 00:00:15,200
+Egil Østenstad (Norway) - Southampton FC
+Penampilan: 108 | Gol: 32 | Asis: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Iain Dowie (Northern Ireland) - Southampton FC
+Penampilan: 138 | Gol: 32 | Asis: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Adam Armstrong (England) - Southampton FC
+Penampilan: 142 | Gol: 32 | Asis: 18
+
+6
+00:00:28,400 --> 00:00:35,000
+Graham Baker (England) - Southampton FC
+Penampilan: 180 | Gol: 33 | Asis: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Martin Chivers (England) - Southampton FC
+Penampilan: 79 | Gol: 33
+
+8
+00:00:41,600 --> 00:00:48,200
+Grzegorz Rasiak (Poland) - Southampton FC
+Penampilan: 87 | Gol: 33 | Asis: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Nick Holmes (England) - Southampton FC
+Penampilan: 367 | Gol: 35 | Asis: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Jay Rodríguez (England) - Southampton FC
+Penampilan: 126 | Gol: 35 | Asis: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Colin Clarke (Northern Ireland) - Southampton FC
+Penampilan: 88 | Gol: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+Glenn Cockerill (England) - Southampton FC
+Penampilan: 331 | Gol: 37 | Asis: 5
+
+13
+00:01:14,600 --> 00:01:21,200
+Shane Long (Ireland) - Southampton FC
+Penampilan: 245 | Gol: 37 | Asis: 23
+
+14
+00:01:21,200 --> 00:01:27,800
+Alan Shearer (England) - Southampton FC
+Penampilan: 150 | Gol: 38 | Asis: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Phil Boyer (England) - Southampton FC
+Penampilan: 114 | Gol: 39 | Asis: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Kevin Keegan (England) - Southampton FC
+Penampilan: 78 | Gol: 43 | Asis: 13
+
+17
+00:01:41,000 --> 00:01:47,600
+Marians Pahars (Latvia) - Southampton FC
+Penampilan: 155 | Gol: 45 | Asis: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Danny Ings (England) - Southampton FC
+Penampilan: 100 | Gol: 46 | Asis: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Ché Adams (Scotland) - Southampton FC
+Penampilan: 191 | Gol: 48 | Asis: 20
+
+20
+00:02:00,800 --> 00:02:07,400
+Terry Paine (England) - Southampton FC
+Penampilan: 378 | Gol: 51 | Asis: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Rod Wallace (England) - Southampton FC
+Penampilan: 152 | Gol: 53 | Asis: 3
+
+22
+00:02:14,000 --> 00:02:20,600
+James Ward-Prowse (England) - Southampton FC
+Penampilan: 410 | Gol: 55 | Asis: 52
+
+23
+00:02:20,600 --> 00:02:27,200
+Adam Lallana (England) - Southampton FC
+Penampilan: 283 | Gol: 60 | Asis: 47
+
+24
+00:02:27,200 --> 00:02:33,800
+David Armstrong (England) - Southampton FC
+Penampilan: 242 | Gol: 61 | Asis: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Danny Wallace (England) - Southampton FC
+Penampilan: 284 | Gol: 65 | Asis: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+James Beattie (England) - Southampton FC
+Penampilan: 232 | Gol: 76 | Asis: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Steve Moran (England) - Southampton FC
+Penampilan: 203 | Gol: 87 | Asis: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+Rickie Lambert (England) - Southampton FC
+Penampilan: 235 | Gol: 117 | Asis: 58
+
+29
+00:03:00,200 --> 00:03:06,800
+Ron Davies (Wales) - Southampton FC
+Penampilan: 259 | Gol: 144 | Asis: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Mick Channon (England) - Southampton FC
+Penampilan: 440 | Gol: 148 | Asis: 20
+
+31
+00:03:13,400 --> 00:03:20,000
+Matt Le Tissier (England) - Southampton FC
+Penampilan: 518 | Gol: 195 | Asis: 58
+

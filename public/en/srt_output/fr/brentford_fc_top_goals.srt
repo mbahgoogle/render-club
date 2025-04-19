@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Brentford FC Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Jonathan Douglas (Ireland) - Brentford FC
+Apparitions: 187 | Buts: 17 | Passes décisives: 11
+
+3
+00:00:08,600 --> 00:00:15,200
+Ben Burgess (Ireland) - Brentford FC
+Apparitions: 45 | Buts: 17
+
+4
+00:00:15,200 --> 00:00:21,800
+Marcus Forss (Finland) - Brentford FC
+Apparitions: 74 | Buts: 19 | Passes décisives: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Isaiah Rankin (England) - Brentford FC
+Apparitions: 94 | Buts: 19 | Passes décisives: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Andre Gray (Jamaica) - Brentford FC
+Apparitions: 52 | Buts: 20 | Passes décisives: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Robert Taylor (England) - Brentford FC
+Apparitions: 69 | Buts: 21
+
+8
+00:00:41,600 --> 00:00:48,200
+Glenn Poole (England) - Brentford FC
+Apparitions: 78 | Buts: 21 | Passes décisives: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Scott Hogan (Ireland) - Brentford FC
+Apparitions: 36 | Buts: 21 | Passes décisives: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Jay Tabb (Ireland) - Brentford FC
+Apparitions: 147 | Buts: 22 | Passes décisives: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Josh Dasilva (England) - Brentford FC
+Apparitions: 157 | Buts: 22 | Passes décisives: 12
+
+12
+00:01:08,000 --> 00:01:14,600
+Jota Peleteiro (Spain) - Brentford FC
+Apparitions: 78 | Buts: 23 | Passes décisives: 11
+
+13
+00:01:14,600 --> 00:01:21,200
+Marcello Trotta (Italy) - Brentford FC
+Apparitions: 69 | Buts: 23 | Passes décisives: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy Scott (England) - Brentford FC
+Apparitions: 92 | Buts: 25
+
+15
+00:01:27,800 --> 00:01:34,400
+Alan Judge (Ireland) - Brentford FC
+Apparitions: 140 | Buts: 26 | Passes décisives: 31
+
+16
+00:01:34,400 --> 00:01:41,000
+Gary Alexander (England) - Brentford FC
+Apparitions: 77 | Buts: 26 | Passes décisives: 5
+
+17
+00:01:41,000 --> 00:01:47,600
+Paul Evans (Wales) - Brentford FC
+Apparitions: 125 | Buts: 28
+
+18
+00:01:47,600 --> 00:01:54,200
+Stephen Hunt (Ireland) - Brentford FC
+Apparitions: 149 | Buts: 28
+
+19
+00:01:54,200 --> 00:02:00,800
+Saïd Benrahma (Algeria) - Brentford FC
+Apparitions: 94 | Buts: 30 | Passes décisives: 26
+
+20
+00:02:00,800 --> 00:02:07,400
+Sam Saunders (England) - Brentford FC
+Apparitions: 206 | Buts: 30 | Passes décisives: 32
+
+21
+00:02:07,400 --> 00:02:14,000
+Sergi Canós (Spain) - Brentford FC
+Apparitions: 249 | Buts: 36 | Passes décisives: 32
+
+22
+00:02:14,000 --> 00:02:20,600
+Lasse Vibe (Denmark) - Brentford FC
+Apparitions: 97 | Buts: 37 | Passes décisives: 13
+
+23
+00:02:20,600 --> 00:02:27,200
+Kevin O'Connor (Ireland) - Brentford FC
+Apparitions: 481 | Buts: 41 | Passes décisives: 6
+
+24
+00:02:27,200 --> 00:02:33,800
+Yoane Wissa (DR Congo) - Brentford FC
+Apparitions: 141 | Buts: 44 | Passes décisives: 10
+
+25
+00:02:33,800 --> 00:02:40,400
+Charlie MacDonald (England) - Brentford FC
+Apparitions: 127 | Buts: 45 | Passes décisives: 19
+
+26
+00:02:40,400 --> 00:02:47,000
+Ollie Watkins (England) - Brentford FC
+Apparitions: 143 | Buts: 49 | Passes décisives: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Neal Maupay (France) - Brentford FC
+Apparitions: 126 | Buts: 49 | Passes décisives: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Clayton Donaldson (Jamaica) - Brentford FC
+Apparitions: 155 | Buts: 53 | Passes décisives: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Lloyd Owusu (Ghana) - Brentford FC
+Apparitions: 181 | Buts: 59 | Passes décisives: 5
+
+30
+00:03:06,800 --> 00:03:13,400
+Bryan Mbeumo (Cameroon) - Brentford FC
+Apparitions: 234 | Buts: 66 | Passes décisives: 47
+
+31
+00:03:13,400 --> 00:03:20,000
+Ivan Toney (England) - Brentford FC
+Apparitions: 141 | Buts: 72 | Passes décisives: 23
+

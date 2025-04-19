@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfL Wolfsburg Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Fredi Rotermund (Germany) - VfL Wolfsburg
+Матчи: 90 | Голы: 23
+
+3
+00:00:08,600 --> 00:00:15,200
+Diego (Brazil) - VfL Wolfsburg
+Матчи: 87 | Голы: 24 | Голевые передачи: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Zvjezdan Misimovic (Bosnia-Herzegovina) - VfL Wolfsburg
+Матчи: 92 | Голы: 25 | Голевые передачи: 48
+
+5
+00:00:21,800 --> 00:00:28,400
+Charles Akonnor (Ghana) - VfL Wolfsburg
+Матчи: 142 | Голы: 25 | Голевые передачи: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Jacek Frackiewicz (Poland) - VfL Wolfsburg
+Матчи: 108 | Голы: 31
+
+7
+00:00:35,000 --> 00:00:41,600
+Jonas Wind (Denmark) - VfL Wolfsburg
+Матчи: 106 | Голы: 33 | Голевые передачи: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Tomislav Maric (Croatia) - VfL Wolfsburg
+Матчи: 97 | Голы: 33 | Голевые передачи: 12
+
+9
+00:00:48,200 --> 00:00:54,800
+Ivica Olic (Croatia) - VfL Wolfsburg
+Матчи: 94 | Голы: 33 | Голевые передачи: 14
+
+10
+00:00:54,800 --> 00:01:01,400
+Jürgen Mosert (Germany) - VfL Wolfsburg
+Матчи: 75 | Голы: 35 | Голевые передачи: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Michael Geiger (Germany) - VfL Wolfsburg
+Матчи: 231 | Голы: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Peter Ament (Germany) - VfL Wolfsburg
+Матчи: 245 | Голы: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+Manfred Wuttich (Germany) - VfL Wolfsburg
+Матчи: 57 | Голы: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Martin Petrov (Bulgaria) - VfL Wolfsburg
+Матчи: 136 | Голы: 38 | Голевые передачи: 38
+
+15
+00:01:27,800 --> 00:01:34,400
+Roy Präger (Germany) - VfL Wolfsburg
+Матчи: 170 | Голы: 41 | Голевые передачи: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Wolf-Rüdiger Krause (Germany) - VfL Wolfsburg
+Матчи: 97 | Голы: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Wolfgang Wallek (Germany) - VfL Wolfsburg
+Матчи: 92 | Голы: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+Maximilian Arnold (Germany) - VfL Wolfsburg
+Матчи: 443 | Голы: 47 | Голевые передачи: 55
+
+19
+00:01:54,200 --> 00:02:00,800
+Bas Dost (Netherlands) - VfL Wolfsburg
+Матчи: 117 | Голы: 48 | Голевые передачи: 14
+
+20
+00:02:00,800 --> 00:02:07,400
+Andrzej Juskowiak (Poland) - VfL Wolfsburg
+Матчи: 131 | Голы: 49 | Голевые передачи: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Holger Fiebich (Germany) - VfL Wolfsburg
+Матчи: 228 | Голы: 63 | Голевые передачи: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Matthias Fiebich (Germany) - VfL Wolfsburg
+Матчи: 212 | Голы: 69
+
+23
+00:02:20,600 --> 00:02:27,200
+Hans Kircher (Germany) - VfL Wolfsburg
+Матчи: 86 | Голы: 70
+
+24
+00:02:27,200 --> 00:02:33,800
+Wout Weghorst (Netherlands) - VfL Wolfsburg
+Матчи: 144 | Голы: 70 | Голевые передачи: 22
+
+25
+00:02:33,800 --> 00:02:40,400
+Diego Klimowicz (Argentina) - VfL Wolfsburg
+Матчи: 173 | Голы: 71 | Голевые передачи: 23
+
+26
+00:02:40,400 --> 00:02:47,000
+Grafite (Brazil) - VfL Wolfsburg
+Матчи: 130 | Голы: 75 | Голевые передачи: 25
+
+27
+00:02:47,000 --> 00:02:53,600
+Wilfried Kemmer (Germany) - VfL Wolfsburg
+Матчи: 184 | Голы: 82 | Голевые передачи: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Edin Džeko (Bosnia-Herzegovina) - VfL Wolfsburg
+Матчи: 142 | Голы: 85 | Голевые передачи: 35
+
+29
+00:03:00,200 --> 00:03:06,800
+Siegfried Reich (Germany) - VfL Wolfsburg
+Матчи: 169 | Голы: 95
+
+30
+00:03:06,800 --> 00:03:13,400
+Frank Plagge (Germany) - VfL Wolfsburg
+Матчи: 189 | Голы: 111
+
+31
+00:03:13,400 --> 00:03:20,000
+Olaf Ansorge (Germany) - VfL Wolfsburg
+Матчи: 381 | Голы: 123
+

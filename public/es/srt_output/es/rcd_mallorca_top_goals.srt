@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RCD Mallorca Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Manuel Haro (Spain) - RCD Mallorca
+Partidos: 58 | Goles: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Emilio Nsue (Equatorial Guinea) - RCD Mallorca
+Partidos: 154 | Goles: 16 | Asistencias: 12
+
+4
+00:00:15,200 --> 00:00:21,800
+Antonio Raíllo (Spain) - RCD Mallorca
+Partidos: 284 | Goles: 17 | Asistencias: 8
+
+5
+00:00:21,800 --> 00:00:28,400
+Leo Biagini (Argentina) - RCD Mallorca
+Partidos: 94 | Goles: 17
+
+6
+00:00:28,400 --> 00:00:35,000
+Walter Pandiani (Uruguay) - RCD Mallorca
+Partidos: 40 | Goles: 18 | Asistencias: 8
+
+7
+00:00:35,000 --> 00:00:41,600
+Ante Budimir (Croatia) - RCD Mallorca
+Partidos: 57 | Goles: 19 | Asistencias: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Dani García (Spain) - RCD Mallorca
+Partidos: 49 | Goles: 19
+
+9
+00:00:48,200 --> 00:00:54,800
+Alejandro Alfaro (Spain) - RCD Mallorca
+Partidos: 105 | Goles: 19 | Asistencias: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Brandon Thomas (Spain) - RCD Mallorca
+Partidos: 78 | Goles: 21 | Asistencias: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Jovan Stankovic (Serbia) - RCD Mallorca
+Partidos: 170 | Goles: 22 | Asistencias: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Diego Tristán (Spain) - RCD Mallorca
+Partidos: 62 | Goles: 23 | Asistencias: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Tomer Hemed (Israel) - RCD Mallorca
+Partidos: 97 | Goles: 23 | Asistencias: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Enrique Magdaleno (Spain) - RCD Mallorca
+Partidos: 74 | Goles: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Aritz Aduriz (Spain) - RCD Mallorca
+Partidos: 78 | Goles: 24 | Asistencias: 10
+
+16
+00:01:34,400 --> 00:01:41,000
+Albert Luque (Spain) - RCD Mallorca
+Partidos: 88 | Goles: 24 | Asistencias: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Salva Sevilla (Spain) - RCD Mallorca
+Partidos: 186 | Goles: 25 | Asistencias: 21
+
+18
+00:01:47,600 --> 00:01:54,200
+Carlitos (Spain) - RCD Mallorca
+Partidos: 152 | Goles: 26 | Asistencias: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Chory Castro (Uruguay) - RCD Mallorca
+Partidos: 148 | Goles: 27 | Asistencias: 26
+
+20
+00:02:00,800 --> 00:02:07,400
+Pierre Webó (Cameroon) - RCD Mallorca
+Partidos: 121 | Goles: 28 | Asistencias: 15
+
+21
+00:02:07,400 --> 00:02:14,000
+Goran Milojevic (Serbia) - RCD Mallorca
+Partidos: 69 | Goles: 28
+
+22
+00:02:14,000 --> 00:02:20,600
+Miguel Ángel Nadal (Spain) - RCD Mallorca
+Partidos: 305 | Goles: 29 | Asistencias: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Ariel Ibagaza (Argentina) - RCD Mallorca
+Partidos: 245 | Goles: 30 | Asistencias: 33
+
+24
+00:02:27,200 --> 00:02:33,800
+Dani Rodríguez (Spain) - RCD Mallorca
+Partidos: 272 | Goles: 32 | Asistencias: 38
+
+25
+00:02:33,800 --> 00:02:40,400
+Dani Güiza (Spain) - RCD Mallorca
+Partidos: 50 | Goles: 32 | Asistencias: 8
+
+26
+00:02:40,400 --> 00:02:47,000
+Vedat Muriqi (Kosovo) - RCD Mallorca
+Partidos: 112 | Goles: 35 | Asistencias: 11
+
+27
+00:02:47,000 --> 00:02:53,600
+Lago Júnior (Cote d'Ivoire) - RCD Mallorca
+Partidos: 206 | Goles: 36 | Asistencias: 13
+
+28
+00:02:53,600 --> 00:03:00,200
+Víctor Casadesús (Spain) - RCD Mallorca
+Partidos: 236 | Goles: 46 | Asistencias: 23
+
+29
+00:03:00,200 --> 00:03:06,800
+Juan Arango (Venezuela) - RCD Mallorca
+Partidos: 195 | Goles: 49 | Asistencias: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Abdón Prats (Spain) - RCD Mallorca
+Partidos: 263 | Goles: 55 | Asistencias: 11
+
+31
+00:03:13,400 --> 00:03:20,000
+Samuel Eto'o (Cameroon) - RCD Mallorca
+Partidos: 162 | Goles: 70 | Asistencias: 19
+

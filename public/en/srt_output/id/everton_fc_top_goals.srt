@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Everton FC Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+David Unsworth (England) - Everton FC
+Penampilan: 346 | Gol: 40 | Asis: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Bobby Collins (Scotland) - Everton FC
+Penampilan: 137 | Gol: 43
+
+4
+00:00:15,200 --> 00:00:21,800
+Johnny Morrissey (England) - Everton FC
+Penampilan: 306 | Gol: 49 | Asis: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Tommy Eglington (Ireland) - Everton FC
+Penampilan: 315 | Gol: 50 | Asis: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Kevin Campbell (England) - Everton FC
+Penampilan: 160 | Gol: 50 | Asis: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Jimmy Husband (England) - Everton FC
+Penampilan: 193 | Gol: 53 | Asis: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Richarlison (Brazil) - Everton FC
+Penampilan: 152 | Gol: 53 | Asis: 13
+
+9
+00:00:48,200 --> 00:00:54,800
+Trevor Steven (England) - Everton FC
+Penampilan: 278 | Gol: 56 | Asis: 16
+
+10
+00:00:54,800 --> 00:01:01,400
+Mick Lyons (England) - Everton FC
+Penampilan: 453 | Gol: 56 | Asis: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Dave Hickson (England) - Everton FC
+Penampilan: 149 | Gol: 57 | Asis: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Leon Osman (England) - Everton FC
+Penampilan: 433 | Gol: 58 | Asis: 36
+
+13
+00:01:14,600 --> 00:01:21,200
+Eddie Wainwright (England) - Everton FC
+Penampilan: 199 | Gol: 64
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy King (England) - Everton FC
+Penampilan: 242 | Gol: 66 | Asis: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Jimmy Harris (England) - Everton FC
+Penampilan: 196 | Gol: 67 | Asis: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Fred Pickering (England) - Everton FC
+Penampilan: 112 | Gol: 68
+
+17
+00:01:41,000 --> 00:01:47,600
+Tim Cahill (Australia) - Everton FC
+Penampilan: 278 | Gol: 68 | Asis: 28
+
+18
+00:01:47,600 --> 00:01:54,200
+Dominic Calvert-Lewin (England) - Everton FC
+Penampilan: 269 | Gol: 71 | Asis: 20
+
+19
+00:01:54,200 --> 00:02:00,800
+Duncan Ferguson (Scotland) - Everton FC
+Penampilan: 272 | Gol: 72 | Asis: 12
+
+20
+00:02:00,800 --> 00:02:07,400
+Alan Ball (England) - Everton FC
+Penampilan: 246 | Gol: 77 | Asis: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Derek Temple (England) - Everton FC
+Penampilan: 265 | Gol: 80 | Asis: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Tony Cottee (England) - Everton FC
+Penampilan: 221 | Gol: 82 | Asis: 6
+
+23
+00:02:20,600 --> 00:02:27,200
+Alex Young (Scotland) - Everton FC
+Penampilan: 265 | Gol: 84 | Asis: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Romelu Lukaku (Belgium) - Everton FC
+Penampilan: 166 | Gol: 87 | Asis: 27
+
+25
+00:02:33,800 --> 00:02:40,400
+Adrian Heath (England) - Everton FC
+Penampilan: 286 | Gol: 89 | Asis: 23
+
+26
+00:02:40,400 --> 00:02:47,000
+Kevin Sheedy (Ireland) - Everton FC
+Penampilan: 345 | Gol: 91 | Asis: 28
+
+27
+00:02:47,000 --> 00:02:53,600
+Roy Vernon (Wales) - Everton FC
+Penampilan: 191 | Gol: 106 | Asis: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Joe Royle (England) - Everton FC
+Penampilan: 266 | Gol: 117 | Asis: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Bob Latchford (England) - Everton FC
+Penampilan: 281 | Gol: 133 | Asis: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Graeme Sharp (Scotland) - Everton FC
+Penampilan: 422 | Gol: 147 | Asis: 24
+
+31
+00:03:13,400 --> 00:03:20,000
+Dixie Dean (England) - Everton FC
+Penampilan: 144 | Gol: 188
+

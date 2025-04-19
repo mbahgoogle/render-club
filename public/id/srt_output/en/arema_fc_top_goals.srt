@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Arema FC All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+KH Yudo (Indonesia) - Arema FC
+Appearances: 24 | Goals: 5 | Assists: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Hendro Siswanto (Indonesia) - Arema FC
+Appearances: 156 | Goals: 5 | Assists: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Sylvano Comvalius (Netherlands) - Arema FC
+Appearances: 27 | Goals: 5 | Assists: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Abel Camará (Guinea-Bissau) - Arema FC
+Appearances: 27 | Goals: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Hanif Sjahbandi (Indonesia) - Arema FC
+Appearances: 92 | Goals: 6 | Assists: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Thierry Gathuessi (Cameroon) - Arema FC
+Appearances: 56 | Goals: 6
+
+8
+00:00:41,600 --> 00:00:48,200
+Salim Tuharea (Indonesia) - Arema FC
+Appearances: 24 | Goals: 7 | Assists: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Wiliam Marcilio (Brazil) - Arema FC
+Appearances: 24 | Goals: 7 | Assists: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Rizky Dwi (Indonesia) - Arema FC
+Appearances: 66 | Goals: 7 | Assists: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Gustavo López (Argentina) - Arema FC
+Appearances: 24 | Goals: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Esteban Vizcarra (Indonesia) - Arema FC
+Appearances: 39 | Goals: 8 | Assists: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Keith Gumbs (St. Kitts & Nevis) - Arema FC
+Appearances: 30 | Goals: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Hamka Hamzah (Indonesia) - Arema FC
+Appearances: 65 | Goals: 9 | Assists: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Ricky Kayame (Indonesia) - Arema FC
+Appearances: 38 | Goals: 9 | Assists: 6
+
+16
+00:01:34,400 --> 00:01:41,000
+Rivaldi Bawuo (Indonesia) - Arema FC
+Appearances: 55 | Goals: 10 | Assists: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Ahmad Nur Hardianto (Indonesia) - Arema FC
+Appearances: 36 | Goals: 10 | Assists: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Muhammad Rafli (Indonesia) - Arema FC
+Appearances: 148 | Goals: 11 | Assists: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Johan Alfarizi (Indonesia) - Arema FC
+Appearances: 253 | Goals: 13 | Assists: 15
+
+20
+00:02:00,800 --> 00:02:07,400
+Ahmad Sunarto (Indonesia) - Arema FC
+Appearances: 56 | Goals: 13 | Assists: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Gustavo (Brazil) - Arema FC
+Appearances: 16 | Goals: 14
+
+22
+00:02:14,000 --> 00:02:20,600
+Greg Nwokolo (Indonesia) - Arema FC
+Appearances: 34 | Goals: 14 | Assists: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Samsul Arif (Indonesia) - Arema FC
+Appearances: 26 | Goals: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Dalberto (Brazil) - Arema FC
+Appearances: 31 | Goals: 16 | Assists: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Dendi Santoso (Indonesia) - Arema FC
+Appearances: 253 | Goals: 18 | Assists: 33
+
+26
+00:02:40,400 --> 00:02:47,000
+Carlos Fortes (Cape Verde) - Arema FC
+Appearances: 31 | Goals: 20 | Assists: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Charles Lokolingoy (Australia) - Arema FC
+Appearances: 60 | Goals: 22 | Assists: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Beto (Indonesia) - Arema FC
+Appearances: 56 | Goals: 27
+
+29
+00:03:00,200 --> 00:03:06,800
+Makan Konate (Mali) - Arema FC
+Appearances: 61 | Goals: 34 | Assists: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Cristian Gonzáles (Indonesia) - Arema FC
+Appearances: 96 | Goals: 46 | Assists: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Dedik Setiawan (Indonesia) - Arema FC
+Appearances: 189 | Goals: 50 | Assists: 21
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Toulouse सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Rafael Ratão (Brazil) - FC Toulouse
+प्रदर्शन: 64 | गोल: 19 | असिस्ट: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Laurent Sachy (France) - FC Toulouse
+प्रदर्शन: 90 | गोल: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Batlles (France) - FC Toulouse
+प्रदर्शन: 264 | गोल: 19 | असिस्ट: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Jean-François Domergue (France) - FC Toulouse
+प्रदर्शन: 124 | गोल: 20
+
+6
+00:00:28,400 --> 00:00:35,000
+Gérard Soler (France) - FC Toulouse
+प्रदर्शन: 64 | गोल: 20
+
+7
+00:00:35,000 --> 00:00:41,600
+Vladimir Petrovic (Croatia) - FC Toulouse
+प्रदर्शन: 65 | गोल: 22
+
+8
+00:00:41,600 --> 00:00:48,200
+Bernard Ferrer (France) - FC Toulouse
+प्रदर्शन: 76 | गोल: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Daniel Moreira (France) - FC Toulouse
+प्रदर्शन: 71 | गोल: 23 | असिस्ट: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+Jean-Marc Ferratge (France) - FC Toulouse
+प्रदर्शन: 139 | गोल: 23
+
+11
+00:01:01,400 --> 00:01:08,000
+Johan Elmander (Sweden) - FC Toulouse
+प्रदर्शन: 73 | गोल: 23 | असिस्ट: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Branco van den Boomen (Netherlands) - FC Toulouse
+प्रदर्शन: 121 | गोल: 23 | असिस्ट: 45
+
+13
+00:01:14,600 --> 00:01:21,200
+Moussa Sissoko (France) - FC Toulouse
+प्रदर्शन: 220 | गोल: 24 | असिस्ट: 15
+
+14
+00:01:21,200 --> 00:01:27,800
+Thierry Moreau (France) - FC Toulouse
+प्रदर्शन: 241 | गोल: 25 | असिस्ट: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Zakaria Aboukhlal (Morocco) - FC Toulouse
+प्रदर्शन: 80 | गोल: 25 | असिस्ट: 7
+
+16
+00:01:34,400 --> 00:01:41,000
+Achille Emaná (Cameroon) - FC Toulouse
+प्रदर्शन: 220 | गोल: 27 | असिस्ट: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Max Gradel (Cote d'Ivoire) - FC Toulouse
+प्रदर्शन: 96 | गोल: 28 | असिस्ट: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Anthony Bancarel (France) - FC Toulouse
+प्रदर्शन: 132 | गोल: 30 | असिस्ट: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Michel Pavon (France) - FC Toulouse
+प्रदर्शन: 214 | गोल: 31 | असिस्ट: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Jean-Philippe Durand (France) - FC Toulouse
+प्रदर्शन: 223 | गोल: 33
+
+21
+00:02:07,400 --> 00:02:14,000
+Cédric Fauré (France) - FC Toulouse
+प्रदर्शन: 78 | गोल: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Thijs Dallinga (Netherlands) - FC Toulouse
+प्रदर्शन: 86 | गोल: 37 | असिस्ट: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+Rhys Healey (England) - FC Toulouse
+प्रदर्शन: 77 | गोल: 39 | असिस्ट: 7
+
+24
+00:02:27,200 --> 00:02:33,800
+Martin Braithwaite (Denmark) - FC Toulouse
+प्रदर्शन: 149 | गोल: 40 | असिस्ट: 15
+
+25
+00:02:33,800 --> 00:02:40,400
+André-Pierre Gignac (France) - FC Toulouse
+प्रदर्शन: 119 | गोल: 42 | असिस्ट: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Gérald Passi (France) - FC Toulouse
+प्रदर्शन: 163 | गोल: 47
+
+27
+00:02:47,000 --> 00:02:53,600
+Francois Calderaro (France) - FC Toulouse
+प्रदर्शन: 97 | गोल: 49
+
+28
+00:02:53,600 --> 00:03:00,200
+Robert Pintenat (France) - FC Toulouse
+प्रदर्शन: 100 | गोल: 57
+
+29
+00:03:00,200 --> 00:03:06,800
+Yannick Stopyra (France) - FC Toulouse
+प्रदर्शन: 172 | गोल: 59
+
+30
+00:03:06,800 --> 00:03:13,400
+Alberto Márcico (Argentina) - FC Toulouse
+प्रदर्शन: 248 | गोल: 67 | असिस्ट: 3
+
+31
+00:03:13,400 --> 00:03:20,000
+Wissam Ben Yedder (France) - FC Toulouse
+प्रदर्शन: 174 | गोल: 71 | असिस्ट: 21
+

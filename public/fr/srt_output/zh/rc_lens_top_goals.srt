@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RC Lens 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Wim van Lent (Netherlands) - RC Lens
+出场数: 58 | 进球: 32
+
+3
+00:00:08,600 --> 00:00:15,200
+Bernard Lech (France) - RC Lens
+出场数: 120 | 进球: 32
+
+4
+00:00:15,200 --> 00:00:21,800
+John Utaka (Nigeria) - RC Lens
+出场数: 126 | 进球: 33 | 助攻: 5
+
+5
+00:00:21,800 --> 00:00:28,400
+Romain Argyroudis (France) - RC Lens
+出场数: 77 | 进球: 33
+
+6
+00:00:28,400 --> 00:00:35,000
+Yoann Touzghar (Tunisia) - RC Lens
+出场数: 91 | 进球: 35 | 助攻: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Toifilou Maoulida (France) - RC Lens
+出场数: 120 | 进球: 35 | 助攻: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Cristian López (Spain) - RC Lens
+出场数: 73 | 进球: 35 | 助攻: 3
+
+9
+00:00:48,200 --> 00:00:54,800
+Issam Jemâa (Tunisia) - RC Lens
+出场数: 146 | 进球: 35 | 助攻: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Jean-Marie Elie (France) - RC Lens
+出场数: 213 | 进球: 38
+
+11
+00:01:01,400 --> 00:01:08,000
+Aruna Dindane (Cote d'Ivoire) - RC Lens
+出场数: 132 | 进球: 39 | 助攻: 14
+
+12
+00:01:08,000 --> 00:01:14,600
+Joachim Marx (Poland) - RC Lens
+出场数: 114 | 进球: 40
+
+13
+00:01:14,600 --> 00:01:21,200
+Tony Vairelles (France) - RC Lens
+出场数: 168 | 进球: 40 | 助攻: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Florian Sotoca (France) - RC Lens
+出场数: 214 | 进球: 40 | 助攻: 30
+
+15
+00:01:27,800 --> 00:01:34,400
+Chérif Oudjani (Algeria) - RC Lens
+出场数: 112 | 进球: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Jean-Marie Courtin (France) - RC Lens
+出场数: 81 | 进球: 41
+
+17
+00:01:41,000 --> 00:01:47,600
+Daniel Xuereb (France) - RC Lens
+出场数: 188 | 进球: 43
+
+18
+00:01:47,600 --> 00:01:54,200
+Daniel Cousin (Gabon) - RC Lens
+出场数: 139 | 进球: 43 | 助攻: 13
+
+19
+00:01:54,200 --> 00:02:00,800
+François Brisson (France) - RC Lens
+出场数: 164 | 进球: 46
+
+20
+00:02:00,800 --> 00:02:07,400
+Pascal Françoise (France) - RC Lens
+出场数: 156 | 进球: 48
+
+21
+00:02:07,400 --> 00:02:14,000
+Daniel Moreira (France) - RC Lens
+出场数: 229 | 进球: 53 | 助攻: 8
+
+22
+00:02:14,000 --> 00:02:20,600
+Farès Bousdira (France) - RC Lens
+出场数: 192 | 进球: 56 | 助攻: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Philippe Vercruysse (France) - RC Lens
+出场数: 249 | 进球: 59 | 助攻: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Michel Lafranceschina (France) - RC Lens
+出场数: 137 | 进球: 61
+
+25
+00:02:33,800 --> 00:02:40,400
+Michel Stievenard (France) - RC Lens
+出场数: 199 | 进球: 63
+
+26
+00:02:40,400 --> 00:02:47,000
+Egon Johnsson (Sweden) - RC Lens
+出场数: 79 | 进球: 66
+
+27
+00:02:47,000 --> 00:02:53,600
+Jean Deloffre (France) - RC Lens
+出场数: 185 | 进球: 68
+
+28
+00:02:53,600 --> 00:03:00,200
+Roger Boli (France) - RC Lens
+出场数: 254 | 进球: 75 | 助攻: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Georges Lech (France) - RC Lens
+出场数: 218 | 进球: 79
+
+30
+00:03:06,800 --> 00:03:13,400
+Maryan Wisniewski (France) - RC Lens
+出场数: 313 | 进球: 105
+
+31
+00:03:13,400 --> 00:03:20,000
+Ahmed Oudjani (Algeria) - RC Lens
+出场数: 177 | 进球: 118
+

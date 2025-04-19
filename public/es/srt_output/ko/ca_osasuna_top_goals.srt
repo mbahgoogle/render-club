@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+CA Osasuna 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Francisco Javier Bayona (Spain) - CA Osasuna
+출전: 148 | 골: 21
+
+3
+00:00:08,600 --> 00:00:15,200
+Kike Sola (Spain) - CA Osasuna
+출전: 98 | 골: 21 | 도움: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+José Luis Areta (Spain) - CA Osasuna
+출전: 89 | 골: 21 | 도움: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Raúl García (Spain) - CA Osasuna
+출전: 126 | 골: 21 | 도움: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Hormaeche (Spain) - CA Osasuna
+출전: 61 | 골: 21
+
+7
+00:00:35,000 --> 00:00:41,600
+Savo Miloševic (Serbia) - CA Osasuna
+출전: 103 | 골: 22 | 도움: 7
+
+8
+00:00:41,600 --> 00:00:48,200
+Jon Andoni Goikoetxea (Spain) - CA Osasuna
+출전: 112 | 골: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Eugenio Bustingorri (Spain) - CA Osasuna
+출전: 343 | 골: 23 | 도움: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Valdo (Cape Verde) - CA Osasuna
+출전: 141 | 골: 23 | 도움: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Adolfo Marañón (Spain) - CA Osasuna
+출전: 91 | 골: 25
+
+12
+00:01:08,000 --> 00:01:14,600
+Julián Vergara (Spain) - CA Osasuna
+출전: 27 | 골: 25
+
+13
+00:01:14,600 --> 00:01:21,200
+Pierre Webó (Cameroon) - CA Osasuna
+출전: 137 | 골: 26 | 도움: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Nino (Spain) - CA Osasuna
+출전: 147 | 골: 27 | 도움: 20
+
+15
+00:01:27,800 --> 00:01:34,400
+Rubén García (Spain) - CA Osasuna
+출전: 250 | 골: 27 | 도움: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Patxi Puñal (Spain) - CA Osasuna
+출전: 477 | 골: 28 | 도움: 32
+
+17
+00:01:41,000 --> 00:01:47,600
+Chimy Ávila (Argentina) - CA Osasuna
+출전: 123 | 골: 29 | 도움: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Miguel Sola (Spain) - CA Osasuna
+출전: 207 | 골: 30
+
+19
+00:01:54,200 --> 00:02:00,800
+Patxi Rípodas (Spain) - CA Osasuna
+출전: 237 | 골: 31
+
+20
+00:02:00,800 --> 00:02:07,400
+Iván Rosado (Spain) - CA Osasuna
+출전: 137 | 골: 31 | 도움: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Walter Pandiani (Uruguay) - CA Osasuna
+출전: 103 | 골: 31 | 도움: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Javad Nekounam (Iran) - CA Osasuna
+출전: 198 | 골: 31 | 도움: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+John Aloisi (Australia) - CA Osasuna
+출전: 128 | 골: 32 | 도움: 10
+
+24
+00:02:27,200 --> 00:02:33,800
+José Manuel Echeverria (Spain) - CA Osasuna
+출전: 189 | 골: 38 | 도움: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Patxi Iriguibel (Spain) - CA Osasuna
+출전: 110 | 골: 38 | 도움: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Enrique Martín (Spain) - CA Osasuna
+출전: 244 | 골: 38 | 도움: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Cuco Ziganda (Spain) - CA Osasuna
+출전: 160 | 골: 44
+
+28
+00:02:53,600 --> 00:03:00,200
+Jan Urban (Poland) - CA Osasuna
+출전: 167 | 골: 47 | 도움: 2
+
+29
+00:03:00,200 --> 00:03:06,800
+Roberto Torres (Spain) - CA Osasuna
+출전: 353 | 골: 60 | 도움: 55
+
+30
+00:03:06,800 --> 00:03:13,400
+Ante Budimir (Croatia) - CA Osasuna
+출전: 170 | 골: 65 | 도움: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Sabino (Spain) - CA Osasuna
+출전: 142 | 골: 65
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Rennais FC All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Marco Grassi (Switzerland) - Stade Rennais FC
+Appearances: 60 | Goals: 28 | Assists: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+John Utaka (Nigeria) - Stade Rennais FC
+Appearances: 75 | Goals: 28 | Assists: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Pokou (Cote d'Ivoire) - Stade Rennais FC
+Appearances: 56 | Goals: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+M'Baye Niang (Senegal) - Stade Rennais FC
+Appearances: 92 | Goals: 30 | Assists: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Stéphane Guivarc'h (France) - Stade Rennais FC
+Appearances: 45 | Goals: 30
+
+7
+00:00:35,000 --> 00:00:41,600
+Amine Gouiri (Algeria) - Stade Rennais FC
+Appearances: 103 | Goals: 31 | Assists: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Robert Rico (France) - Stade Rennais FC
+Appearances: 165 | Goals: 36
+
+9
+00:00:48,200 --> 00:00:54,800
+Arnaud Kalimuendo (France) - Stade Rennais FC
+Appearances: 105 | Goals: 36 | Assists: 9
+
+10
+00:00:54,800 --> 00:01:01,400
+Adrien Hunou (France) - Stade Rennais FC
+Appearances: 160 | Goals: 36 | Assists: 5
+
+11
+00:01:01,400 --> 00:01:08,000
+Shabani Nonda (DR Congo) - Stade Rennais FC
+Appearances: 77 | Goals: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+Marcel Loncle (France) - Stade Rennais FC
+Appearances: 155 | Goals: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+Claude Dubaële (France) - Stade Rennais FC
+Appearances: 101 | Goals: 37
+
+14
+00:01:21,200 --> 00:01:27,800
+Olivier Monterrubio (France) - Stade Rennais FC
+Appearances: 216 | Goals: 41 | Assists: 33
+
+15
+00:01:27,800 --> 00:01:34,400
+Farès Bousdira (France) - Stade Rennais FC
+Appearances: 121 | Goals: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Laurent Delamontagne (France) - Stade Rennais FC
+Appearances: 213 | Goals: 42
+
+17
+00:01:41,000 --> 00:01:47,600
+Jimmy Briand (France) - Stade Rennais FC
+Appearances: 212 | Goals: 43 | Assists: 27
+
+18
+00:01:47,600 --> 00:01:54,200
+Jocelyn Gourvennec (France) - Stade Rennais FC
+Appearances: 179 | Goals: 43 | Assists: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Silvester Takac (Serbia) - Stade Rennais FC
+Appearances: 94 | Goals: 44
+
+20
+00:02:00,800 --> 00:02:07,400
+Sylvain Wiltord (France) - Stade Rennais FC
+Appearances: 178 | Goals: 45 | Assists: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Hervé Guermeur (France) - Stade Rennais FC
+Appearances: 204 | Goals: 46 | Assists: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Erik-Jan van den Boogaard (Netherlands) - Stade Rennais FC
+Appearances: 93 | Goals: 49
+
+23
+00:02:20,600 --> 00:02:27,200
+Mario Relmy (France) - Stade Rennais FC
+Appearances: 130 | Goals: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Martin Terrier (France) - Stade Rennais FC
+Appearances: 141 | Goals: 51 | Assists: 24
+
+25
+00:02:33,800 --> 00:02:40,400
+Alex Frei (Switzerland) - Stade Rennais FC
+Appearances: 117 | Goals: 52 | Assists: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Serge Lenoir (France) - Stade Rennais FC
+Appearances: 132 | Goals: 55
+
+27
+00:02:47,000 --> 00:02:53,600
+Benjamin Bourigeaud (France) - Stade Rennais FC
+Appearances: 311 | Goals: 66 | Assists: 66
+
+28
+00:02:53,600 --> 00:03:00,200
+Khennane Mahi (Algeria) - Stade Rennais FC
+Appearances: 179 | Goals: 70
+
+29
+00:03:00,200 --> 00:03:06,800
+Giovanni Pellegrini (France) - Stade Rennais FC
+Appearances: 176 | Goals: 78
+
+30
+00:03:06,800 --> 00:03:13,400
+Jean Grumellon (France) - Stade Rennais FC
+Appearances: 134 | Goals: 92
+
+31
+00:03:13,400 --> 00:03:20,000
+Daniel Rodighiero (France) - Stade Rennais FC
+Appearances: 228 | Goals: 125
+

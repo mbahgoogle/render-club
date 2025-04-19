@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+West Ham United Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Trevor Sinclair (England) - West Ham United
+Матчи: 204 | Голы: 38 | Голевые передачи: 20
+
+3
+00:00:08,600 --> 00:00:15,200
+Tomas Soucek (Czech Republic) - West Ham United
+Матчи: 238 | Голы: 39 | Голевые передачи: 13
+
+4
+00:00:15,200 --> 00:00:21,800
+Trevor Morley (England) - West Ham United
+Матчи: 142 | Голы: 39 | Голевые передачи: 5
+
+5
+00:00:21,800 --> 00:00:28,400
+Bobby Zamora (England) - West Ham United
+Матчи: 149 | Голы: 40 | Голевые передачи: 17
+
+6
+00:00:28,400 --> 00:00:35,000
+Jermain Defoe (England) - West Ham United
+Матчи: 104 | Голы: 40 | Голевые передачи: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Peter Brabrook (England) - West Ham United
+Матчи: 210 | Голы: 42 | Голевые передачи: 17
+
+8
+00:00:41,600 --> 00:00:48,200
+Jimmy Ruffell (England) - West Ham United
+Матчи: 100 | Голы: 42
+
+9
+00:00:48,200 --> 00:00:54,800
+Julian Dicks (England) - West Ham United
+Матчи: 260 | Голы: 42 | Голевые передачи: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Paul Goddard (England) - West Ham United
+Матчи: 157 | Голы: 44 | Голевые передачи: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Billy Bonds (England) - West Ham United
+Матчи: 640 | Голы: 49 | Голевые передачи: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Clyde Best (Bermuda) - West Ham United
+Матчи: 195 | Голы: 49
+
+13
+00:01:14,600 --> 00:01:21,200
+John Sissons (England) - West Ham United
+Матчи: 256 | Голы: 49 | Голевые передачи: 18
+
+14
+00:01:21,200 --> 00:01:27,800
+Paolo Di Canio (Italy) - West Ham United
+Матчи: 139 | Голы: 50 | Голевые передачи: 17
+
+15
+00:01:27,800 --> 00:01:34,400
+David Cross (England) - West Ham United
+Матчи: 117 | Голы: 51
+
+16
+00:01:34,400 --> 00:01:41,000
+Frank McAvennie (Scotland) - West Ham United
+Матчи: 161 | Голы: 51 | Голевые передачи: 4
+
+17
+00:01:41,000 --> 00:01:47,600
+Marlon Harewood (England) - West Ham United
+Матчи: 166 | Голы: 56 | Голевые передачи: 17
+
+18
+00:01:47,600 --> 00:01:54,200
+Mark Noble (England) - West Ham United
+Матчи: 550 | Голы: 62 | Голевые передачи: 58
+
+19
+00:01:54,200 --> 00:02:00,800
+Ray Stewart (Scotland) - West Ham United
+Матчи: 333 | Голы: 62 | Голевые передачи: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Vic Watson (England) - West Ham United
+Матчи: 87 | Голы: 66
+
+21
+00:02:07,400 --> 00:02:14,000
+Carlton Cole (England) - West Ham United
+Матчи: 293 | Голы: 67 | Голевые передачи: 29
+
+22
+00:02:14,000 --> 00:02:20,600
+Jarrod Bowen (England) - West Ham United
+Матчи: 230 | Голы: 68 | Голевые передачи: 46
+
+23
+00:02:20,600 --> 00:02:27,200
+Malcolm Musgrove (England) - West Ham United
+Матчи: 193 | Голы: 68
+
+24
+00:02:27,200 --> 00:02:33,800
+Pop Robson (England) - West Ham United
+Матчи: 207 | Голы: 78 | Голевые передачи: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Sir Trevor Brooking (England) - West Ham United
+Матчи: 512 | Голы: 80 | Голевые передачи: 10
+
+26
+00:02:40,400 --> 00:02:47,000
+Michail Antonio (Jamaica) - West Ham United
+Матчи: 323 | Голы: 83 | Голевые передачи: 40
+
+27
+00:02:47,000 --> 00:02:53,600
+John Dick (Scotland) - West Ham United
+Матчи: 173 | Голы: 87
+
+28
+00:02:53,600 --> 00:03:00,200
+Martin Peters (England) - West Ham United
+Матчи: 350 | Голы: 92 | Голевые передачи: 7
+
+29
+00:03:00,200 --> 00:03:06,800
+Johnny Byrne (England) - West Ham United
+Матчи: 202 | Голы: 108 | Голевые передачи: 15
+
+30
+00:03:06,800 --> 00:03:13,400
+Tony Cottee (England) - West Ham United
+Матчи: 319 | Голы: 137 | Голевые передачи: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Sir Geoff Hurst (England) - West Ham United
+Матчи: 476 | Голы: 226 | Голевые передачи: 6
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfB Stuttgart Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Serhou Guirassy (Guinea) - VfB Stuttgart
+Apparitions: 58 | Buts: 44 | Passes décisives: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Guido Buchwald (Germany) - VfB Stuttgart
+Apparitions: 387 | Buts: 45 | Passes décisives: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Erwin Läpple (Germany) - VfB Stuttgart
+Apparitions: 193 | Buts: 47
+
+5
+00:00:21,800 --> 00:00:28,400
+Ionel Ganea (Romania) - VfB Stuttgart
+Apparitions: 138 | Buts: 47 | Passes décisives: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Vedad Ibisevic (Bosnia-Herzegovina) - VfB Stuttgart
+Apparitions: 111 | Buts: 47 | Passes décisives: 16
+
+7
+00:00:35,000 --> 00:00:41,600
+Horst Köppel (Germany) - VfB Stuttgart
+Apparitions: 139 | Buts: 49 | Passes décisives: 10
+
+8
+00:00:41,600 --> 00:00:48,200
+Roland Wehrle (Germany) - VfB Stuttgart
+Apparitions: 104 | Buts: 50
+
+9
+00:00:48,200 --> 00:00:54,800
+Christian Gentner (Germany) - VfB Stuttgart
+Apparitions: 373 | Buts: 50 | Passes décisives: 45
+
+10
+00:00:54,800 --> 00:01:01,400
+Peter Reichert (Germany) - VfB Stuttgart
+Apparitions: 160 | Buts: 50
+
+11
+00:01:01,400 --> 00:01:08,000
+Kevin Kuranyi (Germany) - VfB Stuttgart
+Apparitions: 132 | Buts: 57 | Passes décisives: 26
+
+12
+00:01:08,000 --> 00:01:14,600
+Dieter Hoeneß (Germany) - VfB Stuttgart
+Apparitions: 117 | Buts: 57 | Passes décisives: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Dieter Höller (Germany) - VfB Stuttgart
+Apparitions: 139 | Buts: 58 | Passes décisives: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Gerhard Strohmaier (Germany) - VfB Stuttgart
+Apparitions: 211 | Buts: 63
+
+15
+00:01:27,800 --> 00:01:34,400
+Walter Kelsch (Germany) - VfB Stuttgart
+Apparitions: 251 | Buts: 65 | Passes décisives: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Martin Harnik (Austria) - VfB Stuttgart
+Apparitions: 214 | Buts: 68 | Passes décisives: 35
+
+17
+00:01:41,000 --> 00:01:47,600
+Karl-Heinz Handschuh (Germany) - VfB Stuttgart
+Apparitions: 209 | Buts: 72 | Passes décisives: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+Krasimir Balakov (Bulgaria) - VfB Stuttgart
+Apparitions: 298 | Buts: 73 | Passes décisives: 65
+
+19
+00:01:54,200 --> 00:02:00,800
+Hansi Müller (Germany) - VfB Stuttgart
+Apparitions: 224 | Buts: 81 | Passes décisives: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Rolf Geiger (Germany) - VfB Stuttgart
+Apparitions: 198 | Buts: 84 | Passes décisives: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Fredi Bobic (Germany) - VfB Stuttgart
+Apparitions: 182 | Buts: 86 | Passes décisives: 24
+
+22
+00:02:14,000 --> 00:02:20,600
+Jürgen Klinsmann (Germany) - VfB Stuttgart
+Apparitions: 186 | Buts: 94 | Passes décisives: 11
+
+23
+00:02:20,600 --> 00:02:27,200
+Otto Baitinger (Germany) - VfB Stuttgart
+Apparitions: 203 | Buts: 98
+
+24
+00:02:27,200 --> 00:02:33,800
+Robert Schlienz (Germany) - VfB Stuttgart
+Apparitions: 397 | Buts: 102
+
+25
+00:02:33,800 --> 00:02:40,400
+Cacau (Germany) - VfB Stuttgart
+Apparitions: 346 | Buts: 109 | Passes décisives: 44
+
+26
+00:02:40,400 --> 00:02:47,000
+Mario Gómez (Germany) - VfB Stuttgart
+Apparitions: 230 | Buts: 110 | Passes décisives: 30
+
+27
+00:02:47,000 --> 00:02:53,600
+Erwin Waldner (Germany) - VfB Stuttgart
+Apparitions: 307 | Buts: 116 | Passes décisives: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Fritz Walter (Germany) - VfB Stuttgart
+Apparitions: 258 | Buts: 123 | Passes décisives: 33
+
+29
+00:03:00,200 --> 00:03:06,800
+Rolf Blessing (Germany) - VfB Stuttgart
+Apparitions: 385 | Buts: 141
+
+30
+00:03:06,800 --> 00:03:13,400
+Hermann Ohlicher (Germany) - VfB Stuttgart
+Apparitions: 459 | Buts: 157 | Passes décisives: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Karl Allgöwer (Germany) - VfB Stuttgart
+Apparitions: 410 | Buts: 167 | Passes décisives: 18
+

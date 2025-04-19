@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Athletic Bilbao 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Fran Yeste (Spain) - Athletic Bilbao
+出場数: 348 | ゴール: 57 | アシスト: 62
+
+3
+00:00:08,600 --> 00:00:15,200
+Ignacio Uribe (Spain) - Athletic Bilbao
+出場数: 203 | ゴール: 65
+
+4
+00:00:15,200 --> 00:00:21,800
+Mauri (Spain) - Athletic Bilbao
+出場数: 279 | ゴール: 66 | アシスト: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Estanis Argote (Spain) - Athletic Bilbao
+出場数: 384 | ゴール: 68 | アシスト: 10
+
+6
+00:00:28,400 --> 00:00:35,000
+Antón Arieta (Spain) - Athletic Bilbao
+出場数: 308 | ゴール: 68
+
+7
+00:00:35,000 --> 00:00:41,600
+Iker Muniain (Spain) - Athletic Bilbao
+出場数: 560 | ゴール: 76 | アシスト: 70
+
+8
+00:00:41,600 --> 00:00:48,200
+Félix Marcaida (Spain) - Athletic Bilbao
+出場数: 180 | ゴール: 77 | アシスト: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Victorio Unamuno (Spain) - Athletic Bilbao
+出場数: 106 | ゴール: 84
+
+10
+00:00:54,800 --> 00:01:01,400
+Raúl García (Spain) - Athletic Bilbao
+出場数: 363 | ゴール: 84 | アシスト: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Cuco Ziganda (Spain) - Athletic Bilbao
+出場数: 276 | ゴール: 84 | アシスト: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Venancio (Spain) - Athletic Bilbao
+出場数: 206 | ゴール: 89 | アシスト: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Ruiz (Spain) - Athletic Bilbao
+出場数: 238 | ゴール: 93
+
+14
+00:01:21,200 --> 00:01:27,800
+Manu Sarabia (Spain) - Athletic Bilbao
+出場数: 327 | ゴール: 94 | アシスト: 11
+
+15
+00:01:27,800 --> 00:01:34,400
+Joseba Etxeberria (Spain) - Athletic Bilbao
+出場数: 503 | ゴール: 95 | アシスト: 57
+
+16
+00:01:34,400 --> 00:01:41,000
+José Iraragorri (Spain) - Athletic Bilbao
+出場数: 160 | ゴール: 99
+
+17
+00:01:41,000 --> 00:01:47,600
+Fidel Uriarte (Spain) - Athletic Bilbao
+出場数: 339 | ゴール: 101
+
+18
+00:01:47,600 --> 00:01:54,200
+Iñaki Williams (Ghana) - Athletic Bilbao
+出場数: 462 | ゴール: 110 | アシスト: 63
+
+19
+00:01:54,200 --> 00:02:00,800
+Julen Guerrero (Spain) - Athletic Bilbao
+出場数: 413 | ゴール: 110 | アシスト: 8
+
+20
+00:02:00,800 --> 00:02:07,400
+Rafael Iriondo (Spain) - Athletic Bilbao
+出場数: 322 | ゴール: 111 | アシスト: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Fernando Llorente (Spain) - Athletic Bilbao
+出場数: 333 | ゴール: 116 | アシスト: 37
+
+22
+00:02:14,000 --> 00:02:20,600
+Bata (Spain) - Athletic Bilbao
+出場数: 133 | ゴール: 117
+
+23
+00:02:20,600 --> 00:02:27,200
+Ismael Urzaiz (Spain) - Athletic Bilbao
+出場数: 407 | ゴール: 122 | アシスト: 37
+
+24
+00:02:27,200 --> 00:02:33,800
+Guillermo Gorostiza (Spain) - Athletic Bilbao
+出場数: 162 | ゴール: 124
+
+25
+00:02:33,800 --> 00:02:40,400
+José Artetxe (Spain) - Athletic Bilbao
+出場数: 325 | ゴール: 131 | アシスト: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Piru Gaínza (Spain) - Athletic Bilbao
+出場数: 485 | ゴール: 150 | アシスト: 17
+
+27
+00:02:47,000 --> 00:02:53,600
+Eneko Arieta (Spain) - Athletic Bilbao
+出場数: 280 | ゴール: 152 | アシスト: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+José Panizo (Spain) - Athletic Bilbao
+出場数: 404 | ゴール: 172 | アシスト: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Aritz Aduriz (Spain) - Athletic Bilbao
+出場数: 406 | ゴール: 172 | アシスト: 50
+
+30
+00:03:06,800 --> 00:03:13,400
+Dani (Spain) - Athletic Bilbao
+出場数: 359 | ゴール: 174 | アシスト: 12
+
+31
+00:03:13,400 --> 00:03:20,000
+Telmo Zarra (Spain) - Athletic Bilbao
+出場数: 351 | ゴール: 335 | アシスト: 4
+

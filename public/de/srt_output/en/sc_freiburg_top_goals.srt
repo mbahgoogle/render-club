@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+SC Freiburg All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Altin Rraklli (Albania) - SC Freiburg
+Appearances: 95 | Goals: 25 | Assists: 9
+
+3
+00:00:08,600 --> 00:00:15,200
+Hans-Dietmar Deinert (Germany) - SC Freiburg
+Appearances: 114 | Goals: 25 | Assists: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Zlatan Bajramovic (Bosnia-Herzegovina) - SC Freiburg
+Appearances: 77 | Goals: 26 | Assists: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Florian Niederlechner (Germany) - SC Freiburg
+Appearances: 89 | Goals: 26 | Assists: 8
+
+6
+00:00:28,400 --> 00:00:35,000
+Mohamadou Idrissou (Cameroon) - SC Freiburg
+Appearances: 79 | Goals: 26 | Assists: 11
+
+7
+00:00:35,000 --> 00:00:41,600
+Roland Sallai (Hungary) - SC Freiburg
+Appearances: 163 | Goals: 27 | Assists: 23
+
+8
+00:00:41,600 --> 00:00:48,200
+Martin Braun (Germany) - SC Freiburg
+Appearances: 166 | Goals: 28 | Assists: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Paul Dörflinger (Germany) - SC Freiburg
+Appearances: 56 | Goals: 28
+
+10
+00:00:54,800 --> 00:01:01,400
+Rodolfo Cardoso (Argentina) - SC Freiburg
+Appearances: 69 | Goals: 29 | Assists: 18
+
+11
+00:01:01,400 --> 00:01:08,000
+Roda Antar (Lebanon) - SC Freiburg
+Appearances: 105 | Goals: 29 | Assists: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Marco Weißhaupt (Germany) - SC Freiburg
+Appearances: 120 | Goals: 29 | Assists: 16
+
+13
+00:01:14,600 --> 00:01:21,200
+Michael Gregoritsch (Austria) - SC Freiburg
+Appearances: 103 | Goals: 30 | Assists: 12
+
+14
+00:01:21,200 --> 00:01:27,800
+Adel Sellimi (Tunisia) - SC Freiburg
+Appearances: 124 | Goals: 30 | Assists: 12
+
+15
+00:01:27,800 --> 00:01:34,400
+Jonathan Schmid (France) - SC Freiburg
+Appearances: 218 | Goals: 31 | Assists: 39
+
+16
+00:01:34,400 --> 00:01:41,000
+Uwe Wassmer (Germany) - SC Freiburg
+Appearances: 128 | Goals: 32 | Assists: 11
+
+17
+00:01:41,000 --> 00:01:47,600
+Thomas Schweizer (Germany) - SC Freiburg
+Appearances: 143 | Goals: 32 | Assists: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Jens Todt (Germany) - SC Freiburg
+Appearances: 180 | Goals: 35 | Assists: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Levan Kobiashvili (Georgia) - SC Freiburg
+Appearances: 185 | Goals: 36 | Assists: 22
+
+20
+00:02:00,800 --> 00:02:07,400
+Reinhard Binder (Germany) - SC Freiburg
+Appearances: 307 | Goals: 39 | Assists: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Papiss Demba Cissé (Senegal) - SC Freiburg
+Appearances: 67 | Goals: 39 | Assists: 5
+
+22
+00:02:14,000 --> 00:02:20,600
+Lucas Höler (Germany) - SC Freiburg
+Appearances: 258 | Goals: 41 | Assists: 29
+
+23
+00:02:20,600 --> 00:02:27,200
+Soumaila Coulibaly (Mali) - SC Freiburg
+Appearances: 234 | Goals: 43 | Assists: 14
+
+24
+00:02:27,200 --> 00:02:33,800
+Andreas Zeyer (Germany) - SC Freiburg
+Appearances: 441 | Goals: 46 | Assists: 14
+
+25
+00:02:33,800 --> 00:02:40,400
+Uwe Spies (Germany) - SC Freiburg
+Appearances: 202 | Goals: 53 | Assists: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Souleyman Sané (Senegal) - SC Freiburg
+Appearances: 113 | Goals: 58
+
+27
+00:02:47,000 --> 00:02:53,600
+Alexander Iashvili (Georgia) - SC Freiburg
+Appearances: 281 | Goals: 63 | Assists: 61
+
+28
+00:02:53,600 --> 00:03:00,200
+Wolfgang Schüler (Germany) - SC Freiburg
+Appearances: 103 | Goals: 67 | Assists: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+Joachim Löw (Germany) - SC Freiburg
+Appearances: 263 | Goals: 83
+
+30
+00:03:06,800 --> 00:03:13,400
+Vincenzo Grifo (Italy) - SC Freiburg
+Appearances: 300 | Goals: 94 | Assists: 85
+
+31
+00:03:13,400 --> 00:03:20,000
+Nils Petersen (Germany) - SC Freiburg
+Appearances: 277 | Goals: 105 | Assists: 21
+

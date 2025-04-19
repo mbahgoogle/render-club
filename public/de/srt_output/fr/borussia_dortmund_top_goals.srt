@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Borussia Dortmund Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Lucas Barrios (Paraguay) - Borussia Dortmund
+Apparitions: 102 | Buts: 49 | Passes décisives: 17
+
+3
+00:00:08,600 --> 00:00:15,200
+Hans Flügel (Germany) - Borussia Dortmund
+Apparitions: 129 | Buts: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Norbert Dickel (Germany) - Borussia Dortmund
+Apparitions: 108 | Buts: 50 | Passes décisives: 11
+
+5
+00:00:21,800 --> 00:00:28,400
+Lothar Huber (Germany) - Borussia Dortmund
+Apparitions: 372 | Buts: 50 | Passes décisives: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Jadon Sancho (England) - Borussia Dortmund
+Apparitions: 158 | Buts: 53 | Passes décisives: 64
+
+7
+00:00:35,000 --> 00:00:41,600
+Sigfried Held (Germany) - Borussia Dortmund
+Apparitions: 259 | Buts: 53 | Passes décisives: 51
+
+8
+00:00:41,600 --> 00:00:48,200
+Ewerthon (Brazil) - Borussia Dortmund
+Apparitions: 154 | Buts: 54 | Passes décisives: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Burghard Segler (Germany) - Borussia Dortmund
+Apparitions: 200 | Buts: 54 | Passes décisives: 4
+
+10
+00:00:54,800 --> 00:01:01,400
+Heiko Herrlich (Germany) - Borussia Dortmund
+Apparitions: 183 | Buts: 56 | Passes décisives: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Shinji Kagawa (Japan) - Borussia Dortmund
+Apparitions: 216 | Buts: 60 | Passes décisives: 55
+
+12
+00:01:08,000 --> 00:01:14,600
+Edmond Kasperski (Germany) - Borussia Dortmund
+Apparitions: 136 | Buts: 66 | Passes décisives: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Frank Mill (Germany) - Borussia Dortmund
+Apparitions: 227 | Buts: 66 | Passes décisives: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Lars Ricken (Germany) - Borussia Dortmund
+Apparitions: 407 | Buts: 69 | Passes décisives: 68
+
+15
+00:01:27,800 --> 00:01:34,400
+Jan Koller (Czech Republic) - Borussia Dortmund
+Apparitions: 184 | Buts: 79 | Passes décisives: 33
+
+16
+00:01:34,400 --> 00:01:41,000
+Erling Haaland (Norway) - Borussia Dortmund
+Apparitions: 89 | Buts: 86 | Passes décisives: 23
+
+17
+00:01:41,000 --> 00:01:47,600
+Andreas Möller (Germany) - Borussia Dortmund
+Apparitions: 301 | Buts: 88 | Passes décisives: 94
+
+18
+00:01:47,600 --> 00:01:54,200
+Aki Schmidt (Germany) - Borussia Dortmund
+Apparitions: 331 | Buts: 91 | Passes décisives: 14
+
+19
+00:01:54,200 --> 00:02:00,800
+Reinhold Wosab (Germany) - Borussia Dortmund
+Apparitions: 275 | Buts: 94 | Passes décisives: 23
+
+20
+00:02:00,800 --> 00:02:07,400
+Robert Lewandowski (Poland) - Borussia Dortmund
+Apparitions: 187 | Buts: 103 | Passes décisives: 42
+
+21
+00:02:07,400 --> 00:02:14,000
+Stéphane Chapuisat (Switzerland) - Borussia Dortmund
+Apparitions: 284 | Buts: 123 | Passes décisives: 65
+
+22
+00:02:14,000 --> 00:02:20,600
+Alfred Kelbassa (Germany) - Borussia Dortmund
+Apparitions: 218 | Buts: 123 | Passes décisives: 5
+
+23
+00:02:20,600 --> 00:02:27,200
+Alfred Niepieklo (Germany) - Borussia Dortmund
+Apparitions: 201 | Buts: 126 | Passes décisives: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Pierre-Emerick Aubameyang (Gabon) - Borussia Dortmund
+Apparitions: 213 | Buts: 141 | Passes décisives: 35
+
+25
+00:02:33,800 --> 00:02:40,400
+Jürgen Schütz (Germany) - Borussia Dortmund
+Apparitions: 214 | Buts: 143 | Passes décisives: 9
+
+26
+00:02:40,400 --> 00:02:47,000
+Lothar Emmerich (Germany) - Borussia Dortmund
+Apparitions: 249 | Buts: 148 | Passes décisives: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Timo Konietzka (Germany) - Borussia Dortmund
+Apparitions: 196 | Buts: 155 | Passes décisives: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Manfred Burgsmüller (Germany) - Borussia Dortmund
+Apparitions: 252 | Buts: 158 | Passes décisives: 5
+
+29
+00:03:00,200 --> 00:03:06,800
+Michael Zorc (Germany) - Borussia Dortmund
+Apparitions: 572 | Buts: 159 | Passes décisives: 38
+
+30
+00:03:06,800 --> 00:03:13,400
+Marco Reus (Germany) - Borussia Dortmund
+Apparitions: 429 | Buts: 170 | Passes décisives: 131
+
+31
+00:03:13,400 --> 00:03:20,000
+Adi Preißler (Germany) - Borussia Dortmund
+Apparitions: 274 | Buts: 177 | Passes décisives: 5
+

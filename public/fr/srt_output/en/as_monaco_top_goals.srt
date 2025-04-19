@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AS Monaco All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Aleksandr Golovin (Russia) - AS Monaco
+Appearances: 231 | Goals: 34 | Assists: 40
+
+3
+00:00:08,600 --> 00:00:15,200
+André Hess (France) - AS Monaco
+Appearances: 133 | Goals: 34
+
+4
+00:00:15,200 --> 00:00:21,800
+Jürgen Klinsmann (Germany) - AS Monaco
+Appearances: 84 | Goals: 35 | Assists: 11
+
+5
+00:00:21,800 --> 00:00:28,400
+Youssouf Fofana (Cote d'Ivoire) - AS Monaco
+Appearances: 229 | Goals: 35 | Assists: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Umberto Barberis (Switzerland) - AS Monaco
+Appearances: 121 | Goals: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Kevin Volland (Germany) - AS Monaco
+Appearances: 115 | Goals: 39 | Assists: 24
+
+8
+00:00:41,600 --> 00:00:48,200
+Manuel Amoros (France) - AS Monaco
+Appearances: 349 | Goals: 42
+
+9
+00:00:48,200 --> 00:00:54,800
+Bart Carlier (Netherlands) - AS Monaco
+Appearances: 197 | Goals: 43
+
+10
+00:00:54,800 --> 00:01:01,400
+Marco Simone (Italy) - AS Monaco
+Appearances: 99 | Goals: 44 | Assists: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Théodore Szkudlapski (France) - AS Monaco
+Appearances: 250 | Goals: 44
+
+12
+00:01:08,000 --> 00:01:14,600
+Dado Prso (Croatia) - AS Monaco
+Appearances: 146 | Goals: 45 | Assists: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Jean Petit (France) - AS Monaco
+Appearances: 302 | Goals: 49
+
+14
+00:01:21,200 --> 00:01:27,800
+Valère Germain (France) - AS Monaco
+Appearances: 202 | Goals: 53 | Assists: 20
+
+15
+00:01:27,800 --> 00:01:34,400
+Karimou Djibrill (Togo) - AS Monaco
+Appearances: 225 | Goals: 55
+
+16
+00:01:34,400 --> 00:01:41,000
+Bruno Bellone (France) - AS Monaco
+Appearances: 230 | Goals: 56
+
+17
+00:01:41,000 --> 00:01:47,600
+Bernard Genghini (France) - AS Monaco
+Appearances: 129 | Goals: 57
+
+18
+00:01:47,600 --> 00:01:54,200
+David Trezeguet (France) - AS Monaco
+Appearances: 125 | Goals: 62 | Assists: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Serge Roy (France) - AS Monaco
+Appearances: 127 | Goals: 62
+
+20
+00:02:00,800 --> 00:02:07,400
+Christian Dalger (France) - AS Monaco
+Appearances: 263 | Goals: 64 | Assists: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+George Weah (Liberia) - AS Monaco
+Appearances: 149 | Goals: 66 | Assists: 13
+
+22
+00:02:14,000 --> 00:02:20,600
+Sonny Anderson (Brazil) - AS Monaco
+Appearances: 117 | Goals: 67 | Assists: 9
+
+23
+00:02:20,600 --> 00:02:27,200
+Shabani Nonda (DR Congo) - AS Monaco
+Appearances: 145 | Goals: 67 | Assists: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Ludovic Giuly (France) - AS Monaco
+Appearances: 268 | Goals: 67 | Assists: 13
+
+25
+00:02:33,800 --> 00:02:40,400
+Youri Djorkaeff (France) - AS Monaco
+Appearances: 197 | Goals: 68 | Assists: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Yvon Douis (France) - AS Monaco
+Appearances: 197 | Goals: 73
+
+27
+00:02:47,000 --> 00:02:53,600
+Victor Ikpeba (Nigeria) - AS Monaco
+Appearances: 223 | Goals: 77 | Assists: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Radamel Falcao (Colombia) - AS Monaco
+Appearances: 140 | Goals: 83 | Assists: 14
+
+29
+00:03:00,200 --> 00:03:06,800
+Lucien Cossou (France) - AS Monaco
+Appearances: 190 | Goals: 114
+
+30
+00:03:06,800 --> 00:03:13,400
+Wissam Ben Yedder (France) - AS Monaco
+Appearances: 201 | Goals: 118 | Assists: 31
+
+31
+00:03:13,400 --> 00:03:20,000
+Delio Onnis (Argentina) - AS Monaco
+Appearances: 246 | Goals: 193
+

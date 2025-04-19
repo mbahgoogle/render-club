@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RC Strasbourg Alsace Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Teddy Bertin (France) - RC Strasbourg Alsace
+Partidas: 180 | Gols: 29 | Assistências: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Antoine Hertrich (France) - RC Strasbourg Alsace
+Partidas: 109 | Gols: 30
+
+4
+00:00:15,200 --> 00:00:21,800
+Vicky Peretz (Israel) - RC Strasbourg Alsace
+Partidas: 81 | Gols: 32 | Assistências: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Dimitri Liénard (France) - RC Strasbourg Alsace
+Partidas: 328 | Gols: 33 | Assistências: 44
+
+6
+00:00:28,400 --> 00:00:35,000
+Gérald Baticle (France) - RC Strasbourg Alsace
+Partidas: 137 | Gols: 34 | Assistências: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Antoine Groschulski (Poland) - RC Strasbourg Alsace
+Partidas: 60 | Gols: 34
+
+8
+00:00:41,600 --> 00:00:48,200
+Jérémy Blayac (France) - RC Strasbourg Alsace
+Partidas: 110 | Gols: 35 | Assistências: 8
+
+9
+00:00:48,200 --> 00:00:54,800
+Robert Szczepaniak (France) - RC Strasbourg Alsace
+Partidas: 156 | Gols: 39
+
+10
+00:00:54,800 --> 00:01:01,400
+Oscar Heisserer (France) - RC Strasbourg Alsace
+Partidas: 138 | Gols: 40 | Assistências: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Habib Diallo (Senegal) - RC Strasbourg Alsace
+Partidas: 103 | Gols: 41 | Assistências: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Roland Wagner (France) - RC Strasbourg Alsace
+Partidas: 183 | Gols: 43 | Assistências: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Kévin Gameiro (France) - RC Strasbourg Alsace
+Partidas: 170 | Gols: 43 | Assistências: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Marc Keller (France) - RC Strasbourg Alsace
+Partidas: 180 | Gols: 44 | Assistências: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Marc Molitor (France) - RC Strasbourg Alsace
+Partidas: 97 | Gols: 46 | Assistências: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Danijel Ljuboja (Serbia) - RC Strasbourg Alsace
+Partidas: 138 | Gols: 46 | Assistências: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+David Zitelli (France) - RC Strasbourg Alsace
+Partidas: 157 | Gols: 48 | Assistências: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Fritz Keller (France) - RC Strasbourg Alsace
+Partidas: 122 | Gols: 49
+
+19
+00:01:54,200 --> 00:02:00,800
+Peter Reichert (Germany) - RC Strasbourg Alsace
+Partidas: 112 | Gols: 50 | Assistências: 5
+
+20
+00:02:00,800 --> 00:02:07,400
+Ludovic Ajorque (France) - RC Strasbourg Alsace
+Partidas: 151 | Gols: 51 | Assistências: 19
+
+21
+00:02:07,400 --> 00:02:14,000
+Frank Leboeuf (France) - RC Strasbourg Alsace
+Partidas: 223 | Gols: 55 | Assistências: 9
+
+22
+00:02:14,000 --> 00:02:20,600
+Edmond Haan (France) - RC Strasbourg Alsace
+Partidas: 258 | Gols: 59
+
+23
+00:02:20,600 --> 00:02:27,200
+José Farias (Argentina) - RC Strasbourg Alsace
+Partidas: 163 | Gols: 61
+
+24
+00:02:27,200 --> 00:02:33,800
+Philippe Piat (France) - RC Strasbourg Alsace
+Partidas: 161 | Gols: 61
+
+25
+00:02:33,800 --> 00:02:40,400
+Ernst Stojaspal (Austria) - RC Strasbourg Alsace
+Partidas: 110 | Gols: 64
+
+26
+00:02:40,400 --> 00:02:47,000
+Casimir Koza (France) - RC Strasbourg Alsace
+Partidas: 136 | Gols: 74
+
+27
+00:02:47,000 --> 00:02:53,600
+Francis Piasecki (France) - RC Strasbourg Alsace
+Partidas: 339 | Gols: 78 | Assistências: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Gérard Hausser (France) - RC Strasbourg Alsace
+Partidas: 282 | Gols: 79
+
+29
+00:03:00,200 --> 00:03:06,800
+Didier Monczuk (France) - RC Strasbourg Alsace
+Partidas: 117 | Gols: 85
+
+30
+00:03:06,800 --> 00:03:13,400
+Albert Gemmrich (France) - RC Strasbourg Alsace
+Partidas: 232 | Gols: 91
+
+31
+00:03:13,400 --> 00:03:20,000
+Oskar Rohr (Germany) - RC Strasbourg Alsace
+Partidas: 134 | Gols: 120
+

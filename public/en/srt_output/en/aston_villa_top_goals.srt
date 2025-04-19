@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Aston Villa All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Brian Little (England) - Aston Villa
+Appearances: 198 | Goals: 41 | Assists: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Ian Taylor (England) - Aston Villa
+Appearances: 290 | Goals: 42 | Assists: 16
+
+4
+00:00:15,200 --> 00:00:21,800
+Mark Walters (England) - Aston Villa
+Appearances: 195 | Goals: 42 | Assists: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Julian Joachim (England) - Aston Villa
+Appearances: 170 | Goals: 44 | Assists: 17
+
+6
+00:00:28,400 --> 00:00:35,000
+Bobby Thomson (Scotland) - Aston Villa
+Appearances: 125 | Goals: 45 | Assists: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Darius Vassell (England) - Aston Villa
+Appearances: 201 | Goals: 45 | Assists: 15
+
+8
+00:00:41,600 --> 00:00:48,200
+Tom Waring (England) - Aston Villa
+Appearances: 46 | Goals: 46
+
+9
+00:00:48,200 --> 00:00:54,800
+Dean Saunders (Wales) - Aston Villa
+Appearances: 141 | Goals: 47 | Assists: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+John Carew (Norway) - Aston Villa
+Appearances: 131 | Goals: 48 | Assists: 12
+
+11
+00:01:01,400 --> 00:01:08,000
+John Deehan (England) - Aston Villa
+Appearances: 129 | Goals: 48
+
+12
+00:01:08,000 --> 00:01:14,600
+Christian Benteke (Belgium) - Aston Villa
+Appearances: 101 | Goals: 49 | Assists: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Gareth Barry (England) - Aston Villa
+Appearances: 439 | Goals: 52 | Assists: 47
+
+14
+00:01:21,200 --> 00:01:27,800
+Allan Evans (Scotland) - Aston Villa
+Appearances: 435 | Goals: 57 | Assists: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Gordon Cowans (England) - Aston Villa
+Appearances: 506 | Goals: 58 | Assists: 33
+
+16
+00:01:34,400 --> 00:01:41,000
+Harry Burrows (England) - Aston Villa
+Appearances: 159 | Goals: 58 | Assists: 4
+
+17
+00:01:41,000 --> 00:01:47,600
+Dion Dublin (England) - Aston Villa
+Appearances: 189 | Goals: 58 | Assists: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+David Platt (England) - Aston Villa
+Appearances: 136 | Goals: 59 | Assists: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Trevor Ford (Wales) - Aston Villa
+Appearances: 122 | Goals: 60
+
+20
+00:02:00,800 --> 00:02:07,400
+Juan Pablo Ángel (Colombia) - Aston Villa
+Appearances: 205 | Goals: 62 | Assists: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Andy Gray (Scotland) - Aston Villa
+Appearances: 193 | Goals: 67
+
+22
+00:02:14,000 --> 00:02:20,600
+Tommy Thompson (England) - Aston Villa
+Appearances: 157 | Goals: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Gerry Hitchens (England) - Aston Villa
+Appearances: 114 | Goals: 68 | Assists: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Tony Hateley (England) - Aston Villa
+Appearances: 138 | Goals: 74 | Assists: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Gary Shaw (England) - Aston Villa
+Appearances: 207 | Goals: 75 | Assists: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Ollie Watkins (England) - Aston Villa
+Appearances: 212 | Goals: 84 | Assists: 38
+
+27
+00:02:47,000 --> 00:02:53,600
+Gabriel Agbonlahor (England) - Aston Villa
+Appearances: 391 | Goals: 86 | Assists: 43
+
+28
+00:02:53,600 --> 00:03:00,200
+Peter Withe (England) - Aston Villa
+Appearances: 229 | Goals: 91 | Assists: 29
+
+29
+00:03:00,200 --> 00:03:06,800
+Dwight Yorke (Trinidad and Tobago) - Aston Villa
+Appearances: 282 | Goals: 95 | Assists: 31
+
+30
+00:03:06,800 --> 00:03:13,400
+Peter McParland (Northern Ireland) - Aston Villa
+Appearances: 279 | Goals: 95 | Assists: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Johnny Dixon (England) - Aston Villa
+Appearances: 403 | Goals: 137 | Assists: 2
+

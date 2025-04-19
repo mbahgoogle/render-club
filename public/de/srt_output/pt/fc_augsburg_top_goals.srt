@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Augsburg Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Gerhard Niklasch (Germany) - FC Augsburg
+Partidas: 256 | Gols: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Elton da Costa (Brazil) - FC Augsburg
+Partidas: 128 | Gols: 24 | Assistências: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Nando Rafael (Angola) - FC Augsburg
+Partidas: 48 | Gols: 25 | Assistências: 6
+
+5
+00:00:21,800 --> 00:00:28,400
+Dieter Eckstein (Germany) - FC Augsburg
+Partidas: 49 | Gols: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Franz Becker (Germany) - FC Augsburg
+Partidas: 86 | Gols: 26
+
+7
+00:00:35,000 --> 00:00:41,600
+Mark Römer (Germany) - FC Augsburg
+Partidas: 55 | Gols: 27
+
+8
+00:00:41,600 --> 00:00:48,200
+Joseph Babatunde (Nigeria) - FC Augsburg
+Partidas: 66 | Gols: 27
+
+9
+00:00:48,200 --> 00:00:54,800
+Raúl Bobadilla (Paraguay) - FC Augsburg
+Partidas: 105 | Gols: 29 | Assistências: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Klaus Vöhringer (Germany) - FC Augsburg
+Partidas: 105 | Gols: 29
+
+11
+00:01:01,400 --> 00:01:08,000
+Florian Niederlechner (Germany) - FC Augsburg
+Partidas: 107 | Gols: 30 | Assistências: 21
+
+12
+00:01:08,000 --> 00:01:14,600
+Vladimir Manislavić (Serbia) - FC Augsburg
+Partidas: 65 | Gols: 30 | Assistências: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Otmar Maurus (Germany) - FC Augsburg
+Partidas: 101 | Gols: 31
+
+14
+00:01:21,200 --> 00:01:27,800
+Michael Gregoritsch (Austria) - FC Augsburg
+Partidas: 129 | Gols: 31 | Assistências: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Gert Fröhlich (Germany) - FC Augsburg
+Partidas: 56 | Gols: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Willi Hoffmann (Germany) - FC Augsburg
+Partidas: 97 | Gols: 32 | Assistências: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Christian Okpala (Nigeria) - FC Augsburg
+Partidas: 67 | Gols: 34
+
+18
+00:01:47,600 --> 00:01:54,200
+Mikheil Sajaia (Georgia) - FC Augsburg
+Partidas: 96 | Gols: 34
+
+19
+00:01:54,200 --> 00:02:00,800
+André Hahn (Germany) - FC Augsburg
+Partidas: 171 | Gols: 36 | Assistências: 31
+
+20
+00:02:00,800 --> 00:02:07,400
+Tobias Werner (Germany) - FC Augsburg
+Partidas: 208 | Gols: 38 | Assistências: 38
+
+21
+00:02:07,400 --> 00:02:14,000
+Alfred Finnbogason (Iceland) - FC Augsburg
+Partidas: 122 | Gols: 39 | Assistências: 14
+
+22
+00:02:14,000 --> 00:02:20,600
+Gerhard Müller (Germany) - FC Augsburg
+Partidas: 182 | Gols: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Helmut Haller (Germany) - FC Augsburg
+Partidas: 157 | Gols: 40
+
+24
+00:02:27,200 --> 00:02:33,800
+Georg Beichle (Germany) - FC Augsburg
+Partidas: 114 | Gols: 43
+
+25
+00:02:33,800 --> 00:02:40,400
+Ludwig Schlump (Germany) - FC Augsburg
+Partidas: 182 | Gols: 46
+
+26
+00:02:40,400 --> 00:02:47,000
+Michael Thurk (Germany) - FC Augsburg
+Partidas: 114 | Gols: 56 | Assistências: 18
+
+27
+00:02:47,000 --> 00:02:53,600
+Hans Jörg (Germany) - FC Augsburg
+Partidas: 207 | Gols: 58 | Assistências: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Christian Radlmaier (Germany) - FC Augsburg
+Partidas: 117 | Gols: 62
+
+29
+00:03:00,200 --> 00:03:06,800
+Ludwig Schuller (Germany) - FC Augsburg
+Partidas: 139 | Gols: 71
+
+30
+00:03:06,800 --> 00:03:13,400
+Georg Platzer (Germany) - FC Augsburg
+Partidas: 204 | Gols: 87
+
+31
+00:03:13,400 --> 00:03:20,000
+Ulrich Biesinger (Germany) - FC Augsburg
+Partidas: 223 | Gols: 121
+

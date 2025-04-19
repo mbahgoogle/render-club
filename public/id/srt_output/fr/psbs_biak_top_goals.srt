@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSBS Biak Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Arjuna Agung (Indonesia) - PSBS Biak
+Apparitions: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Anthonius Kipin (Indonesia) - PSBS Biak
+Apparitions: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Muhammad Tahir (Indonesia) - PSBS Biak
+Apparitions: 40 | Buts: 1 | Passes décisives: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Fabiano Beltrame (Indonesia) - PSBS Biak
+Apparitions: 36 | Buts: 1 | Passes décisives: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Marten Raweyai (Indonesia) - PSBS Biak
+Apparitions: 5 | Buts: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Marckho Merauje (Indonesia) - PSBS Biak
+Apparitions: 23 | Buts: 1 | Passes décisives: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Takuya Matsunaga (Japan) - PSBS Biak
+Apparitions: 23 | Buts: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Armando Oropa (Indonesia) - PSBS Biak
+Apparitions: 20 | Buts: 1 | Passes décisives: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Otávio Dutra (Indonesia) - PSBS Biak
+Apparitions: 10 | Buts: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Hermansyah Muchlis (Indonesia) - PSBS Biak
+Apparitions: 6 | Buts: 1 | Passes décisives: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Febrianto Uopmabin (Indonesia) - PSBS Biak
+Apparitions: 47 | Buts: 1 | Passes décisives: 7
+
+13
+00:01:14,600 --> 00:01:21,200
+Ariel Nahuelpán (Argentina) - PSBS Biak
+Apparitions: 8 | Buts: 1 | Passes décisives: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Melcior Majefat (Indonesia) - PSBS Biak
+Apparitions: 16 | Buts: 1 | Passes décisives: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Wawan Samma (Indonesia) - PSBS Biak
+Apparitions: 8 | Buts: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Melvis Uaga (Indonesia) - PSBS Biak
+Apparitions: 14 | Buts: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Rudy Kurni (Indonesia) - PSBS Biak
+Apparitions: 5 | Buts: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Yano Putra (Indonesia) - PSBS Biak
+Apparitions: 8 | Buts: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Charles Rumbino (Indonesia) - PSBS Biak
+Apparitions: 14 | Buts: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Gustavo Suebu (Indonesia) - PSBS Biak
+Apparitions: 7 | Buts: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Adrian Msen (Indonesia) - PSBS Biak
+Apparitions: 23 | Buts: 2 | Passes décisives: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Osas Saha (Indonesia) - PSBS Biak
+Apparitions: 12 | Buts: 2 | Passes décisives: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Jeam Kelly Sroyer (Indonesia) - PSBS Biak
+Apparitions: 37 | Buts: 3 | Passes décisives: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Julián Velázquez (Argentina) - PSBS Biak
+Apparitions: 23 | Buts: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Toumahuw Ronald (Indonesia) - PSBS Biak
+Apparitions: 12 | Buts: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Ananias Fingkreuw (Indonesia) - PSBS Biak
+Apparitions: 12 | Buts: 5 | Passes décisives: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Williams Lugo (Venezuela) - PSBS Biak
+Apparitions: 24 | Buts: 5 | Passes décisives: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Abel Argañaraz (Argentina) - PSBS Biak
+Apparitions: 26 | Buts: 7 | Passes décisives: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Mamadou Barry (Indonesia) - PSBS Biak
+Apparitions: 19 | Buts: 8
+
+30
+00:03:06,800 --> 00:03:13,400
+Beto (Indonesia) - PSBS Biak
+Apparitions: 39 | Buts: 11 | Passes décisives: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Alexsandro (Brazil) - PSBS Biak
+Apparitions: 46 | Buts: 28 | Passes décisives: 5
+

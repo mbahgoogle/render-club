@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+LOSC Lille Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Zarko Olarevic (Serbia) - LOSC Lille
+Einsätze: 126 | Tore: 31 | Vorlagen: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Bruno Cheyrou (France) - LOSC Lille
+Einsätze: 114 | Tore: 32 | Vorlagen: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Roberto Cabral (Argentina) - LOSC Lille
+Einsätze: 111 | Tore: 34 | Vorlagen: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Salomon Kalou (Cote d'Ivoire) - LOSC Lille
+Einsätze: 80 | Tore: 34 | Vorlagen: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Gervinho (Cote d'Ivoire) - LOSC Lille
+Einsätze: 93 | Tore: 36 | Vorlagen: 15
+
+7
+00:00:35,000 --> 00:00:41,600
+Moussa Sow (Senegal) - LOSC Lille
+Einsätze: 76 | Tore: 36 | Vorlagen: 6
+
+8
+00:00:41,600 --> 00:00:48,200
+René Fatoux (France) - LOSC Lille
+Einsätze: 49 | Tore: 36
+
+9
+00:00:48,200 --> 00:00:54,800
+Stanislav Karasi (Serbia) - LOSC Lille
+Einsätze: 120 | Tore: 36
+
+10
+00:00:54,800 --> 00:01:01,400
+Nicolas Pépé (Cote d'Ivoire) - LOSC Lille
+Einsätze: 79 | Tore: 37 | Vorlagen: 18
+
+11
+00:01:01,400 --> 00:01:08,000
+Nolan Roux (France) - LOSC Lille
+Einsätze: 138 | Tore: 37 | Vorlagen: 17
+
+12
+00:01:08,000 --> 00:01:14,600
+Yohan Cabaye (France) - LOSC Lille
+Einsätze: 252 | Tore: 37 | Vorlagen: 32
+
+13
+00:01:14,600 --> 00:01:21,200
+Francois Heutte (France) - LOSC Lille
+Einsätze: 105 | Tore: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Laurent Peyrelade (France) - LOSC Lille
+Einsätze: 133 | Tore: 38 | Vorlagen: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+Matt Moussilou (Congo) - LOSC Lille
+Einsätze: 140 | Tore: 39 | Vorlagen: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Marius Walter (France) - LOSC Lille
+Einsätze: 99 | Tore: 39
+
+17
+00:01:41,000 --> 00:01:47,600
+Jean Lechantre (Belgium) - LOSC Lille
+Einsätze: 99 | Tore: 42
+
+18
+00:01:47,600 --> 00:01:54,200
+Djezon Boutoille (France) - LOSC Lille
+Einsätze: 273 | Tore: 44 | Vorlagen: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Erwin Vandenbergh (Belgium) - LOSC Lille
+Einsätze: 130 | Tore: 44
+
+20
+00:02:00,800 --> 00:02:07,400
+Fernand Devlaminck (France) - LOSC Lille
+Einsätze: 79 | Tore: 48
+
+21
+00:02:07,400 --> 00:02:14,000
+Eden Hazard (Belgium) - LOSC Lille
+Einsätze: 194 | Tore: 50 | Vorlagen: 53
+
+22
+00:02:14,000 --> 00:02:20,600
+André Guy (France) - LOSC Lille
+Einsätze: 89 | Tore: 51
+
+23
+00:02:20,600 --> 00:02:27,200
+Christian Coste (France) - LOSC Lille
+Einsätze: 109 | Tore: 54
+
+24
+00:02:27,200 --> 00:02:33,800
+Gérard Bourbotte (France) - LOSC Lille
+Einsätze: 174 | Tore: 60
+
+25
+00:02:33,800 --> 00:02:40,400
+Yvon Douis (France) - LOSC Lille
+Einsätze: 173 | Tore: 61
+
+26
+00:02:40,400 --> 00:02:47,000
+Jean Vincent (France) - LOSC Lille
+Einsätze: 179 | Tore: 62
+
+27
+00:02:47,000 --> 00:02:53,600
+Pierre Pleimelding (France) - LOSC Lille
+Einsätze: 131 | Tore: 62 | Vorlagen: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Bernard Lefèvre (France) - LOSC Lille
+Einsätze: 156 | Tore: 64
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean Baratte (France) - LOSC Lille
+Einsätze: 187 | Tore: 97
+
+30
+00:03:06,800 --> 00:03:13,400
+Jonathan David (Canada) - LOSC Lille
+Einsätze: 225 | Tore: 107 | Vorlagen: 27
+
+31
+00:03:13,400 --> 00:03:20,000
+André Strappe (France) - LOSC Lille
+Einsätze: 318 | Tore: 112
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Tottenham Hotspur 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Tommy Harmer (England) - Tottenham Hotspur
+출전: 219 | 골: 51 | 도움: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Dave Mackay (Scotland) - Tottenham Hotspur
+출전: 320 | 골: 52 | 도움: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Sonny Walters (England) - Tottenham Hotspur
+출전: 169 | 골: 54
+
+5
+00:00:21,800 --> 00:00:28,400
+Les Bennett (England) - Tottenham Hotspur
+출전: 141 | 골: 55
+
+6
+00:00:28,400 --> 00:00:35,000
+Terry Dyson (England) - Tottenham Hotspur
+출전: 208 | 골: 56 | 도움: 28
+
+7
+00:00:35,000 --> 00:00:41,600
+George Robb (England) - Tottenham Hotspur
+출전: 193 | 골: 57 | 도움: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Chris Armstrong (England) - Tottenham Hotspur
+출전: 173 | 골: 62 | 도움: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Les Allen (England) - Tottenham Hotspur
+출전: 137 | 골: 63 | 도움: 38
+
+10
+00:00:54,800 --> 00:01:01,400
+Dele Alli (England) - Tottenham Hotspur
+출전: 269 | 골: 67 | 도움: 55
+
+11
+00:01:01,400 --> 00:01:08,000
+Christian Eriksen (Denmark) - Tottenham Hotspur
+출전: 305 | 골: 69 | 도움: 88
+
+12
+00:01:08,000 --> 00:01:14,600
+Terry Medwin (Wales) - Tottenham Hotspur
+출전: 213 | 골: 70 | 도움: 13
+
+13
+00:01:14,600 --> 00:01:21,200
+Garth Crooks (England) - Tottenham Hotspur
+출전: 174 | 골: 70 | 도움: 12
+
+14
+00:01:21,200 --> 00:01:27,800
+Martin Peters (England) - Tottenham Hotspur
+출전: 249 | 골: 71 | 도움: 3
+
+15
+00:01:27,800 --> 00:01:34,400
+Gareth Bale (Wales) - Tottenham Hotspur
+출전: 237 | 골: 71 | 도움: 53
+
+16
+00:01:34,400 --> 00:01:41,000
+Steve Archibald (Scotland) - Tottenham Hotspur
+출전: 184 | 골: 75 | 도움: 15
+
+17
+00:01:41,000 --> 00:01:47,600
+Len Duquemin (Guernsey) - Tottenham Hotspur
+출전: 182 | 골: 76
+
+18
+00:01:47,600 --> 00:01:54,200
+Gary Lineker (England) - Tottenham Hotspur
+출전: 139 | 골: 80 | 도움: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Clive Allen (England) - Tottenham Hotspur
+출전: 133 | 골: 82 | 도움: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Mark Falco (England) - Tottenham Hotspur
+출전: 224 | 골: 89 | 도움: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Glenn Hoddle (England) - Tottenham Hotspur
+출전: 435 | 골: 96 | 도움: 50
+
+22
+00:02:14,000 --> 00:02:20,600
+Robbie Keane (Ireland) - Tottenham Hotspur
+출전: 306 | 골: 122 | 도움: 39
+
+23
+00:02:20,600 --> 00:02:27,200
+Teddy Sheringham (England) - Tottenham Hotspur
+출전: 277 | 골: 125 | 도움: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Alan Gilzean (Scotland) - Tottenham Hotspur
+출전: 424 | 골: 128 | 도움: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Jermain Defoe (England) - Tottenham Hotspur
+출전: 363 | 골: 143 | 도움: 29
+
+26
+00:02:40,400 --> 00:02:47,000
+Cliff Jones (Wales) - Tottenham Hotspur
+출전: 377 | 골: 159 | 도움: 36
+
+27
+00:02:47,000 --> 00:02:53,600
+Martin Chivers (England) - Tottenham Hotspur
+출전: 349 | 골: 167 | 도움: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Heung-min Son (Korea, South) - Tottenham Hotspur
+출전: 449 | 골: 173 | 도움: 96
+
+29
+00:03:00,200 --> 00:03:06,800
+Bobby Smith (England) - Tottenham Hotspur
+출전: 316 | 골: 211 | 도움: 31
+
+30
+00:03:06,800 --> 00:03:13,400
+Jimmy Greaves (England) - Tottenham Hotspur
+출전: 376 | 골: 266 | 도움: 45
+
+31
+00:03:13,400 --> 00:03:20,000
+Harry Kane (England) - Tottenham Hotspur
+출전: 435 | 골: 280 | 도움: 61
+

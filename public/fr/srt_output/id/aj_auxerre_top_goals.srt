@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AJ Auxerre Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+William Prunier (France) - AJ Auxerre
+Penampilan: 256 | Gol: 25
+
+3
+00:00:08,600 --> 00:00:15,200
+Gaëtan Perrin (France) - AJ Auxerre
+Penampilan: 148 | Gol: 26 | Asis: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Bernard Ferrer (France) - AJ Auxerre
+Penampilan: 127 | Gol: 27 | Asis: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Rémy Dugimont (France) - AJ Auxerre
+Penampilan: 137 | Gol: 28 | Asis: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Moussa Saïb (Algeria) - AJ Auxerre
+Penampilan: 192 | Gol: 28 | Asis: 15
+
+7
+00:00:35,000 --> 00:00:41,600
+Dennis Oliech (Kenya) - AJ Auxerre
+Penampilan: 200 | Gol: 28 | Asis: 24
+
+8
+00:00:41,600 --> 00:00:48,200
+Gauthier Hein (France) - AJ Auxerre
+Penampilan: 152 | Gol: 29 | Asis: 20
+
+9
+00:00:48,200 --> 00:00:54,800
+Éric Cantona (France) - AJ Auxerre
+Penampilan: 94 | Gol: 29
+
+10
+00:00:54,800 --> 00:01:01,400
+Benjani (Zimbabwe) - AJ Auxerre
+Penampilan: 110 | Gol: 29 | Asis: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Enzo Scifo (Belgium) - AJ Auxerre
+Penampilan: 81 | Gol: 30 | Asis: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Gaëtan Courtet (France) - AJ Auxerre
+Penampilan: 84 | Gol: 31 | Asis: 21
+
+13
+00:01:14,600 --> 00:01:21,200
+Yann Lachuer (France) - AJ Auxerre
+Penampilan: 256 | Gol: 31 | Asis: 14
+
+14
+00:01:21,200 --> 00:01:27,800
+Steve Marlet (France) - AJ Auxerre
+Penampilan: 135 | Gol: 33 | Asis: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+Bonaventure Kalou (Cote d'Ivoire) - AJ Auxerre
+Penampilan: 92 | Gol: 34 | Asis: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Daniel Dutuel (France) - AJ Auxerre
+Penampilan: 258 | Gol: 34 | Asis: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Luigi Pieroni (Belgium) - AJ Auxerre
+Penampilan: 113 | Gol: 36 | Asis: 7
+
+18
+00:01:47,600 --> 00:01:54,200
+Olivier Kapo (France) - AJ Auxerre
+Penampilan: 204 | Gol: 36 | Asis: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Kálmán Kovács (Hungary) - AJ Auxerre
+Penampilan: 100 | Gol: 42 | Asis: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Corentin Martins (France) - AJ Auxerre
+Penampilan: 207 | Gol: 45 | Asis: 16
+
+21
+00:02:07,400 --> 00:02:14,000
+Bernard Diomède (France) - AJ Auxerre
+Penampilan: 224 | Gol: 46 | Asis: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Gérald Baticle (France) - AJ Auxerre
+Penampilan: 176 | Gol: 47 | Asis: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Jean-Marc Ferreri (France) - AJ Auxerre
+Penampilan: 244 | Gol: 54 | Asis: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Lilian Laslandes (France) - AJ Auxerre
+Penampilan: 161 | Gol: 55 | Asis: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Ireneusz Jeleń (Poland) - AJ Auxerre
+Penampilan: 164 | Gol: 59 | Asis: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrice Garande (France) - AJ Auxerre
+Penampilan: 162 | Gol: 61
+
+27
+00:02:47,000 --> 00:02:53,600
+Pascal Vahirua (France) - AJ Auxerre
+Penampilan: 347 | Gol: 69 | Asis: 18
+
+28
+00:02:53,600 --> 00:03:00,200
+Christophe Cocard (France) - AJ Auxerre
+Penampilan: 322 | Gol: 72 | Asis: 13
+
+29
+00:03:00,200 --> 00:03:06,800
+Stéphane Guivarc'h (France) - AJ Auxerre
+Penampilan: 152 | Gol: 80 | Asis: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Djibril Cissé (France) - AJ Auxerre
+Penampilan: 169 | Gol: 90 | Asis: 5
+
+31
+00:03:13,400 --> 00:03:20,000
+Andrzej Szarmach (Poland) - AJ Auxerre
+Penampilan: 158 | Gol: 100
+

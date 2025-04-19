@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Borussia Dortmund Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Lucas Barrios (Paraguay) - Borussia Dortmund
+Einsätze: 102 | Tore: 49 | Vorlagen: 17
+
+3
+00:00:08,600 --> 00:00:15,200
+Hans Flügel (Germany) - Borussia Dortmund
+Einsätze: 129 | Tore: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Norbert Dickel (Germany) - Borussia Dortmund
+Einsätze: 108 | Tore: 50 | Vorlagen: 11
+
+5
+00:00:21,800 --> 00:00:28,400
+Lothar Huber (Germany) - Borussia Dortmund
+Einsätze: 372 | Tore: 50 | Vorlagen: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Jadon Sancho (England) - Borussia Dortmund
+Einsätze: 158 | Tore: 53 | Vorlagen: 64
+
+7
+00:00:35,000 --> 00:00:41,600
+Sigfried Held (Germany) - Borussia Dortmund
+Einsätze: 259 | Tore: 53 | Vorlagen: 51
+
+8
+00:00:41,600 --> 00:00:48,200
+Ewerthon (Brazil) - Borussia Dortmund
+Einsätze: 154 | Tore: 54 | Vorlagen: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Burghard Segler (Germany) - Borussia Dortmund
+Einsätze: 200 | Tore: 54 | Vorlagen: 4
+
+10
+00:00:54,800 --> 00:01:01,400
+Heiko Herrlich (Germany) - Borussia Dortmund
+Einsätze: 183 | Tore: 56 | Vorlagen: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Shinji Kagawa (Japan) - Borussia Dortmund
+Einsätze: 216 | Tore: 60 | Vorlagen: 55
+
+12
+00:01:08,000 --> 00:01:14,600
+Edmond Kasperski (Germany) - Borussia Dortmund
+Einsätze: 136 | Tore: 66 | Vorlagen: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Frank Mill (Germany) - Borussia Dortmund
+Einsätze: 227 | Tore: 66 | Vorlagen: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Lars Ricken (Germany) - Borussia Dortmund
+Einsätze: 407 | Tore: 69 | Vorlagen: 68
+
+15
+00:01:27,800 --> 00:01:34,400
+Jan Koller (Czech Republic) - Borussia Dortmund
+Einsätze: 184 | Tore: 79 | Vorlagen: 33
+
+16
+00:01:34,400 --> 00:01:41,000
+Erling Haaland (Norway) - Borussia Dortmund
+Einsätze: 89 | Tore: 86 | Vorlagen: 23
+
+17
+00:01:41,000 --> 00:01:47,600
+Andreas Möller (Germany) - Borussia Dortmund
+Einsätze: 301 | Tore: 88 | Vorlagen: 94
+
+18
+00:01:47,600 --> 00:01:54,200
+Aki Schmidt (Germany) - Borussia Dortmund
+Einsätze: 331 | Tore: 91 | Vorlagen: 14
+
+19
+00:01:54,200 --> 00:02:00,800
+Reinhold Wosab (Germany) - Borussia Dortmund
+Einsätze: 275 | Tore: 94 | Vorlagen: 23
+
+20
+00:02:00,800 --> 00:02:07,400
+Robert Lewandowski (Poland) - Borussia Dortmund
+Einsätze: 187 | Tore: 103 | Vorlagen: 42
+
+21
+00:02:07,400 --> 00:02:14,000
+Stéphane Chapuisat (Switzerland) - Borussia Dortmund
+Einsätze: 284 | Tore: 123 | Vorlagen: 65
+
+22
+00:02:14,000 --> 00:02:20,600
+Alfred Kelbassa (Germany) - Borussia Dortmund
+Einsätze: 218 | Tore: 123 | Vorlagen: 5
+
+23
+00:02:20,600 --> 00:02:27,200
+Alfred Niepieklo (Germany) - Borussia Dortmund
+Einsätze: 201 | Tore: 126 | Vorlagen: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Pierre-Emerick Aubameyang (Gabon) - Borussia Dortmund
+Einsätze: 213 | Tore: 141 | Vorlagen: 35
+
+25
+00:02:33,800 --> 00:02:40,400
+Jürgen Schütz (Germany) - Borussia Dortmund
+Einsätze: 214 | Tore: 143 | Vorlagen: 9
+
+26
+00:02:40,400 --> 00:02:47,000
+Lothar Emmerich (Germany) - Borussia Dortmund
+Einsätze: 249 | Tore: 148 | Vorlagen: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Timo Konietzka (Germany) - Borussia Dortmund
+Einsätze: 196 | Tore: 155 | Vorlagen: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Manfred Burgsmüller (Germany) - Borussia Dortmund
+Einsätze: 252 | Tore: 158 | Vorlagen: 5
+
+29
+00:03:00,200 --> 00:03:06,800
+Michael Zorc (Germany) - Borussia Dortmund
+Einsätze: 572 | Tore: 159 | Vorlagen: 38
+
+30
+00:03:06,800 --> 00:03:13,400
+Marco Reus (Germany) - Borussia Dortmund
+Einsätze: 429 | Tore: 170 | Vorlagen: 131
+
+31
+00:03:13,400 --> 00:03:20,000
+Adi Preißler (Germany) - Borussia Dortmund
+Einsätze: 274 | Tore: 177 | Vorlagen: 5
+

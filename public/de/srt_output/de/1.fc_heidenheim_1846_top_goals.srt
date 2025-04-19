@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+1.FC Heidenheim 1846 Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Tobias Mohr (Germany) - 1.FC Heidenheim 1846
+Einsätze: 78 | Tore: 11 | Vorlagen: 17
+
+3
+00:00:08,600 --> 00:00:15,200
+Christian Essig (Germany) - 1.FC Heidenheim 1846
+Einsätze: 82 | Tore: 11 | Vorlagen: 10
+
+4
+00:00:15,200 --> 00:00:21,800
+Arne Feick (Germany) - 1.FC Heidenheim 1846
+Einsätze: 127 | Tore: 12 | Vorlagen: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Marvin Pieringer (Germany) - 1.FC Heidenheim 1846
+Einsätze: 64 | Tore: 13 | Vorlagen: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Richard Weil (Germany) - 1.FC Heidenheim 1846
+Einsätze: 98 | Tore: 13 | Vorlagen: 22
+
+7
+00:00:35,000 --> 00:00:41,600
+Michael Thurk (Germany) - 1.FC Heidenheim 1846
+Einsätze: 71 | Tore: 14 | Vorlagen: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Christian Gmünder (Germany) - 1.FC Heidenheim 1846
+Einsätze: 81 | Tore: 14 | Vorlagen: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+John Verhoek (Netherlands) - 1.FC Heidenheim 1846
+Einsätze: 57 | Tore: 16 | Vorlagen: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Smail Morabit (France) - 1.FC Heidenheim 1846
+Einsätze: 94 | Tore: 17 | Vorlagen: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Stefan Schimmer (Germany) - 1.FC Heidenheim 1846
+Einsätze: 149 | Tore: 17 | Vorlagen: 12
+
+12
+00:01:08,000 --> 00:01:14,600
+Christian Kühlwetter (Germany) - 1.FC Heidenheim 1846
+Einsätze: 93 | Tore: 18 | Vorlagen: 11
+
+13
+00:01:14,600 --> 00:01:21,200
+Patrick Mainka (Germany) - 1.FC Heidenheim 1846
+Einsätze: 248 | Tore: 19 | Vorlagen: 7
+
+14
+00:01:21,200 --> 00:01:27,800
+Frank Schmidt (Germany) - 1.FC Heidenheim 1846
+Einsätze: 88 | Tore: 19
+
+15
+00:01:27,800 --> 00:01:34,400
+Ertac Seskir (Türkiye) - 1.FC Heidenheim 1846
+Einsätze: 138 | Tore: 19 | Vorlagen: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Niklas Beste (Germany) - 1.FC Heidenheim 1846
+Einsätze: 68 | Tore: 20 | Vorlagen: 28
+
+17
+00:01:41,000 --> 00:01:47,600
+Nikola Dovedan (Austria) - 1.FC Heidenheim 1846
+Einsätze: 85 | Tore: 20 | Vorlagen: 12
+
+18
+00:01:47,600 --> 00:01:54,200
+Robert Glatzel (Germany) - 1.FC Heidenheim 1846
+Einsätze: 61 | Tore: 24 | Vorlagen: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Bastian Heidenfelder (Germany) - 1.FC Heidenheim 1846
+Einsätze: 119 | Tore: 24 | Vorlagen: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Alper Bagceci (Germany) - 1.FC Heidenheim 1846
+Einsätze: 269 | Tore: 26 | Vorlagen: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Denis Thomalla (Germany) - 1.FC Heidenheim 1846
+Einsätze: 211 | Tore: 30 | Vorlagen: 21
+
+22
+00:02:14,000 --> 00:02:20,600
+Florian Niederlechner (Germany) - 1.FC Heidenheim 1846
+Einsätze: 84 | Tore: 30 | Vorlagen: 14
+
+23
+00:02:20,600 --> 00:02:27,200
+Robert Leipertz (Germany) - 1.FC Heidenheim 1846
+Einsätze: 167 | Tore: 37 | Vorlagen: 26
+
+24
+00:02:27,200 --> 00:02:33,800
+Tim Göhlert (Germany) - 1.FC Heidenheim 1846
+Einsätze: 310 | Tore: 37 | Vorlagen: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Dieter Jarosch (Germany) - 1.FC Heidenheim 1846
+Einsätze: 116 | Tore: 40 | Vorlagen: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Dinko Radojevic (Croatia) - 1.FC Heidenheim 1846
+Einsätze: 88 | Tore: 41
+
+27
+00:02:47,000 --> 00:02:53,600
+Alexander Raaf (Germany) - 1.FC Heidenheim 1846
+Einsätze: 118 | Tore: 41
+
+28
+00:02:53,600 --> 00:03:00,200
+Patrick Mayer (Germany) - 1.FC Heidenheim 1846
+Einsätze: 111 | Tore: 42 | Vorlagen: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Andreas Spann (Germany) - 1.FC Heidenheim 1846
+Einsätze: 141 | Tore: 43 | Vorlagen: 22
+
+30
+00:03:06,800 --> 00:03:13,400
+Tim Kleindienst (Germany) - 1.FC Heidenheim 1846
+Einsätze: 172 | Tore: 83 | Vorlagen: 23
+
+31
+00:03:13,400 --> 00:03:20,000
+Marc Schnatterer (Germany) - 1.FC Heidenheim 1846
+Einsätze: 461 | Tore: 124 | Vorlagen: 128
+

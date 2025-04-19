@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSBS Biak All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Arjuna Agung (Indonesia) - PSBS Biak
+Appearances: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Anthonius Kipin (Indonesia) - PSBS Biak
+Appearances: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Muhammad Tahir (Indonesia) - PSBS Biak
+Appearances: 40 | Goals: 1 | Assists: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Fabiano Beltrame (Indonesia) - PSBS Biak
+Appearances: 36 | Goals: 1 | Assists: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Marten Raweyai (Indonesia) - PSBS Biak
+Appearances: 5 | Goals: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Marckho Merauje (Indonesia) - PSBS Biak
+Appearances: 23 | Goals: 1 | Assists: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Takuya Matsunaga (Japan) - PSBS Biak
+Appearances: 23 | Goals: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Armando Oropa (Indonesia) - PSBS Biak
+Appearances: 20 | Goals: 1 | Assists: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Otávio Dutra (Indonesia) - PSBS Biak
+Appearances: 10 | Goals: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Hermansyah Muchlis (Indonesia) - PSBS Biak
+Appearances: 6 | Goals: 1 | Assists: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Febrianto Uopmabin (Indonesia) - PSBS Biak
+Appearances: 47 | Goals: 1 | Assists: 7
+
+13
+00:01:14,600 --> 00:01:21,200
+Ariel Nahuelpán (Argentina) - PSBS Biak
+Appearances: 8 | Goals: 1 | Assists: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Melcior Majefat (Indonesia) - PSBS Biak
+Appearances: 16 | Goals: 1 | Assists: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Wawan Samma (Indonesia) - PSBS Biak
+Appearances: 8 | Goals: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Melvis Uaga (Indonesia) - PSBS Biak
+Appearances: 14 | Goals: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Rudy Kurni (Indonesia) - PSBS Biak
+Appearances: 5 | Goals: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Yano Putra (Indonesia) - PSBS Biak
+Appearances: 8 | Goals: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Charles Rumbino (Indonesia) - PSBS Biak
+Appearances: 14 | Goals: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Gustavo Suebu (Indonesia) - PSBS Biak
+Appearances: 7 | Goals: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Adrian Msen (Indonesia) - PSBS Biak
+Appearances: 23 | Goals: 2 | Assists: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Osas Saha (Indonesia) - PSBS Biak
+Appearances: 12 | Goals: 2 | Assists: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Jeam Kelly Sroyer (Indonesia) - PSBS Biak
+Appearances: 37 | Goals: 3 | Assists: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Julián Velázquez (Argentina) - PSBS Biak
+Appearances: 23 | Goals: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Toumahuw Ronald (Indonesia) - PSBS Biak
+Appearances: 12 | Goals: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Ananias Fingkreuw (Indonesia) - PSBS Biak
+Appearances: 12 | Goals: 5 | Assists: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Williams Lugo (Venezuela) - PSBS Biak
+Appearances: 24 | Goals: 5 | Assists: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Abel Argañaraz (Argentina) - PSBS Biak
+Appearances: 26 | Goals: 7 | Assists: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Mamadou Barry (Indonesia) - PSBS Biak
+Appearances: 19 | Goals: 8
+
+30
+00:03:06,800 --> 00:03:13,400
+Beto (Indonesia) - PSBS Biak
+Appearances: 39 | Goals: 11 | Assists: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Alexsandro (Brazil) - PSBS Biak
+Appearances: 46 | Goals: 28 | Assists: 5
+

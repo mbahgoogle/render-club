@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Olympique Marseille Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Philippe Vercruysse (France) - Olympique Marseille
+Apparitions: 131 | Buts: 36 | Passes décisives: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Hervé Florès (France) - Olympique Marseille
+Apparitions: 153 | Buts: 37
+
+4
+00:00:15,200 --> 00:00:21,800
+Djibril Cissé (France) - Olympique Marseille
+Apparitions: 80 | Buts: 37 | Passes décisives: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Georges Dard (France) - Olympique Marseille
+Apparitions: 177 | Buts: 38
+
+6
+00:00:28,400 --> 00:00:35,000
+Mathieu Valbuena (France) - Olympique Marseille
+Apparitions: 330 | Buts: 38 | Passes décisives: 58
+
+7
+00:00:35,000 --> 00:00:41,600
+Robert Buigues (France) - Olympique Marseille
+Apparitions: 230 | Buts: 38 | Passes décisives: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Franck Sauzée (France) - Olympique Marseille
+Apparitions: 164 | Buts: 39 | Passes décisives: 11
+
+9
+00:00:48,200 --> 00:00:54,800
+Vilmos Kohut (Hungary) - Olympique Marseille
+Apparitions: 82 | Buts: 39 | Passes décisives: 3
+
+10
+00:00:54,800 --> 00:01:01,400
+Didier Couécou (France) - Olympique Marseille
+Apparitions: 107 | Buts: 39
+
+11
+00:01:01,400 --> 00:01:08,000
+Mario Zatelli (France) - Olympique Marseille
+Apparitions: 53 | Buts: 40
+
+12
+00:01:08,000 --> 00:01:14,600
+Albert Emon (France) - Olympique Marseille
+Apparitions: 152 | Buts: 41
+
+13
+00:01:14,600 --> 00:01:21,200
+Marc Libbra (France) - Olympique Marseille
+Apparitions: 149 | Buts: 41 | Passes décisives: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Loïc Rémy (France) - Olympique Marseille
+Apparitions: 111 | Buts: 42 | Passes décisives: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Joseph Alcazar (France) - Olympique Marseille
+Apparitions: 53 | Buts: 42 | Passes décisives: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Charly Loubet (France) - Olympique Marseille
+Apparitions: 90 | Buts: 43
+
+17
+00:01:41,000 --> 00:01:47,600
+Marc Berdoll (France) - Olympique Marseille
+Apparitions: 107 | Buts: 53
+
+18
+00:01:47,600 --> 00:01:54,200
+Joseph Bonnel (France) - Olympique Marseille
+Apparitions: 250 | Buts: 58
+
+19
+00:01:54,200 --> 00:02:00,800
+Roger Scotti (France) - Olympique Marseille
+Apparitions: 341 | Buts: 58
+
+20
+00:02:00,800 --> 00:02:07,400
+André Ayew (Ghana) - Olympique Marseille
+Apparitions: 209 | Buts: 60 | Passes décisives: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Tony Cascarino (Ireland) - Olympique Marseille
+Apparitions: 105 | Buts: 70 | Passes décisives: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Boubacar Sarr (Senegal) - Olympique Marseille
+Apparitions: 169 | Buts: 70
+
+23
+00:02:20,600 --> 00:02:27,200
+Marc Pascal (France) - Olympique Marseille
+Apparitions: 173 | Buts: 72
+
+24
+00:02:27,200 --> 00:02:33,800
+André-Pierre Gignac (France) - Olympique Marseille
+Apparitions: 188 | Buts: 77 | Passes décisives: 13
+
+25
+00:02:33,800 --> 00:02:40,400
+Dimitri Payet (France) - Olympique Marseille
+Apparitions: 326 | Buts: 78 | Passes décisives: 95
+
+26
+00:02:40,400 --> 00:02:47,000
+Florian Thauvin (France) - Olympique Marseille
+Apparitions: 281 | Buts: 86 | Passes décisives: 61
+
+27
+00:02:47,000 --> 00:02:53,600
+Joseph Yegba Maya (Cameroon) - Olympique Marseille
+Apparitions: 160 | Buts: 88
+
+28
+00:02:53,600 --> 00:03:00,200
+Mamadou Niang (Senegal) - Olympique Marseille
+Apparitions: 227 | Buts: 100 | Passes décisives: 36
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean-Pierre Papin (France) - Olympique Marseille
+Apparitions: 275 | Buts: 182 | Passes décisives: 10
+
+30
+00:03:06,800 --> 00:03:13,400
+Josip Skoblar (Croatia) - Olympique Marseille
+Apparitions: 218 | Buts: 185
+
+31
+00:03:13,400 --> 00:03:20,000
+Gunnar Andersson (Sweden) - Olympique Marseille
+Apparitions: 248 | Buts: 194
+

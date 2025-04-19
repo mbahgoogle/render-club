@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSKC Cimahi Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Egwuatu Ouseloka (Indonesia) - PSKC Cimahi
+Partidos: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Hersya Scifo (Indonesia) - PSKC Cimahi
+Partidos: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Firdaus Aprilian (Indonesia) - PSKC Cimahi
+Partidos: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Roista Susilo (Indonesia) - PSKC Cimahi
+Partidos: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Iqbal Dalimunthe (Indonesia) - PSKC Cimahi
+Partidos: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Agus Nova (Indonesia) - PSKC Cimahi
+Partidos: 17 | Goles: 1 | Asistencias: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Imanuel Sayuri (Indonesia) - PSKC Cimahi
+Partidos: 16 | Goles: 1 | Asistencias: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Rudiyana (Indonesia) - PSKC Cimahi
+Partidos: 16 | Goles: 1 | Asistencias: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Achmad Faris (Indonesia) - PSKC Cimahi
+Partidos: 20 | Goles: 1 | Asistencias: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Dennish (Indonesia) - PSKC Cimahi
+Partidos: 10 | Goles: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Dicky Kurniawan (Indonesia) - PSKC Cimahi
+Partidos: 8 | Goles: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Muhammad Idris (Indonesia) - PSKC Cimahi
+Partidos: 5 | Goles: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Mukhammadali Tursunov (Uzbekistan) - PSKC Cimahi
+Partidos: 12 | Goles: 1 | Asistencias: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Anan Lestaluhu (Indonesia) - PSKC Cimahi
+Partidos: 6 | Goles: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Rezky Renaldy (Indonesia) - PSKC Cimahi
+Partidos: 6 | Goles: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Irvan Mofu (Indonesia) - PSKC Cimahi
+Partidos: 4 | Goles: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Ichsan Kurniawan (Indonesia) - PSKC Cimahi
+Partidos: 21 | Goles: 2 | Asistencias: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Suhandi (Indonesia) - PSKC Cimahi
+Partidos: 29 | Goles: 2 | Asistencias: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Hambali Tholib (Indonesia) - PSKC Cimahi
+Partidos: 19 | Goles: 2 | Asistencias: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Joao Rodríguez (Colombia) - PSKC Cimahi
+Partidos: 6 | Goles: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Fareed Sadat (Afghanistan) - PSKC Cimahi
+Partidos: 13 | Goles: 2 | Asistencias: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Dheco Zacky (Indonesia) - PSKC Cimahi
+Partidos: 17 | Goles: 2 | Asistencias: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Reksa Maulana (Indonesia) - PSKC Cimahi
+Partidos: 11 | Goles: 2 | Asistencias: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Gufroni Al Maruf (Indonesia) - PSKC Cimahi
+Partidos: 16 | Goles: 2 | Asistencias: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Adlin Cahya (Indonesia) - PSKC Cimahi
+Partidos: 30 | Goles: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Chencho Gyeltshen (Bhutan) - PSKC Cimahi
+Partidos: 8 | Goles: 3 | Asistencias: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Rishadi Fauzi (Indonesia) - PSKC Cimahi
+Partidos: 15 | Goles: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Nyoman Sukarja (Indonesia) - PSKC Cimahi
+Partidos: 12 | Goles: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Afdal Yusra (Indonesia) - PSKC Cimahi
+Partidos: 14 | Goles: 7 | Asistencias: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Matheus (Brazil) - PSKC Cimahi
+Partidos: 12 | Goles: 9 | Asistencias: 2
+

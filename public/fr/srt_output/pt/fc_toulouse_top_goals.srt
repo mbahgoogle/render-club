@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Toulouse Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Rafael Ratão (Brazil) - FC Toulouse
+Partidas: 64 | Gols: 19 | Assistências: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Laurent Sachy (France) - FC Toulouse
+Partidas: 90 | Gols: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Batlles (France) - FC Toulouse
+Partidas: 264 | Gols: 19 | Assistências: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Jean-François Domergue (France) - FC Toulouse
+Partidas: 124 | Gols: 20
+
+6
+00:00:28,400 --> 00:00:35,000
+Gérard Soler (France) - FC Toulouse
+Partidas: 64 | Gols: 20
+
+7
+00:00:35,000 --> 00:00:41,600
+Vladimir Petrovic (Croatia) - FC Toulouse
+Partidas: 65 | Gols: 22
+
+8
+00:00:41,600 --> 00:00:48,200
+Bernard Ferrer (France) - FC Toulouse
+Partidas: 76 | Gols: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Daniel Moreira (France) - FC Toulouse
+Partidas: 71 | Gols: 23 | Assistências: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+Jean-Marc Ferratge (France) - FC Toulouse
+Partidas: 139 | Gols: 23
+
+11
+00:01:01,400 --> 00:01:08,000
+Johan Elmander (Sweden) - FC Toulouse
+Partidas: 73 | Gols: 23 | Assistências: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Branco van den Boomen (Netherlands) - FC Toulouse
+Partidas: 121 | Gols: 23 | Assistências: 45
+
+13
+00:01:14,600 --> 00:01:21,200
+Moussa Sissoko (France) - FC Toulouse
+Partidas: 220 | Gols: 24 | Assistências: 15
+
+14
+00:01:21,200 --> 00:01:27,800
+Thierry Moreau (France) - FC Toulouse
+Partidas: 241 | Gols: 25 | Assistências: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Zakaria Aboukhlal (Morocco) - FC Toulouse
+Partidas: 80 | Gols: 25 | Assistências: 7
+
+16
+00:01:34,400 --> 00:01:41,000
+Achille Emaná (Cameroon) - FC Toulouse
+Partidas: 220 | Gols: 27 | Assistências: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Max Gradel (Cote d'Ivoire) - FC Toulouse
+Partidas: 96 | Gols: 28 | Assistências: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Anthony Bancarel (France) - FC Toulouse
+Partidas: 132 | Gols: 30 | Assistências: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Michel Pavon (France) - FC Toulouse
+Partidas: 214 | Gols: 31 | Assistências: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Jean-Philippe Durand (France) - FC Toulouse
+Partidas: 223 | Gols: 33
+
+21
+00:02:07,400 --> 00:02:14,000
+Cédric Fauré (France) - FC Toulouse
+Partidas: 78 | Gols: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Thijs Dallinga (Netherlands) - FC Toulouse
+Partidas: 86 | Gols: 37 | Assistências: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+Rhys Healey (England) - FC Toulouse
+Partidas: 77 | Gols: 39 | Assistências: 7
+
+24
+00:02:27,200 --> 00:02:33,800
+Martin Braithwaite (Denmark) - FC Toulouse
+Partidas: 149 | Gols: 40 | Assistências: 15
+
+25
+00:02:33,800 --> 00:02:40,400
+André-Pierre Gignac (France) - FC Toulouse
+Partidas: 119 | Gols: 42 | Assistências: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Gérald Passi (France) - FC Toulouse
+Partidas: 163 | Gols: 47
+
+27
+00:02:47,000 --> 00:02:53,600
+Francois Calderaro (France) - FC Toulouse
+Partidas: 97 | Gols: 49
+
+28
+00:02:53,600 --> 00:03:00,200
+Robert Pintenat (France) - FC Toulouse
+Partidas: 100 | Gols: 57
+
+29
+00:03:00,200 --> 00:03:06,800
+Yannick Stopyra (France) - FC Toulouse
+Partidas: 172 | Gols: 59
+
+30
+00:03:06,800 --> 00:03:13,400
+Alberto Márcico (Argentina) - FC Toulouse
+Partidas: 248 | Gols: 67 | Assistências: 3
+
+31
+00:03:13,400 --> 00:03:20,000
+Wissam Ben Yedder (France) - FC Toulouse
+Partidas: 174 | Gols: 71 | Assistências: 21
+

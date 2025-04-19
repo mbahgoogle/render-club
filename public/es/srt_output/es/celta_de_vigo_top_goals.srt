@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Celta de Vigo Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Benni McCarthy (South Africa) - Celta de Vigo
+Partidos: 103 | Goles: 29 | Asistencias: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Jesuli (Spain) - Celta de Vigo
+Partidos: 151 | Goles: 29 | Asistencias: 15
+
+4
+00:00:15,200 --> 00:00:21,800
+Germán Waidele Figuerido (Spain) - Celta de Vigo
+Partidos: 86 | Goles: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+Haim Revivo (Israel) - Celta de Vigo
+Partidos: 152 | Goles: 30
+
+6
+00:00:28,400 --> 00:00:35,000
+Gustavo López (Argentina) - Celta de Vigo
+Partidos: 275 | Goles: 30 | Asistencias: 26
+
+7
+00:00:35,000 --> 00:00:41,600
+Maxi Gómez (Uruguay) - Celta de Vigo
+Partidos: 75 | Goles: 31 | Asistencias: 10
+
+8
+00:00:41,600 --> 00:00:48,200
+Fernando Baiano (Brazil) - Celta de Vigo
+Partidos: 80 | Goles: 32
+
+9
+00:00:48,200 --> 00:00:54,800
+Edú (Brazil) - Celta de Vigo
+Partidos: 144 | Goles: 32 | Asistencias: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Manolo Jiménez (Spain) - Celta de Vigo
+Partidos: 155 | Goles: 36
+
+11
+00:01:01,400 --> 00:01:08,000
+Fabián Orellana (Chile) - Celta de Vigo
+Partidos: 172 | Goles: 36 | Asistencias: 41
+
+12
+00:01:08,000 --> 00:01:14,600
+Juan Fernández (Spain) - Celta de Vigo
+Partidos: 223 | Goles: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+David Rodríguez (Spain) - Celta de Vigo
+Partidos: 114 | Goles: 38 | Asistencias: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Valeriy Karpin (Russia) - Celta de Vigo
+Partidos: 218 | Goles: 39 | Asistencias: 12
+
+15
+00:01:27,800 --> 00:01:34,400
+Juan Aretio (Spain) - Celta de Vigo
+Partidos: 109 | Goles: 40
+
+16
+00:01:34,400 --> 00:01:41,000
+Carlos Torres (Spain) - Celta de Vigo
+Partidos: 114 | Goles: 41
+
+17
+00:01:41,000 --> 00:01:47,600
+Santi Mina (Spain) - Celta de Vigo
+Partidos: 163 | Goles: 42 | Asistencias: 17
+
+18
+00:01:47,600 --> 00:01:54,200
+Peixe (Spain) - Celta de Vigo
+Partidos: 79 | Goles: 44
+
+19
+00:01:54,200 --> 00:02:00,800
+Pablo Olmedo (Spain) - Celta de Vigo
+Partidos: 155 | Goles: 45
+
+20
+00:02:00,800 --> 00:02:07,400
+Catanha (Spain) - Celta de Vigo
+Partidos: 144 | Goles: 46 | Asistencias: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Juan Sánchez (Spain) - Celta de Vigo
+Partidos: 206 | Goles: 47 | Asistencias: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Juan del Pino (Spain) - Celta de Vigo
+Partidos: 71 | Goles: 51
+
+23
+00:02:20,600 --> 00:02:27,200
+Adolfo Atienza (Spain) - Celta de Vigo
+Partidos: 125 | Goles: 51 | Asistencias: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Nolito (Spain) - Celta de Vigo
+Partidos: 182 | Goles: 52 | Asistencias: 31
+
+25
+00:02:33,800 --> 00:02:40,400
+Francisco Roig (Spain) - Celta de Vigo
+Partidos: 152 | Goles: 56 | Asistencias: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Pahiño (Spain) - Celta de Vigo
+Partidos: 87 | Goles: 60
+
+27
+00:02:47,000 --> 00:02:53,600
+Mauro (Spain) - Celta de Vigo
+Partidos: 112 | Goles: 69
+
+28
+00:02:53,600 --> 00:03:00,200
+Aleksandr Mostovoy (Russia) - Celta de Vigo
+Partidos: 290 | Goles: 72 | Asistencias: 45
+
+29
+00:03:00,200 --> 00:03:06,800
+Manuel Hermida (Spain) - Celta de Vigo
+Partidos: 169 | Goles: 107
+
+30
+00:03:06,800 --> 00:03:13,400
+Vladimir Gudelj (Bosnia-Herzegovina) - Celta de Vigo
+Partidos: 257 | Goles: 112 | Asistencias: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Iago Aspas (Spain) - Celta de Vigo
+Partidos: 516 | Goles: 212 | Asistencias: 82
+

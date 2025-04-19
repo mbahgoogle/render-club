@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persija Jakarta 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Ondrej Kudela (Czech Republic) - Persija Jakarta
+出場数: 81 | ゴール: 5 | アシスト: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Heri Susanto (Indonesia) - Persija Jakarta
+出場数: 44 | ゴール: 5 | アシスト: 5
+
+4
+00:00:15,200 --> 00:00:21,800
+Rudi Widodo (Indonesia) - Persija Jakarta
+出場数: 35 | ゴール: 5 | アシスト: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Hanno Behrens (Germany) - Persija Jakarta
+出場数: 18 | ゴール: 5
+
+6
+00:00:28,400 --> 00:00:35,000
+Ryuji Utomo (Indonesia) - Persija Jakarta
+出場数: 52 | ゴール: 5
+
+7
+00:00:35,000 --> 00:00:41,600
+Willian Pacheco (Brazil) - Persija Jakarta
+出場数: 40 | ゴール: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Aji Kusuma (Indonesia) - Persija Jakarta
+出場数: 38 | ゴール: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Osvaldo Haay (Indonesia) - Persija Jakarta
+出場数: 47 | ゴール: 6 | アシスト: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Rezaldi Hehanussa (Indonesia) - Persija Jakarta
+出場数: 94 | ゴール: 6 | アシスト: 9
+
+11
+00:01:01,400 --> 00:01:08,000
+Makan Konate (Mali) - Persija Jakarta
+出場数: 14 | ゴール: 7 | アシスト: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Hanif Sjahbandi (Indonesia) - Persija Jakarta
+出場数: 86 | ゴール: 7 | アシスト: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Jaime (Brazil) - Persija Jakarta
+出場数: 36 | ゴール: 7
+
+14
+00:01:21,200 --> 00:01:27,800
+Maciej Gajos (Poland) - Persija Jakarta
+出場数: 57 | ゴール: 8 | アシスト: 11
+
+15
+00:01:27,800 --> 00:01:34,400
+Yusuf (Bahrain) - Persija Jakarta
+出場数: 17 | ゴール: 9 | アシスト: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Robertino Pugliara (Argentina) - Persija Jakarta
+出場数: 58 | ゴール: 9
+
+17
+00:01:41,000 --> 00:01:47,600
+Fabiano Beltrame (Indonesia) - Persija Jakarta
+出場数: 78 | ゴール: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Michael Krmencik (Czech Republic) - Persija Jakarta
+出場数: 23 | ゴール: 10 | アシスト: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Bruno Lopes (Brazil) - Persija Jakarta
+出場数: 29 | ゴール: 10 | アシスト: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Novri Setiawan (Indonesia) - Persija Jakarta
+出場数: 136 | ゴール: 11 | アシスト: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Rachmat Afandi (Indonesia) - Persija Jakarta
+出場数: 72 | ゴール: 12
+
+22
+00:02:14,000 --> 00:02:20,600
+Riko Simanjuntak (Indonesia) - Persija Jakarta
+出場数: 207 | ゴール: 12 | アシスト: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Rohit Chand (Nepal) - Persija Jakarta
+出場数: 173 | ゴール: 13 | アシスト: 11
+
+24
+00:02:27,200 --> 00:02:33,800
+Bruno Matos (Brazil) - Persija Jakarta
+出場数: 23 | ゴール: 14 | アシスト: 6
+
+25
+00:02:33,800 --> 00:02:40,400
+Emmanuel Kenmogne (Cameroon) - Persija Jakarta
+出場数: 17 | ゴール: 14
+
+26
+00:02:40,400 --> 00:02:47,000
+Ryo Matsumura (Japan) - Persija Jakarta
+出場数: 63 | ゴール: 17 | アシスト: 17
+
+27
+00:02:47,000 --> 00:02:53,600
+Gustavo (Brazil) - Persija Jakarta
+出場数: 36 | ゴール: 20 | アシスト: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Pedro Velázquez (Paraguay) - Persija Jakarta
+出場数: 44 | ゴール: 22
+
+29
+00:03:00,200 --> 00:03:06,800
+Bambang Pamungkas (Indonesia) - Persija Jakarta
+出場数: 107 | ゴール: 24 | アシスト: 5
+
+30
+00:03:06,800 --> 00:03:13,400
+Ramdani Lestaluhu (Indonesia) - Persija Jakarta
+出場数: 161 | ゴール: 29 | アシスト: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Marko Simic (Croatia) - Persija Jakarta
+出場数: 162 | ゴール: 89 | アシスト: 9
+

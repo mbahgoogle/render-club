@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AJ Auxerre Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+William Prunier (France) - AJ Auxerre
+Apparitions: 256 | Buts: 25
+
+3
+00:00:08,600 --> 00:00:15,200
+Gaëtan Perrin (France) - AJ Auxerre
+Apparitions: 148 | Buts: 26 | Passes décisives: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Bernard Ferrer (France) - AJ Auxerre
+Apparitions: 127 | Buts: 27 | Passes décisives: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Rémy Dugimont (France) - AJ Auxerre
+Apparitions: 137 | Buts: 28 | Passes décisives: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Moussa Saïb (Algeria) - AJ Auxerre
+Apparitions: 192 | Buts: 28 | Passes décisives: 15
+
+7
+00:00:35,000 --> 00:00:41,600
+Dennis Oliech (Kenya) - AJ Auxerre
+Apparitions: 200 | Buts: 28 | Passes décisives: 24
+
+8
+00:00:41,600 --> 00:00:48,200
+Gauthier Hein (France) - AJ Auxerre
+Apparitions: 152 | Buts: 29 | Passes décisives: 20
+
+9
+00:00:48,200 --> 00:00:54,800
+Éric Cantona (France) - AJ Auxerre
+Apparitions: 94 | Buts: 29
+
+10
+00:00:54,800 --> 00:01:01,400
+Benjani (Zimbabwe) - AJ Auxerre
+Apparitions: 110 | Buts: 29 | Passes décisives: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Enzo Scifo (Belgium) - AJ Auxerre
+Apparitions: 81 | Buts: 30 | Passes décisives: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Gaëtan Courtet (France) - AJ Auxerre
+Apparitions: 84 | Buts: 31 | Passes décisives: 21
+
+13
+00:01:14,600 --> 00:01:21,200
+Yann Lachuer (France) - AJ Auxerre
+Apparitions: 256 | Buts: 31 | Passes décisives: 14
+
+14
+00:01:21,200 --> 00:01:27,800
+Steve Marlet (France) - AJ Auxerre
+Apparitions: 135 | Buts: 33 | Passes décisives: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+Bonaventure Kalou (Cote d'Ivoire) - AJ Auxerre
+Apparitions: 92 | Buts: 34 | Passes décisives: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Daniel Dutuel (France) - AJ Auxerre
+Apparitions: 258 | Buts: 34 | Passes décisives: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Luigi Pieroni (Belgium) - AJ Auxerre
+Apparitions: 113 | Buts: 36 | Passes décisives: 7
+
+18
+00:01:47,600 --> 00:01:54,200
+Olivier Kapo (France) - AJ Auxerre
+Apparitions: 204 | Buts: 36 | Passes décisives: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Kálmán Kovács (Hungary) - AJ Auxerre
+Apparitions: 100 | Buts: 42 | Passes décisives: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Corentin Martins (France) - AJ Auxerre
+Apparitions: 207 | Buts: 45 | Passes décisives: 16
+
+21
+00:02:07,400 --> 00:02:14,000
+Bernard Diomède (France) - AJ Auxerre
+Apparitions: 224 | Buts: 46 | Passes décisives: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Gérald Baticle (France) - AJ Auxerre
+Apparitions: 176 | Buts: 47 | Passes décisives: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Jean-Marc Ferreri (France) - AJ Auxerre
+Apparitions: 244 | Buts: 54 | Passes décisives: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Lilian Laslandes (France) - AJ Auxerre
+Apparitions: 161 | Buts: 55 | Passes décisives: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Ireneusz Jeleń (Poland) - AJ Auxerre
+Apparitions: 164 | Buts: 59 | Passes décisives: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrice Garande (France) - AJ Auxerre
+Apparitions: 162 | Buts: 61
+
+27
+00:02:47,000 --> 00:02:53,600
+Pascal Vahirua (France) - AJ Auxerre
+Apparitions: 347 | Buts: 69 | Passes décisives: 18
+
+28
+00:02:53,600 --> 00:03:00,200
+Christophe Cocard (France) - AJ Auxerre
+Apparitions: 322 | Buts: 72 | Passes décisives: 13
+
+29
+00:03:00,200 --> 00:03:06,800
+Stéphane Guivarc'h (France) - AJ Auxerre
+Apparitions: 152 | Buts: 80 | Passes décisives: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Djibril Cissé (France) - AJ Auxerre
+Apparitions: 169 | Buts: 90 | Passes décisives: 5
+
+31
+00:03:13,400 --> 00:03:20,000
+Andrzej Szarmach (Poland) - AJ Auxerre
+Apparitions: 158 | Buts: 100
+

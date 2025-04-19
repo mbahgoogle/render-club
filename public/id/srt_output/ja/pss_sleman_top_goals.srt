@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSS Sleman 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Zé Valente (Portugal) - PSS Sleman
+出場数: 18 | ゴール: 2 | アシスト: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Danilo Alves (Brazil) - PSS Sleman
+出場数: 12 | ゴール: 2 | アシスト: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Vico (Brazil) - PSS Sleman
+出場数: 10 | ゴール: 2 | アシスト: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Irfan Bachdim (Indonesia) - PSS Sleman
+出場数: 11 | ゴール: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Tallysson (Brazil) - PSS Sleman
+出場数: 11 | ゴール: 2 | アシスト: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Dominikus Dion (Indonesia) - PSS Sleman
+出場数: 23 | ゴール: 2 | アシスト: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Saddam Gaffar (Indonesia) - PSS Sleman
+出場数: 23 | ゴール: 3 | アシスト: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Nemanja Kojic (Serbia) - PSS Sleman
+出場数: 11 | ゴール: 3 | アシスト: 3
+
+10
+00:00:54,800 --> 00:01:01,400
+Thales (Brazil) - PSS Sleman
+出場数: 30 | ゴール: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Cleberson (Brazil) - PSS Sleman
+出場数: 26 | ゴール: 3 | アシスト: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Dave Mustaine (Indonesia) - PSS Sleman
+出場数: 56 | ゴール: 4 | アシスト: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Mario Maslac (Serbia) - PSS Sleman
+出場数: 33 | ゴール: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Ajak Riak (Southern Sudan) - PSS Sleman
+出場数: 14 | ゴール: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+Wander Luiz (Brazil) - PSS Sleman
+出場数: 16 | ゴール: 5
+
+16
+00:01:34,400 --> 00:01:41,000
+KH Yudo (Indonesia) - PSS Sleman
+出場数: 33 | ゴール: 6 | アシスト: 4
+
+17
+00:01:41,000 --> 00:01:47,600
+Juninho (Brazil) - PSS Sleman
+出場数: 18 | ゴール: 6 | アシスト: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Jonathan Bustos (Argentina) - PSS Sleman
+出場数: 29 | ゴール: 6 | アシスト: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Jihad Ayoub (Lebanon) - PSS Sleman
+出場数: 46 | ゴール: 6 | アシスト: 6
+
+20
+00:02:00,800 --> 00:02:07,400
+Nicolao Cardoso (Italy) - PSS Sleman
+出場数: 23 | ゴール: 6 | アシスト: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Haris Tuharea (Indonesia) - PSS Sleman
+出場数: 42 | ゴール: 7 | アシスト: 5
+
+22
+00:02:14,000 --> 00:02:20,600
+Hokky Caraka (Indonesia) - PSS Sleman
+出場数: 62 | ゴール: 7 | アシスト: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Esteban Vizcarra (Indonesia) - PSS Sleman
+出場数: 32 | ゴール: 7
+
+24
+00:02:27,200 --> 00:02:33,800
+Irfan Jaya (Indonesia) - PSS Sleman
+出場数: 18 | ゴール: 8 | アシスト: 4
+
+25
+00:02:33,800 --> 00:02:40,400
+Riki Dwi Saputro (Indonesia) - PSS Sleman
+出場数: 53 | ゴール: 9 | アシスト: 7
+
+26
+00:02:40,400 --> 00:02:47,000
+Ricky Cawor (Indonesia) - PSS Sleman
+出場数: 50 | ゴール: 10 | アシスト: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Brian Ferreira (Argentina) - PSS Sleman
+出場数: 23 | ゴール: 10 | アシスト: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Kim Kurniawan (Indonesia) - PSS Sleman
+出場数: 99 | ゴール: 10 | アシスト: 5
+
+29
+00:03:00,200 --> 00:03:06,800
+Gustavo Tocantins (Brazil) - PSS Sleman
+出場数: 27 | ゴール: 11 | アシスト: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Irkham Mila (Indonesia) - PSS Sleman
+出場数: 113 | ゴール: 12 | アシスト: 10
+
+31
+00:03:13,400 --> 00:03:20,000
+Yevgen Bokhashvili (Ukraine) - PSS Sleman
+出場数: 60 | ゴール: 23 | アシスト: 7
+

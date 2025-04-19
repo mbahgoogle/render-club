@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSIS Semarang Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Vitinho (Brazil) - PSIS Semarang
+Partidas: 25 | Gols: 2 | Assistências: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Rizky Dwi (Indonesia) - PSIS Semarang
+Partidas: 11 | Gols: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Boubakary Diarra (France) - PSIS Semarang
+Partidas: 55 | Gols: 2 | Assistências: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Evandro Brandão (Angola) - PSIS Semarang
+Partidas: 8 | Gols: 2 | Assistências: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Pratama Arhan (Indonesia) - PSIS Semarang
+Partidas: 13 | Gols: 2 | Assistências: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Rachmad Hidayat (Indonesia) - PSIS Semarang
+Partidas: 19 | Gols: 2 | Assistências: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Silvio Escobar (Indonesia) - PSIS Semarang
+Partidas: 15 | Gols: 2 | Assistências: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Heru Setyawan (Indonesia) - PSIS Semarang
+Partidas: 17 | Gols: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Eka Febri Setiawan (Indonesia) - PSIS Semarang
+Partidas: 46 | Gols: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Ridho Syuhada (Indonesia) - PSIS Semarang
+Partidas: 51 | Gols: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Fandi Utomo (Indonesia) - PSIS Semarang
+Partidas: 30 | Gols: 4 | Assistências: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Abdallah Sudi (Burundi) - PSIS Semarang
+Partidas: 11 | Gols: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Wawan Febrianto (Indonesia) - PSIS Semarang
+Partidas: 42 | Gols: 4 | Assistências: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Lucão (Brazil) - PSIS Semarang
+Partidas: 32 | Gols: 4 | Assistências: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Komarodin (Indonesia) - PSIS Semarang
+Partidas: 88 | Gols: 5 | Assistências: 6
+
+17
+00:01:41,000 --> 00:01:47,600
+Tri Setiawan (Indonesia) - PSIS Semarang
+Partidas: 40 | Gols: 5 | Assistências: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Claudir (Brazil) - PSIS Semarang
+Partidas: 17 | Gols: 5 | Assistências: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Ibrahim Conteh (Sierra Leone) - PSIS Semarang
+Partidas: 32 | Gols: 5 | Assistências: 5
+
+20
+00:02:00,800 --> 00:02:07,400
+Alfeandra Dewangga (Indonesia) - PSIS Semarang
+Partidas: 100 | Gols: 6 | Assistências: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Bayu Nugroho (Indonesia) - PSIS Semarang
+Partidas: 65 | Gols: 8 | Assistências: 6
+
+22
+00:02:14,000 --> 00:02:20,600
+Fredyan Wahyu (Indonesia) - PSIS Semarang
+Partidas: 113 | Gols: 8 | Assistências: 13
+
+23
+00:02:20,600 --> 00:02:27,200
+Riyan Ardiansyah (Indonesia) - PSIS Semarang
+Partidas: 113 | Gols: 12 | Assistências: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Taisei Marukawa (Japan) - PSIS Semarang
+Partidas: 70 | Gols: 12 | Assistências: 20
+
+25
+00:02:33,800 --> 00:02:40,400
+Paulo Gali (Timor-Leste) - PSIS Semarang
+Partidas: 57 | Gols: 12 | Assistências: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Wallace (Brazil) - PSIS Semarang
+Partidas: 65 | Gols: 13
+
+27
+00:02:47,000 --> 00:02:53,600
+Jonathan Cantillana (Palestine) - PSIS Semarang
+Partidas: 64 | Gols: 17 | Assistências: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Carlos Fortes (Cape Verde) - PSIS Semarang
+Partidas: 43 | Gols: 18 | Assistências: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+David Maulana (Indonesia) - PSIS Semarang
+Partidas: 132 | Gols: 19 | Assistências: 17
+
+30
+00:03:06,800 --> 00:03:13,400
+Bruno Silva (Brazil) - PSIS Semarang
+Partidas: 59 | Gols: 26 | Assistências: 14
+
+31
+00:03:13,400 --> 00:03:20,000
+Hari Nur (Indonesia) - PSIS Semarang
+Partidas: 131 | Gols: 29 | Assistências: 17
+

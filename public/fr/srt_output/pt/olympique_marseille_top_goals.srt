@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Olympique Marseille Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Philippe Vercruysse (France) - Olympique Marseille
+Partidas: 131 | Gols: 36 | Assistências: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Hervé Florès (France) - Olympique Marseille
+Partidas: 153 | Gols: 37
+
+4
+00:00:15,200 --> 00:00:21,800
+Djibril Cissé (France) - Olympique Marseille
+Partidas: 80 | Gols: 37 | Assistências: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Georges Dard (France) - Olympique Marseille
+Partidas: 177 | Gols: 38
+
+6
+00:00:28,400 --> 00:00:35,000
+Mathieu Valbuena (France) - Olympique Marseille
+Partidas: 330 | Gols: 38 | Assistências: 58
+
+7
+00:00:35,000 --> 00:00:41,600
+Robert Buigues (France) - Olympique Marseille
+Partidas: 230 | Gols: 38 | Assistências: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Franck Sauzée (France) - Olympique Marseille
+Partidas: 164 | Gols: 39 | Assistências: 11
+
+9
+00:00:48,200 --> 00:00:54,800
+Vilmos Kohut (Hungary) - Olympique Marseille
+Partidas: 82 | Gols: 39 | Assistências: 3
+
+10
+00:00:54,800 --> 00:01:01,400
+Didier Couécou (France) - Olympique Marseille
+Partidas: 107 | Gols: 39
+
+11
+00:01:01,400 --> 00:01:08,000
+Mario Zatelli (France) - Olympique Marseille
+Partidas: 53 | Gols: 40
+
+12
+00:01:08,000 --> 00:01:14,600
+Albert Emon (France) - Olympique Marseille
+Partidas: 152 | Gols: 41
+
+13
+00:01:14,600 --> 00:01:21,200
+Marc Libbra (France) - Olympique Marseille
+Partidas: 149 | Gols: 41 | Assistências: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Loïc Rémy (France) - Olympique Marseille
+Partidas: 111 | Gols: 42 | Assistências: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Joseph Alcazar (France) - Olympique Marseille
+Partidas: 53 | Gols: 42 | Assistências: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Charly Loubet (France) - Olympique Marseille
+Partidas: 90 | Gols: 43
+
+17
+00:01:41,000 --> 00:01:47,600
+Marc Berdoll (France) - Olympique Marseille
+Partidas: 107 | Gols: 53
+
+18
+00:01:47,600 --> 00:01:54,200
+Joseph Bonnel (France) - Olympique Marseille
+Partidas: 250 | Gols: 58
+
+19
+00:01:54,200 --> 00:02:00,800
+Roger Scotti (France) - Olympique Marseille
+Partidas: 341 | Gols: 58
+
+20
+00:02:00,800 --> 00:02:07,400
+André Ayew (Ghana) - Olympique Marseille
+Partidas: 209 | Gols: 60 | Assistências: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Tony Cascarino (Ireland) - Olympique Marseille
+Partidas: 105 | Gols: 70 | Assistências: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Boubacar Sarr (Senegal) - Olympique Marseille
+Partidas: 169 | Gols: 70
+
+23
+00:02:20,600 --> 00:02:27,200
+Marc Pascal (France) - Olympique Marseille
+Partidas: 173 | Gols: 72
+
+24
+00:02:27,200 --> 00:02:33,800
+André-Pierre Gignac (France) - Olympique Marseille
+Partidas: 188 | Gols: 77 | Assistências: 13
+
+25
+00:02:33,800 --> 00:02:40,400
+Dimitri Payet (France) - Olympique Marseille
+Partidas: 326 | Gols: 78 | Assistências: 95
+
+26
+00:02:40,400 --> 00:02:47,000
+Florian Thauvin (France) - Olympique Marseille
+Partidas: 281 | Gols: 86 | Assistências: 61
+
+27
+00:02:47,000 --> 00:02:53,600
+Joseph Yegba Maya (Cameroon) - Olympique Marseille
+Partidas: 160 | Gols: 88
+
+28
+00:02:53,600 --> 00:03:00,200
+Mamadou Niang (Senegal) - Olympique Marseille
+Partidas: 227 | Gols: 100 | Assistências: 36
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean-Pierre Papin (France) - Olympique Marseille
+Partidas: 275 | Gols: 182 | Assistências: 10
+
+30
+00:03:06,800 --> 00:03:13,400
+Josip Skoblar (Croatia) - Olympique Marseille
+Partidas: 218 | Gols: 185
+
+31
+00:03:13,400 --> 00:03:20,000
+Gunnar Andersson (Sweden) - Olympique Marseille
+Partidas: 248 | Gols: 194
+

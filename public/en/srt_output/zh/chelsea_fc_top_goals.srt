@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Chelsea FC 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Fernando Torres (Spain) - Chelsea FC
+出场数: 172 | 进球: 45 | 助攻: 29
+
+3
+00:00:08,600 --> 00:00:15,200
+Kevin Wilson (Northern Ireland) - Chelsea FC
+出场数: 172 | 进球: 47 | 助攻: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Gustavo Poyet (Uruguay) - Chelsea FC
+出场数: 144 | 进球: 49 | 助攻: 16
+
+5
+00:00:21,800 --> 00:00:28,400
+Tore André Flo (Norway) - Chelsea FC
+出场数: 163 | 进球: 50 | 助攻: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Frank Blunstone (England) - Chelsea FC
+出场数: 343 | 进球: 53 | 助攻: 6
+
+7
+00:00:35,000 --> 00:00:41,600
+Ian Hutchinson (England) - Chelsea FC
+出场数: 125 | 进球: 54
+
+8
+00:00:41,600 --> 00:00:48,200
+Peter Brabrook (England) - Chelsea FC
+出场数: 270 | 进球: 57 | 助攻: 7
+
+9
+00:00:48,200 --> 00:00:54,800
+Diego Costa (Spain) - Chelsea FC
+出场数: 120 | 进球: 59 | 助攻: 21
+
+10
+00:00:54,800 --> 00:01:01,400
+Gordon Durie (Scotland) - Chelsea FC
+出场数: 139 | 进球: 59 | 助攻: 9
+
+11
+00:01:01,400 --> 00:01:08,000
+Nicolas Anelka (France) - Chelsea FC
+出场数: 184 | 进球: 59 | 助攻: 26
+
+12
+00:01:08,000 --> 00:01:14,600
+Salomon Kalou (Cote d'Ivoire) - Chelsea FC
+出场数: 254 | 进球: 60 | 助攻: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+John Hollins (England) - Chelsea FC
+出场数: 560 | 进球: 62 | 助攻: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Willian (Brazil) - Chelsea FC
+出场数: 339 | 进球: 63 | 助攻: 57
+
+15
+00:01:27,800 --> 00:01:34,400
+Johnny McNichol (Scotland) - Chelsea FC
+出场数: 198 | 进球: 63
+
+16
+00:01:34,400 --> 00:01:41,000
+John Terry (England) - Chelsea FC
+出场数: 717 | 进球: 67 | 助攻: 27
+
+17
+00:01:41,000 --> 00:01:47,600
+Ron Tindall (England) - Chelsea FC
+出场数: 172 | 进球: 68
+
+18
+00:01:47,600 --> 00:01:54,200
+Dennis Wise (England) - Chelsea FC
+出场数: 440 | 进球: 73 | 助攻: 46
+
+19
+00:01:54,200 --> 00:02:00,800
+Eidur Gudjohnsen (Iceland) - Chelsea FC
+出场数: 263 | 进球: 78 | 助攻: 41
+
+20
+00:02:00,800 --> 00:02:07,400
+Gianfranco Zola (Italy) - Chelsea FC
+出场数: 312 | 进球: 80 | 助攻: 42
+
+21
+00:02:07,400 --> 00:02:14,000
+Jimmy Floyd Hasselbaink (Netherlands) - Chelsea FC
+出场数: 177 | 进球: 87 | 助攻: 36
+
+22
+00:02:14,000 --> 00:02:20,600
+Barry Bridges (England) - Chelsea FC
+出场数: 201 | 进球: 88 | 助攻: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Tommy Baldwin (England) - Chelsea FC
+出场数: 231 | 进球: 91 | 助攻: 4
+
+24
+00:02:27,200 --> 00:02:33,800
+Eden Hazard (Belgium) - Chelsea FC
+出场数: 352 | 进球: 110 | 助攻: 85
+
+25
+00:02:33,800 --> 00:02:40,400
+Jimmy Greaves (England) - Chelsea FC
+出场数: 168 | 进球: 132 | 助攻: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Peter Osgood (England) - Chelsea FC
+出场数: 369 | 进球: 140 | 助攻: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Roy Bentley (England) - Chelsea FC
+出场数: 352 | 进球: 144
+
+28
+00:02:53,600 --> 00:03:00,200
+Kerry Dixon (England) - Chelsea FC
+出场数: 363 | 进球: 157 | 助攻: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Didier Drogba (Cote d'Ivoire) - Chelsea FC
+出场数: 381 | 进球: 164 | 助攻: 77
+
+30
+00:03:06,800 --> 00:03:13,400
+Bobby Tambling (England) - Chelsea FC
+出场数: 362 | 进球: 194 | 助攻: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Frank Lampard (England) - Chelsea FC
+出场数: 648 | 进球: 211 | 助攻: 147
+

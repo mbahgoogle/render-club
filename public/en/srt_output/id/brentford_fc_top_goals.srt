@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Brentford FC Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Jonathan Douglas (Ireland) - Brentford FC
+Penampilan: 187 | Gol: 17 | Asis: 11
+
+3
+00:00:08,600 --> 00:00:15,200
+Ben Burgess (Ireland) - Brentford FC
+Penampilan: 45 | Gol: 17
+
+4
+00:00:15,200 --> 00:00:21,800
+Marcus Forss (Finland) - Brentford FC
+Penampilan: 74 | Gol: 19 | Asis: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Isaiah Rankin (England) - Brentford FC
+Penampilan: 94 | Gol: 19 | Asis: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Andre Gray (Jamaica) - Brentford FC
+Penampilan: 52 | Gol: 20 | Asis: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Robert Taylor (England) - Brentford FC
+Penampilan: 69 | Gol: 21
+
+8
+00:00:41,600 --> 00:00:48,200
+Glenn Poole (England) - Brentford FC
+Penampilan: 78 | Gol: 21 | Asis: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Scott Hogan (Ireland) - Brentford FC
+Penampilan: 36 | Gol: 21 | Asis: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Jay Tabb (Ireland) - Brentford FC
+Penampilan: 147 | Gol: 22 | Asis: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Josh Dasilva (England) - Brentford FC
+Penampilan: 157 | Gol: 22 | Asis: 12
+
+12
+00:01:08,000 --> 00:01:14,600
+Jota Peleteiro (Spain) - Brentford FC
+Penampilan: 78 | Gol: 23 | Asis: 11
+
+13
+00:01:14,600 --> 00:01:21,200
+Marcello Trotta (Italy) - Brentford FC
+Penampilan: 69 | Gol: 23 | Asis: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy Scott (England) - Brentford FC
+Penampilan: 92 | Gol: 25
+
+15
+00:01:27,800 --> 00:01:34,400
+Alan Judge (Ireland) - Brentford FC
+Penampilan: 140 | Gol: 26 | Asis: 31
+
+16
+00:01:34,400 --> 00:01:41,000
+Gary Alexander (England) - Brentford FC
+Penampilan: 77 | Gol: 26 | Asis: 5
+
+17
+00:01:41,000 --> 00:01:47,600
+Paul Evans (Wales) - Brentford FC
+Penampilan: 125 | Gol: 28
+
+18
+00:01:47,600 --> 00:01:54,200
+Stephen Hunt (Ireland) - Brentford FC
+Penampilan: 149 | Gol: 28
+
+19
+00:01:54,200 --> 00:02:00,800
+Saïd Benrahma (Algeria) - Brentford FC
+Penampilan: 94 | Gol: 30 | Asis: 26
+
+20
+00:02:00,800 --> 00:02:07,400
+Sam Saunders (England) - Brentford FC
+Penampilan: 206 | Gol: 30 | Asis: 32
+
+21
+00:02:07,400 --> 00:02:14,000
+Sergi Canós (Spain) - Brentford FC
+Penampilan: 249 | Gol: 36 | Asis: 32
+
+22
+00:02:14,000 --> 00:02:20,600
+Lasse Vibe (Denmark) - Brentford FC
+Penampilan: 97 | Gol: 37 | Asis: 13
+
+23
+00:02:20,600 --> 00:02:27,200
+Kevin O'Connor (Ireland) - Brentford FC
+Penampilan: 481 | Gol: 41 | Asis: 6
+
+24
+00:02:27,200 --> 00:02:33,800
+Yoane Wissa (DR Congo) - Brentford FC
+Penampilan: 141 | Gol: 44 | Asis: 10
+
+25
+00:02:33,800 --> 00:02:40,400
+Charlie MacDonald (England) - Brentford FC
+Penampilan: 127 | Gol: 45 | Asis: 19
+
+26
+00:02:40,400 --> 00:02:47,000
+Ollie Watkins (England) - Brentford FC
+Penampilan: 143 | Gol: 49 | Asis: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Neal Maupay (France) - Brentford FC
+Penampilan: 126 | Gol: 49 | Asis: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Clayton Donaldson (Jamaica) - Brentford FC
+Penampilan: 155 | Gol: 53 | Asis: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Lloyd Owusu (Ghana) - Brentford FC
+Penampilan: 181 | Gol: 59 | Asis: 5
+
+30
+00:03:06,800 --> 00:03:13,400
+Bryan Mbeumo (Cameroon) - Brentford FC
+Penampilan: 234 | Gol: 66 | Asis: 47
+
+31
+00:03:13,400 --> 00:03:20,000
+Ivan Toney (England) - Brentford FC
+Penampilan: 141 | Gol: 72 | Asis: 23
+

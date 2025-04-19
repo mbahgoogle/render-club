@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PERSIS Solo Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Alfath Faathier (Indonesia) - PERSIS Solo
+Einsätze: 34 | Tore: 1 | Vorlagen: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Fransiskus Alesandro (Indonesia) - PERSIS Solo
+Einsätze: 11 | Tore: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Cleylton (Brazil) - PERSIS Solo
+Einsätze: 7 | Tore: 1 | Vorlagen: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Sunarto (Indonesia) - PERSIS Solo
+Einsätze: 1 | Tore: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Sho Yamamoto (Japan) - PERSIS Solo
+Einsätze: 45 | Tore: 2 | Vorlagen: 8
+
+7
+00:00:35,000 --> 00:00:41,600
+Jaime (Brazil) - PERSIS Solo
+Einsätze: 54 | Tore: 2 | Vorlagen: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Zanadin Fariz (Indonesia) - PERSIS Solo
+Einsätze: 36 | Tore: 2 | Vorlagen: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Muhammad Isa (Indonesia) - PERSIS Solo
+Einsätze: 6 | Tore: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Iman Budi (Indonesia) - PERSIS Solo
+Einsätze: 8 | Tore: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Jhon Cley (Brazil) - PERSIS Solo
+Einsätze: 9 | Tore: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Karim Rossi (Switzerland) - PERSIS Solo
+Einsätze: 24 | Tore: 2 | Vorlagen: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Miftahul Hamdi (Indonesia) - PERSIS Solo
+Einsätze: 15 | Tore: 2 | Vorlagen: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Ricardo Lima (Brazil) - PERSIS Solo
+Einsätze: 12 | Tore: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Eky Taufik (Indonesia) - PERSIS Solo
+Einsätze: 86 | Tore: 3 | Vorlagen: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Sutanto Tan (Indonesia) - PERSIS Solo
+Einsätze: 78 | Tore: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Lautaro Belleggia (Argentina) - PERSIS Solo
+Einsätze: 10 | Tore: 3 | Vorlagen: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Irfan Jauhari (Indonesia) - PERSIS Solo
+Einsätze: 63 | Tore: 4 | Vorlagen: 4
+
+19
+00:01:54,200 --> 00:02:00,800
+Fabiano Beltrame (Indonesia) - PERSIS Solo
+Einsätze: 35 | Tore: 4 | Vorlagen: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Rivaldi Bawuo (Indonesia) - PERSIS Solo
+Einsätze: 12 | Tore: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Irfan Bachdim (Indonesia) - PERSIS Solo
+Einsätze: 27 | Tore: 4 | Vorlagen: 4
+
+22
+00:02:14,000 --> 00:02:20,600
+Ferdinan Sinaga (Indonesia) - PERSIS Solo
+Einsätze: 41 | Tore: 5 | Vorlagen: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Samsul Arif (Indonesia) - PERSIS Solo
+Einsätze: 33 | Tore: 5 | Vorlagen: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Althaf Alrizky (Indonesia) - PERSIS Solo
+Einsätze: 74 | Tore: 5 | Vorlagen: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Roni (Spain) - PERSIS Solo
+Einsätze: 33 | Tore: 7 | Vorlagen: 8
+
+26
+00:02:40,400 --> 00:02:47,000
+Ryo Matsumura (Japan) - PERSIS Solo
+Einsätze: 28 | Tore: 11 | Vorlagen: 6
+
+27
+00:02:47,000 --> 00:02:53,600
+Beto Gonçalves (Indonesia) - PERSIS Solo
+Einsätze: 14 | Tore: 11 | Vorlagen: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Alexis Messidoro (Argentina) - PERSIS Solo
+Einsätze: 67 | Tore: 14 | Vorlagen: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Ramadhan Sananta (Indonesia) - PERSIS Solo
+Einsätze: 51 | Tore: 15 | Vorlagen: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Fernando Rodríguez (Spain) - PERSIS Solo
+Einsätze: 40 | Tore: 17 | Vorlagen: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Moussa Sidibé (Mali) - PERSIS Solo
+Einsätze: 54 | Tore: 19 | Vorlagen: 9
+

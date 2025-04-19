@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Arsenal FC All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Ronnie Rooke (England) - Arsenal FC
+Appearances: 93 | Goals: 70
+
+3
+00:00:08,600 --> 00:00:15,200
+Alexandre Lacazette (France) - Arsenal FC
+Appearances: 206 | Goals: 71 | Assists: 32
+
+4
+00:00:15,200 --> 00:00:21,800
+Freddie Ljungberg (Sweden) - Arsenal FC
+Appearances: 328 | Goals: 72 | Assists: 40
+
+5
+00:00:21,800 --> 00:00:28,400
+George Graham (Scotland) - Arsenal FC
+Appearances: 278 | Goals: 73 | Assists: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Geoff Strong (England) - Arsenal FC
+Appearances: 133 | Goals: 75 | Assists: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Alexis Sánchez (Chile) - Arsenal FC
+Appearances: 166 | Goals: 80 | Assists: 44
+
+8
+00:00:41,600 --> 00:00:48,200
+Cliff Holton (England) - Arsenal FC
+Appearances: 205 | Goals: 84
+
+9
+00:00:48,200 --> 00:00:54,800
+Robert Pirès (France) - Arsenal FC
+Appearances: 284 | Goals: 84 | Assists: 63
+
+10
+00:00:54,800 --> 00:01:01,400
+Alan Sunderland (England) - Arsenal FC
+Appearances: 270 | Goals: 88 | Assists: 20
+
+11
+00:01:01,400 --> 00:01:08,000
+Joe Hulme (England) - Arsenal FC
+Appearances: 208 | Goals: 90 | Assists: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Don Roper (England) - Arsenal FC
+Appearances: 308 | Goals: 91
+
+13
+00:01:14,600 --> 00:01:21,200
+Pierre-Emerick Aubameyang (Gabon) - Arsenal FC
+Appearances: 163 | Goals: 92 | Assists: 20
+
+14
+00:01:21,200 --> 00:01:27,800
+Jack Lambert (England) - Arsenal FC
+Appearances: 110 | Goals: 97
+
+15
+00:01:27,800 --> 00:01:34,400
+Joe Baker (England) - Arsenal FC
+Appearances: 150 | Goals: 99
+
+16
+00:01:34,400 --> 00:01:41,000
+David Herd (Scotland) - Arsenal FC
+Appearances: 169 | Goals: 99 | Assists: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Paul Merson (England) - Arsenal FC
+Appearances: 423 | Goals: 99 | Assists: 51
+
+18
+00:01:47,600 --> 00:01:54,200
+Reg Lewis (England) - Arsenal FC
+Appearances: 153 | Goals: 102
+
+19
+00:01:54,200 --> 00:02:00,800
+David Jack (England) - Arsenal FC
+Appearances: 146 | Goals: 103
+
+20
+00:02:00,800 --> 00:02:07,400
+Olivier Giroud (France) - Arsenal FC
+Appearances: 253 | Goals: 105 | Assists: 37
+
+21
+00:02:07,400 --> 00:02:14,000
+Frank Stapleton (Ireland) - Arsenal FC
+Appearances: 293 | Goals: 106 | Assists: 21
+
+22
+00:02:14,000 --> 00:02:20,600
+Theo Walcott (England) - Arsenal FC
+Appearances: 397 | Goals: 108 | Assists: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Alan Smith (England) - Arsenal FC
+Appearances: 341 | Goals: 113 | Assists: 22
+
+24
+00:02:27,200 --> 00:02:33,800
+Ted Drake (England) - Arsenal FC
+Appearances: 110 | Goals: 113
+
+25
+00:02:33,800 --> 00:02:40,400
+Dennis Bergkamp (Netherlands) - Arsenal FC
+Appearances: 422 | Goals: 120 | Assists: 116
+
+26
+00:02:40,400 --> 00:02:47,000
+Doug Lishman (England) - Arsenal FC
+Appearances: 235 | Goals: 128
+
+27
+00:02:47,000 --> 00:02:53,600
+John Radford (England) - Arsenal FC
+Appearances: 445 | Goals: 132 | Assists: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Robin van Persie (Netherlands) - Arsenal FC
+Appearances: 278 | Goals: 132 | Assists: 55
+
+29
+00:03:00,200 --> 00:03:06,800
+Cliff Bastin (England) - Arsenal FC
+Appearances: 266 | Goals: 151
+
+30
+00:03:06,800 --> 00:03:13,400
+Ian Wright (England) - Arsenal FC
+Appearances: 288 | Goals: 185 | Assists: 31
+
+31
+00:03:13,400 --> 00:03:20,000
+Thierry Henry (France) - Arsenal FC
+Appearances: 377 | Goals: 228 | Assists: 96
+

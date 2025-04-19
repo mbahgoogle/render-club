@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Manchester United 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Sammy McIlroy (Northern Ireland) - Manchester United
+出場数: 373 | ゴール: 61 | アシスト: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Norman Whiteside (Northern Ireland) - Manchester United
+出場数: 259 | ゴール: 63 | アシスト: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Steve Coppell (England) - Manchester United
+出場数: 373 | ゴール: 65 | アシスト: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Dwight Yorke (Trinidad and Tobago) - Manchester United
+出場数: 152 | ゴール: 66 | アシスト: 32
+
+6
+00:00:28,400 --> 00:00:35,000
+Brian Kidd (England) - Manchester United
+出場数: 265 | ゴール: 70 | アシスト: 13
+
+7
+00:00:35,000 --> 00:00:41,600
+Frank Stapleton (Ireland) - Manchester United
+出場数: 274 | ゴール: 72 | アシスト: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Lou Macari (Scotland) - Manchester United
+出場数: 356 | ゴール: 78
+
+9
+00:00:48,200 --> 00:00:54,800
+Éric Cantona (France) - Manchester United
+出場数: 185 | ゴール: 82 | アシスト: 63
+
+10
+00:00:54,800 --> 00:01:01,400
+David Beckham (England) - Manchester United
+出場数: 394 | ゴール: 85 | アシスト: 121
+
+11
+00:01:01,400 --> 00:01:08,000
+Anthony Martial (France) - Manchester United
+出場数: 317 | ゴール: 90 | アシスト: 46
+
+12
+00:01:08,000 --> 00:01:14,600
+Bruno Fernandes (Portugal) - Manchester United
+出場数: 278 | ゴール: 95 | アシスト: 82
+
+13
+00:01:14,600 --> 00:01:21,200
+Bryan Robson (England) - Manchester United
+出場数: 446 | ゴール: 97 | アシスト: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy Cole (England) - Manchester United
+出場数: 275 | ゴール: 121 | アシスト: 44
+
+15
+00:01:27,800 --> 00:01:34,400
+Brian McClair (Scotland) - Manchester United
+出場数: 466 | ゴール: 121 | アシスト: 16
+
+16
+00:01:34,400 --> 00:01:41,000
+Ole Gunnar Solskjær (Norway) - Manchester United
+出場数: 366 | ゴール: 126 | アシスト: 57
+
+17
+00:01:41,000 --> 00:01:47,600
+Tommy Taylor (England) - Manchester United
+出場数: 189 | ゴール: 131 | アシスト: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Stan Pearson (England) - Manchester United
+出場数: 315 | ゴール: 135 | アシスト: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Marcus Rashford (England) - Manchester United
+出場数: 426 | ゴール: 138 | アシスト: 65
+
+20
+00:02:00,800 --> 00:02:07,400
+David Herd (Scotland) - Manchester United
+出場数: 261 | ゴール: 144 | アシスト: 29
+
+21
+00:02:07,400 --> 00:02:14,000
+Cristiano Ronaldo (Portugal) - Manchester United
+出場数: 346 | ゴール: 145 | アシスト: 64
+
+22
+00:02:14,000 --> 00:02:20,600
+Ruud van Nistelrooy (Netherlands) - Manchester United
+出場数: 219 | ゴール: 150 | アシスト: 28
+
+23
+00:02:20,600 --> 00:02:27,200
+Paul Scholes (England) - Manchester United
+出場数: 716 | ゴール: 155 | アシスト: 82
+
+24
+00:02:27,200 --> 00:02:33,800
+Mark Hughes (Wales) - Manchester United
+出場数: 459 | ゴール: 161 | アシスト: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Ryan Giggs (Wales) - Manchester United
+出場数: 963 | ゴール: 168 | アシスト: 265
+
+26
+00:02:40,400 --> 00:02:47,000
+Dennis Viollet (England) - Manchester United
+出場数: 284 | ゴール: 173 | アシスト: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+George Best (Northern Ireland) - Manchester United
+出場数: 470 | ゴール: 179 | アシスト: 33
+
+28
+00:02:53,600 --> 00:03:00,200
+Jack Rowley (England) - Manchester United
+出場数: 357 | ゴール: 189 | アシスト: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Denis Law (Scotland) - Manchester United
+出場数: 405 | ゴール: 237 | アシスト: 36
+
+30
+00:03:06,800 --> 00:03:13,400
+Sir Bobby Charlton (England) - Manchester United
+出場数: 746 | ゴール: 245 | アシスト: 57
+
+31
+00:03:13,400 --> 00:03:20,000
+Wayne Rooney (England) - Manchester United
+出場数: 559 | ゴール: 253 | アシスト: 139
+

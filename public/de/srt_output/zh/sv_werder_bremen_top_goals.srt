@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+SV Werder Bremen 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Torsten Frings (Germany) - SV Werder Bremen
+出场数: 449 | 进球: 52 | 助攻: 62
+
+3
+00:00:08,600 --> 00:00:15,200
+Markus Rosenberg (Sweden) - SV Werder Bremen
+出场数: 165 | 进球: 53 | 助攻: 27
+
+4
+00:00:15,200 --> 00:00:21,800
+Marvin Ducksch (Germany) - SV Werder Bremen
+出场数: 127 | 进球: 53 | 助攻: 38
+
+5
+00:00:21,800 --> 00:00:28,400
+Diego (Brazil) - SV Werder Bremen
+出场数: 132 | 进球: 54 | 助攻: 42
+
+6
+00:00:28,400 --> 00:00:35,000
+Karl-Heinz Riedle (Germany) - SV Werder Bremen
+出场数: 126 | 进球: 59 | 助攻: 14
+
+7
+00:00:35,000 --> 00:00:41,600
+Benno Möhlmann (Germany) - SV Werder Bremen
+出场数: 340 | 进球: 61 | 助攻: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Miroslav Klose (Germany) - SV Werder Bremen
+出场数: 132 | 进球: 63 | 助攻: 47
+
+9
+00:00:48,200 --> 00:00:54,800
+Hugo Almeida (Portugal) - SV Werder Bremen
+出场数: 177 | 进球: 63 | 助攻: 26
+
+10
+00:00:54,800 --> 00:01:01,400
+Werner Weist (Germany) - SV Werder Bremen
+出场数: 166 | 进球: 65 | 助攻: 9
+
+11
+00:01:01,400 --> 00:01:08,000
+Hans Hagenacker (Germany) - SV Werder Bremen
+出场数: 275 | 进球: 65
+
+12
+00:01:08,000 --> 00:01:14,600
+Jürgen Röber (Germany) - SV Werder Bremen
+出场数: 216 | 进球: 68 | 助攻: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Günter Wilmovius (Germany) - SV Werder Bremen
+出场数: 179 | 进球: 70
+
+14
+00:01:21,200 --> 00:01:27,800
+Gerhard Zebrowski (Germany) - SV Werder Bremen
+出场数: 250 | 进球: 72 | 助攻: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Andreas Herzog (Austria) - SV Werder Bremen
+出场数: 307 | 进球: 72 | 助攻: 86
+
+16
+00:01:34,400 --> 00:01:41,000
+Horst-Dieter Höttges (Germany) - SV Werder Bremen
+出场数: 483 | 进球: 74 | 助攻: 20
+
+17
+00:01:41,000 --> 00:01:47,600
+Horst Gernhardt (Germany) - SV Werder Bremen
+出场数: 134 | 进球: 75
+
+18
+00:01:47,600 --> 00:01:54,200
+Ivan Klasnic (Croatia) - SV Werder Bremen
+出场数: 205 | 进球: 77 | 助攻: 44
+
+19
+00:01:54,200 --> 00:02:00,800
+Klaus Hänel (Germany) - SV Werder Bremen
+出场数: 255 | 进球: 87 | 助攻: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Werner Görts (Germany) - SV Werder Bremen
+出场数: 425 | 进球: 92 | 助攻: 27
+
+21
+00:02:07,400 --> 00:02:14,000
+Wynton Rufer (New Zealand) - SV Werder Bremen
+出场数: 242 | 进球: 104 | 助攻: 33
+
+22
+00:02:14,000 --> 00:02:20,600
+Aílton (Brazil) - SV Werder Bremen
+出场数: 214 | 进球: 106 | 助攻: 42
+
+23
+00:02:20,600 --> 00:02:27,200
+Norbert Meier (Germany) - SV Werder Bremen
+出场数: 372 | 进球: 113 | 助攻: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Uwe Reinders (Germany) - SV Werder Bremen
+出场数: 308 | 进球: 118 | 助攻: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Rudi Völler (Germany) - SV Werder Bremen
+出场数: 174 | 进球: 119 | 助攻: 6
+
+26
+00:02:40,400 --> 00:02:47,000
+Marco Bode (Germany) - SV Werder Bremen
+出场数: 495 | 进球: 134 | 助攻: 66
+
+27
+00:02:47,000 --> 00:02:53,600
+Karl-Heinz Preuße (Germany) - SV Werder Bremen
+出场数: 200 | 进球: 138
+
+28
+00:02:53,600 --> 00:03:00,200
+Frank Neubarth (Germany) - SV Werder Bremen
+出场数: 421 | 进球: 141 | 助攻: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Willi Schröder (Germany) - SV Werder Bremen
+出场数: 239 | 进球: 146
+
+30
+00:03:06,800 --> 00:03:13,400
+Claudio Pizarro (Peru) - SV Werder Bremen
+出场数: 320 | 进球: 153 | 助攻: 53
+
+31
+00:03:13,400 --> 00:03:20,000
+Arnold Schütz (Germany) - SV Werder Bremen
+出场数: 540 | 进球: 200 | 助攻: 13
+

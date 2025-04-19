@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Real Madrid Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Ramón Grosso (Spain) - Real Madrid
+Partidas: 366 | Gols: 75 | Assistências: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Joseíto (Spain) - Real Madrid
+Partidas: 176 | Gols: 76 | Assistências: 26
+
+4
+00:00:15,200 --> 00:00:21,800
+Guti (Spain) - Real Madrid
+Partidas: 542 | Gols: 77 | Assistências: 94
+
+5
+00:00:21,800 --> 00:00:28,400
+Héctor Rial (Spain) - Real Madrid
+Partidas: 165 | Gols: 81 | Assistências: 34
+
+6
+00:00:28,400 --> 00:00:35,000
+Manuel Alday (Spain) - Real Madrid
+Partidas: 93 | Gols: 81 | Assistências: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Pruden Sánchez (Spain) - Real Madrid
+Partidas: 116 | Gols: 87 | Assistências: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Sabino Barinaga (Spain) - Real Madrid
+Partidas: 182 | Gols: 93 | Assistências: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Fernando Morientes (Spain) - Real Madrid
+Partidas: 272 | Gols: 100 | Assistências: 34
+
+10
+00:00:54,800 --> 00:01:01,400
+Sergio Ramos (Spain) - Real Madrid
+Partidas: 671 | Gols: 101 | Assistências: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Iván Zamorano (Chile) - Real Madrid
+Partidas: 173 | Gols: 101 | Assistências: 22
+
+12
+00:01:08,000 --> 00:01:14,600
+Vinicius Junior (Brazil) - Real Madrid
+Partidas: 306 | Gols: 103 | Assistências: 73
+
+13
+00:01:14,600 --> 00:01:21,200
+Ronaldo (Brazil) - Real Madrid
+Partidas: 177 | Gols: 104 | Assistências: 34
+
+14
+00:01:21,200 --> 00:01:27,800
+Luis Molowny (Spain) - Real Madrid
+Partidas: 206 | Gols: 105 | Assistências: 60
+
+15
+00:01:27,800 --> 00:01:34,400
+Gareth Bale (Wales) - Real Madrid
+Partidas: 258 | Gols: 106 | Assistências: 67
+
+16
+00:01:34,400 --> 00:01:41,000
+Juanito (Spain) - Real Madrid
+Partidas: 397 | Gols: 117 | Assistências: 24
+
+17
+00:01:41,000 --> 00:01:47,600
+Gonzalo Higuaín (Argentina) - Real Madrid
+Partidas: 264 | Gols: 121 | Assistências: 56
+
+18
+00:01:47,600 --> 00:01:54,200
+Pahiño (Spain) - Real Madrid
+Partidas: 143 | Gols: 126 | Assistências: 24
+
+19
+00:01:54,200 --> 00:02:00,800
+Fernando Hierro (Spain) - Real Madrid
+Partidas: 601 | Gols: 127 | Assistências: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Míchel (Spain) - Real Madrid
+Partidas: 559 | Gols: 131 | Assistências: 168
+
+21
+00:02:07,400 --> 00:02:14,000
+Amancio (Spain) - Real Madrid
+Partidas: 471 | Gols: 153 | Assistências: 6
+
+22
+00:02:14,000 --> 00:02:20,600
+Emilio Butragueño (Spain) - Real Madrid
+Partidas: 463 | Gols: 170 | Assistências: 115
+
+23
+00:02:20,600 --> 00:02:27,200
+Pirri (Spain) - Real Madrid
+Partidas: 562 | Gols: 173 | Assistências: 4
+
+24
+00:02:27,200 --> 00:02:33,800
+Paco Gento (Spain) - Real Madrid
+Partidas: 596 | Gols: 179 | Assistências: 52
+
+25
+00:02:33,800 --> 00:02:40,400
+Hugo Sánchez (Mexico) - Real Madrid
+Partidas: 282 | Gols: 208 | Assistências: 47
+
+26
+00:02:40,400 --> 00:02:47,000
+Ferenc Puskás (Hungary) - Real Madrid
+Partidas: 262 | Gols: 242 | Assistências: 27
+
+27
+00:02:47,000 --> 00:02:53,600
+Santillana (Spain) - Real Madrid
+Partidas: 640 | Gols: 289 | Assistências: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Alfredo di Stéfano (Spain) - Real Madrid
+Partidas: 392 | Gols: 306 | Assistências: 43
+
+29
+00:03:00,200 --> 00:03:06,800
+Raúl (Spain) - Real Madrid
+Partidas: 741 | Gols: 323 | Assistências: 135
+
+30
+00:03:06,800 --> 00:03:13,400
+Karim Benzema (France) - Real Madrid
+Partidas: 648 | Gols: 354 | Assistências: 151
+
+31
+00:03:13,400 --> 00:03:20,000
+Cristiano Ronaldo (Portugal) - Real Madrid
+Partidas: 438 | Gols: 450 | Assistências: 131
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfL Wolfsburg All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Fredi Rotermund (Germany) - VfL Wolfsburg
+Appearances: 90 | Goals: 23
+
+3
+00:00:08,600 --> 00:00:15,200
+Diego (Brazil) - VfL Wolfsburg
+Appearances: 87 | Goals: 24 | Assists: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Zvjezdan Misimovic (Bosnia-Herzegovina) - VfL Wolfsburg
+Appearances: 92 | Goals: 25 | Assists: 48
+
+5
+00:00:21,800 --> 00:00:28,400
+Charles Akonnor (Ghana) - VfL Wolfsburg
+Appearances: 142 | Goals: 25 | Assists: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Jacek Frackiewicz (Poland) - VfL Wolfsburg
+Appearances: 108 | Goals: 31
+
+7
+00:00:35,000 --> 00:00:41,600
+Jonas Wind (Denmark) - VfL Wolfsburg
+Appearances: 106 | Goals: 33 | Assists: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Tomislav Maric (Croatia) - VfL Wolfsburg
+Appearances: 97 | Goals: 33 | Assists: 12
+
+9
+00:00:48,200 --> 00:00:54,800
+Ivica Olic (Croatia) - VfL Wolfsburg
+Appearances: 94 | Goals: 33 | Assists: 14
+
+10
+00:00:54,800 --> 00:01:01,400
+Jürgen Mosert (Germany) - VfL Wolfsburg
+Appearances: 75 | Goals: 35 | Assists: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Michael Geiger (Germany) - VfL Wolfsburg
+Appearances: 231 | Goals: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Peter Ament (Germany) - VfL Wolfsburg
+Appearances: 245 | Goals: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+Manfred Wuttich (Germany) - VfL Wolfsburg
+Appearances: 57 | Goals: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Martin Petrov (Bulgaria) - VfL Wolfsburg
+Appearances: 136 | Goals: 38 | Assists: 38
+
+15
+00:01:27,800 --> 00:01:34,400
+Roy Präger (Germany) - VfL Wolfsburg
+Appearances: 170 | Goals: 41 | Assists: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Wolf-Rüdiger Krause (Germany) - VfL Wolfsburg
+Appearances: 97 | Goals: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Wolfgang Wallek (Germany) - VfL Wolfsburg
+Appearances: 92 | Goals: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+Maximilian Arnold (Germany) - VfL Wolfsburg
+Appearances: 443 | Goals: 47 | Assists: 55
+
+19
+00:01:54,200 --> 00:02:00,800
+Bas Dost (Netherlands) - VfL Wolfsburg
+Appearances: 117 | Goals: 48 | Assists: 14
+
+20
+00:02:00,800 --> 00:02:07,400
+Andrzej Juskowiak (Poland) - VfL Wolfsburg
+Appearances: 131 | Goals: 49 | Assists: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Holger Fiebich (Germany) - VfL Wolfsburg
+Appearances: 228 | Goals: 63 | Assists: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Matthias Fiebich (Germany) - VfL Wolfsburg
+Appearances: 212 | Goals: 69
+
+23
+00:02:20,600 --> 00:02:27,200
+Hans Kircher (Germany) - VfL Wolfsburg
+Appearances: 86 | Goals: 70
+
+24
+00:02:27,200 --> 00:02:33,800
+Wout Weghorst (Netherlands) - VfL Wolfsburg
+Appearances: 144 | Goals: 70 | Assists: 22
+
+25
+00:02:33,800 --> 00:02:40,400
+Diego Klimowicz (Argentina) - VfL Wolfsburg
+Appearances: 173 | Goals: 71 | Assists: 23
+
+26
+00:02:40,400 --> 00:02:47,000
+Grafite (Brazil) - VfL Wolfsburg
+Appearances: 130 | Goals: 75 | Assists: 25
+
+27
+00:02:47,000 --> 00:02:53,600
+Wilfried Kemmer (Germany) - VfL Wolfsburg
+Appearances: 184 | Goals: 82 | Assists: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Edin Džeko (Bosnia-Herzegovina) - VfL Wolfsburg
+Appearances: 142 | Goals: 85 | Assists: 35
+
+29
+00:03:00,200 --> 00:03:06,800
+Siegfried Reich (Germany) - VfL Wolfsburg
+Appearances: 169 | Goals: 95
+
+30
+00:03:06,800 --> 00:03:13,400
+Frank Plagge (Germany) - VfL Wolfsburg
+Appearances: 189 | Goals: 111
+
+31
+00:03:13,400 --> 00:03:20,000
+Olaf Ansorge (Germany) - VfL Wolfsburg
+Appearances: 381 | Goals: 123
+

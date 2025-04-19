@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+SS Lazio All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Orlando Rozzoni (Italy) - SS Lazio
+Appearances: 100 | Goals: 41 | Assists: 0
+
+3
+00:00:08,600 --> 00:00:15,200
+Anfilogino Guarisi (Italy) - SS Lazio
+Appearances: 137 | Goals: 42 | Assists: 0
+
+4
+00:00:15,200 --> 00:00:21,800
+Diego Fuser (Italy) - SS Lazio
+Appearances: 242 | Goals: 42 | Assists: 13
+
+5
+00:00:21,800 --> 00:00:28,400
+Alen Bokšić (Croatia) - SS Lazio
+Appearances: 156 | Goals: 43 | Assists: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Humberto Barbosa Tozzi (Brazil) - SS Lazio
+Appearances: 103 | Goals: 45 | Assists: 0
+
+7
+00:00:35,000 --> 00:00:41,600
+Antonio Candreva (Italy) - SS Lazio
+Appearances: 192 | Goals: 45 | Assists: 43
+
+8
+00:00:41,600 --> 00:00:48,200
+Enrique Flamini (Argentina) - SS Lazio
+Appearances: 284 | Goals: 45 | Assists: 4
+
+9
+00:00:48,200 --> 00:00:54,800
+Rubén Sosa (Uruguay) - SS Lazio
+Appearances: 140 | Goals: 47 | Assists: 6
+
+10
+00:00:54,800 --> 00:01:01,400
+Stefano Mauri (Italy) - SS Lazio
+Appearances: 303 | Goals: 47 | Assists: 43
+
+11
+00:01:01,400 --> 00:01:08,000
+Marcelo Salas (Chile) - SS Lazio
+Appearances: 117 | Goals: 48 | Assists: 13
+
+12
+00:01:08,000 --> 00:01:14,600
+Hernán Crespo (Argentina) - SS Lazio
+Appearances: 73 | Goals: 48 | Assists: 8
+
+13
+00:01:14,600 --> 00:01:21,200
+Vincenzo D'Amico (Italy) - SS Lazio
+Appearances: 335 | Goals: 51 | Assists: 11
+
+14
+00:01:21,200 --> 00:01:27,800
+Pavel Nedved (Czech Republic) - SS Lazio
+Appearances: 208 | Goals: 51 | Assists: 29
+
+15
+00:01:27,800 --> 00:01:34,400
+Juan Carlos Morrone (Argentina) - SS Lazio
+Appearances: 264 | Goals: 52 | Assists: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Luis Alberto (Spain) - SS Lazio
+Appearances: 307 | Goals: 52 | Assists: 79
+
+17
+00:01:41,000 --> 00:01:47,600
+Simone Inzaghi (Italy) - SS Lazio
+Appearances: 196 | Goals: 55 | Assists: 20
+
+18
+00:01:47,600 --> 00:01:54,200
+Pierluigi Casiraghi (Italy) - SS Lazio
+Appearances: 188 | Goals: 56 | Assists: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Felipe Anderson (Brazil) - SS Lazio
+Appearances: 326 | Goals: 58 | Assists: 63
+
+20
+00:02:00,800 --> 00:02:07,400
+Miroslav Klose (Germany) - SS Lazio
+Appearances: 171 | Goals: 63 | Assists: 35
+
+21
+00:02:07,400 --> 00:02:14,000
+Goran Pandev (North Macedonia) - SS Lazio
+Appearances: 191 | Goals: 64 | Assists: 25
+
+22
+00:02:14,000 --> 00:02:20,600
+Fulvio Bernardini (Italy) - SS Lazio
+Appearances: 58 | Goals: 67 | Assists: 0
+
+23
+00:02:20,600 --> 00:02:27,200
+Renzo Garlaschelli (Italy) - SS Lazio
+Appearances: 278 | Goals: 67 | Assists: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Sergej Milinković-Savić (Serbia) - SS Lazio
+Appearances: 341 | Goals: 69 | Assists: 58
+
+25
+00:02:33,800 --> 00:02:40,400
+Aldo Puccinelli (Italy) - SS Lazio
+Appearances: 343 | Goals: 79 | Assists: 9
+
+26
+00:02:40,400 --> 00:02:47,000
+Tommaso Rocchi (Italy) - SS Lazio
+Appearances: 292 | Goals: 105 | Assists: 35
+
+27
+00:02:47,000 --> 00:02:53,600
+Bruno Giordano (Italy) - SS Lazio
+Appearances: 259 | Goals: 116 | Assists: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Giorgio Chinaglia (Italy) - SS Lazio
+Appearances: 248 | Goals: 124 | Assists: 5
+
+29
+00:03:00,200 --> 00:03:06,800
+Giuseppe Signori (Italy) - SS Lazio
+Appearances: 195 | Goals: 127 | Assists: 15
+
+30
+00:03:06,800 --> 00:03:13,400
+Silvio Piola (Italy) - SS Lazio
+Appearances: 243 | Goals: 159 | Assists: 0
+
+31
+00:03:13,400 --> 00:03:20,000
+Ciro Immobile (Italy) - SS Lazio
+Appearances: 340 | Goals: 207 | Assists: 54
+

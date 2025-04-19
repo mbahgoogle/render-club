@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Athletic Bilbao Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Fran Yeste (Spain) - Athletic Bilbao
+Presenze: 348 | Gol: 57 | Assist: 62
+
+3
+00:00:08,600 --> 00:00:15,200
+Ignacio Uribe (Spain) - Athletic Bilbao
+Presenze: 203 | Gol: 65
+
+4
+00:00:15,200 --> 00:00:21,800
+Mauri (Spain) - Athletic Bilbao
+Presenze: 279 | Gol: 66 | Assist: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Estanis Argote (Spain) - Athletic Bilbao
+Presenze: 384 | Gol: 68 | Assist: 10
+
+6
+00:00:28,400 --> 00:00:35,000
+Antón Arieta (Spain) - Athletic Bilbao
+Presenze: 308 | Gol: 68
+
+7
+00:00:35,000 --> 00:00:41,600
+Iker Muniain (Spain) - Athletic Bilbao
+Presenze: 560 | Gol: 76 | Assist: 70
+
+8
+00:00:41,600 --> 00:00:48,200
+Félix Marcaida (Spain) - Athletic Bilbao
+Presenze: 180 | Gol: 77 | Assist: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Victorio Unamuno (Spain) - Athletic Bilbao
+Presenze: 106 | Gol: 84
+
+10
+00:00:54,800 --> 00:01:01,400
+Raúl García (Spain) - Athletic Bilbao
+Presenze: 363 | Gol: 84 | Assist: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Cuco Ziganda (Spain) - Athletic Bilbao
+Presenze: 276 | Gol: 84 | Assist: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Venancio (Spain) - Athletic Bilbao
+Presenze: 206 | Gol: 89 | Assist: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Ruiz (Spain) - Athletic Bilbao
+Presenze: 238 | Gol: 93
+
+14
+00:01:21,200 --> 00:01:27,800
+Manu Sarabia (Spain) - Athletic Bilbao
+Presenze: 327 | Gol: 94 | Assist: 11
+
+15
+00:01:27,800 --> 00:01:34,400
+Joseba Etxeberria (Spain) - Athletic Bilbao
+Presenze: 503 | Gol: 95 | Assist: 57
+
+16
+00:01:34,400 --> 00:01:41,000
+José Iraragorri (Spain) - Athletic Bilbao
+Presenze: 160 | Gol: 99
+
+17
+00:01:41,000 --> 00:01:47,600
+Fidel Uriarte (Spain) - Athletic Bilbao
+Presenze: 339 | Gol: 101
+
+18
+00:01:47,600 --> 00:01:54,200
+Iñaki Williams (Ghana) - Athletic Bilbao
+Presenze: 462 | Gol: 110 | Assist: 63
+
+19
+00:01:54,200 --> 00:02:00,800
+Julen Guerrero (Spain) - Athletic Bilbao
+Presenze: 413 | Gol: 110 | Assist: 8
+
+20
+00:02:00,800 --> 00:02:07,400
+Rafael Iriondo (Spain) - Athletic Bilbao
+Presenze: 322 | Gol: 111 | Assist: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Fernando Llorente (Spain) - Athletic Bilbao
+Presenze: 333 | Gol: 116 | Assist: 37
+
+22
+00:02:14,000 --> 00:02:20,600
+Bata (Spain) - Athletic Bilbao
+Presenze: 133 | Gol: 117
+
+23
+00:02:20,600 --> 00:02:27,200
+Ismael Urzaiz (Spain) - Athletic Bilbao
+Presenze: 407 | Gol: 122 | Assist: 37
+
+24
+00:02:27,200 --> 00:02:33,800
+Guillermo Gorostiza (Spain) - Athletic Bilbao
+Presenze: 162 | Gol: 124
+
+25
+00:02:33,800 --> 00:02:40,400
+José Artetxe (Spain) - Athletic Bilbao
+Presenze: 325 | Gol: 131 | Assist: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Piru Gaínza (Spain) - Athletic Bilbao
+Presenze: 485 | Gol: 150 | Assist: 17
+
+27
+00:02:47,000 --> 00:02:53,600
+Eneko Arieta (Spain) - Athletic Bilbao
+Presenze: 280 | Gol: 152 | Assist: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+José Panizo (Spain) - Athletic Bilbao
+Presenze: 404 | Gol: 172 | Assist: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Aritz Aduriz (Spain) - Athletic Bilbao
+Presenze: 406 | Gol: 172 | Assist: 50
+
+30
+00:03:06,800 --> 00:03:13,400
+Dani (Spain) - Athletic Bilbao
+Presenze: 359 | Gol: 174 | Assist: 12
+
+31
+00:03:13,400 --> 00:03:20,000
+Telmo Zarra (Spain) - Athletic Bilbao
+Presenze: 351 | Gol: 335 | Assist: 4
+

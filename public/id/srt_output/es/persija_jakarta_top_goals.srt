@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persija Jakarta Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Ondrej Kudela (Czech Republic) - Persija Jakarta
+Partidos: 81 | Goles: 5 | Asistencias: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Heri Susanto (Indonesia) - Persija Jakarta
+Partidos: 44 | Goles: 5 | Asistencias: 5
+
+4
+00:00:15,200 --> 00:00:21,800
+Rudi Widodo (Indonesia) - Persija Jakarta
+Partidos: 35 | Goles: 5 | Asistencias: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Hanno Behrens (Germany) - Persija Jakarta
+Partidos: 18 | Goles: 5
+
+6
+00:00:28,400 --> 00:00:35,000
+Ryuji Utomo (Indonesia) - Persija Jakarta
+Partidos: 52 | Goles: 5
+
+7
+00:00:35,000 --> 00:00:41,600
+Willian Pacheco (Brazil) - Persija Jakarta
+Partidos: 40 | Goles: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Aji Kusuma (Indonesia) - Persija Jakarta
+Partidos: 38 | Goles: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Osvaldo Haay (Indonesia) - Persija Jakarta
+Partidos: 47 | Goles: 6 | Asistencias: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Rezaldi Hehanussa (Indonesia) - Persija Jakarta
+Partidos: 94 | Goles: 6 | Asistencias: 9
+
+11
+00:01:01,400 --> 00:01:08,000
+Makan Konate (Mali) - Persija Jakarta
+Partidos: 14 | Goles: 7 | Asistencias: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Hanif Sjahbandi (Indonesia) - Persija Jakarta
+Partidos: 86 | Goles: 7 | Asistencias: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Jaime (Brazil) - Persija Jakarta
+Partidos: 36 | Goles: 7
+
+14
+00:01:21,200 --> 00:01:27,800
+Maciej Gajos (Poland) - Persija Jakarta
+Partidos: 57 | Goles: 8 | Asistencias: 11
+
+15
+00:01:27,800 --> 00:01:34,400
+Yusuf (Bahrain) - Persija Jakarta
+Partidos: 17 | Goles: 9 | Asistencias: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Robertino Pugliara (Argentina) - Persija Jakarta
+Partidos: 58 | Goles: 9
+
+17
+00:01:41,000 --> 00:01:47,600
+Fabiano Beltrame (Indonesia) - Persija Jakarta
+Partidos: 78 | Goles: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Michael Krmencik (Czech Republic) - Persija Jakarta
+Partidos: 23 | Goles: 10 | Asistencias: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Bruno Lopes (Brazil) - Persija Jakarta
+Partidos: 29 | Goles: 10 | Asistencias: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Novri Setiawan (Indonesia) - Persija Jakarta
+Partidos: 136 | Goles: 11 | Asistencias: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Rachmat Afandi (Indonesia) - Persija Jakarta
+Partidos: 72 | Goles: 12
+
+22
+00:02:14,000 --> 00:02:20,600
+Riko Simanjuntak (Indonesia) - Persija Jakarta
+Partidos: 207 | Goles: 12 | Asistencias: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Rohit Chand (Nepal) - Persija Jakarta
+Partidos: 173 | Goles: 13 | Asistencias: 11
+
+24
+00:02:27,200 --> 00:02:33,800
+Bruno Matos (Brazil) - Persija Jakarta
+Partidos: 23 | Goles: 14 | Asistencias: 6
+
+25
+00:02:33,800 --> 00:02:40,400
+Emmanuel Kenmogne (Cameroon) - Persija Jakarta
+Partidos: 17 | Goles: 14
+
+26
+00:02:40,400 --> 00:02:47,000
+Ryo Matsumura (Japan) - Persija Jakarta
+Partidos: 63 | Goles: 17 | Asistencias: 17
+
+27
+00:02:47,000 --> 00:02:53,600
+Gustavo (Brazil) - Persija Jakarta
+Partidos: 36 | Goles: 20 | Asistencias: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Pedro Velázquez (Paraguay) - Persija Jakarta
+Partidos: 44 | Goles: 22
+
+29
+00:03:00,200 --> 00:03:06,800
+Bambang Pamungkas (Indonesia) - Persija Jakarta
+Partidos: 107 | Goles: 24 | Asistencias: 5
+
+30
+00:03:06,800 --> 00:03:13,400
+Ramdani Lestaluhu (Indonesia) - Persija Jakarta
+Partidos: 161 | Goles: 29 | Asistencias: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Marko Simic (Croatia) - Persija Jakarta
+Partidos: 162 | Goles: 89 | Asistencias: 9
+

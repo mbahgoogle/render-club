@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Liverpool FC 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Ian Callaghan (England) - Liverpool FC
+출전: 846 | 골: 67 | 도움: 87
+
+3
+00:00:08,600 --> 00:00:15,200
+Daniel Sturridge (England) - Liverpool FC
+출전: 160 | 골: 68 | 도움: 20
+
+4
+00:00:15,200 --> 00:00:21,800
+Dick Forshaw (England) - Liverpool FC
+출전: 136 | 골: 69 | 도움: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Harry Chambers (England) - Liverpool FC
+출전: 171 | 골: 69
+
+6
+00:00:28,400 --> 00:00:35,000
+Ray Kennedy (England) - Liverpool FC
+출전: 390 | 골: 71 | 도움: 58
+
+7
+00:00:35,000 --> 00:00:41,600
+Dirk Kuyt (Netherlands) - Liverpool FC
+출전: 285 | 골: 71 | 도움: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+Jimmy Melia (England) - Liverpool FC
+출전: 260 | 골: 73 | 도움: 28
+
+9
+00:00:48,200 --> 00:00:54,800
+Ronnie Whelan (Ireland) - Liverpool FC
+출전: 484 | 골: 73 | 도움: 50
+
+10
+00:00:54,800 --> 00:01:01,400
+Steve Heighway (Ireland) - Liverpool FC
+출전: 471 | 골: 76 | 도움: 67
+
+11
+00:01:01,400 --> 00:01:08,000
+Albert Stubbins (England) - Liverpool FC
+출전: 169 | 골: 76 | 도움: 13
+
+12
+00:01:08,000 --> 00:01:14,600
+David Johnson (England) - Liverpool FC
+출전: 213 | 골: 78 | 도움: 31
+
+13
+00:01:14,600 --> 00:01:21,200
+Fernando Torres (Spain) - Liverpool FC
+출전: 142 | 골: 81 | 도움: 19
+
+14
+00:01:21,200 --> 00:01:27,800
+Terry McDermott (England) - Liverpool FC
+출전: 329 | 골: 81 | 도움: 59
+
+15
+00:01:27,800 --> 00:01:34,400
+Luis Suárez (Uruguay) - Liverpool FC
+출전: 133 | 골: 82 | 도움: 31
+
+16
+00:01:34,400 --> 00:01:41,000
+Jack Balmer (England) - Liverpool FC
+출전: 268 | 골: 94 | 도움: 12
+
+17
+00:01:41,000 --> 00:01:47,600
+John Toshack (Wales) - Liverpool FC
+출전: 247 | 골: 96 | 도움: 54
+
+18
+00:01:47,600 --> 00:01:54,200
+Kevin Keegan (England) - Liverpool FC
+출전: 321 | 골: 100 | 도움: 88
+
+19
+00:01:54,200 --> 00:02:00,800
+John Barnes (England) - Liverpool FC
+출전: 406 | 골: 107 | 도움: 91
+
+20
+00:02:00,800 --> 00:02:07,400
+Roberto Firmino (Brazil) - Liverpool FC
+출전: 362 | 골: 111 | 도움: 75
+
+21
+00:02:07,400 --> 00:02:14,000
+Ian St. John (Scotland) - Liverpool FC
+출전: 421 | 골: 117 | 도움: 73
+
+22
+00:02:14,000 --> 00:02:20,600
+Sadio Mané (Senegal) - Liverpool FC
+출전: 269 | 골: 120 | 도움: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Michael Owen (England) - Liverpool FC
+출전: 297 | 골: 158 | 도움: 51
+
+24
+00:02:27,200 --> 00:02:33,800
+Kenny Dalglish (Scotland) - Liverpool FC
+출전: 511 | 골: 170 | 도움: 186
+
+25
+00:02:33,800 --> 00:02:40,400
+Gordon Hodgson (England) - Liverpool FC
+출전: 266 | 골: 174 | 도움: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Robbie Fowler (England) - Liverpool FC
+출전: 369 | 골: 183 | 도움: 50
+
+27
+00:02:47,000 --> 00:02:53,600
+Steven Gerrard (England) - Liverpool FC
+출전: 710 | 골: 186 | 도움: 155
+
+28
+00:02:53,600 --> 00:03:00,200
+Billy Liddell (Scotland) - Liverpool FC
+출전: 492 | 골: 203 | 도움: 76
+
+29
+00:03:00,200 --> 00:03:06,800
+Mohamed Salah (Egypt) - Liverpool FC
+출전: 393 | 골: 243 | 도움: 110
+
+30
+00:03:06,800 --> 00:03:13,400
+Roger Hunt (England) - Liverpool FC
+출전: 466 | 골: 274 | 도움: 41
+
+31
+00:03:13,400 --> 00:03:20,000
+Ian Rush (Wales) - Liverpool FC
+출전: 653 | 골: 339 | 도움: 110
+

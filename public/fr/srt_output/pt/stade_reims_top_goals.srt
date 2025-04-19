@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Reims Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Boulaye Dia (Senegal) - Stade Reims
+Partidas: 88 | Gols: 28 | Assistências: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Djamel Tlemcani (Algeria) - Stade Reims
+Partidas: 63 | Gols: 28
+
+4
+00:00:15,200 --> 00:00:21,800
+Michel Hidalgo (France) - Stade Reims
+Partidas: 78 | Gols: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+Paul Sauvage (France) - Stade Reims
+Partidas: 121 | Gols: 29
+
+6
+00:00:28,400 --> 00:00:35,000
+André Petitfils (France) - Stade Reims
+Partidas: 127 | Gols: 30
+
+7
+00:00:35,000 --> 00:00:41,600
+Bernard Lech (France) - Stade Reims
+Partidas: 138 | Gols: 31
+
+8
+00:00:41,600 --> 00:00:48,200
+Pierre Bini (France) - Stade Reims
+Partidas: 96 | Gols: 31
+
+9
+00:00:48,200 --> 00:00:54,800
+Ivo Basay (Chile) - Stade Reims
+Partidas: 73 | Gols: 34
+
+10
+00:00:54,800 --> 00:01:01,400
+Michel Leblond (France) - Stade Reims
+Partidas: 325 | Gols: 35
+
+11
+00:01:01,400 --> 00:01:08,000
+Jean-François Charbonnier (France) - Stade Reims
+Partidas: 120 | Gols: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Jean Templin (France) - Stade Reims
+Partidas: 174 | Gols: 38
+
+13
+00:01:14,600 --> 00:01:21,200
+Armand Penverne (France) - Stade Reims
+Partidas: 377 | Gols: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Alain Richard (France) - Stade Reims
+Partidas: 206 | Gols: 40
+
+15
+00:01:27,800 --> 00:01:34,400
+Pierre Flamion (France) - Stade Reims
+Partidas: 102 | Gols: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Delio Onnis (Argentina) - Stade Reims
+Partidas: 76 | Gols: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Francis Méano (France) - Stade Reims
+Partidas: 118 | Gols: 52
+
+18
+00:01:47,600 --> 00:01:54,200
+Santiago Santamaría (Argentina) - Stade Reims
+Partidas: 170 | Gols: 52
+
+19
+00:01:54,200 --> 00:02:00,800
+Francois Calderaro (France) - Stade Reims
+Partidas: 147 | Gols: 58
+
+20
+00:02:00,800 --> 00:02:07,400
+Hassan Akesbi (Morocco) - Stade Reims
+Partidas: 94 | Gols: 60
+
+21
+00:02:07,400 --> 00:02:14,000
+Jean-Pierre Bertolino (France) - Stade Reims
+Partidas: 220 | Gols: 63
+
+22
+00:02:14,000 --> 00:02:20,600
+Pierre Sinibaldi (France) - Stade Reims
+Partidas: 135 | Gols: 72
+
+23
+00:02:20,600 --> 00:02:27,200
+Léon Glovacki (France) - Stade Reims
+Partidas: 220 | Gols: 85
+
+24
+00:02:27,200 --> 00:02:33,800
+Raymond Kopa (France) - Stade Reims
+Partidas: 400 | Gols: 89 | Assistências: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Cédric Fauré (France) - Stade Reims
+Partidas: 212 | Gols: 90 | Assistências: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Jean Vincent (France) - Stade Reims
+Partidas: 319 | Gols: 92
+
+27
+00:02:47,000 --> 00:02:53,600
+Bram Appel (Netherlands) - Stade Reims
+Partidas: 164 | Gols: 109
+
+28
+00:02:53,600 --> 00:03:00,200
+René Bliard (France) - Stade Reims
+Partidas: 182 | Gols: 117 | Assistências: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Roger Piantoni (France) - Stade Reims
+Partidas: 198 | Gols: 132
+
+30
+00:03:06,800 --> 00:03:13,400
+Carlos Bianchi (Argentina) - Stade Reims
+Partidas: 162 | Gols: 139
+
+31
+00:03:13,400 --> 00:03:20,000
+Just Fontaine (France) - Stade Reims
+Partidas: 151 | Gols: 145 | Assistências: 1
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Athletic Bilbao Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Fran Yeste (Spain) - Athletic Bilbao
+Partidas: 348 | Gols: 57 | Assistências: 62
+
+3
+00:00:08,600 --> 00:00:15,200
+Ignacio Uribe (Spain) - Athletic Bilbao
+Partidas: 203 | Gols: 65
+
+4
+00:00:15,200 --> 00:00:21,800
+Mauri (Spain) - Athletic Bilbao
+Partidas: 279 | Gols: 66 | Assistências: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Estanis Argote (Spain) - Athletic Bilbao
+Partidas: 384 | Gols: 68 | Assistências: 10
+
+6
+00:00:28,400 --> 00:00:35,000
+Antón Arieta (Spain) - Athletic Bilbao
+Partidas: 308 | Gols: 68
+
+7
+00:00:35,000 --> 00:00:41,600
+Iker Muniain (Spain) - Athletic Bilbao
+Partidas: 560 | Gols: 76 | Assistências: 70
+
+8
+00:00:41,600 --> 00:00:48,200
+Félix Marcaida (Spain) - Athletic Bilbao
+Partidas: 180 | Gols: 77 | Assistências: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Victorio Unamuno (Spain) - Athletic Bilbao
+Partidas: 106 | Gols: 84
+
+10
+00:00:54,800 --> 00:01:01,400
+Raúl García (Spain) - Athletic Bilbao
+Partidas: 363 | Gols: 84 | Assistências: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Cuco Ziganda (Spain) - Athletic Bilbao
+Partidas: 276 | Gols: 84 | Assistências: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Venancio (Spain) - Athletic Bilbao
+Partidas: 206 | Gols: 89 | Assistências: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Ruiz (Spain) - Athletic Bilbao
+Partidas: 238 | Gols: 93
+
+14
+00:01:21,200 --> 00:01:27,800
+Manu Sarabia (Spain) - Athletic Bilbao
+Partidas: 327 | Gols: 94 | Assistências: 11
+
+15
+00:01:27,800 --> 00:01:34,400
+Joseba Etxeberria (Spain) - Athletic Bilbao
+Partidas: 503 | Gols: 95 | Assistências: 57
+
+16
+00:01:34,400 --> 00:01:41,000
+José Iraragorri (Spain) - Athletic Bilbao
+Partidas: 160 | Gols: 99
+
+17
+00:01:41,000 --> 00:01:47,600
+Fidel Uriarte (Spain) - Athletic Bilbao
+Partidas: 339 | Gols: 101
+
+18
+00:01:47,600 --> 00:01:54,200
+Iñaki Williams (Ghana) - Athletic Bilbao
+Partidas: 462 | Gols: 110 | Assistências: 63
+
+19
+00:01:54,200 --> 00:02:00,800
+Julen Guerrero (Spain) - Athletic Bilbao
+Partidas: 413 | Gols: 110 | Assistências: 8
+
+20
+00:02:00,800 --> 00:02:07,400
+Rafael Iriondo (Spain) - Athletic Bilbao
+Partidas: 322 | Gols: 111 | Assistências: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Fernando Llorente (Spain) - Athletic Bilbao
+Partidas: 333 | Gols: 116 | Assistências: 37
+
+22
+00:02:14,000 --> 00:02:20,600
+Bata (Spain) - Athletic Bilbao
+Partidas: 133 | Gols: 117
+
+23
+00:02:20,600 --> 00:02:27,200
+Ismael Urzaiz (Spain) - Athletic Bilbao
+Partidas: 407 | Gols: 122 | Assistências: 37
+
+24
+00:02:27,200 --> 00:02:33,800
+Guillermo Gorostiza (Spain) - Athletic Bilbao
+Partidas: 162 | Gols: 124
+
+25
+00:02:33,800 --> 00:02:40,400
+José Artetxe (Spain) - Athletic Bilbao
+Partidas: 325 | Gols: 131 | Assistências: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Piru Gaínza (Spain) - Athletic Bilbao
+Partidas: 485 | Gols: 150 | Assistências: 17
+
+27
+00:02:47,000 --> 00:02:53,600
+Eneko Arieta (Spain) - Athletic Bilbao
+Partidas: 280 | Gols: 152 | Assistências: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+José Panizo (Spain) - Athletic Bilbao
+Partidas: 404 | Gols: 172 | Assistências: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Aritz Aduriz (Spain) - Athletic Bilbao
+Partidas: 406 | Gols: 172 | Assistências: 50
+
+30
+00:03:06,800 --> 00:03:13,400
+Dani (Spain) - Athletic Bilbao
+Partidas: 359 | Gols: 174 | Assistências: 12
+
+31
+00:03:13,400 --> 00:03:20,000
+Telmo Zarra (Spain) - Athletic Bilbao
+Partidas: 351 | Gols: 335 | Assistências: 4
+

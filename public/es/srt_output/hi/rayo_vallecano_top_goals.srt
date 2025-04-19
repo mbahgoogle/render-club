@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Rayo Vallecano सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Rubén Castro (Spain) - Rayo Vallecano
+प्रदर्शन: 44 | गोल: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Manucho (Angola) - Rayo Vallecano
+प्रदर्शन: 119 | गोल: 15 | असिस्ट: 5
+
+4
+00:00:15,200 --> 00:00:21,800
+Andrija Delibasic (Montenegro) - Rayo Vallecano
+प्रदर्शन: 84 | गोल: 15 | असिस्ट: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Michu (Spain) - Rayo Vallecano
+प्रदर्शन: 39 | गोल: 17 | असिस्ट: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Hugo Sánchez (Mexico) - Rayo Vallecano
+प्रदर्शन: 33 | गोल: 17
+
+7
+00:00:35,000 --> 00:00:41,600
+Antonio Calderón (Spain) - Rayo Vallecano
+प्रदर्शन: 135 | गोल: 17 | असिस्ट: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Coke (Spain) - Rayo Vallecano
+प्रदर्शन: 135 | गोल: 18
+
+9
+00:00:48,200 --> 00:00:54,800
+Onésimo Sánchez (Spain) - Rayo Vallecano
+प्रदर्शन: 112 | गोल: 19 | असिस्ट: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Juan José Collantes (Spain) - Rayo Vallecano
+प्रदर्शन: 92 | गोल: 19
+
+11
+00:01:01,400 --> 00:01:08,000
+Diego Klimowicz (Argentina) - Rayo Vallecano
+प्रदर्शन: 51 | गोल: 21
+
+12
+00:01:08,000 --> 00:01:14,600
+Fernando Morena (Uruguay) - Rayo Vallecano
+प्रदर्शन: 34 | गोल: 21
+
+13
+00:01:14,600 --> 00:01:21,200
+Emiliano Armenteros (Argentina) - Rayo Vallecano
+प्रदर्शन: 62 | गोल: 22 | असिस्ट: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Álvaro Ruiz Ruiz (Spain) - Rayo Vallecano
+प्रदर्शन: 83 | गोल: 22
+
+15
+00:01:27,800 --> 00:01:34,400
+Bebé (Cape Verde) - Rayo Vallecano
+प्रदर्शन: 187 | गोल: 24 | असिस्ट: 17
+
+16
+00:01:34,400 --> 00:01:41,000
+Javi Guerra (Spain) - Rayo Vallecano
+प्रदर्शन: 93 | गोल: 24 | असिस्ट: 6
+
+17
+00:01:41,000 --> 00:01:47,600
+Elvir Bolic (Bosnia-Herzegovina) - Rayo Vallecano
+प्रदर्शन: 112 | गोल: 28 | असिस्ट: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Alberto Bueno (Spain) - Rayo Vallecano
+प्रदर्शन: 77 | गोल: 29 | असिस्ट: 9
+
+19
+00:01:54,200 --> 00:02:00,800
+David Aganzo (Spain) - Rayo Vallecano
+प्रदर्शन: 77 | गोल: 29
+
+20
+00:02:00,800 --> 00:02:07,400
+Luis Cembranos (Spain) - Rayo Vallecano
+प्रदर्शन: 114 | गोल: 29 | असिस्ट: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Isi Palazón (Spain) - Rayo Vallecano
+प्रदर्शन: 211 | गोल: 30 | असिस्ट: 22
+
+22
+00:02:14,000 --> 00:02:20,600
+Friedrich Hollaus (Austria) - Rayo Vallecano
+प्रदर्शन: 46 | गोल: 32
+
+23
+00:02:20,600 --> 00:02:27,200
+Guilherme Alves (Brazil) - Rayo Vallecano
+प्रदर्शन: 90 | गोल: 33
+
+24
+00:02:27,200 --> 00:02:33,800
+Sergio Pachón (Spain) - Rayo Vallecano
+प्रदर्शन: 106 | गोल: 34 | असिस्ट: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Adrián Embarba (Spain) - Rayo Vallecano
+प्रदर्शन: 228 | गोल: 35 | असिस्ट: 43
+
+26
+00:02:40,400 --> 00:02:47,000
+Álvaro García (Spain) - Rayo Vallecano
+प्रदर्शन: 259 | गोल: 35 | असिस्ट: 37
+
+27
+00:02:47,000 --> 00:02:53,600
+Bolo (Spain) - Rayo Vallecano
+प्रदर्शन: 170 | गोल: 39 | असिस्ट: 9
+
+28
+00:02:53,600 --> 00:03:00,200
+Oscar Trejo (Argentina) - Rayo Vallecano
+प्रदर्शन: 315 | गोल: 44 | असिस्ट: 26
+
+29
+00:03:00,200 --> 00:03:06,800
+Raúl de Tomás (Spain) - Rayo Vallecano
+प्रदर्शन: 115 | गोल: 46 | असिस्ट: 7
+
+30
+00:03:06,800 --> 00:03:13,400
+Piti (Spain) - Rayo Vallecano
+प्रदर्शन: 223 | गोल: 53 | असिस्ट: 8
+
+31
+00:03:13,400 --> 00:03:20,000
+Míchel (Spain) - Rayo Vallecano
+प्रदर्शन: 332 | गोल: 55 | असिस्ट: 23
+

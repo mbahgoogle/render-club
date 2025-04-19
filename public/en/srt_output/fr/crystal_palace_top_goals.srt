@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Crystal Palace Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Scott Dann (England) - Crystal Palace
+Apparitions: 181 | Buts: 16 | Passes décisives: 7
+
+3
+00:00:08,600 --> 00:00:15,200
+Mikael Forssell (Finland) - Crystal Palace
+Apparitions: 58 | Buts: 17 | Passes décisives: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Shefki Kuqi (Finland) - Crystal Palace
+Apparitions: 83 | Buts: 18 | Passes décisives: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Geoff Thomas (England) - Crystal Palace
+Apparitions: 155 | Buts: 18 | Passes décisives: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+John Salako (England) - Crystal Palace
+Apparitions: 146 | Buts: 18 | Passes décisives: 9
+
+7
+00:00:35,000 --> 00:00:41,600
+James McArthur (Scotland) - Crystal Palace
+Apparitions: 253 | Buts: 19 | Passes décisives: 21
+
+8
+00:00:41,600 --> 00:00:48,200
+Jeffrey Schlupp (Ghana) - Crystal Palace
+Apparitions: 247 | Buts: 19 | Passes décisives: 15
+
+9
+00:00:48,200 --> 00:00:54,800
+Ben Watson (England) - Crystal Palace
+Apparitions: 189 | Buts: 20 | Passes décisives: 16
+
+10
+00:00:54,800 --> 00:01:01,400
+David Hopkin (Scotland) - Crystal Palace
+Apparitions: 85 | Buts: 20
+
+11
+00:01:01,400 --> 00:01:08,000
+Hayden Mullins (England) - Crystal Palace
+Apparitions: 251 | Buts: 20
+
+12
+00:01:08,000 --> 00:01:14,600
+Neil Danns (Guyana) - Crystal Palace
+Apparitions: 114 | Buts: 21 | Passes décisives: 8
+
+13
+00:01:14,600 --> 00:01:21,200
+Odsonne Edouard (France) - Crystal Palace
+Apparitions: 103 | Buts: 21 | Passes décisives: 5
+
+14
+00:01:21,200 --> 00:01:27,800
+Jordan Ayew (Ghana) - Crystal Palace
+Apparitions: 212 | Buts: 23 | Passes décisives: 21
+
+15
+00:01:27,800 --> 00:01:34,400
+Dwight Gayle (England) - Crystal Palace
+Apparitions: 74 | Buts: 25 | Passes décisives: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Gerry Queen (Scotland) - Crystal Palace
+Apparitions: 113 | Buts: 27
+
+17
+00:01:41,000 --> 00:01:47,600
+Neil Shipperley (England) - Crystal Palace
+Apparitions: 114 | Buts: 28 | Passes décisives: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Luka Milivojevic (Serbia) - Crystal Palace
+Apparitions: 198 | Buts: 29 | Passes décisives: 6
+
+19
+00:01:54,200 --> 00:02:00,800
+Chris Armstrong (England) - Crystal Palace
+Apparitions: 87 | Buts: 31 | Passes décisives: 6
+
+20
+00:02:00,800 --> 00:02:07,400
+Eberechi Eze (England) - Crystal Palace
+Apparitions: 156 | Buts: 32 | Passes décisives: 26
+
+21
+00:02:07,400 --> 00:02:14,000
+Bruce Dyer (England) - Crystal Palace
+Apparitions: 108 | Buts: 32 | Passes décisives: 3
+
+22
+00:02:14,000 --> 00:02:20,600
+Ian Wright (England) - Crystal Palace
+Apparitions: 93 | Buts: 35 | Passes décisives: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Christian Benteke (Belgium) - Crystal Palace
+Apparitions: 177 | Buts: 37 | Passes décisives: 11
+
+24
+00:02:27,200 --> 00:02:33,800
+Darren Ambrose (England) - Crystal Palace
+Apparitions: 124 | Buts: 37 | Passes décisives: 23
+
+25
+00:02:33,800 --> 00:02:40,400
+Mark Bright (England) - Crystal Palace
+Apparitions: 138 | Buts: 43 | Passes décisives: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Jean-Philippe Mateta (France) - Crystal Palace
+Apparitions: 141 | Buts: 44 | Passes décisives: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+Glenn Murray (England) - Crystal Palace
+Apparitions: 126 | Buts: 47 | Passes décisives: 15
+
+28
+00:02:53,600 --> 00:03:00,200
+Andy Johnson (England) - Crystal Palace
+Apparitions: 158 | Buts: 83 | Passes décisives: 7
+
+29
+00:03:00,200 --> 00:03:06,800
+Dougie Freedman (Scotland) - Crystal Palace
+Apparitions: 320 | Buts: 88 | Passes décisives: 6
+
+30
+00:03:06,800 --> 00:03:13,400
+Wilfried Zaha (Cote d'Ivoire) - Crystal Palace
+Apparitions: 458 | Buts: 90 | Passes décisives: 52
+
+31
+00:03:13,400 --> 00:03:20,000
+Clinton Morrison (Ireland) - Crystal Palace
+Apparitions: 310 | Buts: 110 | Passes décisives: 7
+

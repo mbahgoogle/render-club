@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Olympique Marseille Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Philippe Vercruysse (France) - Olympique Marseille
+Einsätze: 131 | Tore: 36 | Vorlagen: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Hervé Florès (France) - Olympique Marseille
+Einsätze: 153 | Tore: 37
+
+4
+00:00:15,200 --> 00:00:21,800
+Djibril Cissé (France) - Olympique Marseille
+Einsätze: 80 | Tore: 37 | Vorlagen: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Georges Dard (France) - Olympique Marseille
+Einsätze: 177 | Tore: 38
+
+6
+00:00:28,400 --> 00:00:35,000
+Mathieu Valbuena (France) - Olympique Marseille
+Einsätze: 330 | Tore: 38 | Vorlagen: 58
+
+7
+00:00:35,000 --> 00:00:41,600
+Robert Buigues (France) - Olympique Marseille
+Einsätze: 230 | Tore: 38 | Vorlagen: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Franck Sauzée (France) - Olympique Marseille
+Einsätze: 164 | Tore: 39 | Vorlagen: 11
+
+9
+00:00:48,200 --> 00:00:54,800
+Vilmos Kohut (Hungary) - Olympique Marseille
+Einsätze: 82 | Tore: 39 | Vorlagen: 3
+
+10
+00:00:54,800 --> 00:01:01,400
+Didier Couécou (France) - Olympique Marseille
+Einsätze: 107 | Tore: 39
+
+11
+00:01:01,400 --> 00:01:08,000
+Mario Zatelli (France) - Olympique Marseille
+Einsätze: 53 | Tore: 40
+
+12
+00:01:08,000 --> 00:01:14,600
+Albert Emon (France) - Olympique Marseille
+Einsätze: 152 | Tore: 41
+
+13
+00:01:14,600 --> 00:01:21,200
+Marc Libbra (France) - Olympique Marseille
+Einsätze: 149 | Tore: 41 | Vorlagen: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Loïc Rémy (France) - Olympique Marseille
+Einsätze: 111 | Tore: 42 | Vorlagen: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Joseph Alcazar (France) - Olympique Marseille
+Einsätze: 53 | Tore: 42 | Vorlagen: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Charly Loubet (France) - Olympique Marseille
+Einsätze: 90 | Tore: 43
+
+17
+00:01:41,000 --> 00:01:47,600
+Marc Berdoll (France) - Olympique Marseille
+Einsätze: 107 | Tore: 53
+
+18
+00:01:47,600 --> 00:01:54,200
+Joseph Bonnel (France) - Olympique Marseille
+Einsätze: 250 | Tore: 58
+
+19
+00:01:54,200 --> 00:02:00,800
+Roger Scotti (France) - Olympique Marseille
+Einsätze: 341 | Tore: 58
+
+20
+00:02:00,800 --> 00:02:07,400
+André Ayew (Ghana) - Olympique Marseille
+Einsätze: 209 | Tore: 60 | Vorlagen: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Tony Cascarino (Ireland) - Olympique Marseille
+Einsätze: 105 | Tore: 70 | Vorlagen: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Boubacar Sarr (Senegal) - Olympique Marseille
+Einsätze: 169 | Tore: 70
+
+23
+00:02:20,600 --> 00:02:27,200
+Marc Pascal (France) - Olympique Marseille
+Einsätze: 173 | Tore: 72
+
+24
+00:02:27,200 --> 00:02:33,800
+André-Pierre Gignac (France) - Olympique Marseille
+Einsätze: 188 | Tore: 77 | Vorlagen: 13
+
+25
+00:02:33,800 --> 00:02:40,400
+Dimitri Payet (France) - Olympique Marseille
+Einsätze: 326 | Tore: 78 | Vorlagen: 95
+
+26
+00:02:40,400 --> 00:02:47,000
+Florian Thauvin (France) - Olympique Marseille
+Einsätze: 281 | Tore: 86 | Vorlagen: 61
+
+27
+00:02:47,000 --> 00:02:53,600
+Joseph Yegba Maya (Cameroon) - Olympique Marseille
+Einsätze: 160 | Tore: 88
+
+28
+00:02:53,600 --> 00:03:00,200
+Mamadou Niang (Senegal) - Olympique Marseille
+Einsätze: 227 | Tore: 100 | Vorlagen: 36
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean-Pierre Papin (France) - Olympique Marseille
+Einsätze: 275 | Tore: 182 | Vorlagen: 10
+
+30
+00:03:06,800 --> 00:03:13,400
+Josip Skoblar (Croatia) - Olympique Marseille
+Einsätze: 218 | Tore: 185
+
+31
+00:03:13,400 --> 00:03:20,000
+Gunnar Andersson (Sweden) - Olympique Marseille
+Einsätze: 248 | Tore: 194
+

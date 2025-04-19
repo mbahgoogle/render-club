@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Celta de Vigo 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Benni McCarthy (South Africa) - Celta de Vigo
+출전: 103 | 골: 29 | 도움: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Jesuli (Spain) - Celta de Vigo
+출전: 151 | 골: 29 | 도움: 15
+
+4
+00:00:15,200 --> 00:00:21,800
+Germán Waidele Figuerido (Spain) - Celta de Vigo
+출전: 86 | 골: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+Haim Revivo (Israel) - Celta de Vigo
+출전: 152 | 골: 30
+
+6
+00:00:28,400 --> 00:00:35,000
+Gustavo López (Argentina) - Celta de Vigo
+출전: 275 | 골: 30 | 도움: 26
+
+7
+00:00:35,000 --> 00:00:41,600
+Maxi Gómez (Uruguay) - Celta de Vigo
+출전: 75 | 골: 31 | 도움: 10
+
+8
+00:00:41,600 --> 00:00:48,200
+Fernando Baiano (Brazil) - Celta de Vigo
+출전: 80 | 골: 32
+
+9
+00:00:48,200 --> 00:00:54,800
+Edú (Brazil) - Celta de Vigo
+출전: 144 | 골: 32 | 도움: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Manolo Jiménez (Spain) - Celta de Vigo
+출전: 155 | 골: 36
+
+11
+00:01:01,400 --> 00:01:08,000
+Fabián Orellana (Chile) - Celta de Vigo
+출전: 172 | 골: 36 | 도움: 41
+
+12
+00:01:08,000 --> 00:01:14,600
+Juan Fernández (Spain) - Celta de Vigo
+출전: 223 | 골: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+David Rodríguez (Spain) - Celta de Vigo
+출전: 114 | 골: 38 | 도움: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Valeriy Karpin (Russia) - Celta de Vigo
+출전: 218 | 골: 39 | 도움: 12
+
+15
+00:01:27,800 --> 00:01:34,400
+Juan Aretio (Spain) - Celta de Vigo
+출전: 109 | 골: 40
+
+16
+00:01:34,400 --> 00:01:41,000
+Carlos Torres (Spain) - Celta de Vigo
+출전: 114 | 골: 41
+
+17
+00:01:41,000 --> 00:01:47,600
+Santi Mina (Spain) - Celta de Vigo
+출전: 163 | 골: 42 | 도움: 17
+
+18
+00:01:47,600 --> 00:01:54,200
+Peixe (Spain) - Celta de Vigo
+출전: 79 | 골: 44
+
+19
+00:01:54,200 --> 00:02:00,800
+Pablo Olmedo (Spain) - Celta de Vigo
+출전: 155 | 골: 45
+
+20
+00:02:00,800 --> 00:02:07,400
+Catanha (Spain) - Celta de Vigo
+출전: 144 | 골: 46 | 도움: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Juan Sánchez (Spain) - Celta de Vigo
+출전: 206 | 골: 47 | 도움: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Juan del Pino (Spain) - Celta de Vigo
+출전: 71 | 골: 51
+
+23
+00:02:20,600 --> 00:02:27,200
+Adolfo Atienza (Spain) - Celta de Vigo
+출전: 125 | 골: 51 | 도움: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Nolito (Spain) - Celta de Vigo
+출전: 182 | 골: 52 | 도움: 31
+
+25
+00:02:33,800 --> 00:02:40,400
+Francisco Roig (Spain) - Celta de Vigo
+출전: 152 | 골: 56 | 도움: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Pahiño (Spain) - Celta de Vigo
+출전: 87 | 골: 60
+
+27
+00:02:47,000 --> 00:02:53,600
+Mauro (Spain) - Celta de Vigo
+출전: 112 | 골: 69
+
+28
+00:02:53,600 --> 00:03:00,200
+Aleksandr Mostovoy (Russia) - Celta de Vigo
+출전: 290 | 골: 72 | 도움: 45
+
+29
+00:03:00,200 --> 00:03:06,800
+Manuel Hermida (Spain) - Celta de Vigo
+출전: 169 | 골: 107
+
+30
+00:03:06,800 --> 00:03:13,400
+Vladimir Gudelj (Bosnia-Herzegovina) - Celta de Vigo
+출전: 257 | 골: 112 | 도움: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Iago Aspas (Spain) - Celta de Vigo
+출전: 516 | 골: 212 | 도움: 82
+

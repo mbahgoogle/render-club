@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Le Havre AC Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Jean-Philippe Mateta (France) - Le Havre AC
+Einsätze: 38 | Tore: 20
+
+3
+00:00:08,600 --> 00:00:15,200
+Amadou Alassane (France) - Le Havre AC
+Einsätze: 81 | Tore: 20 | Vorlagen: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Alessandro Frigerio (Switzerland) - Le Havre AC
+Einsätze: 32 | Tore: 21
+
+5
+00:00:21,800 --> 00:00:28,400
+Brice Jovial (Guadeloupe) - Le Havre AC
+Einsätze: 50 | Tore: 23 | Vorlagen: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Ryan Mendes (Cape Verde) - Le Havre AC
+Einsätze: 94 | Tore: 24 | Vorlagen: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Eduardo Di Loreto (Argentina) - Le Havre AC
+Einsätze: 46 | Tore: 25
+
+8
+00:00:41,600 --> 00:00:48,200
+Philippe Jacquet (France) - Le Havre AC
+Einsätze: 98 | Tore: 25
+
+9
+00:00:48,200 --> 00:00:54,800
+Hocine Bouchache (Algeria) - Le Havre AC
+Einsätze: 54 | Tore: 27
+
+10
+00:00:54,800 --> 00:01:01,400
+Ignace Valorisek (France) - Le Havre AC
+Einsätze: 138 | Tore: 27
+
+11
+00:01:01,400 --> 00:01:08,000
+Tino Kadewere (Zimbabwe) - Le Havre AC
+Einsätze: 51 | Tore: 27 | Vorlagen: 9
+
+12
+00:01:08,000 --> 00:01:14,600
+Mickaël Le Bihan (France) - Le Havre AC
+Einsätze: 73 | Tore: 27 | Vorlagen: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Jean-Pascal Fontaine (Réunion) - Le Havre AC
+Einsätze: 383 | Tore: 28 | Vorlagen: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Thomas Deniaud (France) - Le Havre AC
+Einsätze: 104 | Tore: 28
+
+15
+00:01:27,800 --> 00:01:34,400
+Walid Mesloub (Algeria) - Le Havre AC
+Einsätze: 172 | Tore: 29 | Vorlagen: 25
+
+16
+00:01:34,400 --> 00:01:41,000
+Pascal Pain (France) - Le Havre AC
+Einsätze: 153 | Tore: 31
+
+17
+00:01:41,000 --> 00:01:47,600
+Jamal Thiaré (Senegal) - Le Havre AC
+Einsätze: 129 | Tore: 31 | Vorlagen: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Bruno Roux (France) - Le Havre AC
+Einsätze: 118 | Tore: 31
+
+19
+00:01:54,200 --> 00:02:00,800
+Yvon Douis (France) - Le Havre AC
+Einsätze: 81 | Tore: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Kandia Traoré (Cote d'Ivoire) - Le Havre AC
+Einsätze: 80 | Tore: 33
+
+21
+00:02:07,400 --> 00:02:14,000
+Robert Llorens (France) - Le Havre AC
+Einsätze: 168 | Tore: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Guillaume Hoarau (France) - Le Havre AC
+Einsätze: 93 | Tore: 38
+
+23
+00:02:20,600 --> 00:02:27,200
+Yohann Rivière (France) - Le Havre AC
+Einsätze: 117 | Tore: 38 | Vorlagen: 9
+
+24
+00:02:27,200 --> 00:02:33,800
+Zarko Olarevic (Serbia) - Le Havre AC
+Einsätze: 76 | Tore: 46
+
+25
+00:02:33,800 --> 00:02:40,400
+Alexandre Bonnet (France) - Le Havre AC
+Einsätze: 470 | Tore: 51 | Vorlagen: 49
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrick Martet (France) - Le Havre AC
+Einsätze: 124 | Tore: 63
+
+27
+00:02:47,000 --> 00:02:53,600
+Joël Tiéhi (Cote d'Ivoire) - Le Havre AC
+Einsätze: 172 | Tore: 63 | Vorlagen: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Philippe Prieur (France) - Le Havre AC
+Einsätze: 176 | Tore: 64
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean Saunier (France) - Le Havre AC
+Einsätze: 107 | Tore: 68
+
+30
+00:03:06,800 --> 00:03:13,400
+Alain Caveglia (France) - Le Havre AC
+Einsätze: 163 | Tore: 71 | Vorlagen: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Jean-Michel Lesage (France) - Le Havre AC
+Einsätze: 354 | Tore: 82 | Vorlagen: 8
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Leicester City Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Tony Cottee (England) - Leicester City
+Penampilan: 100 | Gol: 34
+
+3
+00:00:08,600 --> 00:00:15,200
+Ken Leek (Wales) - Leicester City
+Penampilan: 95 | Gol: 34
+
+4
+00:00:15,200 --> 00:00:21,800
+Iain Hume (Canada) - Leicester City
+Penampilan: 132 | Gol: 34 | Asis: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Keith Weller (England) - Leicester City
+Penampilan: 266 | Gol: 35
+
+6
+00:00:28,400 --> 00:00:35,000
+Derek Dougan (Northern Ireland) - Leicester City
+Penampilan: 72 | Gol: 36
+
+7
+00:00:35,000 --> 00:00:41,600
+Howard Riley (England) - Leicester City
+Penampilan: 195 | Gol: 36
+
+8
+00:00:41,600 --> 00:00:48,200
+Steve Lynex (England) - Leicester City
+Penampilan: 154 | Gol: 39 | Asis: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Lloyd Dyer (England) - Leicester City
+Penampilan: 265 | Gol: 39 | Asis: 30
+
+10
+00:00:54,800 --> 00:01:01,400
+Albert Cheesebrough (England) - Leicester City
+Penampilan: 126 | Gol: 40 | Asis: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Paul Dickov (Scotland) - Leicester City
+Penampilan: 125 | Gol: 40 | Asis: 4
+
+12
+00:01:08,000 --> 00:01:14,600
+Emile Heskey (England) - Leicester City
+Penampilan: 168 | Gol: 41 | Asis: 10
+
+13
+00:01:14,600 --> 00:01:21,200
+Arthur Chandler (England) - Leicester City
+Penampilan: 56 | Gol: 43
+
+14
+00:01:21,200 --> 00:01:27,800
+Dave Gibson (Scotland) - Leicester City
+Penampilan: 291 | Gol: 44 | Asis: 4
+
+15
+00:01:27,800 --> 00:01:34,400
+Muzzy Izzet (Türkiye) - Leicester City
+Penampilan: 305 | Gol: 45 | Asis: 21
+
+16
+00:01:34,400 --> 00:01:41,000
+Harvey Barnes (England) - Leicester City
+Penampilan: 187 | Gol: 45 | Asis: 32
+
+17
+00:01:41,000 --> 00:01:47,600
+Riyad Mahrez (Algeria) - Leicester City
+Penampilan: 179 | Gol: 48 | Asis: 35
+
+18
+00:01:47,600 --> 00:01:54,200
+Jackie Sinclair (Scotland) - Leicester City
+Penampilan: 109 | Gol: 51
+
+19
+00:01:54,200 --> 00:02:00,800
+James Maddison (England) - Leicester City
+Penampilan: 203 | Gol: 55 | Asis: 39
+
+20
+00:02:00,800 --> 00:02:07,400
+David Nugent (England) - Leicester City
+Penampilan: 180 | Gol: 59 | Asis: 28
+
+21
+00:02:07,400 --> 00:02:14,000
+Gary Lineker (England) - Leicester City
+Penampilan: 114 | Gol: 61 | Asis: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Kelechi Iheanacho (Nigeria) - Leicester City
+Penampilan: 232 | Gol: 61 | Asis: 34
+
+23
+00:02:20,600 --> 00:02:27,200
+Andy King (Wales) - Leicester City
+Penampilan: 379 | Gol: 62 | Asis: 24
+
+24
+00:02:27,200 --> 00:02:33,800
+Matty Fryatt (England) - Leicester City
+Penampilan: 189 | Gol: 62 | Asis: 12
+
+25
+00:02:33,800 --> 00:02:40,400
+Alan Smith (England) - Leicester City
+Penampilan: 171 | Gol: 65 | Asis: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Arthur Rowley (England) - Leicester City
+Penampilan: 86 | Gol: 69 | Asis: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Ken Keyworth (England) - Leicester City
+Penampilan: 188 | Gol: 70 | Asis: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Frank Worthington (England) - Leicester City
+Penampilan: 224 | Gol: 75
+
+29
+00:03:00,200 --> 00:03:06,800
+Jimmy Walsh (Scotland) - Leicester City
+Penampilan: 181 | Gol: 81
+
+30
+00:03:06,800 --> 00:03:13,400
+Mike Stringfellow (England) - Leicester City
+Penampilan: 317 | Gol: 88 | Asis: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Jamie Vardy (England) - Leicester City
+Penampilan: 493 | Gol: 198 | Asis: 69
+

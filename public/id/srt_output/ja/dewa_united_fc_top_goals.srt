@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Dewa United FC 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Suhandi (Indonesia) - Dewa United FC
+出場数: 23 | ゴール: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Anwar Sani (Indonesia) - Dewa United FC
+出場数: 21 | ゴール: 1 | アシスト: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Ade Suhendra (Indonesia) - Dewa United FC
+出場数: 2 | ゴール: 1 | アシスト: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Muhammad Agus Salim (Indonesia) - Dewa United FC
+出場数: 5 | ゴール: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Sugeng Efendi (Indonesia) - Dewa United FC
+出場数: 17 | ゴール: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Aidil Bogel (Indonesia) - Dewa United FC
+出場数: 8 | ゴール: 1 | アシスト: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Nasir (Indonesia) - Dewa United FC
+出場数: 15 | ゴール: 1 | アシスト: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Erwin Gutawa (Indonesia) - Dewa United FC
+出場数: 8 | ゴール: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Rafi Angga (Indonesia) - Dewa United FC
+出場数: 9 | ゴール: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Ahmad Rusadi (Indonesia) - Dewa United FC
+出場数: 9 | ゴール: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Rishadi Fauzi (Indonesia) - Dewa United FC
+出場数: 24 | ゴール: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Gufroni Al Maruf (Indonesia) - Dewa United FC
+出場数: 20 | ゴール: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Ardan Aras (Indonesia) - Dewa United FC
+出場数: 7 | ゴール: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Natanael Siringoringo (Indonesia) - Dewa United FC
+出場数: 29 | ゴール: 2 | アシスト: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Lucas Ramos (Brazil) - Dewa United FC
+出場数: 32 | ゴール: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Alexis Messidoro (Argentina) - Dewa United FC
+出場数: 23 | ゴール: 2 | アシスト: 6
+
+18
+00:01:47,600 --> 00:01:54,200
+OJ Porteria (Philippines) - Dewa United FC
+出場数: 10 | ゴール: 3
+
+19
+00:01:54,200 --> 00:02:00,800
+Taisei Marukawa (Japan) - Dewa United FC
+出場数: 27 | ゴール: 3 | アシスト: 7
+
+20
+00:02:00,800 --> 00:02:07,400
+Ahmad Nufiandani (Indonesia) - Dewa United FC
+出場数: 42 | ゴール: 4 | アシスト: 11
+
+21
+00:02:07,400 --> 00:02:14,000
+Herman Dzumafo (Indonesia) - Dewa United FC
+出場数: 14 | ゴール: 4 | アシスト: 3
+
+22
+00:02:14,000 --> 00:02:20,600
+Dimitrios Kolovos (Greece) - Dewa United FC
+出場数: 28 | ゴール: 4 | アシスト: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Rangga Muslim (Indonesia) - Dewa United FC
+出場数: 67 | ゴール: 4 | アシスト: 6
+
+24
+00:02:27,200 --> 00:02:33,800
+Ricky Kambuaya (Indonesia) - Dewa United FC
+出場数: 49 | ゴール: 6 | アシスト: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Slamet Budiono (Indonesia) - Dewa United FC
+出場数: 12 | ゴール: 6
+
+26
+00:02:40,400 --> 00:02:47,000
+Septian Bagaskara (Indonesia) - Dewa United FC
+出場数: 46 | ゴール: 9 | アシスト: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Karim Rossi (Switzerland) - Dewa United FC
+出場数: 31 | ゴール: 11 | アシスト: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+Majed Osman (Lebanon) - Dewa United FC
+出場数: 63 | ゴール: 11 | アシスト: 10
+
+29
+00:03:00,200 --> 00:03:06,800
+Risto Mitrevski (North Macedonia) - Dewa United FC
+出場数: 91 | ゴール: 12 | アシスト: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Egy Maulana Vikri (Indonesia) - Dewa United FC
+出場数: 64 | ゴール: 20 | アシスト: 14
+
+31
+00:03:13,400 --> 00:03:20,000
+Alex (Brazil) - Dewa United FC
+出場数: 54 | ゴール: 44 | アシスト: 9
+

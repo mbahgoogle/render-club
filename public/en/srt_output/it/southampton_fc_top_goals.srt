@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Southampton FC Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Nathan Redmond (England) - Southampton FC
+Presenze: 232 | Gol: 30 | Assist: 27
+
+3
+00:00:08,600 --> 00:00:15,200
+Egil Østenstad (Norway) - Southampton FC
+Presenze: 108 | Gol: 32 | Assist: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Iain Dowie (Northern Ireland) - Southampton FC
+Presenze: 138 | Gol: 32 | Assist: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Adam Armstrong (England) - Southampton FC
+Presenze: 142 | Gol: 32 | Assist: 18
+
+6
+00:00:28,400 --> 00:00:35,000
+Graham Baker (England) - Southampton FC
+Presenze: 180 | Gol: 33 | Assist: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Martin Chivers (England) - Southampton FC
+Presenze: 79 | Gol: 33
+
+8
+00:00:41,600 --> 00:00:48,200
+Grzegorz Rasiak (Poland) - Southampton FC
+Presenze: 87 | Gol: 33 | Assist: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Nick Holmes (England) - Southampton FC
+Presenze: 367 | Gol: 35 | Assist: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Jay Rodríguez (England) - Southampton FC
+Presenze: 126 | Gol: 35 | Assist: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Colin Clarke (Northern Ireland) - Southampton FC
+Presenze: 88 | Gol: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+Glenn Cockerill (England) - Southampton FC
+Presenze: 331 | Gol: 37 | Assist: 5
+
+13
+00:01:14,600 --> 00:01:21,200
+Shane Long (Ireland) - Southampton FC
+Presenze: 245 | Gol: 37 | Assist: 23
+
+14
+00:01:21,200 --> 00:01:27,800
+Alan Shearer (England) - Southampton FC
+Presenze: 150 | Gol: 38 | Assist: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Phil Boyer (England) - Southampton FC
+Presenze: 114 | Gol: 39 | Assist: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Kevin Keegan (England) - Southampton FC
+Presenze: 78 | Gol: 43 | Assist: 13
+
+17
+00:01:41,000 --> 00:01:47,600
+Marians Pahars (Latvia) - Southampton FC
+Presenze: 155 | Gol: 45 | Assist: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Danny Ings (England) - Southampton FC
+Presenze: 100 | Gol: 46 | Assist: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Ché Adams (Scotland) - Southampton FC
+Presenze: 191 | Gol: 48 | Assist: 20
+
+20
+00:02:00,800 --> 00:02:07,400
+Terry Paine (England) - Southampton FC
+Presenze: 378 | Gol: 51 | Assist: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Rod Wallace (England) - Southampton FC
+Presenze: 152 | Gol: 53 | Assist: 3
+
+22
+00:02:14,000 --> 00:02:20,600
+James Ward-Prowse (England) - Southampton FC
+Presenze: 410 | Gol: 55 | Assist: 52
+
+23
+00:02:20,600 --> 00:02:27,200
+Adam Lallana (England) - Southampton FC
+Presenze: 283 | Gol: 60 | Assist: 47
+
+24
+00:02:27,200 --> 00:02:33,800
+David Armstrong (England) - Southampton FC
+Presenze: 242 | Gol: 61 | Assist: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Danny Wallace (England) - Southampton FC
+Presenze: 284 | Gol: 65 | Assist: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+James Beattie (England) - Southampton FC
+Presenze: 232 | Gol: 76 | Assist: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Steve Moran (England) - Southampton FC
+Presenze: 203 | Gol: 87 | Assist: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+Rickie Lambert (England) - Southampton FC
+Presenze: 235 | Gol: 117 | Assist: 58
+
+29
+00:03:00,200 --> 00:03:06,800
+Ron Davies (Wales) - Southampton FC
+Presenze: 259 | Gol: 144 | Assist: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Mick Channon (England) - Southampton FC
+Presenze: 440 | Gol: 148 | Assist: 20
+
+31
+00:03:13,400 --> 00:03:20,000
+Matt Le Tissier (England) - Southampton FC
+Presenze: 518 | Gol: 195 | Assist: 58
+

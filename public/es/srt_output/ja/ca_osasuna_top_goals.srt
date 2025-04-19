@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+CA Osasuna 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Francisco Javier Bayona (Spain) - CA Osasuna
+出場数: 148 | ゴール: 21
+
+3
+00:00:08,600 --> 00:00:15,200
+Kike Sola (Spain) - CA Osasuna
+出場数: 98 | ゴール: 21 | アシスト: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+José Luis Areta (Spain) - CA Osasuna
+出場数: 89 | ゴール: 21 | アシスト: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Raúl García (Spain) - CA Osasuna
+出場数: 126 | ゴール: 21 | アシスト: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Hormaeche (Spain) - CA Osasuna
+出場数: 61 | ゴール: 21
+
+7
+00:00:35,000 --> 00:00:41,600
+Savo Miloševic (Serbia) - CA Osasuna
+出場数: 103 | ゴール: 22 | アシスト: 7
+
+8
+00:00:41,600 --> 00:00:48,200
+Jon Andoni Goikoetxea (Spain) - CA Osasuna
+出場数: 112 | ゴール: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Eugenio Bustingorri (Spain) - CA Osasuna
+出場数: 343 | ゴール: 23 | アシスト: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Valdo (Cape Verde) - CA Osasuna
+出場数: 141 | ゴール: 23 | アシスト: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Adolfo Marañón (Spain) - CA Osasuna
+出場数: 91 | ゴール: 25
+
+12
+00:01:08,000 --> 00:01:14,600
+Julián Vergara (Spain) - CA Osasuna
+出場数: 27 | ゴール: 25
+
+13
+00:01:14,600 --> 00:01:21,200
+Pierre Webó (Cameroon) - CA Osasuna
+出場数: 137 | ゴール: 26 | アシスト: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Nino (Spain) - CA Osasuna
+出場数: 147 | ゴール: 27 | アシスト: 20
+
+15
+00:01:27,800 --> 00:01:34,400
+Rubén García (Spain) - CA Osasuna
+出場数: 250 | ゴール: 27 | アシスト: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Patxi Puñal (Spain) - CA Osasuna
+出場数: 477 | ゴール: 28 | アシスト: 32
+
+17
+00:01:41,000 --> 00:01:47,600
+Chimy Ávila (Argentina) - CA Osasuna
+出場数: 123 | ゴール: 29 | アシスト: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Miguel Sola (Spain) - CA Osasuna
+出場数: 207 | ゴール: 30
+
+19
+00:01:54,200 --> 00:02:00,800
+Patxi Rípodas (Spain) - CA Osasuna
+出場数: 237 | ゴール: 31
+
+20
+00:02:00,800 --> 00:02:07,400
+Iván Rosado (Spain) - CA Osasuna
+出場数: 137 | ゴール: 31 | アシスト: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Walter Pandiani (Uruguay) - CA Osasuna
+出場数: 103 | ゴール: 31 | アシスト: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Javad Nekounam (Iran) - CA Osasuna
+出場数: 198 | ゴール: 31 | アシスト: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+John Aloisi (Australia) - CA Osasuna
+出場数: 128 | ゴール: 32 | アシスト: 10
+
+24
+00:02:27,200 --> 00:02:33,800
+José Manuel Echeverria (Spain) - CA Osasuna
+出場数: 189 | ゴール: 38 | アシスト: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Patxi Iriguibel (Spain) - CA Osasuna
+出場数: 110 | ゴール: 38 | アシスト: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Enrique Martín (Spain) - CA Osasuna
+出場数: 244 | ゴール: 38 | アシスト: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Cuco Ziganda (Spain) - CA Osasuna
+出場数: 160 | ゴール: 44
+
+28
+00:02:53,600 --> 00:03:00,200
+Jan Urban (Poland) - CA Osasuna
+出場数: 167 | ゴール: 47 | アシスト: 2
+
+29
+00:03:00,200 --> 00:03:06,800
+Roberto Torres (Spain) - CA Osasuna
+出場数: 353 | ゴール: 60 | アシスト: 55
+
+30
+00:03:06,800 --> 00:03:13,400
+Ante Budimir (Croatia) - CA Osasuna
+出場数: 170 | ゴール: 65 | アシスト: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Sabino (Spain) - CA Osasuna
+出場数: 142 | ゴール: 65
+

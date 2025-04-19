@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Real Sociedad Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+José María Araquistain (Spain) - Real Sociedad
+Einsätze: 136 | Tore: 37
+
+3
+00:00:08,600 --> 00:00:15,200
+Valeriy Karpin (Russia) - Real Sociedad
+Einsätze: 194 | Tore: 37 | Vorlagen: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Sarasqueta (Spain) - Real Sociedad
+Einsätze: 128 | Tore: 38 | Vorlagen: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Loren Juarros (Spain) - Real Sociedad
+Einsätze: 399 | Tore: 39 | Vorlagen: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Santi Idígoras (Spain) - Real Sociedad
+Einsätze: 229 | Tore: 40
+
+7
+00:00:35,000 --> 00:00:41,600
+John Aldridge (Ireland) - Real Sociedad
+Einsätze: 75 | Tore: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+José María Pérez (Spain) - Real Sociedad
+Einsätze: 211 | Tore: 42 | Vorlagen: 3
+
+9
+00:00:48,200 --> 00:00:54,800
+Alexander Isak (Sweden) - Real Sociedad
+Einsätze: 132 | Tore: 44 | Vorlagen: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Paco Bienzobas (Spain) - Real Sociedad
+Einsätze: 86 | Tore: 45
+
+11
+00:01:01,400 --> 00:01:08,000
+Sebastián Ontoria (Spain) - Real Sociedad
+Einsätze: 223 | Tore: 45
+
+12
+00:01:08,000 --> 00:01:14,600
+Epi (Spain) - Real Sociedad
+Einsätze: 143 | Tore: 48
+
+13
+00:01:14,600 --> 00:01:21,200
+Javi de Pedro (Spain) - Real Sociedad
+Einsätze: 323 | Tore: 52 | Vorlagen: 35
+
+14
+00:01:21,200 --> 00:01:27,800
+Antoine Griezmann (France) - Real Sociedad
+Einsätze: 202 | Tore: 52 | Vorlagen: 18
+
+15
+00:01:27,800 --> 00:01:34,400
+Cholín (Spain) - Real Sociedad
+Einsätze: 104 | Tore: 54
+
+16
+00:01:34,400 --> 00:01:41,000
+Nihat Kahveci (Türkiye) - Real Sociedad
+Einsätze: 142 | Tore: 58 | Vorlagen: 12
+
+17
+00:01:41,000 --> 00:01:47,600
+Óscar de Paula (Spain) - Real Sociedad
+Einsätze: 298 | Tore: 60 | Vorlagen: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Paz (Spain) - Real Sociedad
+Einsätze: 243 | Tore: 60 | Vorlagen: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Willian José (Brazil) - Real Sociedad
+Einsätze: 170 | Tore: 62 | Vorlagen: 15
+
+20
+00:02:00,800 --> 00:02:07,400
+Silvestre Igoa (Spain) - Real Sociedad
+Einsätze: 128 | Tore: 68
+
+21
+00:02:07,400 --> 00:02:14,000
+Jesús Mari Zamora (Spain) - Real Sociedad
+Einsätze: 529 | Tore: 69
+
+22
+00:02:14,000 --> 00:02:20,600
+Carlos Vela (Mexico) - Real Sociedad
+Einsätze: 250 | Tore: 73 | Vorlagen: 43
+
+23
+00:02:20,600 --> 00:02:27,200
+Imanol Agirretxe (Spain) - Real Sociedad
+Einsätze: 271 | Tore: 74 | Vorlagen: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Xabi Prieto (Spain) - Real Sociedad
+Einsätze: 531 | Tore: 74 | Vorlagen: 52
+
+25
+00:02:33,800 --> 00:02:40,400
+José Mari Bakero (Spain) - Real Sociedad
+Einsätze: 260 | Tore: 76
+
+26
+00:02:40,400 --> 00:02:47,000
+Pello Uralde (Spain) - Real Sociedad
+Einsätze: 221 | Tore: 80 | Vorlagen: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Meho Kodro (Bosnia-Herzegovina) - Real Sociedad
+Einsätze: 146 | Tore: 81
+
+28
+00:02:53,600 --> 00:03:00,200
+Darko Kovačević (Serbia) - Real Sociedad
+Einsätze: 283 | Tore: 107 | Vorlagen: 22
+
+29
+00:03:00,200 --> 00:03:06,800
+Mikel Oyarzabal (Spain) - Real Sociedad
+Einsätze: 388 | Tore: 111 | Vorlagen: 60
+
+30
+00:03:06,800 --> 00:03:13,400
+Roberto López Ufarte (Spain) - Real Sociedad
+Einsätze: 423 | Tore: 111 | Vorlagen: 5
+
+31
+00:03:13,400 --> 00:03:20,000
+Jesús Satrustegui (Spain) - Real Sociedad
+Einsätze: 340 | Tore: 152 | Vorlagen: 1
+

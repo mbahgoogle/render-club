@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC St. Pauli Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Harald Stender (Germany) - FC St. Pauli
+Partidas: 355 | Gols: 28
+
+3
+00:00:08,600 --> 00:00:15,200
+Werner Heitkamp (Germany) - FC St. Pauli
+Partidas: 57 | Gols: 28
+
+4
+00:00:15,200 --> 00:00:21,800
+Yuriy Savichev (Russia) - FC St. Pauli
+Partidas: 95 | Gols: 30 | Assistências: 8
+
+5
+00:00:21,800 --> 00:00:28,400
+Werner Kruppa (Germany) - FC St. Pauli
+Partidas: 46 | Gols: 31
+
+6
+00:00:28,400 --> 00:00:35,000
+André Trulsen (Germany) - FC St. Pauli
+Partidas: 409 | Gols: 31 | Assistências: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Guido Burgstaller (Austria) - FC St. Pauli
+Partidas: 57 | Gols: 31 | Assistências: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Ingo Porges (Germany) - FC St. Pauli
+Partidas: 314 | Gols: 31
+
+9
+00:00:48,200 --> 00:00:54,800
+Fabian Boll (Germany) - FC St. Pauli
+Partidas: 292 | Gols: 32 | Assistências: 17
+
+10
+00:00:54,800 --> 00:01:01,400
+Joachim Philipkowski (Germany) - FC St. Pauli
+Partidas: 162 | Gols: 34
+
+11
+00:01:01,400 --> 00:01:08,000
+Jens Scharping (Germany) - FC St. Pauli
+Partidas: 133 | Gols: 35 | Assistências: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Emil Schildt (Germany) - FC St. Pauli
+Partidas: 133 | Gols: 39
+
+13
+00:01:14,600 --> 00:01:21,200
+Hans Sump (Germany) - FC St. Pauli
+Partidas: 113 | Gols: 39 | Assistências: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Jürgen Gronau (Germany) - FC St. Pauli
+Partidas: 476 | Gols: 42 | Assistências: 7
+
+15
+00:01:27,800 --> 00:01:34,400
+Marcus Marin (Germany) - FC St. Pauli
+Partidas: 105 | Gols: 42 | Assistências: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Martin Driller (Germany) - FC St. Pauli
+Partidas: 162 | Gols: 42 | Assistências: 5
+
+17
+00:01:41,000 --> 00:01:47,600
+Marius Ebbers (Germany) - FC St. Pauli
+Partidas: 143 | Gols: 46 | Assistências: 24
+
+18
+00:01:47,600 --> 00:01:54,200
+Thomas Meggle (Germany) - FC St. Pauli
+Partidas: 184 | Gols: 46 | Assistências: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Rolf Höfert (Germany) - FC St. Pauli
+Partidas: 212 | Gols: 47 | Assistências: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Alfred Beck (Germany) - FC St. Pauli
+Partidas: 167 | Gols: 47
+
+21
+00:02:07,400 --> 00:02:14,000
+Michael Dahms (Germany) - FC St. Pauli
+Partidas: 291 | Gols: 48 | Assistências: 4
+
+22
+00:02:14,000 --> 00:02:20,600
+Dirk Zander (Germany) - FC St. Pauli
+Partidas: 181 | Gols: 52 | Assistências: 6
+
+23
+00:02:20,600 --> 00:02:27,200
+Horst Neumann (Germany) - FC St. Pauli
+Partidas: 219 | Gols: 54 | Assistências: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Hans-Jürgen Bargfrede (Germany) - FC St. Pauli
+Partidas: 265 | Gols: 57
+
+25
+00:02:33,800 --> 00:02:40,400
+Rolf Bergeest (Germany) - FC St. Pauli
+Partidas: 225 | Gols: 66
+
+26
+00:02:40,400 --> 00:02:47,000
+Alfred Boller (Germany) - FC St. Pauli
+Partidas: 130 | Gols: 78 | Assistências: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+André Golke (Germany) - FC St. Pauli
+Partidas: 298 | Gols: 79 | Assistências: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Rüdiger Wenzel (Germany) - FC St. Pauli
+Partidas: 213 | Gols: 91 | Assistências: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Franz Gerber (Germany) - FC St. Pauli
+Partidas: 165 | Gols: 105 | Assistências: 1
+
+30
+00:03:06,800 --> 00:03:13,400
+Horst Haecks (Germany) - FC St. Pauli
+Partidas: 267 | Gols: 164
+
+31
+00:03:13,400 --> 00:03:20,000
+Peter Osterhoff (Germany) - FC St. Pauli
+Partidas: 293 | Gols: 173
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSPS Pekanbaru Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Jibby Wuwungan (Indonesia) - PSPS Pekanbaru
+Матчи: 12 | Голы: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Chris Rumbiak (Indonesia) - PSPS Pekanbaru
+Матчи: 3 | Голы: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Rendi Saputra (Indonesia) - PSPS Pekanbaru
+Матчи: 13 | Голы: 1 | Голевые передачи: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Ari Hermawan (Indonesia) - PSPS Pekanbaru
+Матчи: 4 | Голы: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Lerby Eliandry Pong Babu (Indonesia) - PSPS Pekanbaru
+Матчи: 6 | Голы: 1 | Голевые передачи: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Agus Cima (Indonesia) - PSPS Pekanbaru
+Матчи: 30 | Голы: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Arsan Makarin (Indonesia) - PSPS Pekanbaru
+Матчи: 8 | Голы: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Dama Indriyana (Indonesia) - PSPS Pekanbaru
+Матчи: 20 | Голы: 2 | Голевые передачи: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Michael Orah (Indonesia) - PSPS Pekanbaru
+Матчи: 19 | Голы: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Rio Hardiawan (Indonesia) - PSPS Pekanbaru
+Матчи: 6 | Голы: 2 | Голевые передачи: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Muhammad Sanjaya (Indonesia) - PSPS Pekanbaru
+Матчи: 8 | Голы: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Khairunnas Afrizal (Indonesia) - PSPS Pekanbaru
+Матчи: 14 | Голы: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Fitra Ridwan (Indonesia) - PSPS Pekanbaru
+Матчи: 21 | Голы: 2 | Голевые передачи: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Firman Septian (Indonesia) - PSPS Pekanbaru
+Матчи: 10 | Голы: 2 | Голевые передачи: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Andri Abu Bakar (Indonesia) - PSPS Pekanbaru
+Матчи: 8 | Голы: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Yudhi Adytia (Indonesia) - PSPS Pekanbaru
+Матчи: 42 | Голы: 3 | Голевые передачи: 5
+
+18
+00:01:47,600 --> 00:01:54,200
+Noriki Akada (Japan) - PSPS Pekanbaru
+Матчи: 9 | Голы: 3
+
+19
+00:01:54,200 --> 00:02:00,800
+April Hadi (Indonesia) - PSPS Pekanbaru
+Матчи: 46 | Голы: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Bruno Silva (Brazil) - PSPS Pekanbaru
+Матчи: 10 | Голы: 4 | Голевые передачи: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Redo Rinaldi (Indonesia) - PSPS Pekanbaru
+Матчи: 27 | Голы: 5
+
+22
+00:02:14,000 --> 00:02:20,600
+Jhon Mena (Colombia) - PSPS Pekanbaru
+Матчи: 18 | Голы: 6 | Голевые передачи: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Makan Konate (Mali) - PSPS Pekanbaru
+Матчи: 16 | Голы: 6
+
+24
+00:02:27,200 --> 00:02:33,800
+Omid Popalzay (Afghanistan) - PSPS Pekanbaru
+Матчи: 22 | Голы: 7 | Голевые передачи: 4
+
+25
+00:02:33,800 --> 00:02:40,400
+Pape Latyr N'Diaye (Senegal) - PSPS Pekanbaru
+Матчи: 13 | Голы: 7
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrice Nzekou (Cameroon) - PSPS Pekanbaru
+Матчи: 26 | Голы: 7
+
+27
+00:02:47,000 --> 00:02:53,600
+Asir Asiz (Indonesia) - PSPS Pekanbaru
+Матчи: 35 | Голы: 7 | Голевые передачи: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Zaenal Arief (Indonesia) - PSPS Pekanbaru
+Матчи: 30 | Голы: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Ilham Fathoni (Indonesia) - PSPS Pekanbaru
+Матчи: 25 | Голы: 9 | Голевые передачи: 1
+
+30
+00:03:06,800 --> 00:03:13,400
+M. Isnaini (Indonesia) - PSPS Pekanbaru
+Матчи: 51 | Голы: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Herman Dzumafo (Indonesia) - PSPS Pekanbaru
+Матчи: 17 | Голы: 10
+

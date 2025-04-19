@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Olympique Marseille सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Philippe Vercruysse (France) - Olympique Marseille
+प्रदर्शन: 131 | गोल: 36 | असिस्ट: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Hervé Florès (France) - Olympique Marseille
+प्रदर्शन: 153 | गोल: 37
+
+4
+00:00:15,200 --> 00:00:21,800
+Djibril Cissé (France) - Olympique Marseille
+प्रदर्शन: 80 | गोल: 37 | असिस्ट: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Georges Dard (France) - Olympique Marseille
+प्रदर्शन: 177 | गोल: 38
+
+6
+00:00:28,400 --> 00:00:35,000
+Mathieu Valbuena (France) - Olympique Marseille
+प्रदर्शन: 330 | गोल: 38 | असिस्ट: 58
+
+7
+00:00:35,000 --> 00:00:41,600
+Robert Buigues (France) - Olympique Marseille
+प्रदर्शन: 230 | गोल: 38 | असिस्ट: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Franck Sauzée (France) - Olympique Marseille
+प्रदर्शन: 164 | गोल: 39 | असिस्ट: 11
+
+9
+00:00:48,200 --> 00:00:54,800
+Vilmos Kohut (Hungary) - Olympique Marseille
+प्रदर्शन: 82 | गोल: 39 | असिस्ट: 3
+
+10
+00:00:54,800 --> 00:01:01,400
+Didier Couécou (France) - Olympique Marseille
+प्रदर्शन: 107 | गोल: 39
+
+11
+00:01:01,400 --> 00:01:08,000
+Mario Zatelli (France) - Olympique Marseille
+प्रदर्शन: 53 | गोल: 40
+
+12
+00:01:08,000 --> 00:01:14,600
+Albert Emon (France) - Olympique Marseille
+प्रदर्शन: 152 | गोल: 41
+
+13
+00:01:14,600 --> 00:01:21,200
+Marc Libbra (France) - Olympique Marseille
+प्रदर्शन: 149 | गोल: 41 | असिस्ट: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Loïc Rémy (France) - Olympique Marseille
+प्रदर्शन: 111 | गोल: 42 | असिस्ट: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Joseph Alcazar (France) - Olympique Marseille
+प्रदर्शन: 53 | गोल: 42 | असिस्ट: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Charly Loubet (France) - Olympique Marseille
+प्रदर्शन: 90 | गोल: 43
+
+17
+00:01:41,000 --> 00:01:47,600
+Marc Berdoll (France) - Olympique Marseille
+प्रदर्शन: 107 | गोल: 53
+
+18
+00:01:47,600 --> 00:01:54,200
+Joseph Bonnel (France) - Olympique Marseille
+प्रदर्शन: 250 | गोल: 58
+
+19
+00:01:54,200 --> 00:02:00,800
+Roger Scotti (France) - Olympique Marseille
+प्रदर्शन: 341 | गोल: 58
+
+20
+00:02:00,800 --> 00:02:07,400
+André Ayew (Ghana) - Olympique Marseille
+प्रदर्शन: 209 | गोल: 60 | असिस्ट: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Tony Cascarino (Ireland) - Olympique Marseille
+प्रदर्शन: 105 | गोल: 70 | असिस्ट: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Boubacar Sarr (Senegal) - Olympique Marseille
+प्रदर्शन: 169 | गोल: 70
+
+23
+00:02:20,600 --> 00:02:27,200
+Marc Pascal (France) - Olympique Marseille
+प्रदर्शन: 173 | गोल: 72
+
+24
+00:02:27,200 --> 00:02:33,800
+André-Pierre Gignac (France) - Olympique Marseille
+प्रदर्शन: 188 | गोल: 77 | असिस्ट: 13
+
+25
+00:02:33,800 --> 00:02:40,400
+Dimitri Payet (France) - Olympique Marseille
+प्रदर्शन: 326 | गोल: 78 | असिस्ट: 95
+
+26
+00:02:40,400 --> 00:02:47,000
+Florian Thauvin (France) - Olympique Marseille
+प्रदर्शन: 281 | गोल: 86 | असिस्ट: 61
+
+27
+00:02:47,000 --> 00:02:53,600
+Joseph Yegba Maya (Cameroon) - Olympique Marseille
+प्रदर्शन: 160 | गोल: 88
+
+28
+00:02:53,600 --> 00:03:00,200
+Mamadou Niang (Senegal) - Olympique Marseille
+प्रदर्शन: 227 | गोल: 100 | असिस्ट: 36
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean-Pierre Papin (France) - Olympique Marseille
+प्रदर्शन: 275 | गोल: 182 | असिस्ट: 10
+
+30
+00:03:06,800 --> 00:03:13,400
+Josip Skoblar (Croatia) - Olympique Marseille
+प्रदर्शन: 218 | गोल: 185
+
+31
+00:03:13,400 --> 00:03:20,000
+Gunnar Andersson (Sweden) - Olympique Marseille
+प्रदर्शन: 248 | गोल: 194
+

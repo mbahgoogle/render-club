@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Montpellier HSC Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Jean-Michel Guédé (Cote d'Ivoire) - Montpellier HSC
+Einsätze: 106 | Tore: 23
+
+3
+00:00:08,600 --> 00:00:15,200
+Daniel Xuereb (France) - Montpellier HSC
+Einsätze: 77 | Tore: 24
+
+4
+00:00:15,200 --> 00:00:21,800
+Abderrahmane Ben Mahjoub (Morocco) - Montpellier HSC
+Einsätze: 71 | Tore: 24
+
+5
+00:00:21,800 --> 00:00:28,400
+Florent Mollet (France) - Montpellier HSC
+Einsätze: 139 | Tore: 24 | Vorlagen: 16
+
+6
+00:00:28,400 --> 00:00:35,000
+Abdoulaye Cissé (Burkina Faso) - Montpellier HSC
+Einsätze: 121 | Tore: 24 | Vorlagen: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Franck Silvestre (France) - Montpellier HSC
+Einsätze: 159 | Tore: 27 | Vorlagen: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Fabien Lefèvre (France) - Montpellier HSC
+Einsätze: 222 | Tore: 28 | Vorlagen: 4
+
+9
+00:00:48,200 --> 00:00:54,800
+Rémy Cabella (France) - Montpellier HSC
+Einsätze: 121 | Tore: 28 | Vorlagen: 18
+
+10
+00:00:54,800 --> 00:01:01,400
+Ibrahima Bakayoko (Cote d'Ivoire) - Montpellier HSC
+Einsätze: 92 | Tore: 29
+
+11
+00:01:01,400 --> 00:01:08,000
+Jean-Pierre Orts (France) - Montpellier HSC
+Einsätze: 57 | Tore: 29
+
+12
+00:01:08,000 --> 00:01:14,600
+Younès Belhanda (Morocco) - Montpellier HSC
+Einsätze: 144 | Tore: 29 | Vorlagen: 17
+
+13
+00:01:14,600 --> 00:01:21,200
+Toifilou Maoulida (France) - Montpellier HSC
+Einsätze: 139 | Tore: 30 | Vorlagen: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Jean-Pierre Kern (France) - Montpellier HSC
+Einsätze: 103 | Tore: 30
+
+15
+00:01:27,800 --> 00:01:34,400
+Bruno Carotti (France) - Montpellier HSC
+Einsätze: 369 | Tore: 31 | Vorlagen: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Elye Wahi (France) - Montpellier HSC
+Einsätze: 92 | Tore: 32 | Vorlagen: 9
+
+17
+00:01:41,000 --> 00:01:47,600
+Sékou Touré (Cote d'Ivoire) - Montpellier HSC
+Einsätze: 44 | Tore: 33
+
+18
+00:01:47,600 --> 00:01:54,200
+Jérôme Lafourcade (France) - Montpellier HSC
+Einsätze: 113 | Tore: 34
+
+19
+00:01:54,200 --> 00:02:00,800
+Olivier Giroud (France) - Montpellier HSC
+Einsätze: 85 | Tore: 39 | Vorlagen: 17
+
+20
+00:02:00,800 --> 00:02:07,400
+Gaëtan Laborde (France) - Montpellier HSC
+Einsätze: 118 | Tore: 39 | Vorlagen: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Kader Ferhaoui (Algeria) - Montpellier HSC
+Einsätze: 329 | Tore: 39
+
+22
+00:02:14,000 --> 00:02:20,600
+Roger Milla (Cameroon) - Montpellier HSC
+Einsätze: 105 | Tore: 42
+
+23
+00:02:20,600 --> 00:02:27,200
+Fabrice Divert (France) - Montpellier HSC
+Einsätze: 153 | Tore: 43 | Vorlagen: 4
+
+24
+00:02:27,200 --> 00:02:33,800
+Téji Savanier (France) - Montpellier HSC
+Einsätze: 175 | Tore: 44 | Vorlagen: 34
+
+25
+00:02:33,800 --> 00:02:40,400
+Andy Delort (Algeria) - Montpellier HSC
+Einsätze: 114 | Tore: 47 | Vorlagen: 21
+
+26
+00:02:40,400 --> 00:02:47,000
+Philippe Delaye (France) - Montpellier HSC
+Einsätze: 299 | Tore: 47 | Vorlagen: 4
+
+27
+00:02:47,000 --> 00:02:53,600
+Christophe Sanchez (France) - Montpellier HSC
+Einsätze: 174 | Tore: 48 | Vorlagen: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Jean-Marc Valadier (France) - Montpellier HSC
+Einsätze: 147 | Tore: 49
+
+29
+00:03:00,200 --> 00:03:06,800
+Víctor Montaño (Colombia) - Montpellier HSC
+Einsätze: 220 | Tore: 54 | Vorlagen: 13
+
+30
+00:03:06,800 --> 00:03:13,400
+Souleymane Camara (Senegal) - Montpellier HSC
+Einsätze: 433 | Tore: 76 | Vorlagen: 28
+
+31
+00:03:13,400 --> 00:03:20,000
+Laurent Blanc (France) - Montpellier HSC
+Einsätze: 273 | Tore: 80
+

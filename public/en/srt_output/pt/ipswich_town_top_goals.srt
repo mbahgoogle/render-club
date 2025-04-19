@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Ipswich Town Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Jean-Michel d'Avray (South Africa) - Ipswich Town
+Partidas: 151 | Gols: 29 | Assistências: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Kevin Beattie (England) - Ipswich Town
+Partidas: 290 | Gols: 31 | Assistências: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Shefki Kuqi (Finland) - Ipswich Town
+Partidas: 89 | Gols: 32 | Assistências: 6
+
+5
+00:00:21,800 --> 00:00:28,400
+Jonathan Walters (Ireland) - Ipswich Town
+Partidas: 149 | Gols: 32 | Assistências: 25
+
+6
+00:00:28,400 --> 00:00:35,000
+Freddie Sears (England) - Ipswich Town
+Partidas: 217 | Gols: 34 | Assistências: 25
+
+7
+00:00:35,000 --> 00:00:41,600
+Marcus Stewart (England) - Ipswich Town
+Partidas: 89 | Gols: 34 | Assistências: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Alan Lee (Ireland) - Ipswich Town
+Partidas: 110 | Gols: 34 | Assistências: 16
+
+9
+00:00:48,200 --> 00:00:54,800
+Alex Mathie (Scotland) - Ipswich Town
+Partidas: 97 | Gols: 36 | Assistências: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Doug Moran (Scotland) - Ipswich Town
+Partidas: 119 | Gols: 37 | Assistências: 6
+
+11
+00:01:01,400 --> 00:01:08,000
+Colin Viljoen (England) - Ipswich Town
+Partidas: 307 | Gols: 38 | Assistências: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Richard Naylor (England) - Ipswich Town
+Partidas: 362 | Gols: 39 | Assistências: 6
+
+13
+00:01:14,600 --> 00:01:21,200
+Matt Holland (Ireland) - Ipswich Town
+Partidas: 300 | Gols: 39 | Assistências: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Mick Lambert (England) - Ipswich Town
+Partidas: 247 | Gols: 39 | Assistências: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+David Johnson (England) - Ipswich Town
+Partidas: 171 | Gols: 44
+
+16
+00:01:34,400 --> 00:01:41,000
+David McGoldrick (Ireland) - Ipswich Town
+Partidas: 159 | Gols: 45 | Assistências: 25
+
+17
+00:01:41,000 --> 00:01:47,600
+Tommy Miller (England) - Ipswich Town
+Partidas: 211 | Gols: 46 | Assistências: 9
+
+18
+00:01:47,600 --> 00:01:54,200
+James Scowcroft (England) - Ipswich Town
+Partidas: 223 | Gols: 52 | Assistências: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Bryan Hamilton (Northern Ireland) - Ipswich Town
+Partidas: 188 | Gols: 53 | Assistências: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Conor Chaplin (England) - Ipswich Town
+Partidas: 162 | Gols: 55 | Assistências: 18
+
+21
+00:02:07,400 --> 00:02:14,000
+Darren Bent (England) - Ipswich Town
+Partidas: 140 | Gols: 56 | Assistências: 15
+
+22
+00:02:14,000 --> 00:02:20,600
+David Johnson (Jamaica) - Ipswich Town
+Partidas: 146 | Gols: 60
+
+23
+00:02:20,600 --> 00:02:27,200
+Ted Phillips (England) - Ipswich Town
+Partidas: 121 | Gols: 61 | Assistências: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Pablo Couñago (Spain) - Ipswich Town
+Partidas: 241 | Gols: 62 | Assistências: 20
+
+25
+00:02:33,800 --> 00:02:40,400
+Daryl Murphy (Ireland) - Ipswich Town
+Partidas: 225 | Gols: 67 | Assistências: 32
+
+26
+00:02:40,400 --> 00:02:47,000
+Alan Brazil (Scotland) - Ipswich Town
+Partidas: 209 | Gols: 80 | Assistências: 26
+
+27
+00:02:47,000 --> 00:02:53,600
+Eric Gates (England) - Ipswich Town
+Partidas: 380 | Gols: 94 | Assistências: 37
+
+28
+00:02:53,600 --> 00:03:00,200
+Trevor Whymark (England) - Ipswich Town
+Partidas: 317 | Gols: 95 | Assistências: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+Ray Crawford (England) - Ipswich Town
+Partidas: 148 | Gols: 100 | Assistências: 14
+
+30
+00:03:06,800 --> 00:03:13,400
+Paul Mariner (England) - Ipswich Town
+Partidas: 333 | Gols: 132 | Assistências: 25
+
+31
+00:03:13,400 --> 00:03:20,000
+John Wark (Scotland) - Ipswich Town
+Partidas: 529 | Gols: 154 | Assistências: 19
+

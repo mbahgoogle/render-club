@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Valencia CF 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Vicente (Spain) - Valencia CF
+출전: 338 | 골: 52 | 도움: 56
+
+3
+00:00:08,600 --> 00:00:15,200
+Juan Sánchez (Spain) - Valencia CF
+출전: 204 | 골: 52 | 도움: 18
+
+4
+00:00:15,200 --> 00:00:21,800
+Héctor Núñez (Uruguay) - Valencia CF
+출전: 148 | 골: 55
+
+5
+00:00:21,800 --> 00:00:28,400
+Enrique Saura (Spain) - Valencia CF
+출전: 394 | 골: 56 | 도움: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Rubén Baraja (Spain) - Valencia CF
+출전: 361 | 골: 56 | 도움: 25
+
+7
+00:00:35,000 --> 00:00:41,600
+Óscar Valdez (Spain) - Valencia CF
+출전: 197 | 골: 56 | 도움: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Gaizka Mendieta (Spain) - Valencia CF
+출전: 299 | 골: 57 | 도움: 27
+
+9
+00:00:48,200 --> 00:00:54,800
+Rodrigo (Spain) - Valencia CF
+출전: 220 | 골: 59 | 도움: 41
+
+10
+00:00:54,800 --> 00:01:01,400
+Antonio Fuertes (Spain) - Valencia CF
+출전: 196 | 골: 62 | 도움: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Dani Parejo (Spain) - Valencia CF
+출전: 383 | 골: 63 | 도움: 64
+
+12
+00:01:08,000 --> 00:01:14,600
+José Claramunt (Spain) - Valencia CF
+출전: 336 | 골: 64 | 도움: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Miguel Ángel Angulo (Spain) - Valencia CF
+출전: 432 | 골: 65 | 도움: 45
+
+14
+00:01:21,200 --> 00:01:27,800
+Pasieguito (Spain) - Valencia CF
+출전: 259 | 골: 65 | 도움: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Vicente Guillot (Spain) - Valencia CF
+출전: 198 | 골: 67
+
+16
+00:01:34,400 --> 00:01:41,000
+Predrag Mijatović (Montenegro) - Valencia CF
+출전: 128 | 골: 68 | 도움: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Robert Fernández (Spain) - Valencia CF
+출전: 313 | 골: 69
+
+18
+00:01:47,600 --> 00:01:54,200
+Claudio López (Argentina) - Valencia CF
+출전: 175 | 골: 71 | 도움: 34
+
+19
+00:01:54,200 --> 00:02:00,800
+Amadeo (Spain) - Valencia CF
+출전: 237 | 골: 82 | 도움: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Roberto Soldado (Spain) - Valencia CF
+출전: 141 | 골: 82 | 도움: 15
+
+21
+00:02:07,400 --> 00:02:14,000
+Guillermo Gorostiza (Spain) - Valencia CF
+출전: 132 | 골: 84
+
+22
+00:02:14,000 --> 00:02:20,600
+Lyuboslav Penev (Bulgaria) - Valencia CF
+출전: 199 | 골: 85 | 도움: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Vicente Seguí (Spain) - Valencia CF
+출전: 280 | 골: 85 | 도움: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Epi (Spain) - Valencia CF
+출전: 220 | 골: 86 | 도움: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Silvestre Igoa (Spain) - Valencia CF
+출전: 183 | 골: 86 | 도움: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Manuel Badenes (Spain) - Valencia CF
+출전: 107 | 골: 104
+
+27
+00:02:47,000 --> 00:02:53,600
+Fernando (Spain) - Valencia CF
+출전: 487 | 골: 123 | 도움: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+David Villa (Spain) - Valencia CF
+출전: 225 | 골: 129 | 도움: 29
+
+29
+00:03:00,200 --> 00:03:06,800
+Waldo Machado (Brazil) - Valencia CF
+출전: 269 | 골: 149 | 도움: 1
+
+30
+00:03:06,800 --> 00:03:13,400
+Mario Kempes (Argentina) - Valencia CF
+출전: 246 | 골: 149 | 도움: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Mundo (Spain) - Valencia CF
+출전: 232 | 골: 205
+

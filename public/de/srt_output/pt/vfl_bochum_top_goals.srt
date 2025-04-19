@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfL Bochum Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Klaus Fischer (Germany) - VfL Bochum
+Partidas: 96 | Gols: 30 | Assistências: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Martin Kree (Germany) - VfL Bochum
+Partidas: 182 | Gols: 30
+
+4
+00:00:15,200 --> 00:00:21,800
+Karl-Heinz Böttcher (Germany) - VfL Bochum
+Partidas: 91 | Gols: 31 | Assistências: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Walter Oswald (Germany) - VfL Bochum
+Partidas: 402 | Gols: 31 | Assistências: 3
+
+6
+00:00:28,400 --> 00:00:35,000
+Frank Schulz (Germany) - VfL Bochum
+Partidas: 124 | Gols: 31
+
+7
+00:00:35,000 --> 00:00:41,600
+Simon Zoller (Germany) - VfL Bochum
+Partidas: 109 | Gols: 33 | Assistências: 21
+
+8
+00:00:41,600 --> 00:00:48,200
+Erich Pawlak (Germany) - VfL Bochum
+Partidas: 131 | Gols: 33
+
+9
+00:00:48,200 --> 00:00:54,800
+Dieter Bast (Germany) - VfL Bochum
+Partidas: 226 | Gols: 34 | Assistências: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Hans-Werner Hartl (Germany) - VfL Bochum
+Partidas: 82 | Gols: 34 | Assistências: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Theodor Bergmeier (Germany) - VfL Bochum
+Partidas: 100 | Gols: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Lukas Hinterseer (Austria) - VfL Bochum
+Partidas: 65 | Gols: 35 | Assistências: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Lothar Woelk (Germany) - VfL Bochum
+Partidas: 438 | Gols: 36 | Assistências: 5
+
+14
+00:01:21,200 --> 00:01:27,800
+Stanislav Sestak (Slovakia) - VfL Bochum
+Partidas: 120 | Gols: 37 | Assistências: 21
+
+15
+00:01:27,800 --> 00:01:34,400
+Gerd Schirrmacher (Germany) - VfL Bochum
+Partidas: 174 | Gols: 38
+
+16
+00:01:34,400 --> 00:01:41,000
+Gerd Hohmann (Germany) - VfL Bochum
+Partidas: 115 | Gols: 39
+
+17
+00:01:41,000 --> 00:01:47,600
+Vahid Hashemian (Iran) - VfL Bochum
+Partidas: 137 | Gols: 40 | Assistências: 13
+
+18
+00:01:47,600 --> 00:01:54,200
+Thomas Christiansen (Spain) - VfL Bochum
+Partidas: 79 | Gols: 41 | Assistências: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Christian Schreier (Germany) - VfL Bochum
+Partidas: 110 | Gols: 42 | Assistências: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Dariusz Wosz (Germany) - VfL Bochum
+Partidas: 383 | Gols: 45 | Assistências: 81
+
+21
+00:02:07,400 --> 00:02:14,000
+Michael Lameck (Germany) - VfL Bochum
+Partidas: 596 | Gols: 45 | Assistências: 8
+
+22
+00:02:14,000 --> 00:02:20,600
+Simon Terodde (Germany) - VfL Bochum
+Partidas: 72 | Gols: 47 | Assistências: 12
+
+23
+00:02:20,600 --> 00:02:27,200
+Stefan Kuntz (Germany) - VfL Bochum
+Partidas: 130 | Gols: 50 | Assistências: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Gustav Eversberg (Germany) - VfL Bochum
+Partidas: 110 | Gols: 56
+
+25
+00:02:33,800 --> 00:02:40,400
+Uwe Leifeld (Germany) - VfL Bochum
+Partidas: 173 | Gols: 57 | Assistências: 6
+
+26
+00:02:40,400 --> 00:02:47,000
+Peter Peschel (Germany) - VfL Bochum
+Partidas: 271 | Gols: 59 | Assistências: 21
+
+27
+00:02:47,000 --> 00:02:53,600
+Josef Kaczor (Germany) - VfL Bochum
+Partidas: 159 | Gols: 64 | Assistências: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Hans-Joachim Abel (Germany) - VfL Bochum
+Partidas: 165 | Gols: 77
+
+29
+00:03:00,200 --> 00:03:06,800
+Uwe Wegmann (Germany) - VfL Bochum
+Partidas: 269 | Gols: 82 | Assistências: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Werner Balte (Germany) - VfL Bochum
+Partidas: 320 | Gols: 112 | Assistências: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Hans Walitza (Germany) - VfL Bochum
+Partidas: 194 | Gols: 129 | Assistências: 14
+

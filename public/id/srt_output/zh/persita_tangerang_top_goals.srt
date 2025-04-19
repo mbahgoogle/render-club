@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persita Tangerang 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Ryuji Utomo (Indonesia) - Persita Tangerang
+出场数: 15 | 进球: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Jalwandi Jamal (Indonesia) - Persita Tangerang
+出场数: 7 | 进球: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Aldi Al Achya (Indonesia) - Persita Tangerang
+出场数: 29 | 进球: 2 | 助攻: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Kasim Botan (Indonesia) - Persita Tangerang
+出场数: 17 | 进球: 2 | 助攻: 3
+
+6
+00:00:28,400 --> 00:00:35,000
+Mohcine Hassan (Morocco) - Persita Tangerang
+出场数: 11 | 进球: 2 | 助攻: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Fahreza Sudin (Indonesia) - Persita Tangerang
+出场数: 87 | 进球: 3 | 助攻: 3
+
+8
+00:00:41,600 --> 00:00:48,200
+Javlon Guseynov (Uzbekistan) - Persita Tangerang
+出场数: 66 | 进球: 3 | 助攻: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Éber Bessa (Brazil) - Persita Tangerang
+出场数: 7 | 进球: 3 | 助攻: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Dong-chan Kim (Korea, South) - Persita Tangerang
+出场数: 30 | 进球: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Elisa Basna (Indonesia) - Persita Tangerang
+出场数: 27 | 进球: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Andre Agustiar Prakoso (Indonesia) - Persita Tangerang
+出场数: 24 | 进球: 3 | 助攻: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Christian Rontini (Philippines) - Persita Tangerang
+出场数: 29 | 进球: 3 | 助攻: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Taylon Nicolas Correa Marcolino (Brazil) - Persita Tangerang
+出场数: 14 | 进球: 4 | 助攻: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Mohammad Edo Febriansah (Indonesia) - Persita Tangerang
+出场数: 28 | 进球: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Ade Jantra (Indonesia) - Persita Tangerang
+出场数: 58 | 进球: 5 | 助攻: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Sin-young Bae (Korea, South) - Persita Tangerang
+出场数: 118 | 进球: 5 | 助攻: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Luis Edmundo Durán Riquelme (Chile) - Persita Tangerang
+出场数: 46 | 进球: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Chandra Waskito Kusumawardana (Indonesia) - Persita Tangerang
+出场数: 24 | 进球: 6 | 助攻: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Ahmad Nur Hardianto (Indonesia) - Persita Tangerang
+出场数: 47 | 进球: 7 | 助攻: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Harrison (Brazil) - Persita Tangerang
+出场数: 23 | 进球: 7 | 助攻: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Rifky Dwi Septiawan (Indonesia) - Persita Tangerang
+出场数: 61 | 进球: 7 | 助攻: 3
+
+23
+00:02:20,600 --> 00:02:27,200
+Mochammad Wildan Ramdhani Nugraha (Indonesia) - Persita Tangerang
+出场数: 31 | 进球: 7 | 助攻: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Kenji Adachihara (Japan) - Persita Tangerang
+出场数: 19 | 进球: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Esal Sahrul Muhrom (Indonesia) - Persita Tangerang
+出场数: 36 | 进球: 8 | 助攻: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Marios Ogboe (Greece) - Persita Tangerang
+出场数: 23 | 进球: 8
+
+27
+00:02:47,000 --> 00:02:53,600
+Irsyad Maulana (Indonesia) - Persita Tangerang
+出场数: 77 | 进球: 10 | 助攻: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Cristian Carrasco (Indonesia) - Persita Tangerang
+出场数: 46 | 进球: 15
+
+29
+00:03:00,200 --> 00:03:06,800
+Norberto Ezequiel Vidal (Argentina) - Persita Tangerang
+出场数: 63 | 进球: 17 | 助攻: 14
+
+30
+00:03:06,800 --> 00:03:13,400
+Sirvi Arvani (Indonesia) - Persita Tangerang
+出场数: 69 | 进球: 19 | 助攻: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Ramiro Fergonzi (Argentina) - Persita Tangerang
+出场数: 68 | 进球: 23 | 助攻: 13
+

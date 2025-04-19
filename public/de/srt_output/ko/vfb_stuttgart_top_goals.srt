@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfB Stuttgart 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Serhou Guirassy (Guinea) - VfB Stuttgart
+출전: 58 | 골: 44 | 도움: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Guido Buchwald (Germany) - VfB Stuttgart
+출전: 387 | 골: 45 | 도움: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Erwin Läpple (Germany) - VfB Stuttgart
+출전: 193 | 골: 47
+
+5
+00:00:21,800 --> 00:00:28,400
+Ionel Ganea (Romania) - VfB Stuttgart
+출전: 138 | 골: 47 | 도움: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Vedad Ibisevic (Bosnia-Herzegovina) - VfB Stuttgart
+출전: 111 | 골: 47 | 도움: 16
+
+7
+00:00:35,000 --> 00:00:41,600
+Horst Köppel (Germany) - VfB Stuttgart
+출전: 139 | 골: 49 | 도움: 10
+
+8
+00:00:41,600 --> 00:00:48,200
+Roland Wehrle (Germany) - VfB Stuttgart
+출전: 104 | 골: 50
+
+9
+00:00:48,200 --> 00:00:54,800
+Christian Gentner (Germany) - VfB Stuttgart
+출전: 373 | 골: 50 | 도움: 45
+
+10
+00:00:54,800 --> 00:01:01,400
+Peter Reichert (Germany) - VfB Stuttgart
+출전: 160 | 골: 50
+
+11
+00:01:01,400 --> 00:01:08,000
+Kevin Kuranyi (Germany) - VfB Stuttgart
+출전: 132 | 골: 57 | 도움: 26
+
+12
+00:01:08,000 --> 00:01:14,600
+Dieter Hoeneß (Germany) - VfB Stuttgart
+출전: 117 | 골: 57 | 도움: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Dieter Höller (Germany) - VfB Stuttgart
+출전: 139 | 골: 58 | 도움: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Gerhard Strohmaier (Germany) - VfB Stuttgart
+출전: 211 | 골: 63
+
+15
+00:01:27,800 --> 00:01:34,400
+Walter Kelsch (Germany) - VfB Stuttgart
+출전: 251 | 골: 65 | 도움: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Martin Harnik (Austria) - VfB Stuttgart
+출전: 214 | 골: 68 | 도움: 35
+
+17
+00:01:41,000 --> 00:01:47,600
+Karl-Heinz Handschuh (Germany) - VfB Stuttgart
+출전: 209 | 골: 72 | 도움: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+Krasimir Balakov (Bulgaria) - VfB Stuttgart
+출전: 298 | 골: 73 | 도움: 65
+
+19
+00:01:54,200 --> 00:02:00,800
+Hansi Müller (Germany) - VfB Stuttgart
+출전: 224 | 골: 81 | 도움: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Rolf Geiger (Germany) - VfB Stuttgart
+출전: 198 | 골: 84 | 도움: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Fredi Bobic (Germany) - VfB Stuttgart
+출전: 182 | 골: 86 | 도움: 24
+
+22
+00:02:14,000 --> 00:02:20,600
+Jürgen Klinsmann (Germany) - VfB Stuttgart
+출전: 186 | 골: 94 | 도움: 11
+
+23
+00:02:20,600 --> 00:02:27,200
+Otto Baitinger (Germany) - VfB Stuttgart
+출전: 203 | 골: 98
+
+24
+00:02:27,200 --> 00:02:33,800
+Robert Schlienz (Germany) - VfB Stuttgart
+출전: 397 | 골: 102
+
+25
+00:02:33,800 --> 00:02:40,400
+Cacau (Germany) - VfB Stuttgart
+출전: 346 | 골: 109 | 도움: 44
+
+26
+00:02:40,400 --> 00:02:47,000
+Mario Gómez (Germany) - VfB Stuttgart
+출전: 230 | 골: 110 | 도움: 30
+
+27
+00:02:47,000 --> 00:02:53,600
+Erwin Waldner (Germany) - VfB Stuttgart
+출전: 307 | 골: 116 | 도움: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Fritz Walter (Germany) - VfB Stuttgart
+출전: 258 | 골: 123 | 도움: 33
+
+29
+00:03:00,200 --> 00:03:06,800
+Rolf Blessing (Germany) - VfB Stuttgart
+출전: 385 | 골: 141
+
+30
+00:03:06,800 --> 00:03:13,400
+Hermann Ohlicher (Germany) - VfB Stuttgart
+출전: 459 | 골: 157 | 도움: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Karl Allgöwer (Germany) - VfB Stuttgart
+출전: 410 | 골: 167 | 도움: 18
+

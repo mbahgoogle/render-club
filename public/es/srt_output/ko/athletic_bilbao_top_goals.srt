@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Athletic Bilbao 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Fran Yeste (Spain) - Athletic Bilbao
+출전: 348 | 골: 57 | 도움: 62
+
+3
+00:00:08,600 --> 00:00:15,200
+Ignacio Uribe (Spain) - Athletic Bilbao
+출전: 203 | 골: 65
+
+4
+00:00:15,200 --> 00:00:21,800
+Mauri (Spain) - Athletic Bilbao
+출전: 279 | 골: 66 | 도움: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Estanis Argote (Spain) - Athletic Bilbao
+출전: 384 | 골: 68 | 도움: 10
+
+6
+00:00:28,400 --> 00:00:35,000
+Antón Arieta (Spain) - Athletic Bilbao
+출전: 308 | 골: 68
+
+7
+00:00:35,000 --> 00:00:41,600
+Iker Muniain (Spain) - Athletic Bilbao
+출전: 560 | 골: 76 | 도움: 70
+
+8
+00:00:41,600 --> 00:00:48,200
+Félix Marcaida (Spain) - Athletic Bilbao
+출전: 180 | 골: 77 | 도움: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Victorio Unamuno (Spain) - Athletic Bilbao
+출전: 106 | 골: 84
+
+10
+00:00:54,800 --> 00:01:01,400
+Raúl García (Spain) - Athletic Bilbao
+출전: 363 | 골: 84 | 도움: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Cuco Ziganda (Spain) - Athletic Bilbao
+출전: 276 | 골: 84 | 도움: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Venancio (Spain) - Athletic Bilbao
+출전: 206 | 골: 89 | 도움: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Ruiz (Spain) - Athletic Bilbao
+출전: 238 | 골: 93
+
+14
+00:01:21,200 --> 00:01:27,800
+Manu Sarabia (Spain) - Athletic Bilbao
+출전: 327 | 골: 94 | 도움: 11
+
+15
+00:01:27,800 --> 00:01:34,400
+Joseba Etxeberria (Spain) - Athletic Bilbao
+출전: 503 | 골: 95 | 도움: 57
+
+16
+00:01:34,400 --> 00:01:41,000
+José Iraragorri (Spain) - Athletic Bilbao
+출전: 160 | 골: 99
+
+17
+00:01:41,000 --> 00:01:47,600
+Fidel Uriarte (Spain) - Athletic Bilbao
+출전: 339 | 골: 101
+
+18
+00:01:47,600 --> 00:01:54,200
+Iñaki Williams (Ghana) - Athletic Bilbao
+출전: 462 | 골: 110 | 도움: 63
+
+19
+00:01:54,200 --> 00:02:00,800
+Julen Guerrero (Spain) - Athletic Bilbao
+출전: 413 | 골: 110 | 도움: 8
+
+20
+00:02:00,800 --> 00:02:07,400
+Rafael Iriondo (Spain) - Athletic Bilbao
+출전: 322 | 골: 111 | 도움: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Fernando Llorente (Spain) - Athletic Bilbao
+출전: 333 | 골: 116 | 도움: 37
+
+22
+00:02:14,000 --> 00:02:20,600
+Bata (Spain) - Athletic Bilbao
+출전: 133 | 골: 117
+
+23
+00:02:20,600 --> 00:02:27,200
+Ismael Urzaiz (Spain) - Athletic Bilbao
+출전: 407 | 골: 122 | 도움: 37
+
+24
+00:02:27,200 --> 00:02:33,800
+Guillermo Gorostiza (Spain) - Athletic Bilbao
+출전: 162 | 골: 124
+
+25
+00:02:33,800 --> 00:02:40,400
+José Artetxe (Spain) - Athletic Bilbao
+출전: 325 | 골: 131 | 도움: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Piru Gaínza (Spain) - Athletic Bilbao
+출전: 485 | 골: 150 | 도움: 17
+
+27
+00:02:47,000 --> 00:02:53,600
+Eneko Arieta (Spain) - Athletic Bilbao
+출전: 280 | 골: 152 | 도움: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+José Panizo (Spain) - Athletic Bilbao
+출전: 404 | 골: 172 | 도움: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Aritz Aduriz (Spain) - Athletic Bilbao
+출전: 406 | 골: 172 | 도움: 50
+
+30
+00:03:06,800 --> 00:03:13,400
+Dani (Spain) - Athletic Bilbao
+출전: 359 | 골: 174 | 도움: 12
+
+31
+00:03:13,400 --> 00:03:20,000
+Telmo Zarra (Spain) - Athletic Bilbao
+출전: 351 | 골: 335 | 도움: 4
+

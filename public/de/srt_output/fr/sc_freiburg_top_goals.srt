@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+SC Freiburg Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Altin Rraklli (Albania) - SC Freiburg
+Apparitions: 95 | Buts: 25 | Passes décisives: 9
+
+3
+00:00:08,600 --> 00:00:15,200
+Hans-Dietmar Deinert (Germany) - SC Freiburg
+Apparitions: 114 | Buts: 25 | Passes décisives: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Zlatan Bajramovic (Bosnia-Herzegovina) - SC Freiburg
+Apparitions: 77 | Buts: 26 | Passes décisives: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Florian Niederlechner (Germany) - SC Freiburg
+Apparitions: 89 | Buts: 26 | Passes décisives: 8
+
+6
+00:00:28,400 --> 00:00:35,000
+Mohamadou Idrissou (Cameroon) - SC Freiburg
+Apparitions: 79 | Buts: 26 | Passes décisives: 11
+
+7
+00:00:35,000 --> 00:00:41,600
+Roland Sallai (Hungary) - SC Freiburg
+Apparitions: 163 | Buts: 27 | Passes décisives: 23
+
+8
+00:00:41,600 --> 00:00:48,200
+Martin Braun (Germany) - SC Freiburg
+Apparitions: 166 | Buts: 28 | Passes décisives: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Paul Dörflinger (Germany) - SC Freiburg
+Apparitions: 56 | Buts: 28
+
+10
+00:00:54,800 --> 00:01:01,400
+Rodolfo Cardoso (Argentina) - SC Freiburg
+Apparitions: 69 | Buts: 29 | Passes décisives: 18
+
+11
+00:01:01,400 --> 00:01:08,000
+Roda Antar (Lebanon) - SC Freiburg
+Apparitions: 105 | Buts: 29 | Passes décisives: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Marco Weißhaupt (Germany) - SC Freiburg
+Apparitions: 120 | Buts: 29 | Passes décisives: 16
+
+13
+00:01:14,600 --> 00:01:21,200
+Michael Gregoritsch (Austria) - SC Freiburg
+Apparitions: 103 | Buts: 30 | Passes décisives: 12
+
+14
+00:01:21,200 --> 00:01:27,800
+Adel Sellimi (Tunisia) - SC Freiburg
+Apparitions: 124 | Buts: 30 | Passes décisives: 12
+
+15
+00:01:27,800 --> 00:01:34,400
+Jonathan Schmid (France) - SC Freiburg
+Apparitions: 218 | Buts: 31 | Passes décisives: 39
+
+16
+00:01:34,400 --> 00:01:41,000
+Uwe Wassmer (Germany) - SC Freiburg
+Apparitions: 128 | Buts: 32 | Passes décisives: 11
+
+17
+00:01:41,000 --> 00:01:47,600
+Thomas Schweizer (Germany) - SC Freiburg
+Apparitions: 143 | Buts: 32 | Passes décisives: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Jens Todt (Germany) - SC Freiburg
+Apparitions: 180 | Buts: 35 | Passes décisives: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Levan Kobiashvili (Georgia) - SC Freiburg
+Apparitions: 185 | Buts: 36 | Passes décisives: 22
+
+20
+00:02:00,800 --> 00:02:07,400
+Reinhard Binder (Germany) - SC Freiburg
+Apparitions: 307 | Buts: 39 | Passes décisives: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Papiss Demba Cissé (Senegal) - SC Freiburg
+Apparitions: 67 | Buts: 39 | Passes décisives: 5
+
+22
+00:02:14,000 --> 00:02:20,600
+Lucas Höler (Germany) - SC Freiburg
+Apparitions: 258 | Buts: 41 | Passes décisives: 29
+
+23
+00:02:20,600 --> 00:02:27,200
+Soumaila Coulibaly (Mali) - SC Freiburg
+Apparitions: 234 | Buts: 43 | Passes décisives: 14
+
+24
+00:02:27,200 --> 00:02:33,800
+Andreas Zeyer (Germany) - SC Freiburg
+Apparitions: 441 | Buts: 46 | Passes décisives: 14
+
+25
+00:02:33,800 --> 00:02:40,400
+Uwe Spies (Germany) - SC Freiburg
+Apparitions: 202 | Buts: 53 | Passes décisives: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Souleyman Sané (Senegal) - SC Freiburg
+Apparitions: 113 | Buts: 58
+
+27
+00:02:47,000 --> 00:02:53,600
+Alexander Iashvili (Georgia) - SC Freiburg
+Apparitions: 281 | Buts: 63 | Passes décisives: 61
+
+28
+00:02:53,600 --> 00:03:00,200
+Wolfgang Schüler (Germany) - SC Freiburg
+Apparitions: 103 | Buts: 67 | Passes décisives: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+Joachim Löw (Germany) - SC Freiburg
+Apparitions: 263 | Buts: 83
+
+30
+00:03:06,800 --> 00:03:13,400
+Vincenzo Grifo (Italy) - SC Freiburg
+Apparitions: 300 | Buts: 94 | Passes décisives: 85
+
+31
+00:03:13,400 --> 00:03:20,000
+Nils Petersen (Germany) - SC Freiburg
+Apparitions: 277 | Buts: 105 | Passes décisives: 21
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PERSIB Bandung Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Herman Abanda (Indonesia) - PERSIB Bandung
+Einsätze: 60 | Tore: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Mohammed Rashid (Palestine) - PERSIB Bandung
+Einsätze: 27 | Tore: 6 | Vorlagen: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Supardi (Indonesia) - PERSIB Bandung
+Einsätze: 174 | Tore: 6 | Vorlagen: 10
+
+5
+00:00:21,800 --> 00:00:28,400
+Marcio Souza (Brazil) - PERSIB Bandung
+Einsätze: 14 | Tore: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Ezra Walian (Indonesia) - PERSIB Bandung
+Einsätze: 88 | Tore: 7 | Vorlagen: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Achmad Jufriyanto (Indonesia) - PERSIB Bandung
+Einsätze: 142 | Tore: 8 | Vorlagen: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Erwin Ramdani (Indonesia) - PERSIB Bandung
+Einsätze: 69 | Tore: 8 | Vorlagen: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Djibril Coulibaly (Mali) - PERSIB Bandung
+Einsätze: 21 | Tore: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Airlangga Sucipto (Indonesia) - PERSIB Bandung
+Einsätze: 58 | Tore: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Nick Kuipers (Netherlands) - PERSIB Bandung
+Einsätze: 152 | Tore: 9 | Vorlagen: 6
+
+12
+00:01:08,000 --> 00:01:14,600
+Raphael Maitimo (Indonesia) - PERSIB Bandung
+Einsätze: 28 | Tore: 9 | Vorlagen: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Vladimir Vujović (Montenegro) - PERSIB Bandung
+Einsätze: 67 | Tore: 10 | Vorlagen: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Ghozali Siregar (Indonesia) - PERSIB Bandung
+Einsätze: 64 | Tore: 11 | Vorlagen: 11
+
+15
+00:01:27,800 --> 00:01:34,400
+Miljan Radovic (Montenegro) - PERSIB Bandung
+Einsätze: 32 | Tore: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Kenji Adachihara (Japan) - PERSIB Bandung
+Einsätze: 32 | Tore: 11
+
+17
+00:01:41,000 --> 00:01:47,600
+Jonathan Bauman (Argentina) - PERSIB Bandung
+Einsätze: 26 | Tore: 12 | Vorlagen: 8
+
+18
+00:01:47,600 --> 00:01:54,200
+Wander Luiz (Brazil) - PERSIB Bandung
+Einsätze: 27 | Tore: 12 | Vorlagen: 4
+
+19
+00:01:54,200 --> 00:02:00,800
+Ferdinan Sinaga (Indonesia) - PERSIB Bandung
+Einsätze: 30 | Tore: 13
+
+20
+00:02:00,800 --> 00:02:07,400
+Makan Konate (Mali) - PERSIB Bandung
+Einsätze: 31 | Tore: 14
+
+21
+00:02:07,400 --> 00:02:14,000
+Muhammad Ridwan (Indonesia) - PERSIB Bandung
+Einsätze: 55 | Tore: 14
+
+22
+00:02:14,000 --> 00:02:20,600
+Marc Klok (Indonesia) - PERSIB Bandung
+Einsätze: 117 | Tore: 14 | Vorlagen: 21
+
+23
+00:02:20,600 --> 00:02:27,200
+Beckham Putra (Indonesia) - PERSIB Bandung
+Einsätze: 129 | Tore: 14 | Vorlagen: 17
+
+24
+00:02:27,200 --> 00:02:33,800
+Tyronne (Spain) - PERSIB Bandung
+Einsätze: 34 | Tore: 15 | Vorlagen: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Frets Butuan (Indonesia) - PERSIB Bandung
+Einsätze: 109 | Tore: 16 | Vorlagen: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Atep Ahmad Rizal (Indonesia) - PERSIB Bandung
+Einsätze: 152 | Tore: 19 | Vorlagen: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Febri Hariyadi (Indonesia) - PERSIB Bandung
+Einsätze: 152 | Tore: 19 | Vorlagen: 20
+
+28
+00:02:53,600 --> 00:03:00,200
+Sergio van Dijk (Netherlands) - PERSIB Bandung
+Einsätze: 38 | Tore: 20 | Vorlagen: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Ciro Alves (Brazil) - PERSIB Bandung
+Einsätze: 103 | Tore: 35 | Vorlagen: 32
+
+30
+00:03:06,800 --> 00:03:13,400
+Ezechiel Ndouasel (Chad) - PERSIB Bandung
+Einsätze: 70 | Tore: 40 | Vorlagen: 20
+
+31
+00:03:13,400 --> 00:03:20,000
+David da Silva (Brazil) - PERSIB Bandung
+Einsätze: 111 | Tore: 73 | Vorlagen: 18
+

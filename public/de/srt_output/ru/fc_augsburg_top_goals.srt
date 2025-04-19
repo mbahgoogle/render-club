@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Augsburg Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Gerhard Niklasch (Germany) - FC Augsburg
+Матчи: 256 | Голы: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Elton da Costa (Brazil) - FC Augsburg
+Матчи: 128 | Голы: 24 | Голевые передачи: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Nando Rafael (Angola) - FC Augsburg
+Матчи: 48 | Голы: 25 | Голевые передачи: 6
+
+5
+00:00:21,800 --> 00:00:28,400
+Dieter Eckstein (Germany) - FC Augsburg
+Матчи: 49 | Голы: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Franz Becker (Germany) - FC Augsburg
+Матчи: 86 | Голы: 26
+
+7
+00:00:35,000 --> 00:00:41,600
+Mark Römer (Germany) - FC Augsburg
+Матчи: 55 | Голы: 27
+
+8
+00:00:41,600 --> 00:00:48,200
+Joseph Babatunde (Nigeria) - FC Augsburg
+Матчи: 66 | Голы: 27
+
+9
+00:00:48,200 --> 00:00:54,800
+Raúl Bobadilla (Paraguay) - FC Augsburg
+Матчи: 105 | Голы: 29 | Голевые передачи: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Klaus Vöhringer (Germany) - FC Augsburg
+Матчи: 105 | Голы: 29
+
+11
+00:01:01,400 --> 00:01:08,000
+Florian Niederlechner (Germany) - FC Augsburg
+Матчи: 107 | Голы: 30 | Голевые передачи: 21
+
+12
+00:01:08,000 --> 00:01:14,600
+Vladimir Manislavić (Serbia) - FC Augsburg
+Матчи: 65 | Голы: 30 | Голевые передачи: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Otmar Maurus (Germany) - FC Augsburg
+Матчи: 101 | Голы: 31
+
+14
+00:01:21,200 --> 00:01:27,800
+Michael Gregoritsch (Austria) - FC Augsburg
+Матчи: 129 | Голы: 31 | Голевые передачи: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Gert Fröhlich (Germany) - FC Augsburg
+Матчи: 56 | Голы: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Willi Hoffmann (Germany) - FC Augsburg
+Матчи: 97 | Голы: 32 | Голевые передачи: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Christian Okpala (Nigeria) - FC Augsburg
+Матчи: 67 | Голы: 34
+
+18
+00:01:47,600 --> 00:01:54,200
+Mikheil Sajaia (Georgia) - FC Augsburg
+Матчи: 96 | Голы: 34
+
+19
+00:01:54,200 --> 00:02:00,800
+André Hahn (Germany) - FC Augsburg
+Матчи: 171 | Голы: 36 | Голевые передачи: 31
+
+20
+00:02:00,800 --> 00:02:07,400
+Tobias Werner (Germany) - FC Augsburg
+Матчи: 208 | Голы: 38 | Голевые передачи: 38
+
+21
+00:02:07,400 --> 00:02:14,000
+Alfred Finnbogason (Iceland) - FC Augsburg
+Матчи: 122 | Голы: 39 | Голевые передачи: 14
+
+22
+00:02:14,000 --> 00:02:20,600
+Gerhard Müller (Germany) - FC Augsburg
+Матчи: 182 | Голы: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Helmut Haller (Germany) - FC Augsburg
+Матчи: 157 | Голы: 40
+
+24
+00:02:27,200 --> 00:02:33,800
+Georg Beichle (Germany) - FC Augsburg
+Матчи: 114 | Голы: 43
+
+25
+00:02:33,800 --> 00:02:40,400
+Ludwig Schlump (Germany) - FC Augsburg
+Матчи: 182 | Голы: 46
+
+26
+00:02:40,400 --> 00:02:47,000
+Michael Thurk (Germany) - FC Augsburg
+Матчи: 114 | Голы: 56 | Голевые передачи: 18
+
+27
+00:02:47,000 --> 00:02:53,600
+Hans Jörg (Germany) - FC Augsburg
+Матчи: 207 | Голы: 58 | Голевые передачи: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Christian Radlmaier (Germany) - FC Augsburg
+Матчи: 117 | Голы: 62
+
+29
+00:03:00,200 --> 00:03:06,800
+Ludwig Schuller (Germany) - FC Augsburg
+Матчи: 139 | Голы: 71
+
+30
+00:03:06,800 --> 00:03:13,400
+Georg Platzer (Germany) - FC Augsburg
+Матчи: 204 | Голы: 87
+
+31
+00:03:13,400 --> 00:03:20,000
+Ulrich Biesinger (Germany) - FC Augsburg
+Матчи: 223 | Голы: 121
+

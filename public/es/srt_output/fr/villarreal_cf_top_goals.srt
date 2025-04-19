@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Villarreal CF Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Marco Ruben (Argentina) - Villarreal CF
+Apparitions: 89 | Buts: 21 | Passes décisives: 12
+
+3
+00:00:08,600 --> 00:00:15,200
+Jérémy Perbet (France) - Villarreal CF
+Apparitions: 48 | Buts: 22 | Passes décisives: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Moisés García (Spain) - Villarreal CF
+Apparitions: 74 | Buts: 22 | Passes décisives: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Sonny Anderson (Brazil) - Villarreal CF
+Apparitions: 64 | Buts: 24 | Passes décisives: 5
+
+6
+00:00:28,400 --> 00:00:35,000
+Karl Toko Ekambi (Cameroon) - Villarreal CF
+Apparitions: 62 | Buts: 24 | Passes décisives: 9
+
+7
+00:00:35,000 --> 00:00:41,600
+Arnaut Danjuma (Netherlands) - Villarreal CF
+Apparitions: 54 | Buts: 24 | Passes décisives: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+José Mari (Spain) - Villarreal CF
+Apparitions: 161 | Buts: 24 | Passes décisives: 13
+
+9
+00:00:48,200 --> 00:00:54,800
+Antonio Guayre (Spain) - Villarreal CF
+Apparitions: 176 | Buts: 25 | Passes décisives: 9
+
+10
+00:00:54,800 --> 00:01:01,400
+Nihat Kahveci (Türkiye) - Villarreal CF
+Apparitions: 78 | Buts: 25 | Passes décisives: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Álex Baena (Spain) - Villarreal CF
+Apparitions: 142 | Buts: 25 | Passes décisives: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+José Luis Morales (Spain) - Villarreal CF
+Apparitions: 80 | Buts: 25 | Passes décisives: 5
+
+13
+00:01:14,600 --> 00:01:21,200
+Alexander Sørloth (Norway) - Villarreal CF
+Apparitions: 41 | Buts: 26 | Passes décisives: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Gică Craioveanu (Romania) - Villarreal CF
+Apparitions: 103 | Buts: 26 | Passes décisives: 4
+
+15
+00:01:27,800 --> 00:01:34,400
+Jorge López (Spain) - Villarreal CF
+Apparitions: 131 | Buts: 28 | Passes décisives: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Joseba Llorente (Spain) - Villarreal CF
+Apparitions: 80 | Buts: 29 | Passes décisives: 8
+
+17
+00:01:41,000 --> 00:01:47,600
+Bruno Soriano (Spain) - Villarreal CF
+Apparitions: 425 | Buts: 32 | Passes décisives: 25
+
+18
+00:01:47,600 --> 00:01:54,200
+Marcos Senna (Spain) - Villarreal CF
+Apparitions: 361 | Buts: 33 | Passes décisives: 19
+
+19
+00:01:54,200 --> 00:02:00,800
+Cani (Spain) - Villarreal CF
+Apparitions: 327 | Buts: 33 | Passes décisives: 40
+
+20
+00:02:00,800 --> 00:02:07,400
+Nilmar (Brazil) - Villarreal CF
+Apparitions: 116 | Buts: 34 | Passes décisives: 16
+
+21
+00:02:07,400 --> 00:02:14,000
+Ikechukwu Uche (Nigeria) - Villarreal CF
+Apparitions: 98 | Buts: 36 | Passes décisives: 5
+
+22
+00:02:14,000 --> 00:02:20,600
+Samuel Chukwueze (Nigeria) - Villarreal CF
+Apparitions: 207 | Buts: 37 | Passes décisives: 28
+
+23
+00:02:20,600 --> 00:02:27,200
+Manu Trigueros (Spain) - Villarreal CF
+Apparitions: 477 | Buts: 38 | Passes décisives: 39
+
+24
+00:02:27,200 --> 00:02:33,800
+Víctor Fernández (Spain) - Villarreal CF
+Apparitions: 160 | Buts: 42 | Passes décisives: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Carlos Bacca (Colombia) - Villarreal CF
+Apparitions: 144 | Buts: 43 | Passes décisives: 15
+
+26
+00:02:40,400 --> 00:02:47,000
+Juan Román Riquelme (Argentina) - Villarreal CF
+Apparitions: 143 | Buts: 45 | Passes décisives: 28
+
+27
+00:02:47,000 --> 00:02:53,600
+Cédric Bakambu (DR Congo) - Villarreal CF
+Apparitions: 105 | Buts: 47 | Passes décisives: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Santi Cazorla (Spain) - Villarreal CF
+Apparitions: 330 | Buts: 57 | Passes décisives: 57
+
+29
+00:03:00,200 --> 00:03:06,800
+Diego Forlán (Uruguay) - Villarreal CF
+Apparitions: 127 | Buts: 59 | Passes décisives: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Giuseppe Rossi (Italy) - Villarreal CF
+Apparitions: 192 | Buts: 82 | Passes décisives: 25
+
+31
+00:03:13,400 --> 00:03:20,000
+Gerard Moreno (Spain) - Villarreal CF
+Apparitions: 293 | Buts: 120 | Passes décisives: 48
+

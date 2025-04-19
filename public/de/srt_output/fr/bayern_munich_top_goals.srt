@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bayern Munich Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Michael Ballack (Germany) - Bayern Munich
+Apparitions: 157 | Buts: 62 | Passes décisives: 40
+
+3
+00:00:08,600 --> 00:00:15,200
+Michael Rummenigge (Germany) - Bayern Munich
+Apparitions: 205 | Buts: 66 | Passes décisives: 23
+
+4
+00:00:15,200 --> 00:00:21,800
+Bastian Schweinsteiger (Germany) - Bayern Munich
+Apparitions: 500 | Buts: 68 | Passes décisives: 98
+
+5
+00:00:21,800 --> 00:00:28,400
+Kingsley Coman (France) - Bayern Munich
+Apparitions: 328 | Buts: 69 | Passes décisives: 65
+
+6
+00:00:28,400 --> 00:00:35,000
+Alexander Zickler (Germany) - Bayern Munich
+Apparitions: 308 | Buts: 70 | Passes décisives: 29
+
+7
+00:00:35,000 --> 00:00:41,600
+Peter Grosser (Germany) - Bayern Munich
+Apparitions: 149 | Buts: 73
+
+8
+00:00:41,600 --> 00:00:48,200
+Klaus Augenthaler (Germany) - Bayern Munich
+Apparitions: 551 | Buts: 74 | Passes décisives: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Franz Beckenbauer (Germany) - Bayern Munich
+Apparitions: 584 | Buts: 75 | Passes décisives: 75
+
+10
+00:00:54,800 --> 00:01:01,400
+Harry Kane (England) - Bayern Munich
+Apparitions: 83 | Buts: 77 | Passes décisives: 24
+
+11
+00:01:01,400 --> 00:01:08,000
+Carsten Jancker (Germany) - Bayern Munich
+Apparitions: 225 | Buts: 79 | Passes décisives: 40
+
+12
+00:01:08,000 --> 00:01:14,600
+Serge Gnabry (Germany) - Bayern Munich
+Apparitions: 271 | Buts: 91 | Passes décisives: 51
+
+13
+00:01:14,600 --> 00:01:21,200
+Franz Roth (Germany) - Bayern Munich
+Apparitions: 440 | Buts: 95 | Passes décisives: 32
+
+14
+00:01:21,200 --> 00:01:27,800
+Lothar Matthäus (Germany) - Bayern Munich
+Apparitions: 410 | Buts: 100 | Passes décisives: 51
+
+15
+00:01:27,800 --> 00:01:34,400
+Roy Makaay (Netherlands) - Bayern Munich
+Apparitions: 183 | Buts: 103 | Passes décisives: 35
+
+16
+00:01:34,400 --> 00:01:41,000
+Paul Breitner (Germany) - Bayern Munich
+Apparitions: 352 | Buts: 110 | Passes décisives: 41
+
+17
+00:01:41,000 --> 00:01:47,600
+Uli Hoeneß (Germany) - Bayern Munich
+Apparitions: 341 | Buts: 112 | Passes décisives: 61
+
+18
+00:01:47,600 --> 00:01:54,200
+Mario Gómez (Germany) - Bayern Munich
+Apparitions: 174 | Buts: 113 | Passes décisives: 26
+
+19
+00:01:54,200 --> 00:02:00,800
+Mehmet Scholl (Germany) - Bayern Munich
+Apparitions: 469 | Buts: 117 | Passes décisives: 106
+
+20
+00:02:00,800 --> 00:02:07,400
+Franck Ribéry (France) - Bayern Munich
+Apparitions: 425 | Buts: 124 | Passes décisives: 182
+
+21
+00:02:07,400 --> 00:02:14,000
+Claudio Pizarro (Peru) - Bayern Munich
+Apparitions: 327 | Buts: 125 | Passes décisives: 53
+
+22
+00:02:14,000 --> 00:02:20,600
+Giovane Élber (Brazil) - Bayern Munich
+Apparitions: 266 | Buts: 139 | Passes décisives: 57
+
+23
+00:02:20,600 --> 00:02:27,200
+Dieter Brenninger (Germany) - Bayern Munich
+Apparitions: 360 | Buts: 141 | Passes décisives: 46
+
+24
+00:02:27,200 --> 00:02:33,800
+Arjen Robben (Netherlands) - Bayern Munich
+Apparitions: 309 | Buts: 144 | Passes décisives: 100
+
+25
+00:02:33,800 --> 00:02:40,400
+Dieter Hoeneß (Germany) - Bayern Munich
+Apparitions: 302 | Buts: 145 | Passes décisives: 14
+
+26
+00:02:40,400 --> 00:02:47,000
+Roland Wohlfarth (Germany) - Bayern Munich
+Apparitions: 332 | Buts: 156 | Passes décisives: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Karl-Heinz Rummenigge (Germany) - Bayern Munich
+Apparitions: 422 | Buts: 217 | Passes décisives: 69
+
+28
+00:02:53,600 --> 00:03:00,200
+Rainer Ohlhauser (Germany) - Bayern Munich
+Apparitions: 360 | Buts: 229 | Passes décisives: 24
+
+29
+00:03:00,200 --> 00:03:06,800
+Thomas Müller (Germany) - Bayern Munich
+Apparitions: 742 | Buts: 247 | Passes décisives: 273
+
+30
+00:03:06,800 --> 00:03:13,400
+Robert Lewandowski (Poland) - Bayern Munich
+Apparitions: 375 | Buts: 344 | Passes décisives: 73
+
+31
+00:03:13,400 --> 00:03:20,000
+Gerd Müller (Germany) - Bayern Munich
+Apparitions: 613 | Buts: 570 | Passes décisives: 103
+

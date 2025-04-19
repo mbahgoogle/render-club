@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Holstein Kiel All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Rafael Kazior (Germany) - Holstein Kiel
+Appearances: 172 | Goals: 33 | Assists: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Pavel Dobry (Czech Republic) - Holstein Kiel
+Appearances: 102 | Goals: 33
+
+4
+00:00:15,200 --> 00:00:21,800
+Kingsley Schindler (Ghana) - Holstein Kiel
+Appearances: 101 | Goals: 34 | Assists: 22
+
+5
+00:00:21,800 --> 00:00:28,400
+Jaroslaw Lindner (Poland) - Holstein Kiel
+Appearances: 117 | Goals: 34 | Assists: 20
+
+6
+00:00:28,400 --> 00:00:35,000
+Helmut Schweger (Germany) - Holstein Kiel
+Appearances: 108 | Goals: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Janni Serra (Germany) - Holstein Kiel
+Appearances: 91 | Goals: 35 | Assists: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Steven Skrzybski (Germany) - Holstein Kiel
+Appearances: 106 | Goals: 35 | Assists: 13
+
+9
+00:00:48,200 --> 00:00:54,800
+Manfred Jochimiak (Germany) - Holstein Kiel
+Appearances: 123 | Goals: 36 | Assists: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Eggert Dolling (Germany) - Holstein Kiel
+Appearances: 239 | Goals: 36 | Assists: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Harry Witt (Germany) - Holstein Kiel
+Appearances: 190 | Goals: 38
+
+12
+00:01:08,000 --> 00:01:14,600
+Diether Trede (Germany) - Holstein Kiel
+Appearances: 160 | Goals: 38
+
+13
+00:01:14,600 --> 00:01:21,200
+Walter Hain (Germany) - Holstein Kiel
+Appearances: 108 | Goals: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Tim Siedschlag (Germany) - Holstein Kiel
+Appearances: 289 | Goals: 39 | Assists: 40
+
+15
+00:01:27,800 --> 00:01:34,400
+Michael Holt (Germany) - Holstein Kiel
+Appearances: 80 | Goals: 44 | Assists: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Alexander Mühling (Germany) - Holstein Kiel
+Appearances: 238 | Goals: 44 | Assists: 31
+
+17
+00:01:41,000 --> 00:01:47,600
+Rainer Menzel (Germany) - Holstein Kiel
+Appearances: 120 | Goals: 45 | Assists: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Franz-Josef Hönig (Germany) - Holstein Kiel
+Appearances: 88 | Goals: 45
+
+19
+00:01:54,200 --> 00:02:00,800
+Fiete Sykora (Germany) - Holstein Kiel
+Appearances: 166 | Goals: 45 | Assists: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Daniel Jurgeleit (Germany) - Holstein Kiel
+Appearances: 110 | Goals: 47
+
+21
+00:02:07,400 --> 00:02:14,000
+Emil Maier (Germany) - Holstein Kiel
+Appearances: 97 | Goals: 49
+
+22
+00:02:14,000 --> 00:02:20,600
+Hans-Peter Ehlers (Germany) - Holstein Kiel
+Appearances: 372 | Goals: 49
+
+23
+00:02:20,600 --> 00:02:27,200
+Axel Möller (Germany) - Holstein Kiel
+Appearances: 193 | Goals: 53
+
+24
+00:02:27,200 --> 00:02:33,800
+Horst Martinsen (Germany) - Holstein Kiel
+Appearances: 105 | Goals: 54
+
+25
+00:02:33,800 --> 00:02:40,400
+André Bistram (Germany) - Holstein Kiel
+Appearances: 142 | Goals: 66
+
+26
+00:02:40,400 --> 00:02:47,000
+Carsten Nemitz (Germany) - Holstein Kiel
+Appearances: 125 | Goals: 71
+
+27
+00:02:47,000 --> 00:02:53,600
+Gerd Saborowski (Germany) - Holstein Kiel
+Appearances: 92 | Goals: 74
+
+28
+00:02:53,600 --> 00:03:00,200
+Marc Heider (United States) - Holstein Kiel
+Appearances: 241 | Goals: 85 | Assists: 53
+
+29
+00:03:00,200 --> 00:03:06,800
+Dmitrijus Guscinas (Lithuania) - Holstein Kiel
+Appearances: 217 | Goals: 87 | Assists: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Alfred Bornemann (Germany) - Holstein Kiel
+Appearances: 222 | Goals: 114
+
+31
+00:03:13,400 --> 00:03:20,000
+Gerd Koll (Germany) - Holstein Kiel
+Appearances: 253 | Goals: 135
+

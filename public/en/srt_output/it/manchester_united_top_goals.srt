@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Manchester United Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Sammy McIlroy (Northern Ireland) - Manchester United
+Presenze: 373 | Gol: 61 | Assist: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Norman Whiteside (Northern Ireland) - Manchester United
+Presenze: 259 | Gol: 63 | Assist: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Steve Coppell (England) - Manchester United
+Presenze: 373 | Gol: 65 | Assist: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Dwight Yorke (Trinidad and Tobago) - Manchester United
+Presenze: 152 | Gol: 66 | Assist: 32
+
+6
+00:00:28,400 --> 00:00:35,000
+Brian Kidd (England) - Manchester United
+Presenze: 265 | Gol: 70 | Assist: 13
+
+7
+00:00:35,000 --> 00:00:41,600
+Frank Stapleton (Ireland) - Manchester United
+Presenze: 274 | Gol: 72 | Assist: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Lou Macari (Scotland) - Manchester United
+Presenze: 356 | Gol: 78
+
+9
+00:00:48,200 --> 00:00:54,800
+Éric Cantona (France) - Manchester United
+Presenze: 185 | Gol: 82 | Assist: 63
+
+10
+00:00:54,800 --> 00:01:01,400
+David Beckham (England) - Manchester United
+Presenze: 394 | Gol: 85 | Assist: 121
+
+11
+00:01:01,400 --> 00:01:08,000
+Anthony Martial (France) - Manchester United
+Presenze: 317 | Gol: 90 | Assist: 46
+
+12
+00:01:08,000 --> 00:01:14,600
+Bruno Fernandes (Portugal) - Manchester United
+Presenze: 278 | Gol: 95 | Assist: 82
+
+13
+00:01:14,600 --> 00:01:21,200
+Bryan Robson (England) - Manchester United
+Presenze: 446 | Gol: 97 | Assist: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy Cole (England) - Manchester United
+Presenze: 275 | Gol: 121 | Assist: 44
+
+15
+00:01:27,800 --> 00:01:34,400
+Brian McClair (Scotland) - Manchester United
+Presenze: 466 | Gol: 121 | Assist: 16
+
+16
+00:01:34,400 --> 00:01:41,000
+Ole Gunnar Solskjær (Norway) - Manchester United
+Presenze: 366 | Gol: 126 | Assist: 57
+
+17
+00:01:41,000 --> 00:01:47,600
+Tommy Taylor (England) - Manchester United
+Presenze: 189 | Gol: 131 | Assist: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Stan Pearson (England) - Manchester United
+Presenze: 315 | Gol: 135 | Assist: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Marcus Rashford (England) - Manchester United
+Presenze: 426 | Gol: 138 | Assist: 65
+
+20
+00:02:00,800 --> 00:02:07,400
+David Herd (Scotland) - Manchester United
+Presenze: 261 | Gol: 144 | Assist: 29
+
+21
+00:02:07,400 --> 00:02:14,000
+Cristiano Ronaldo (Portugal) - Manchester United
+Presenze: 346 | Gol: 145 | Assist: 64
+
+22
+00:02:14,000 --> 00:02:20,600
+Ruud van Nistelrooy (Netherlands) - Manchester United
+Presenze: 219 | Gol: 150 | Assist: 28
+
+23
+00:02:20,600 --> 00:02:27,200
+Paul Scholes (England) - Manchester United
+Presenze: 716 | Gol: 155 | Assist: 82
+
+24
+00:02:27,200 --> 00:02:33,800
+Mark Hughes (Wales) - Manchester United
+Presenze: 459 | Gol: 161 | Assist: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Ryan Giggs (Wales) - Manchester United
+Presenze: 963 | Gol: 168 | Assist: 265
+
+26
+00:02:40,400 --> 00:02:47,000
+Dennis Viollet (England) - Manchester United
+Presenze: 284 | Gol: 173 | Assist: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+George Best (Northern Ireland) - Manchester United
+Presenze: 470 | Gol: 179 | Assist: 33
+
+28
+00:02:53,600 --> 00:03:00,200
+Jack Rowley (England) - Manchester United
+Presenze: 357 | Gol: 189 | Assist: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Denis Law (Scotland) - Manchester United
+Presenze: 405 | Gol: 237 | Assist: 36
+
+30
+00:03:06,800 --> 00:03:13,400
+Sir Bobby Charlton (England) - Manchester United
+Presenze: 746 | Gol: 245 | Assist: 57
+
+31
+00:03:13,400 --> 00:03:20,000
+Wayne Rooney (England) - Manchester United
+Presenze: 559 | Gol: 253 | Assist: 139
+

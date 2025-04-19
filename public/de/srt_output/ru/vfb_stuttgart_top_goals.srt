@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfB Stuttgart Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Serhou Guirassy (Guinea) - VfB Stuttgart
+Матчи: 58 | Голы: 44 | Голевые передачи: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Guido Buchwald (Germany) - VfB Stuttgart
+Матчи: 387 | Голы: 45 | Голевые передачи: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Erwin Läpple (Germany) - VfB Stuttgart
+Матчи: 193 | Голы: 47
+
+5
+00:00:21,800 --> 00:00:28,400
+Ionel Ganea (Romania) - VfB Stuttgart
+Матчи: 138 | Голы: 47 | Голевые передачи: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Vedad Ibisevic (Bosnia-Herzegovina) - VfB Stuttgart
+Матчи: 111 | Голы: 47 | Голевые передачи: 16
+
+7
+00:00:35,000 --> 00:00:41,600
+Horst Köppel (Germany) - VfB Stuttgart
+Матчи: 139 | Голы: 49 | Голевые передачи: 10
+
+8
+00:00:41,600 --> 00:00:48,200
+Roland Wehrle (Germany) - VfB Stuttgart
+Матчи: 104 | Голы: 50
+
+9
+00:00:48,200 --> 00:00:54,800
+Christian Gentner (Germany) - VfB Stuttgart
+Матчи: 373 | Голы: 50 | Голевые передачи: 45
+
+10
+00:00:54,800 --> 00:01:01,400
+Peter Reichert (Germany) - VfB Stuttgart
+Матчи: 160 | Голы: 50
+
+11
+00:01:01,400 --> 00:01:08,000
+Kevin Kuranyi (Germany) - VfB Stuttgart
+Матчи: 132 | Голы: 57 | Голевые передачи: 26
+
+12
+00:01:08,000 --> 00:01:14,600
+Dieter Hoeneß (Germany) - VfB Stuttgart
+Матчи: 117 | Голы: 57 | Голевые передачи: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Dieter Höller (Germany) - VfB Stuttgart
+Матчи: 139 | Голы: 58 | Голевые передачи: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Gerhard Strohmaier (Germany) - VfB Stuttgart
+Матчи: 211 | Голы: 63
+
+15
+00:01:27,800 --> 00:01:34,400
+Walter Kelsch (Germany) - VfB Stuttgart
+Матчи: 251 | Голы: 65 | Голевые передачи: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Martin Harnik (Austria) - VfB Stuttgart
+Матчи: 214 | Голы: 68 | Голевые передачи: 35
+
+17
+00:01:41,000 --> 00:01:47,600
+Karl-Heinz Handschuh (Germany) - VfB Stuttgart
+Матчи: 209 | Голы: 72 | Голевые передачи: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+Krasimir Balakov (Bulgaria) - VfB Stuttgart
+Матчи: 298 | Голы: 73 | Голевые передачи: 65
+
+19
+00:01:54,200 --> 00:02:00,800
+Hansi Müller (Germany) - VfB Stuttgart
+Матчи: 224 | Голы: 81 | Голевые передачи: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Rolf Geiger (Germany) - VfB Stuttgart
+Матчи: 198 | Голы: 84 | Голевые передачи: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Fredi Bobic (Germany) - VfB Stuttgart
+Матчи: 182 | Голы: 86 | Голевые передачи: 24
+
+22
+00:02:14,000 --> 00:02:20,600
+Jürgen Klinsmann (Germany) - VfB Stuttgart
+Матчи: 186 | Голы: 94 | Голевые передачи: 11
+
+23
+00:02:20,600 --> 00:02:27,200
+Otto Baitinger (Germany) - VfB Stuttgart
+Матчи: 203 | Голы: 98
+
+24
+00:02:27,200 --> 00:02:33,800
+Robert Schlienz (Germany) - VfB Stuttgart
+Матчи: 397 | Голы: 102
+
+25
+00:02:33,800 --> 00:02:40,400
+Cacau (Germany) - VfB Stuttgart
+Матчи: 346 | Голы: 109 | Голевые передачи: 44
+
+26
+00:02:40,400 --> 00:02:47,000
+Mario Gómez (Germany) - VfB Stuttgart
+Матчи: 230 | Голы: 110 | Голевые передачи: 30
+
+27
+00:02:47,000 --> 00:02:53,600
+Erwin Waldner (Germany) - VfB Stuttgart
+Матчи: 307 | Голы: 116 | Голевые передачи: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Fritz Walter (Germany) - VfB Stuttgart
+Матчи: 258 | Голы: 123 | Голевые передачи: 33
+
+29
+00:03:00,200 --> 00:03:06,800
+Rolf Blessing (Germany) - VfB Stuttgart
+Матчи: 385 | Голы: 141
+
+30
+00:03:06,800 --> 00:03:13,400
+Hermann Ohlicher (Germany) - VfB Stuttgart
+Матчи: 459 | Голы: 157 | Голевые передачи: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Karl Allgöwer (Germany) - VfB Stuttgart
+Матчи: 410 | Голы: 167 | Голевые передачи: 18
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Arema FC सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+KH Yudo (Indonesia) - Arema FC
+प्रदर्शन: 24 | गोल: 5 | असिस्ट: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Hendro Siswanto (Indonesia) - Arema FC
+प्रदर्शन: 156 | गोल: 5 | असिस्ट: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Sylvano Comvalius (Netherlands) - Arema FC
+प्रदर्शन: 27 | गोल: 5 | असिस्ट: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Abel Camará (Guinea-Bissau) - Arema FC
+प्रदर्शन: 27 | गोल: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Hanif Sjahbandi (Indonesia) - Arema FC
+प्रदर्शन: 92 | गोल: 6 | असिस्ट: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Thierry Gathuessi (Cameroon) - Arema FC
+प्रदर्शन: 56 | गोल: 6
+
+8
+00:00:41,600 --> 00:00:48,200
+Salim Tuharea (Indonesia) - Arema FC
+प्रदर्शन: 24 | गोल: 7 | असिस्ट: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Wiliam Marcilio (Brazil) - Arema FC
+प्रदर्शन: 24 | गोल: 7 | असिस्ट: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Rizky Dwi (Indonesia) - Arema FC
+प्रदर्शन: 66 | गोल: 7 | असिस्ट: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Gustavo López (Argentina) - Arema FC
+प्रदर्शन: 24 | गोल: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Esteban Vizcarra (Indonesia) - Arema FC
+प्रदर्शन: 39 | गोल: 8 | असिस्ट: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Keith Gumbs (St. Kitts & Nevis) - Arema FC
+प्रदर्शन: 30 | गोल: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Hamka Hamzah (Indonesia) - Arema FC
+प्रदर्शन: 65 | गोल: 9 | असिस्ट: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Ricky Kayame (Indonesia) - Arema FC
+प्रदर्शन: 38 | गोल: 9 | असिस्ट: 6
+
+16
+00:01:34,400 --> 00:01:41,000
+Rivaldi Bawuo (Indonesia) - Arema FC
+प्रदर्शन: 55 | गोल: 10 | असिस्ट: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Ahmad Nur Hardianto (Indonesia) - Arema FC
+प्रदर्शन: 36 | गोल: 10 | असिस्ट: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Muhammad Rafli (Indonesia) - Arema FC
+प्रदर्शन: 148 | गोल: 11 | असिस्ट: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Johan Alfarizi (Indonesia) - Arema FC
+प्रदर्शन: 253 | गोल: 13 | असिस्ट: 15
+
+20
+00:02:00,800 --> 00:02:07,400
+Ahmad Sunarto (Indonesia) - Arema FC
+प्रदर्शन: 56 | गोल: 13 | असिस्ट: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Gustavo (Brazil) - Arema FC
+प्रदर्शन: 16 | गोल: 14
+
+22
+00:02:14,000 --> 00:02:20,600
+Greg Nwokolo (Indonesia) - Arema FC
+प्रदर्शन: 34 | गोल: 14 | असिस्ट: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Samsul Arif (Indonesia) - Arema FC
+प्रदर्शन: 26 | गोल: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Dalberto (Brazil) - Arema FC
+प्रदर्शन: 31 | गोल: 16 | असिस्ट: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Dendi Santoso (Indonesia) - Arema FC
+प्रदर्शन: 253 | गोल: 18 | असिस्ट: 33
+
+26
+00:02:40,400 --> 00:02:47,000
+Carlos Fortes (Cape Verde) - Arema FC
+प्रदर्शन: 31 | गोल: 20 | असिस्ट: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Charles Lokolingoy (Australia) - Arema FC
+प्रदर्शन: 60 | गोल: 22 | असिस्ट: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Beto (Indonesia) - Arema FC
+प्रदर्शन: 56 | गोल: 27
+
+29
+00:03:00,200 --> 00:03:06,800
+Makan Konate (Mali) - Arema FC
+प्रदर्शन: 61 | गोल: 34 | असिस्ट: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Cristian Gonzáles (Indonesia) - Arema FC
+प्रदर्शन: 96 | गोल: 46 | असिस्ट: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Dedik Setiawan (Indonesia) - Arema FC
+प्रदर्शन: 189 | गोल: 50 | असिस्ट: 21
+

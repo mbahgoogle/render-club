@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PERSIS Solo Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Alfath Faathier (Indonesia) - PERSIS Solo
+Presenze: 34 | Gol: 1 | Assist: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Fransiskus Alesandro (Indonesia) - PERSIS Solo
+Presenze: 11 | Gol: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Cleylton (Brazil) - PERSIS Solo
+Presenze: 7 | Gol: 1 | Assist: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Sunarto (Indonesia) - PERSIS Solo
+Presenze: 1 | Gol: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Sho Yamamoto (Japan) - PERSIS Solo
+Presenze: 45 | Gol: 2 | Assist: 8
+
+7
+00:00:35,000 --> 00:00:41,600
+Jaime (Brazil) - PERSIS Solo
+Presenze: 54 | Gol: 2 | Assist: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Zanadin Fariz (Indonesia) - PERSIS Solo
+Presenze: 36 | Gol: 2 | Assist: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Muhammad Isa (Indonesia) - PERSIS Solo
+Presenze: 6 | Gol: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Iman Budi (Indonesia) - PERSIS Solo
+Presenze: 8 | Gol: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Jhon Cley (Brazil) - PERSIS Solo
+Presenze: 9 | Gol: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Karim Rossi (Switzerland) - PERSIS Solo
+Presenze: 24 | Gol: 2 | Assist: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Miftahul Hamdi (Indonesia) - PERSIS Solo
+Presenze: 15 | Gol: 2 | Assist: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Ricardo Lima (Brazil) - PERSIS Solo
+Presenze: 12 | Gol: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Eky Taufik (Indonesia) - PERSIS Solo
+Presenze: 86 | Gol: 3 | Assist: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Sutanto Tan (Indonesia) - PERSIS Solo
+Presenze: 78 | Gol: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Lautaro Belleggia (Argentina) - PERSIS Solo
+Presenze: 10 | Gol: 3 | Assist: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Irfan Jauhari (Indonesia) - PERSIS Solo
+Presenze: 63 | Gol: 4 | Assist: 4
+
+19
+00:01:54,200 --> 00:02:00,800
+Fabiano Beltrame (Indonesia) - PERSIS Solo
+Presenze: 35 | Gol: 4 | Assist: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Rivaldi Bawuo (Indonesia) - PERSIS Solo
+Presenze: 12 | Gol: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Irfan Bachdim (Indonesia) - PERSIS Solo
+Presenze: 27 | Gol: 4 | Assist: 4
+
+22
+00:02:14,000 --> 00:02:20,600
+Ferdinan Sinaga (Indonesia) - PERSIS Solo
+Presenze: 41 | Gol: 5 | Assist: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Samsul Arif (Indonesia) - PERSIS Solo
+Presenze: 33 | Gol: 5 | Assist: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Althaf Alrizky (Indonesia) - PERSIS Solo
+Presenze: 74 | Gol: 5 | Assist: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Roni (Spain) - PERSIS Solo
+Presenze: 33 | Gol: 7 | Assist: 8
+
+26
+00:02:40,400 --> 00:02:47,000
+Ryo Matsumura (Japan) - PERSIS Solo
+Presenze: 28 | Gol: 11 | Assist: 6
+
+27
+00:02:47,000 --> 00:02:53,600
+Beto Gonçalves (Indonesia) - PERSIS Solo
+Presenze: 14 | Gol: 11 | Assist: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Alexis Messidoro (Argentina) - PERSIS Solo
+Presenze: 67 | Gol: 14 | Assist: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Ramadhan Sananta (Indonesia) - PERSIS Solo
+Presenze: 51 | Gol: 15 | Assist: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Fernando Rodríguez (Spain) - PERSIS Solo
+Presenze: 40 | Gol: 17 | Assist: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Moussa Sidibé (Mali) - PERSIS Solo
+Presenze: 54 | Gol: 19 | Assist: 9
+

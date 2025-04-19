@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Newcastle United Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Jimmy Stewart (England) - Newcastle United
+Partidos: 138 | Goles: 53 | Asistencias: 8
+
+3
+00:00:08,600 --> 00:00:15,200
+Wyn Davies (Wales) - Newcastle United
+Partidos: 215 | Goles: 53 | Asistencias: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Rob Lee (England) - Newcastle United
+Partidos: 381 | Goles: 56 | Asistencias: 51
+
+5
+00:00:21,800 --> 00:00:28,400
+Tommy Lang (Scotland) - Newcastle United
+Partidos: 231 | Goles: 57
+
+6
+00:00:28,400 --> 00:00:35,000
+John Tudor (England) - Newcastle United
+Partidos: 187 | Goles: 57 | Asistencias: 5
+
+7
+00:00:35,000 --> 00:00:41,600
+Alexander Isak (Sweden) - Newcastle United
+Partidos: 101 | Goles: 59 | Asistencias: 9
+
+8
+00:00:41,600 --> 00:00:48,200
+Micky Quinn (England) - Newcastle United
+Partidos: 131 | Goles: 63 | Asistencias: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Jimmy Boyd (Scotland) - Newcastle United
+Partidos: 217 | Goles: 64 | Asistencias: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Ron Orr (Scotland) - Newcastle United
+Partidos: 180 | Goles: 68
+
+11
+00:01:01,400 --> 00:01:08,000
+Andy Cole (England) - Newcastle United
+Partidos: 84 | Goles: 68 | Asistencias: 23
+
+12
+00:01:08,000 --> 00:01:14,600
+Vic Keeble (England) - Newcastle United
+Partidos: 121 | Goles: 69
+
+13
+00:01:14,600 --> 00:01:21,200
+Jack Smith (England) - Newcastle United
+Partidos: 112 | Goles: 73
+
+14
+00:01:21,200 --> 00:01:27,800
+Jock Peddie (Scotland) - Newcastle United
+Partidos: 131 | Goles: 75 | Asistencias: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Shola Ameobi (Nigeria) - Newcastle United
+Partidos: 398 | Goles: 79 | Asistencias: 43
+
+16
+00:01:34,400 --> 00:01:41,000
+Jimmy Howie (Scotland) - Newcastle United
+Partidos: 237 | Goles: 83 | Asistencias: 9
+
+17
+00:01:41,000 --> 00:01:47,600
+Stan Seymour (England) - Newcastle United
+Partidos: 266 | Goles: 84
+
+18
+00:01:47,600 --> 00:01:54,200
+Bill Appleyard (England) - Newcastle United
+Partidos: 146 | Goles: 88
+
+19
+00:01:54,200 --> 00:02:00,800
+George Robledo (Chile) - Newcastle United
+Partidos: 166 | Goles: 91 | Asistencias: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Albert Shepherd (England) - Newcastle United
+Partidos: 123 | Goles: 92 | Asistencias: 6
+
+21
+00:02:07,400 --> 00:02:14,000
+Jock Rutherford (England) - Newcastle United
+Partidos: 336 | Goles: 94 | Asistencias: 24
+
+22
+00:02:14,000 --> 00:02:20,600
+Pop Robson (England) - Newcastle United
+Partidos: 246 | Goles: 97 | Asistencias: 7
+
+23
+00:02:20,600 --> 00:02:27,200
+Neil Harris (Scotland) - Newcastle United
+Partidos: 194 | Goles: 101
+
+24
+00:02:27,200 --> 00:02:33,800
+Tom McDonald (Scotland) - Newcastle United
+Partidos: 366 | Goles: 113
+
+25
+00:02:33,800 --> 00:02:40,400
+Bobby Mitchell (Scotland) - Newcastle United
+Partidos: 410 | Goles: 113 | Asistencias: 5
+
+26
+00:02:40,400 --> 00:02:47,000
+Malcolm Macdonald (England) - Newcastle United
+Partidos: 227 | Goles: 121 | Asistencias: 7
+
+27
+00:02:47,000 --> 00:02:53,600
+Peter Beardsley (England) - Newcastle United
+Partidos: 326 | Goles: 121 | Asistencias: 42
+
+28
+00:02:53,600 --> 00:03:00,200
+Hughie Gallacher (Scotland) - Newcastle United
+Partidos: 174 | Goles: 143
+
+29
+00:03:00,200 --> 00:03:06,800
+Len White (England) - Newcastle United
+Partidos: 270 | Goles: 153 | Asistencias: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Jackie Milburn (England) - Newcastle United
+Partidos: 399 | Goles: 201 | Asistencias: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Alan Shearer (England) - Newcastle United
+Partidos: 405 | Goles: 206 | Asistencias: 58
+

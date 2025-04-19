@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bayern Munich Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Michael Ballack (Germany) - Bayern Munich
+Partidas: 157 | Gols: 62 | Assistências: 40
+
+3
+00:00:08,600 --> 00:00:15,200
+Michael Rummenigge (Germany) - Bayern Munich
+Partidas: 205 | Gols: 66 | Assistências: 23
+
+4
+00:00:15,200 --> 00:00:21,800
+Bastian Schweinsteiger (Germany) - Bayern Munich
+Partidas: 500 | Gols: 68 | Assistências: 98
+
+5
+00:00:21,800 --> 00:00:28,400
+Kingsley Coman (France) - Bayern Munich
+Partidas: 328 | Gols: 69 | Assistências: 65
+
+6
+00:00:28,400 --> 00:00:35,000
+Alexander Zickler (Germany) - Bayern Munich
+Partidas: 308 | Gols: 70 | Assistências: 29
+
+7
+00:00:35,000 --> 00:00:41,600
+Peter Grosser (Germany) - Bayern Munich
+Partidas: 149 | Gols: 73
+
+8
+00:00:41,600 --> 00:00:48,200
+Klaus Augenthaler (Germany) - Bayern Munich
+Partidas: 551 | Gols: 74 | Assistências: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Franz Beckenbauer (Germany) - Bayern Munich
+Partidas: 584 | Gols: 75 | Assistências: 75
+
+10
+00:00:54,800 --> 00:01:01,400
+Harry Kane (England) - Bayern Munich
+Partidas: 83 | Gols: 77 | Assistências: 24
+
+11
+00:01:01,400 --> 00:01:08,000
+Carsten Jancker (Germany) - Bayern Munich
+Partidas: 225 | Gols: 79 | Assistências: 40
+
+12
+00:01:08,000 --> 00:01:14,600
+Serge Gnabry (Germany) - Bayern Munich
+Partidas: 271 | Gols: 91 | Assistências: 51
+
+13
+00:01:14,600 --> 00:01:21,200
+Franz Roth (Germany) - Bayern Munich
+Partidas: 440 | Gols: 95 | Assistências: 32
+
+14
+00:01:21,200 --> 00:01:27,800
+Lothar Matthäus (Germany) - Bayern Munich
+Partidas: 410 | Gols: 100 | Assistências: 51
+
+15
+00:01:27,800 --> 00:01:34,400
+Roy Makaay (Netherlands) - Bayern Munich
+Partidas: 183 | Gols: 103 | Assistências: 35
+
+16
+00:01:34,400 --> 00:01:41,000
+Paul Breitner (Germany) - Bayern Munich
+Partidas: 352 | Gols: 110 | Assistências: 41
+
+17
+00:01:41,000 --> 00:01:47,600
+Uli Hoeneß (Germany) - Bayern Munich
+Partidas: 341 | Gols: 112 | Assistências: 61
+
+18
+00:01:47,600 --> 00:01:54,200
+Mario Gómez (Germany) - Bayern Munich
+Partidas: 174 | Gols: 113 | Assistências: 26
+
+19
+00:01:54,200 --> 00:02:00,800
+Mehmet Scholl (Germany) - Bayern Munich
+Partidas: 469 | Gols: 117 | Assistências: 106
+
+20
+00:02:00,800 --> 00:02:07,400
+Franck Ribéry (France) - Bayern Munich
+Partidas: 425 | Gols: 124 | Assistências: 182
+
+21
+00:02:07,400 --> 00:02:14,000
+Claudio Pizarro (Peru) - Bayern Munich
+Partidas: 327 | Gols: 125 | Assistências: 53
+
+22
+00:02:14,000 --> 00:02:20,600
+Giovane Élber (Brazil) - Bayern Munich
+Partidas: 266 | Gols: 139 | Assistências: 57
+
+23
+00:02:20,600 --> 00:02:27,200
+Dieter Brenninger (Germany) - Bayern Munich
+Partidas: 360 | Gols: 141 | Assistências: 46
+
+24
+00:02:27,200 --> 00:02:33,800
+Arjen Robben (Netherlands) - Bayern Munich
+Partidas: 309 | Gols: 144 | Assistências: 100
+
+25
+00:02:33,800 --> 00:02:40,400
+Dieter Hoeneß (Germany) - Bayern Munich
+Partidas: 302 | Gols: 145 | Assistências: 14
+
+26
+00:02:40,400 --> 00:02:47,000
+Roland Wohlfarth (Germany) - Bayern Munich
+Partidas: 332 | Gols: 156 | Assistências: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Karl-Heinz Rummenigge (Germany) - Bayern Munich
+Partidas: 422 | Gols: 217 | Assistências: 69
+
+28
+00:02:53,600 --> 00:03:00,200
+Rainer Ohlhauser (Germany) - Bayern Munich
+Partidas: 360 | Gols: 229 | Assistências: 24
+
+29
+00:03:00,200 --> 00:03:06,800
+Thomas Müller (Germany) - Bayern Munich
+Partidas: 742 | Gols: 247 | Assistências: 273
+
+30
+00:03:06,800 --> 00:03:13,400
+Robert Lewandowski (Poland) - Bayern Munich
+Partidas: 375 | Gols: 344 | Assistências: 73
+
+31
+00:03:13,400 --> 00:03:20,000
+Gerd Müller (Germany) - Bayern Munich
+Partidas: 613 | Gols: 570 | Assistências: 103
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bayer 04 Leverkusen Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Dieter Herzog (Germany) - Bayer 04 Leverkusen
+Partidos: 212 | Goles: 36 | Asistencias: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Andriy Voronin (Ukraine) - Bayer 04 Leverkusen
+Partidos: 119 | Goles: 37 | Asistencias: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Matthias Brücken (Germany) - Bayer 04 Leverkusen
+Partidos: 97 | Goles: 38
+
+5
+00:00:21,800 --> 00:00:28,400
+Patrick Helmes (Germany) - Bayer 04 Leverkusen
+Partidos: 72 | Goles: 38 | Asistencias: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Javier Hernández Balcázar (Mexico) - Bayer 04 Leverkusen
+Partidos: 76 | Goles: 39 | Asistencias: 9
+
+7
+00:00:35,000 --> 00:00:41,600
+Leon Bailey (Jamaica) - Bayer 04 Leverkusen
+Partidos: 156 | Goles: 39 | Asistencias: 23
+
+8
+00:00:41,600 --> 00:00:48,200
+Peter Szech (Germany) - Bayer 04 Leverkusen
+Partidos: 138 | Goles: 39
+
+9
+00:00:48,200 --> 00:00:54,800
+Julian Brandt (Germany) - Bayer 04 Leverkusen
+Partidos: 215 | Goles: 42 | Asistencias: 52
+
+10
+00:00:54,800 --> 00:01:01,400
+Michael Ballack (Germany) - Bayer 04 Leverkusen
+Partidos: 155 | Goles: 42 | Asistencias: 28
+
+11
+00:01:01,400 --> 00:01:08,000
+Kai Havertz (Germany) - Bayer 04 Leverkusen
+Partidos: 150 | Goles: 46 | Asistencias: 31
+
+12
+00:01:08,000 --> 00:01:14,600
+Hans-Otto Peters (Germany) - Bayer 04 Leverkusen
+Partidos: 95 | Goles: 48
+
+13
+00:01:14,600 --> 00:01:21,200
+Simon Rolfes (Germany) - Bayer 04 Leverkusen
+Partidos: 377 | Goles: 49 | Asistencias: 36
+
+14
+00:01:21,200 --> 00:01:27,800
+Moussa Diaby (France) - Bayer 04 Leverkusen
+Partidos: 172 | Goles: 49 | Asistencias: 46
+
+15
+00:01:27,800 --> 00:01:34,400
+Kevin Volland (Germany) - Bayer 04 Leverkusen
+Partidos: 148 | Goles: 50 | Asistencias: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Arne Økland (Norway) - Bayer 04 Leverkusen
+Partidos: 114 | Goles: 51 | Asistencias: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Bernd Schneider (Germany) - Bayer 04 Leverkusen
+Partidos: 366 | Goles: 52 | Asistencias: 81
+
+18
+00:01:47,600 --> 00:01:54,200
+Andreas Thom (Germany) - Bayer 04 Leverkusen
+Partidos: 204 | Goles: 55 | Asistencias: 49
+
+19
+00:01:54,200 --> 00:02:00,800
+Oliver Neuville (Germany) - Bayer 04 Leverkusen
+Partidos: 227 | Goles: 56 | Asistencias: 41
+
+20
+00:02:00,800 --> 00:02:07,400
+Florian Wirtz (Germany) - Bayer 04 Leverkusen
+Partidos: 191 | Goles: 56 | Asistencias: 63
+
+21
+00:02:07,400 --> 00:02:14,000
+Karim Bellarabi (Germany) - Bayer 04 Leverkusen
+Partidos: 290 | Goles: 57 | Asistencias: 63
+
+22
+00:02:14,000 --> 00:02:20,600
+Lucas Alario (Argentina) - Bayer 04 Leverkusen
+Partidos: 164 | Goles: 58 | Asistencias: 16
+
+23
+00:02:20,600 --> 00:02:27,200
+Fredi Hennecken (Germany) - Bayer 04 Leverkusen
+Partidos: 189 | Goles: 60
+
+24
+00:02:27,200 --> 00:02:33,800
+Bum-kun Cha (Korea, South) - Bayer 04 Leverkusen
+Partidos: 215 | Goles: 63 | Asistencias: 5
+
+25
+00:02:33,800 --> 00:02:40,400
+Paulo Sérgio (Brazil) - Bayer 04 Leverkusen
+Partidos: 150 | Goles: 64 | Asistencias: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrik Schick (Czech Republic) - Bayer 04 Leverkusen
+Partidos: 161 | Goles: 77 | Asistencias: 12
+
+27
+00:02:47,000 --> 00:02:53,600
+Christian Schreier (Germany) - Bayer 04 Leverkusen
+Partidos: 244 | Goles: 83 | Asistencias: 8
+
+28
+00:02:53,600 --> 00:03:00,200
+Herbert Waas (Germany) - Bayer 04 Leverkusen
+Partidos: 246 | Goles: 87 | Asistencias: 8
+
+29
+00:03:00,200 --> 00:03:06,800
+Dimitar Berbatov (Bulgaria) - Bayer 04 Leverkusen
+Partidos: 202 | Goles: 91 | Asistencias: 34
+
+30
+00:03:06,800 --> 00:03:13,400
+Stefan Kießling (Germany) - Bayer 04 Leverkusen
+Partidos: 444 | Goles: 162 | Asistencias: 76
+
+31
+00:03:13,400 --> 00:03:20,000
+Ulf Kirsten (Germany) - Bayer 04 Leverkusen
+Partidos: 448 | Goles: 240 | Asistencias: 51
+

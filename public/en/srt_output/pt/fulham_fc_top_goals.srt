@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Fulham FC Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Tom Cairney (Scotland) - Fulham FC
+Partidas: 348 | Gols: 46 | Assistências: 36
+
+3
+00:00:08,600 --> 00:00:15,200
+Tim Coleman (England) - Fulham FC
+Partidas: 99 | Gols: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Herbert Pearce (England) - Fulham FC
+Partidas: 96 | Gols: 50
+
+5
+00:00:21,800 --> 00:00:28,400
+Gary Brazil (England) - Fulham FC
+Partidas: 204 | Gols: 51 | Assistências: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Jimmy Hill (England) - Fulham FC
+Partidas: 298 | Gols: 52 | Assistências: 41
+
+7
+00:00:35,000 --> 00:00:41,600
+Fred Harrison (England) - Fulham FC
+Partidas: 132 | Gols: 54
+
+8
+00:00:41,600 --> 00:00:48,200
+Luís Boa Morte (Portugal) - Fulham FC
+Partidas: 250 | Gols: 54 | Assistências: 27
+
+9
+00:00:48,200 --> 00:00:54,800
+Roy Dwight (England) - Fulham FC
+Partidas: 80 | Gols: 57 | Assistências: 14
+
+10
+00:00:54,800 --> 00:01:01,400
+Allan Clarke (England) - Fulham FC
+Partidas: 100 | Gols: 57 | Assistências: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Barry Hayles (Jamaica) - Fulham FC
+Partidas: 215 | Gols: 57 | Assistências: 25
+
+12
+00:01:08,000 --> 00:01:14,600
+Bob Thomas (England) - Fulham FC
+Partidas: 174 | Gols: 58 | Assistências: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Clint Dempsey (United States) - Fulham FC
+Partidas: 232 | Gols: 60 | Assistências: 19
+
+14
+00:01:21,200 --> 00:01:27,800
+John Mitchell (England) - Fulham FC
+Partidas: 195 | Gols: 60 | Assistências: 9
+
+15
+00:01:27,800 --> 00:01:34,400
+Johnny Arnold (England) - Fulham FC
+Partidas: 211 | Gols: 62 | Assistências: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Louis Saha (France) - Fulham FC
+Partidas: 141 | Gols: 63 | Assistências: 9
+
+17
+00:01:41,000 --> 00:01:47,600
+Tosh Chamberlain (England) - Fulham FC
+Partidas: 204 | Gols: 64 | Assistências: 37
+
+18
+00:01:47,600 --> 00:01:54,200
+Dean Coney (England) - Fulham FC
+Partidas: 249 | Gols: 73 | Assistências: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Jimmy Conway (Ireland) - Fulham FC
+Partidas: 360 | Gols: 76 | Assistências: 26
+
+20
+00:02:00,800 --> 00:02:07,400
+Ronnie Rooke (England) - Fulham FC
+Partidas: 108 | Gols: 77 | Assistências: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Sir Bobby Robson (England) - Fulham FC
+Partidas: 370 | Gols: 80 | Assistências: 18
+
+22
+00:02:14,000 --> 00:02:20,600
+Jim Hammond (England) - Fulham FC
+Partidas: 220 | Gols: 80 | Assistências: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Les Barrett (England) - Fulham FC
+Partidas: 491 | Gols: 90 | Assistências: 37
+
+24
+00:02:27,200 --> 00:02:33,800
+Maurice Cook (England) - Fulham FC
+Partidas: 248 | Gols: 96 | Assistências: 12
+
+25
+00:02:33,800 --> 00:02:40,400
+Steve Earle (England) - Fulham FC
+Partidas: 327 | Gols: 108 | Assistências: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Aleksandar Mitrović (Serbia) - Fulham FC
+Partidas: 206 | Gols: 111 | Assistências: 21
+
+27
+00:02:47,000 --> 00:02:53,600
+Arthur Stevens (England) - Fulham FC
+Partidas: 411 | Gols: 123 | Assistências: 68
+
+28
+00:02:53,600 --> 00:03:00,200
+Graham Leggat (Scotland) - Fulham FC
+Partidas: 280 | Gols: 135 | Assistências: 20
+
+29
+00:03:00,200 --> 00:03:06,800
+Bedford Jezzard (England) - Fulham FC
+Partidas: 305 | Gols: 154 | Assistências: 34
+
+30
+00:03:06,800 --> 00:03:13,400
+Johnny Haynes (England) - Fulham FC
+Partidas: 658 | Gols: 156 | Assistências: 142
+
+31
+00:03:13,400 --> 00:03:20,000
+Gordon Davies (Wales) - Fulham FC
+Partidas: 454 | Gols: 178 | Assistências: 33
+

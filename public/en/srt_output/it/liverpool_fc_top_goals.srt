@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Liverpool FC Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Ian Callaghan (England) - Liverpool FC
+Presenze: 846 | Gol: 67 | Assist: 87
+
+3
+00:00:08,600 --> 00:00:15,200
+Daniel Sturridge (England) - Liverpool FC
+Presenze: 160 | Gol: 68 | Assist: 20
+
+4
+00:00:15,200 --> 00:00:21,800
+Dick Forshaw (England) - Liverpool FC
+Presenze: 136 | Gol: 69 | Assist: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Harry Chambers (England) - Liverpool FC
+Presenze: 171 | Gol: 69
+
+6
+00:00:28,400 --> 00:00:35,000
+Ray Kennedy (England) - Liverpool FC
+Presenze: 390 | Gol: 71 | Assist: 58
+
+7
+00:00:35,000 --> 00:00:41,600
+Dirk Kuyt (Netherlands) - Liverpool FC
+Presenze: 285 | Gol: 71 | Assist: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+Jimmy Melia (England) - Liverpool FC
+Presenze: 260 | Gol: 73 | Assist: 28
+
+9
+00:00:48,200 --> 00:00:54,800
+Ronnie Whelan (Ireland) - Liverpool FC
+Presenze: 484 | Gol: 73 | Assist: 50
+
+10
+00:00:54,800 --> 00:01:01,400
+Steve Heighway (Ireland) - Liverpool FC
+Presenze: 471 | Gol: 76 | Assist: 67
+
+11
+00:01:01,400 --> 00:01:08,000
+Albert Stubbins (England) - Liverpool FC
+Presenze: 169 | Gol: 76 | Assist: 13
+
+12
+00:01:08,000 --> 00:01:14,600
+David Johnson (England) - Liverpool FC
+Presenze: 213 | Gol: 78 | Assist: 31
+
+13
+00:01:14,600 --> 00:01:21,200
+Fernando Torres (Spain) - Liverpool FC
+Presenze: 142 | Gol: 81 | Assist: 19
+
+14
+00:01:21,200 --> 00:01:27,800
+Terry McDermott (England) - Liverpool FC
+Presenze: 329 | Gol: 81 | Assist: 59
+
+15
+00:01:27,800 --> 00:01:34,400
+Luis Suárez (Uruguay) - Liverpool FC
+Presenze: 133 | Gol: 82 | Assist: 31
+
+16
+00:01:34,400 --> 00:01:41,000
+Jack Balmer (England) - Liverpool FC
+Presenze: 268 | Gol: 94 | Assist: 12
+
+17
+00:01:41,000 --> 00:01:47,600
+John Toshack (Wales) - Liverpool FC
+Presenze: 247 | Gol: 96 | Assist: 54
+
+18
+00:01:47,600 --> 00:01:54,200
+Kevin Keegan (England) - Liverpool FC
+Presenze: 321 | Gol: 100 | Assist: 88
+
+19
+00:01:54,200 --> 00:02:00,800
+John Barnes (England) - Liverpool FC
+Presenze: 406 | Gol: 107 | Assist: 91
+
+20
+00:02:00,800 --> 00:02:07,400
+Roberto Firmino (Brazil) - Liverpool FC
+Presenze: 362 | Gol: 111 | Assist: 75
+
+21
+00:02:07,400 --> 00:02:14,000
+Ian St. John (Scotland) - Liverpool FC
+Presenze: 421 | Gol: 117 | Assist: 73
+
+22
+00:02:14,000 --> 00:02:20,600
+Sadio Mané (Senegal) - Liverpool FC
+Presenze: 269 | Gol: 120 | Assist: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Michael Owen (England) - Liverpool FC
+Presenze: 297 | Gol: 158 | Assist: 51
+
+24
+00:02:27,200 --> 00:02:33,800
+Kenny Dalglish (Scotland) - Liverpool FC
+Presenze: 511 | Gol: 170 | Assist: 186
+
+25
+00:02:33,800 --> 00:02:40,400
+Gordon Hodgson (England) - Liverpool FC
+Presenze: 266 | Gol: 174 | Assist: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Robbie Fowler (England) - Liverpool FC
+Presenze: 369 | Gol: 183 | Assist: 50
+
+27
+00:02:47,000 --> 00:02:53,600
+Steven Gerrard (England) - Liverpool FC
+Presenze: 710 | Gol: 186 | Assist: 155
+
+28
+00:02:53,600 --> 00:03:00,200
+Billy Liddell (Scotland) - Liverpool FC
+Presenze: 492 | Gol: 203 | Assist: 76
+
+29
+00:03:00,200 --> 00:03:06,800
+Mohamed Salah (Egypt) - Liverpool FC
+Presenze: 393 | Gol: 243 | Assist: 110
+
+30
+00:03:06,800 --> 00:03:13,400
+Roger Hunt (England) - Liverpool FC
+Presenze: 466 | Gol: 274 | Assist: 41
+
+31
+00:03:13,400 --> 00:03:20,000
+Ian Rush (Wales) - Liverpool FC
+Presenze: 653 | Gol: 339 | Assist: 110
+

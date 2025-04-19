@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Real Madrid 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Ramón Grosso (Spain) - Real Madrid
+출전: 366 | 골: 75 | 도움: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Joseíto (Spain) - Real Madrid
+출전: 176 | 골: 76 | 도움: 26
+
+4
+00:00:15,200 --> 00:00:21,800
+Guti (Spain) - Real Madrid
+출전: 542 | 골: 77 | 도움: 94
+
+5
+00:00:21,800 --> 00:00:28,400
+Héctor Rial (Spain) - Real Madrid
+출전: 165 | 골: 81 | 도움: 34
+
+6
+00:00:28,400 --> 00:00:35,000
+Manuel Alday (Spain) - Real Madrid
+출전: 93 | 골: 81 | 도움: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Pruden Sánchez (Spain) - Real Madrid
+출전: 116 | 골: 87 | 도움: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Sabino Barinaga (Spain) - Real Madrid
+출전: 182 | 골: 93 | 도움: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Fernando Morientes (Spain) - Real Madrid
+출전: 272 | 골: 100 | 도움: 34
+
+10
+00:00:54,800 --> 00:01:01,400
+Sergio Ramos (Spain) - Real Madrid
+출전: 671 | 골: 101 | 도움: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Iván Zamorano (Chile) - Real Madrid
+출전: 173 | 골: 101 | 도움: 22
+
+12
+00:01:08,000 --> 00:01:14,600
+Vinicius Junior (Brazil) - Real Madrid
+출전: 306 | 골: 103 | 도움: 73
+
+13
+00:01:14,600 --> 00:01:21,200
+Ronaldo (Brazil) - Real Madrid
+출전: 177 | 골: 104 | 도움: 34
+
+14
+00:01:21,200 --> 00:01:27,800
+Luis Molowny (Spain) - Real Madrid
+출전: 206 | 골: 105 | 도움: 60
+
+15
+00:01:27,800 --> 00:01:34,400
+Gareth Bale (Wales) - Real Madrid
+출전: 258 | 골: 106 | 도움: 67
+
+16
+00:01:34,400 --> 00:01:41,000
+Juanito (Spain) - Real Madrid
+출전: 397 | 골: 117 | 도움: 24
+
+17
+00:01:41,000 --> 00:01:47,600
+Gonzalo Higuaín (Argentina) - Real Madrid
+출전: 264 | 골: 121 | 도움: 56
+
+18
+00:01:47,600 --> 00:01:54,200
+Pahiño (Spain) - Real Madrid
+출전: 143 | 골: 126 | 도움: 24
+
+19
+00:01:54,200 --> 00:02:00,800
+Fernando Hierro (Spain) - Real Madrid
+출전: 601 | 골: 127 | 도움: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Míchel (Spain) - Real Madrid
+출전: 559 | 골: 131 | 도움: 168
+
+21
+00:02:07,400 --> 00:02:14,000
+Amancio (Spain) - Real Madrid
+출전: 471 | 골: 153 | 도움: 6
+
+22
+00:02:14,000 --> 00:02:20,600
+Emilio Butragueño (Spain) - Real Madrid
+출전: 463 | 골: 170 | 도움: 115
+
+23
+00:02:20,600 --> 00:02:27,200
+Pirri (Spain) - Real Madrid
+출전: 562 | 골: 173 | 도움: 4
+
+24
+00:02:27,200 --> 00:02:33,800
+Paco Gento (Spain) - Real Madrid
+출전: 596 | 골: 179 | 도움: 52
+
+25
+00:02:33,800 --> 00:02:40,400
+Hugo Sánchez (Mexico) - Real Madrid
+출전: 282 | 골: 208 | 도움: 47
+
+26
+00:02:40,400 --> 00:02:47,000
+Ferenc Puskás (Hungary) - Real Madrid
+출전: 262 | 골: 242 | 도움: 27
+
+27
+00:02:47,000 --> 00:02:53,600
+Santillana (Spain) - Real Madrid
+출전: 640 | 골: 289 | 도움: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Alfredo di Stéfano (Spain) - Real Madrid
+출전: 392 | 골: 306 | 도움: 43
+
+29
+00:03:00,200 --> 00:03:06,800
+Raúl (Spain) - Real Madrid
+출전: 741 | 골: 323 | 도움: 135
+
+30
+00:03:06,800 --> 00:03:13,400
+Karim Benzema (France) - Real Madrid
+출전: 648 | 골: 354 | 도움: 151
+
+31
+00:03:13,400 --> 00:03:20,000
+Cristiano Ronaldo (Portugal) - Real Madrid
+출전: 438 | 골: 450 | 도움: 131
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+TSG 1899 Hoffenheim सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Kai Herdling (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 89 | गोल: 14 | असिस्ट: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Dragan Paljic (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 99 | गोल: 14 | असिस्ट: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Thorsten Thee (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 130 | गोल: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Sandro Cescutti (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 71 | गोल: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Sebastian Rudy (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 327 | गोल: 17 | असिस्ट: 47
+
+7
+00:00:35,000 --> 00:00:41,600
+Guido Streichsbier (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 48 | गोल: 17
+
+8
+00:00:41,600 --> 00:00:48,200
+Pavel Kaderabek (Czech Republic) - TSG 1899 Hoffenheim
+प्रदर्शन: 282 | गोल: 17 | असिस्ट: 35
+
+9
+00:00:48,200 --> 00:00:54,800
+Tomislav Maric (Croatia) - TSG 1899 Hoffenheim
+प्रदर्शन: 47 | गोल: 17
+
+10
+00:00:54,800 --> 00:01:01,400
+Ishak Belfodil (Algeria) - TSG 1899 Hoffenheim
+प्रदर्शन: 60 | गोल: 18 | असिस्ट: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Sandro Wagner (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 50 | गोल: 18 | असिस्ट: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Maximilian Beier (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 46 | गोल: 18 | असिस्ट: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Eduardo (Brazil) - TSG 1899 Hoffenheim
+प्रदर्शन: 90 | गोल: 19 | असिस्ट: 22
+
+14
+00:01:21,200 --> 00:01:27,800
+Anthony Modeste (France) - TSG 1899 Hoffenheim
+प्रदर्शन: 62 | गोल: 23 | असिस्ट: 7
+
+15
+00:01:27,800 --> 00:01:34,400
+Heiko Throm (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 79 | गोल: 23 | असिस्ट: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Ádám Szalai (Hungary) - TSG 1899 Hoffenheim
+प्रदर्शन: 113 | गोल: 25 | असिस्ट: 13
+
+17
+00:01:41,000 --> 00:01:47,600
+Sven Schipplock (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 98 | गोल: 26 | असिस्ट: 19
+
+18
+00:01:47,600 --> 00:01:54,200
+Chinedu Obasi (Nigeria) - TSG 1899 Hoffenheim
+प्रदर्शन: 102 | गोल: 27 | असिस्ट: 16
+
+19
+00:01:54,200 --> 00:02:00,800
+Francisco Copado (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 70 | गोल: 28 | असिस्ट: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Munas Dabbur (Israel) - TSG 1899 Hoffenheim
+प्रदर्शन: 99 | गोल: 29 | असिस्ट: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Christoph Baumgartner (Austria) - TSG 1899 Hoffenheim
+प्रदर्शन: 138 | गोल: 30 | असिस्ट: 22
+
+22
+00:02:14,000 --> 00:02:20,600
+Mark Uth (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 86 | गोल: 33 | असिस्ट: 15
+
+23
+00:02:20,600 --> 00:02:27,200
+Christoph Teinert (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 93 | गोल: 34
+
+24
+00:02:27,200 --> 00:02:33,800
+Kevin Volland (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 144 | गोल: 36 | असिस्ट: 39
+
+25
+00:02:33,800 --> 00:02:40,400
+Ihlas Bebou (Togo) - TSG 1899 Hoffenheim
+प्रदर्शन: 158 | गोल: 37 | असिस्ट: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Demba Ba (Senegal) - TSG 1899 Hoffenheim
+प्रदर्शन: 106 | गोल: 40 | असिस्ट: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Thomas Ollhoff (Germany) - TSG 1899 Hoffenheim
+प्रदर्शन: 97 | गोल: 42 | असिस्ट: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Roberto Firmino (Brazil) - TSG 1899 Hoffenheim
+प्रदर्शन: 153 | गोल: 49 | असिस्ट: 36
+
+29
+00:03:00,200 --> 00:03:06,800
+Vedad Ibisevic (Bosnia-Herzegovina) - TSG 1899 Hoffenheim
+प्रदर्शन: 135 | गोल: 54 | असिस्ट: 22
+
+30
+00:03:06,800 --> 00:03:13,400
+Sejad Salihovic (Bosnia-Herzegovina) - TSG 1899 Hoffenheim
+प्रदर्शन: 249 | गोल: 67 | असिस्ट: 61
+
+31
+00:03:13,400 --> 00:03:20,000
+Andrej Kramaric (Croatia) - TSG 1899 Hoffenheim
+प्रदर्शन: 318 | गोल: 140 | असिस्ट: 63
+

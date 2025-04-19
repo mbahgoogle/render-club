@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Angers SCO Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Albert Poli (Italy) - Angers SCO
+Apparitions: 280 | Buts: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Karl Toko Ekambi (Cameroon) - Angers SCO
+Apparitions: 72 | Buts: 25 | Passes décisives: 11
+
+4
+00:00:15,200 --> 00:00:21,800
+Joël Pillard (France) - Angers SCO
+Apparitions: 68 | Buts: 26
+
+5
+00:00:21,800 --> 00:00:28,400
+Jean-Paul Gaidoz (France) - Angers SCO
+Apparitions: 105 | Buts: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Paul Alo'o Efoulou (Cameroon) - Angers SCO
+Apparitions: 74 | Buts: 27 | Passes décisives: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Alphonse Le Gall (France) - Angers SCO
+Apparitions: 213 | Buts: 28
+
+8
+00:00:41,600 --> 00:00:48,200
+Jean-Pierre Thomas (France) - Angers SCO
+Apparitions: 66 | Buts: 28
+
+9
+00:00:48,200 --> 00:00:54,800
+Stéphane Bahoken (Cameroon) - Angers SCO
+Apparitions: 120 | Buts: 28 | Passes décisives: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+Charles Diers (France) - Angers SCO
+Apparitions: 268 | Buts: 30 | Passes décisives: 20
+
+11
+00:01:01,400 --> 00:01:08,000
+Thomas Mangani (France) - Angers SCO
+Apparitions: 257 | Buts: 30 | Passes décisives: 29
+
+12
+00:01:08,000 --> 00:01:14,600
+Gaëtan Charbonnier (France) - Angers SCO
+Apparitions: 107 | Buts: 31 | Passes décisives: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Vladimir Kovacevic (Serbia) - Angers SCO
+Apparitions: 75 | Buts: 33
+
+14
+00:01:21,200 --> 00:01:27,800
+Yvan Roy (France) - Angers SCO
+Apparitions: 136 | Buts: 33
+
+15
+00:01:27,800 --> 00:01:34,400
+Marcel Loncle (France) - Angers SCO
+Apparitions: 150 | Buts: 35
+
+16
+00:01:34,400 --> 00:01:41,000
+Jean Deloffre (France) - Angers SCO
+Apparitions: 123 | Buts: 37
+
+17
+00:01:41,000 --> 00:01:47,600
+Claude Dubaële (France) - Angers SCO
+Apparitions: 112 | Buts: 37
+
+18
+00:01:47,600 --> 00:01:54,200
+Fabrice Do Marcolino (Gabon) - Angers SCO
+Apparitions: 108 | Buts: 37 | Passes décisives: 3
+
+19
+00:01:54,200 --> 00:02:00,800
+Cédric Daury (France) - Angers SCO
+Apparitions: 142 | Buts: 37 | Passes décisives: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Robert Lamartine (France) - Angers SCO
+Apparitions: 105 | Buts: 38
+
+21
+00:02:07,400 --> 00:02:14,000
+Jean-Pierre Dogliani (France) - Angers SCO
+Apparitions: 152 | Buts: 39
+
+22
+00:02:14,000 --> 00:02:20,600
+Michel Margottin (France) - Angers SCO
+Apparitions: 91 | Buts: 41
+
+23
+00:02:20,600 --> 00:02:27,200
+Patrice Sauvaget (France) - Angers SCO
+Apparitions: 139 | Buts: 42
+
+24
+00:02:27,200 --> 00:02:33,800
+Claudiu Keerü (Romania) - Angers SCO
+Apparitions: 127 | Buts: 42 | Passes décisives: 18
+
+25
+00:02:33,800 --> 00:02:40,400
+Bosko Antic (Serbia) - Angers SCO
+Apparitions: 116 | Buts: 46
+
+26
+00:02:40,400 --> 00:02:47,000
+Ignace Wognin (Cote d'Ivoire) - Angers SCO
+Apparitions: 141 | Buts: 59
+
+27
+00:02:47,000 --> 00:02:53,600
+Michel Stievenard (France) - Angers SCO
+Apparitions: 272 | Buts: 70
+
+28
+00:02:53,600 --> 00:03:00,200
+Éric Edwige (France) - Angers SCO
+Apparitions: 297 | Buts: 70
+
+29
+00:03:00,200 --> 00:03:06,800
+Marc Berdoll (France) - Angers SCO
+Apparitions: 203 | Buts: 87
+
+30
+00:03:06,800 --> 00:03:13,400
+Christophe Lagrange (France) - Angers SCO
+Apparitions: 203 | Buts: 93 | Passes décisives: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Stéphane Bruey (France) - Angers SCO
+Apparitions: 285 | Buts: 107
+

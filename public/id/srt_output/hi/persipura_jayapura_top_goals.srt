@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persipura Jayapura सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Reno Salampessy (Indonesia) - Persipura Jayapura
+प्रदर्शन: 10 | गोल: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Ricardo Salampessy (Indonesia) - Persipura Jayapura
+प्रदर्शन: 174 | गोल: 5 | असिस्ट: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Enzo Célestine (France) - Persipura Jayapura
+प्रदर्शन: 18 | गोल: 5 | असिस्ट: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Marinus Wanewar (Indonesia) - Persipura Jayapura
+प्रदर्शन: 62 | गोल: 6 | असिस्ट: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Osvaldo Haay (Indonesia) - Persipura Jayapura
+प्रदर्शन: 24 | गोल: 6 | असिस्ट: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Gerald Pangkali (Indonesia) - Persipura Jayapura
+प्रदर्शन: 99 | गोल: 7 | असिस्ट: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Elisa Basna (Indonesia) - Persipura Jayapura
+प्रदर्शन: 87 | गोल: 7 | असिस्ट: 6
+
+9
+00:00:48,200 --> 00:00:54,800
+Arody Uopdana (Indonesia) - Persipura Jayapura
+प्रदर्शन: 23 | गोल: 7 | असिस्ट: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Marcel Sacramento (Brazil) - Persipura Jayapura
+प्रदर्शन: 16 | गोल: 7 | असिस्ट: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Friska Womsiwor (Indonesia) - Persipura Jayapura
+प्रदर्शन: 58 | गोल: 8 | असिस्ट: 10
+
+12
+00:01:08,000 --> 00:01:14,600
+Yevgen Bokhashvili (Ukraine) - Persipura Jayapura
+प्रदर्शन: 26 | गोल: 8 | असिस्ट: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Yustinus Pae (Indonesia) - Persipura Jayapura
+प्रदर्शन: 259 | गोल: 9 | असिस्ट: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Ricky Kayame (Indonesia) - Persipura Jayapura
+प्रदर्शन: 54 | गोल: 9 | असिस्ट: 4
+
+15
+00:01:27,800 --> 00:01:34,400
+Robertino Pugliara (Argentina) - Persipura Jayapura
+प्रदर्शन: 24 | गोल: 9 | असिस्ट: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Todd Ferre (Indonesia) - Persipura Jayapura
+प्रदर्शन: 58 | गोल: 10 | असिस्ट: 10
+
+17
+00:01:41,000 --> 00:01:47,600
+Otávio Dutra (Indonesia) - Persipura Jayapura
+प्रदर्शन: 31 | गोल: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Imanuel Wanggai (Indonesia) - Persipura Jayapura
+प्रदर्शन: 149 | गोल: 11 | असिस्ट: 6
+
+19
+00:01:54,200 --> 00:02:00,800
+Hilton Moreira (Indonesia) - Persipura Jayapura
+प्रदर्शन: 29 | गोल: 11 | असिस्ट: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Patrich Wanggai (Indonesia) - Persipura Jayapura
+प्रदर्शन: 29 | गोल: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Gunansar Mandowen (Indonesia) - Persipura Jayapura
+प्रदर्शन: 94 | गोल: 12 | असिस्ट: 20
+
+22
+00:02:14,000 --> 00:02:20,600
+Lukas Mandowen (Indonesia) - Persipura Jayapura
+प्रदर्शन: 80 | गोल: 13 | असिस्ट: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Bio Paulin (Indonesia) - Persipura Jayapura
+प्रदर्शन: 112 | गोल: 15 | असिस्ट: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Zah Rahan Krangar (Liberia) - Persipura Jayapura
+प्रदर्शन: 60 | गोल: 16
+
+25
+00:02:33,800 --> 00:02:40,400
+Addison (Brazil) - Persipura Jayapura
+प्रदर्शन: 46 | गोल: 20 | असिस्ट: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Titus Bonai (Indonesia) - Persipura Jayapura
+प्रदर्शन: 66 | गोल: 22 | असिस्ट: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Beto (Indonesia) - Persipura Jayapura
+प्रदर्शन: 39 | गोल: 24
+
+28
+00:02:53,600 --> 00:03:00,200
+Ian Kabes (Indonesia) - Persipura Jayapura
+प्रदर्शन: 256 | गोल: 27 | असिस्ट: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Yohanes Pahabol (Indonesia) - Persipura Jayapura
+प्रदर्शन: 135 | गोल: 30 | असिस्ट: 16
+
+30
+00:03:06,800 --> 00:03:13,400
+Ramai Rumakiek (Indonesia) - Persipura Jayapura
+प्रदर्शन: 53 | गोल: 37 | असिस्ट: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Boaz Solossa (Indonesia) - Persipura Jayapura
+प्रदर्शन: 209 | गोल: 98 | असिस्ट: 32
+

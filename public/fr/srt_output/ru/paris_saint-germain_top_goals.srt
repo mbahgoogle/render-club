@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Paris Saint-Germain Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Lionel Messi (Argentina) - Paris Saint-Germain
+Матчи: 75 | Голы: 32 | Голевые передачи: 35
+
+3
+00:00:08,600 --> 00:00:15,200
+Blaise Matuidi (France) - Paris Saint-Germain
+Матчи: 295 | Голы: 33 | Голевые передачи: 29
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Robert (France) - Paris Saint-Germain
+Матчи: 84 | Голы: 34 | Голевые передачи: 12
+
+5
+00:00:21,800 --> 00:00:28,400
+Dominique Bathenay (France) - Paris Saint-Germain
+Матчи: 273 | Голы: 35
+
+6
+00:00:28,400 --> 00:00:35,000
+Ezequiel Lavezzi (Argentina) - Paris Saint-Germain
+Матчи: 161 | Голы: 35 | Голевые передачи: 24
+
+7
+00:00:35,000 --> 00:00:41,600
+Patrice Loko (France) - Paris Saint-Germain
+Матчи: 115 | Голы: 36 | Голевые передачи: 3
+
+8
+00:00:41,600 --> 00:00:48,200
+Péguy Luyindula (France) - Paris Saint-Germain
+Матчи: 180 | Голы: 37 | Голевые передачи: 18
+
+9
+00:00:48,200 --> 00:00:54,800
+Mauro Icardi (Argentina) - Paris Saint-Germain
+Матчи: 92 | Голы: 38 | Голевые передачи: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Ousmane Dembélé (France) - Paris Saint-Germain
+Матчи: 81 | Голы: 38 | Голевые передачи: 19
+
+11
+00:01:01,400 --> 00:01:08,000
+Luis Fernandez (France) - Paris Saint-Germain
+Матчи: 273 | Голы: 39
+
+12
+00:01:08,000 --> 00:01:14,600
+Marquinhos (Brazil) - Paris Saint-Germain
+Матчи: 476 | Голы: 40 | Голевые передачи: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Nambatingue Toko (Chad) - Paris Saint-Germain
+Матчи: 171 | Голы: 43
+
+14
+00:01:21,200 --> 00:01:27,800
+David Ginola (France) - Paris Saint-Germain
+Матчи: 158 | Голы: 44 | Голевые передачи: 15
+
+15
+00:01:27,800 --> 00:01:34,400
+Javier Pastore (Argentina) - Paris Saint-Germain
+Матчи: 269 | Голы: 45 | Голевые передачи: 61
+
+16
+00:01:34,400 --> 00:01:41,000
+Lucas Moura (Brazil) - Paris Saint-Germain
+Матчи: 229 | Голы: 46 | Голевые передачи: 49
+
+17
+00:01:41,000 --> 00:01:47,600
+Nenê (Brazil) - Paris Saint-Germain
+Матчи: 112 | Голы: 48 | Голевые передачи: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+George Weah (Liberia) - Paris Saint-Germain
+Матчи: 138 | Голы: 55 | Голевые передачи: 11
+
+19
+00:01:54,200 --> 00:02:00,800
+Guillaume Hoarau (France) - Paris Saint-Germain
+Матчи: 161 | Голы: 57 | Голевые передачи: 23
+
+20
+00:02:00,800 --> 00:02:07,400
+Carlos Bianchi (Argentina) - Paris Saint-Germain
+Матчи: 80 | Голы: 71
+
+21
+00:02:07,400 --> 00:02:14,000
+Raí (Brazil) - Paris Saint-Germain
+Матчи: 215 | Голы: 72 | Голевые передачи: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Safet Susic (Bosnia-Herzegovina) - Paris Saint-Germain
+Матчи: 345 | Голы: 85 | Голевые передачи: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+François M'Pelé (Congo) - Paris Saint-Germain
+Матчи: 197 | Голы: 87
+
+24
+00:02:27,200 --> 00:02:33,800
+Ángel Di María (Argentina) - Paris Saint-Germain
+Матчи: 295 | Голы: 93 | Голевые передачи: 119
+
+25
+00:02:33,800 --> 00:02:40,400
+Mustapha Dahleb (Algeria) - Paris Saint-Germain
+Матчи: 309 | Голы: 98
+
+26
+00:02:40,400 --> 00:02:47,000
+Dominique Rocheteau (France) - Paris Saint-Germain
+Матчи: 255 | Голы: 100
+
+27
+00:02:47,000 --> 00:02:53,600
+Pauleta (Portugal) - Paris Saint-Germain
+Матчи: 211 | Голы: 109 | Голевые передачи: 16
+
+28
+00:02:53,600 --> 00:03:00,200
+Neymar (Brazil) - Paris Saint-Germain
+Матчи: 173 | Голы: 118 | Голевые передачи: 77
+
+29
+00:03:00,200 --> 00:03:06,800
+Zlatan Ibrahimović (Sweden) - Paris Saint-Germain
+Матчи: 180 | Голы: 156 | Голевые передачи: 62
+
+30
+00:03:06,800 --> 00:03:13,400
+Edinson Cavani (Uruguay) - Paris Saint-Germain
+Матчи: 301 | Голы: 200 | Голевые передачи: 43
+
+31
+00:03:13,400 --> 00:03:20,000
+Kylian Mbappé (France) - Paris Saint-Germain
+Матчи: 308 | Голы: 256 | Голевые передачи: 98
+

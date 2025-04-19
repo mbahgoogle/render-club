@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PS Barito Putera Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Beni Oktovianto (Indonesia) - PS Barito Putera
+Presenze: 35 | Gol: 4 | Assist: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Bagas Kaffa (Indonesia) - PS Barito Putera
+Presenze: 111 | Gol: 4 | Assist: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Marcel Sacramento (Brazil) - PS Barito Putera
+Presenze: 14 | Gol: 5 | Assist: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Rafinha (Brazil) - PS Barito Putera
+Presenze: 24 | Gol: 5 | Assist: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Syahroni (Indonesia) - PS Barito Putera
+Presenze: 33 | Gol: 5
+
+7
+00:00:35,000 --> 00:00:41,600
+Aleksandar Rakic (Serbia) - PS Barito Putera
+Presenze: 20 | Gol: 5 | Assist: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Bruno Matos (Brazil) - PS Barito Putera
+Presenze: 15 | Gol: 5 | Assist: 4
+
+9
+00:00:48,200 --> 00:00:54,800
+Dandi Maulana (Indonesia) - PS Barito Putera
+Presenze: 88 | Gol: 7 | Assist: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Morelatto (Brazil) - PS Barito Putera
+Presenze: 26 | Gol: 7 | Assist: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Murilo (Brazil) - PS Barito Putera
+Presenze: 47 | Gol: 7 | Assist: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Yongki Aribowo (Indonesia) - PS Barito Putera
+Presenze: 62 | Gol: 8 | Assist: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Paulo Sitanggang (Indonesia) - PS Barito Putera
+Presenze: 106 | Gol: 8 | Assist: 5
+
+14
+00:01:21,200 --> 00:01:27,800
+Dedi Hartono (Indonesia) - PS Barito Putera
+Presenze: 91 | Gol: 8 | Assist: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Francisco Torres (Brazil) - PS Barito Putera
+Presenze: 15 | Gol: 8 | Assist: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Matías Mier (Uruguay) - PS Barito Putera
+Presenze: 9 | Gol: 8 | Assist: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Bayu Pradana (Indonesia) - PS Barito Putera
+Presenze: 136 | Gol: 8 | Assist: 5
+
+18
+00:01:47,600 --> 00:01:54,200
+Makan Konate (Mali) - PS Barito Putera
+Presenze: 30 | Gol: 8 | Assist: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+James Koko Lomell (Liberia) - PS Barito Putera
+Presenze: 20 | Gol: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Matías Córdoba (Argentina) - PS Barito Putera
+Presenze: 66 | Gol: 9 | Assist: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Mike Ott (Philippines) - PS Barito Putera
+Presenze: 60 | Gol: 10 | Assist: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Luiz Júnior (Brazil) - PS Barito Putera
+Presenze: 12 | Gol: 11
+
+23
+00:02:20,600 --> 00:02:27,200
+Eksel Runtukahu (Indonesia) - PS Barito Putera
+Presenze: 51 | Gol: 12 | Assist: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Gavin Kwan (Indonesia) - PS Barito Putera
+Presenze: 71 | Gol: 12 | Assist: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Renan Alves (Brazil) - PS Barito Putera
+Presenze: 86 | Gol: 18 | Assist: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Douglas Packer (Brazil) - PS Barito Putera
+Presenze: 62 | Gol: 18 | Assist: 4
+
+27
+00:02:47,000 --> 00:02:53,600
+Samsul Arif (Indonesia) - PS Barito Putera
+Presenze: 68 | Gol: 19 | Assist: 13
+
+28
+00:02:53,600 --> 00:03:00,200
+Djibril Coulibaly (Mali) - PS Barito Putera
+Presenze: 30 | Gol: 20
+
+29
+00:03:00,200 --> 00:03:06,800
+Gustavo Tocantins (Brazil) - PS Barito Putera
+Presenze: 49 | Gol: 21 | Assist: 5
+
+30
+00:03:06,800 --> 00:03:13,400
+Rizky Pora (Indonesia) - PS Barito Putera
+Presenze: 248 | Gol: 28 | Assist: 64
+
+31
+00:03:13,400 --> 00:03:20,000
+Rafael Silva (Brazil) - PS Barito Putera
+Presenze: 64 | Gol: 31 | Assist: 9
+

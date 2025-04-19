@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+1.FC Union Berlin Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+André Sirocks (Germany) - 1.FC Union Berlin
+Penampilan: 122 | Gol: 21
+
+3
+00:00:08,600 --> 00:00:15,200
+Steffen Baumgart (Germany) - 1.FC Union Berlin
+Penampilan: 68 | Gol: 22 | Asis: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Ralf Sträßer (Germany) - 1.FC Union Berlin
+Penampilan: 51 | Gol: 22
+
+5
+00:00:21,800 --> 00:00:28,400
+Sheraldo Becker (Suriname) - 1.FC Union Berlin
+Penampilan: 140 | Gol: 24 | Asis: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Horst Schiller (Germany) - 1.FC Union Berlin
+Penampilan: 100 | Gol: 24
+
+7
+00:00:35,000 --> 00:00:41,600
+Sreto Ristic (Serbia) - 1.FC Union Berlin
+Penampilan: 93 | Gol: 24 | Asis: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Taiwo Awoniyi (Nigeria) - 1.FC Union Berlin
+Penampilan: 65 | Gol: 25 | Asis: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Simon Terodde (Germany) - 1.FC Union Berlin
+Penampilan: 93 | Gol: 25 | Asis: 13
+
+10
+00:00:54,800 --> 00:01:01,400
+Horst Assmy (Germany) - 1.FC Union Berlin
+Penampilan: 33 | Gol: 25
+
+11
+00:01:01,400 --> 00:01:08,000
+Sebastian Andersson (Sweden) - 1.FC Union Berlin
+Penampilan: 74 | Gol: 26 | Asis: 10
+
+12
+00:01:08,000 --> 00:01:14,600
+Harun Isa (Albania) - 1.FC Union Berlin
+Penampilan: 74 | Gol: 26 | Asis: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Jens Henschel (Germany) - 1.FC Union Berlin
+Penampilan: 75 | Gol: 27
+
+14
+00:01:21,200 --> 00:01:27,800
+Jens Härtel (Germany) - 1.FC Union Berlin
+Penampilan: 165 | Gol: 27
+
+15
+00:01:27,800 --> 00:01:34,400
+Thoralf Bennert (Germany) - 1.FC Union Berlin
+Penampilan: 117 | Gol: 28
+
+16
+00:01:34,400 --> 00:01:41,000
+Rene Adamczewski (Germany) - 1.FC Union Berlin
+Penampilan: 116 | Gol: 29
+
+17
+00:01:41,000 --> 00:01:47,600
+Steven Skrzybski (Germany) - 1.FC Union Berlin
+Penampilan: 143 | Gol: 30 | Asis: 18
+
+18
+00:01:47,600 --> 00:01:54,200
+Thorsten Boer (Germany) - 1.FC Union Berlin
+Penampilan: 106 | Gol: 32
+
+19
+00:01:54,200 --> 00:02:00,800
+Olaf Seier (Germany) - 1.FC Union Berlin
+Penampilan: 173 | Gol: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Damir Kreilach (Croatia) - 1.FC Union Berlin
+Penampilan: 157 | Gol: 33 | Asis: 18
+
+21
+00:02:07,400 --> 00:02:14,000
+Matthias Zimmerling (Germany) - 1.FC Union Berlin
+Penampilan: 92 | Gol: 37
+
+22
+00:02:14,000 --> 00:02:20,600
+Steffen Menze (Germany) - 1.FC Union Berlin
+Penampilan: 163 | Gol: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Günther Wirth (Germany) - 1.FC Union Berlin
+Penampilan: 84 | Gol: 42
+
+24
+00:02:27,200 --> 00:02:33,800
+Goran Markov (North Macedonia) - 1.FC Union Berlin
+Penampilan: 70 | Gol: 44
+
+25
+00:02:33,800 --> 00:02:40,400
+Nico Patschinski (Germany) - 1.FC Union Berlin
+Penampilan: 140 | Gol: 44 | Asis: 5
+
+26
+00:02:40,400 --> 00:02:47,000
+Sebastian Polter (Germany) - 1.FC Union Berlin
+Penampilan: 104 | Gol: 46 | Asis: 16
+
+27
+00:02:47,000 --> 00:02:53,600
+Daniel Teixeira (Brazil) - 1.FC Union Berlin
+Penampilan: 68 | Gol: 47 | Asis: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Sergej Barbarez (Bosnia-Herzegovina) - 1.FC Union Berlin
+Penampilan: 92 | Gol: 48
+
+29
+00:03:00,200 --> 00:03:06,800
+Torsten Mattuschka (Germany) - 1.FC Union Berlin
+Penampilan: 281 | Gol: 61 | Asis: 64
+
+30
+00:03:06,800 --> 00:03:13,400
+Karim Benyamina (Algeria) - 1.FC Union Berlin
+Penampilan: 192 | Gol: 62 | Asis: 15
+
+31
+00:03:13,400 --> 00:03:20,000
+Jacek Mencel (Poland) - 1.FC Union Berlin
+Penampilan: 118 | Gol: 66
+

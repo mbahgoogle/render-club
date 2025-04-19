@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+TSG 1899 Hoffenheim Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Kai Herdling (Germany) - TSG 1899 Hoffenheim
+Partidos: 89 | Goles: 14 | Asistencias: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Dragan Paljic (Germany) - TSG 1899 Hoffenheim
+Partidos: 99 | Goles: 14 | Asistencias: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Thorsten Thee (Germany) - TSG 1899 Hoffenheim
+Partidos: 130 | Goles: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Sandro Cescutti (Germany) - TSG 1899 Hoffenheim
+Partidos: 71 | Goles: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Sebastian Rudy (Germany) - TSG 1899 Hoffenheim
+Partidos: 327 | Goles: 17 | Asistencias: 47
+
+7
+00:00:35,000 --> 00:00:41,600
+Guido Streichsbier (Germany) - TSG 1899 Hoffenheim
+Partidos: 48 | Goles: 17
+
+8
+00:00:41,600 --> 00:00:48,200
+Pavel Kaderabek (Czech Republic) - TSG 1899 Hoffenheim
+Partidos: 282 | Goles: 17 | Asistencias: 35
+
+9
+00:00:48,200 --> 00:00:54,800
+Tomislav Maric (Croatia) - TSG 1899 Hoffenheim
+Partidos: 47 | Goles: 17
+
+10
+00:00:54,800 --> 00:01:01,400
+Ishak Belfodil (Algeria) - TSG 1899 Hoffenheim
+Partidos: 60 | Goles: 18 | Asistencias: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Sandro Wagner (Germany) - TSG 1899 Hoffenheim
+Partidos: 50 | Goles: 18 | Asistencias: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Maximilian Beier (Germany) - TSG 1899 Hoffenheim
+Partidos: 46 | Goles: 18 | Asistencias: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Eduardo (Brazil) - TSG 1899 Hoffenheim
+Partidos: 90 | Goles: 19 | Asistencias: 22
+
+14
+00:01:21,200 --> 00:01:27,800
+Anthony Modeste (France) - TSG 1899 Hoffenheim
+Partidos: 62 | Goles: 23 | Asistencias: 7
+
+15
+00:01:27,800 --> 00:01:34,400
+Heiko Throm (Germany) - TSG 1899 Hoffenheim
+Partidos: 79 | Goles: 23 | Asistencias: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Ádám Szalai (Hungary) - TSG 1899 Hoffenheim
+Partidos: 113 | Goles: 25 | Asistencias: 13
+
+17
+00:01:41,000 --> 00:01:47,600
+Sven Schipplock (Germany) - TSG 1899 Hoffenheim
+Partidos: 98 | Goles: 26 | Asistencias: 19
+
+18
+00:01:47,600 --> 00:01:54,200
+Chinedu Obasi (Nigeria) - TSG 1899 Hoffenheim
+Partidos: 102 | Goles: 27 | Asistencias: 16
+
+19
+00:01:54,200 --> 00:02:00,800
+Francisco Copado (Germany) - TSG 1899 Hoffenheim
+Partidos: 70 | Goles: 28 | Asistencias: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Munas Dabbur (Israel) - TSG 1899 Hoffenheim
+Partidos: 99 | Goles: 29 | Asistencias: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Christoph Baumgartner (Austria) - TSG 1899 Hoffenheim
+Partidos: 138 | Goles: 30 | Asistencias: 22
+
+22
+00:02:14,000 --> 00:02:20,600
+Mark Uth (Germany) - TSG 1899 Hoffenheim
+Partidos: 86 | Goles: 33 | Asistencias: 15
+
+23
+00:02:20,600 --> 00:02:27,200
+Christoph Teinert (Germany) - TSG 1899 Hoffenheim
+Partidos: 93 | Goles: 34
+
+24
+00:02:27,200 --> 00:02:33,800
+Kevin Volland (Germany) - TSG 1899 Hoffenheim
+Partidos: 144 | Goles: 36 | Asistencias: 39
+
+25
+00:02:33,800 --> 00:02:40,400
+Ihlas Bebou (Togo) - TSG 1899 Hoffenheim
+Partidos: 158 | Goles: 37 | Asistencias: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Demba Ba (Senegal) - TSG 1899 Hoffenheim
+Partidos: 106 | Goles: 40 | Asistencias: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Thomas Ollhoff (Germany) - TSG 1899 Hoffenheim
+Partidos: 97 | Goles: 42 | Asistencias: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Roberto Firmino (Brazil) - TSG 1899 Hoffenheim
+Partidos: 153 | Goles: 49 | Asistencias: 36
+
+29
+00:03:00,200 --> 00:03:06,800
+Vedad Ibisevic (Bosnia-Herzegovina) - TSG 1899 Hoffenheim
+Partidos: 135 | Goles: 54 | Asistencias: 22
+
+30
+00:03:06,800 --> 00:03:13,400
+Sejad Salihovic (Bosnia-Herzegovina) - TSG 1899 Hoffenheim
+Partidos: 249 | Goles: 67 | Asistencias: 61
+
+31
+00:03:13,400 --> 00:03:20,000
+Andrej Kramaric (Croatia) - TSG 1899 Hoffenheim
+Partidos: 318 | Goles: 140 | Asistencias: 63
+

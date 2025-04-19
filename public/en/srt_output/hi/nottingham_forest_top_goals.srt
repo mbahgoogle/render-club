@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Nottingham Forest सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Ian Woan (England) - Nottingham Forest
+प्रदर्शन: 248 | गोल: 38 | असिस्ट: 27
+
+3
+00:00:08,600 --> 00:00:15,200
+Stan Collymore (England) - Nottingham Forest
+प्रदर्शन: 57 | गोल: 38 | असिस्ट: 7
+
+4
+00:00:15,200 --> 00:00:21,800
+Kris Commons (Scotland) - Nottingham Forest
+प्रदर्शन: 157 | गोल: 38 | असिस्ट: 23
+
+5
+00:00:21,800 --> 00:00:28,400
+Ian Wallace (Scotland) - Nottingham Forest
+प्रदर्शन: 154 | गोल: 38 | असिस्ट: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Colin Booth (England) - Nottingham Forest
+प्रदर्शन: 90 | गोल: 39 | असिस्ट: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Martin O'Neill (Northern Ireland) - Nottingham Forest
+प्रदर्शन: 209 | गोल: 40 | असिस्ट: 16
+
+8
+00:00:41,600 --> 00:00:48,200
+Nathan Tyson (England) - Nottingham Forest
+प्रदर्शन: 209 | गोल: 40 | असिस्ट: 19
+
+9
+00:00:48,200 --> 00:00:54,800
+Andy Reid (Ireland) - Nottingham Forest
+प्रदर्शन: 288 | गोल: 41 | असिस्ट: 49
+
+10
+00:00:54,800 --> 00:01:01,400
+Geoff Vowden (England) - Nottingham Forest
+प्रदर्शन: 100 | गोल: 42 | असिस्ट: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Robert Earnshaw (Wales) - Nottingham Forest
+प्रदर्शन: 110 | गोल: 43 | असिस्ट: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Dexter Blackstock (Antigua and Barbuda) - Nottingham Forest
+प्रदर्शन: 187 | गोल: 44 | असिस्ट: 23
+
+13
+00:01:14,600 --> 00:01:21,200
+Lewis McGugan (England) - Nottingham Forest
+प्रदर्शन: 229 | गोल: 44 | असिस्ट: 27
+
+14
+00:01:21,200 --> 00:01:27,800
+Joe Baker (England) - Nottingham Forest
+प्रदर्शन: 127 | गोल: 45 | असिस्ट: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Tony Woodcock (England) - Nottingham Forest
+प्रदर्शन: 139 | गोल: 46 | असिस्ट: 34
+
+16
+00:01:34,400 --> 00:01:41,000
+Frank Wignall (England) - Nottingham Forest
+प्रदर्शन: 167 | गोल: 48 | असिस्ट: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+David Johnson (Jamaica) - Nottingham Forest
+प्रदर्शन: 163 | गोल: 48 | असिस्ट: 7
+
+18
+00:01:47,600 --> 00:01:54,200
+Marlon Harewood (England) - Nottingham Forest
+प्रदर्शन: 204 | गोल: 54 | असिस्ट: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+John Quigley (Scotland) - Nottingham Forest
+प्रदर्शन: 252 | गोल: 54 | असिस्ट: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Neil Webb (England) - Nottingham Forest
+प्रदर्शन: 195 | गोल: 55 | असिस्ट: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Lewis Grabban (Jamaica) - Nottingham Forest
+प्रदर्शन: 149 | गोल: 56 | असिस्ट: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Tommy Wilson (England) - Nottingham Forest
+प्रदर्शन: 123 | गोल: 56
+
+23
+00:02:20,600 --> 00:02:27,200
+Peter Davenport (England) - Nottingham Forest
+प्रदर्शन: 136 | गोल: 57
+
+24
+00:02:27,200 --> 00:02:33,800
+Ian Bowyer (England) - Nottingham Forest
+प्रदर्शन: 397 | गोल: 59 | असिस्ट: 9
+
+25
+00:02:33,800 --> 00:02:40,400
+Steve Hodge (England) - Nottingham Forest
+प्रदर्शन: 255 | गोल: 63 | असिस्ट: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Colin Addison (England) - Nottingham Forest
+प्रदर्शन: 169 | गोल: 65
+
+27
+00:02:47,000 --> 00:02:53,600
+John Robertson (Scotland) - Nottingham Forest
+प्रदर्शन: 350 | गोल: 71 | असिस्ट: 36
+
+28
+00:02:53,600 --> 00:03:00,200
+Stuart Pearce (England) - Nottingham Forest
+प्रदर्शन: 464 | गोल: 75 | असिस्ट: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Garry Birtles (England) - Nottingham Forest
+प्रदर्शन: 266 | गोल: 89 | असिस्ट: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Ian Storey-Moore (England) - Nottingham Forest
+प्रदर्शन: 251 | गोल: 113 | असिस्ट: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Nigel Clough (England) - Nottingham Forest
+प्रदर्शन: 385 | गोल: 124 | असिस्ट: 10
+

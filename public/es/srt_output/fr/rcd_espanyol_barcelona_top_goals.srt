@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RCD Espanyol Barcelona Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Francisco Iriondo (Spain) - RCD Espanyol Barcelona
+Apparitions: 39 | Buts: 35
+
+3
+00:00:08,600 --> 00:00:15,200
+Oscar Coll (Argentina) - RCD Espanyol Barcelona
+Apparitions: 91 | Buts: 35
+
+4
+00:00:15,200 --> 00:00:21,800
+Tintín Márquez (Spain) - RCD Espanyol Barcelona
+Apparitions: 161 | Buts: 35
+
+5
+00:00:21,800 --> 00:00:28,400
+José Juncosa (Spain) - RCD Espanyol Barcelona
+Apparitions: 47 | Buts: 35
+
+6
+00:00:28,400 --> 00:00:35,000
+Vicente Martínez (Spain) - RCD Espanyol Barcelona
+Apparitions: 47 | Buts: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Moisés Arteaga (Spain) - RCD Espanyol Barcelona
+Apparitions: 291 | Buts: 36 | Passes décisives: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+John Lauridsen (Denmark) - RCD Espanyol Barcelona
+Apparitions: 243 | Buts: 36 | Passes décisives: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Roberto Martínez (Spain) - RCD Espanyol Barcelona
+Apparitions: 116 | Buts: 37
+
+10
+00:00:54,800 --> 00:01:01,400
+José Egea Gómez (Spain) - RCD Espanyol Barcelona
+Apparitions: 83 | Buts: 38 | Passes décisives: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+José Prat (Spain) - RCD Espanyol Barcelona
+Apparitions: 134 | Buts: 39
+
+12
+00:01:08,000 --> 00:01:14,600
+Gerard Moreno (Spain) - RCD Espanyol Barcelona
+Apparitions: 118 | Buts: 39 | Passes décisives: 9
+
+13
+00:01:14,600 --> 00:01:21,200
+Daniel Solsona (Spain) - RCD Espanyol Barcelona
+Apparitions: 245 | Buts: 40
+
+14
+00:01:21,200 --> 00:01:27,800
+Edelmiro Lorenzo (Spain) - RCD Espanyol Barcelona
+Apparitions: 107 | Buts: 41
+
+15
+00:01:27,800 --> 00:01:34,400
+Rodilla (Spain) - RCD Espanyol Barcelona
+Apparitions: 143 | Buts: 42
+
+16
+00:01:34,400 --> 00:01:41,000
+Juan Mari Amiano (Spain) - RCD Espanyol Barcelona
+Apparitions: 185 | Buts: 43
+
+17
+00:01:41,000 --> 00:01:47,600
+Raúl de Tomás (Spain) - RCD Espanyol Barcelona
+Apparitions: 89 | Buts: 45 | Passes décisives: 6
+
+18
+00:01:47,600 --> 00:01:54,200
+José María (Spain) - RCD Espanyol Barcelona
+Apparitions: 285 | Buts: 49
+
+19
+00:01:54,200 --> 00:02:00,800
+Orlando Giménez (Paraguay) - RCD Espanyol Barcelona
+Apparitions: 163 | Buts: 50 | Passes décisives: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Sergio García (Spain) - RCD Espanyol Barcelona
+Apparitions: 231 | Buts: 50 | Passes décisives: 45
+
+21
+00:02:07,400 --> 00:02:14,000
+Jordi Lardín (Spain) - RCD Espanyol Barcelona
+Apparitions: 192 | Buts: 53
+
+22
+00:02:14,000 --> 00:02:20,600
+Rosendo Hernández (Spain) - RCD Espanyol Barcelona
+Apparitions: 131 | Buts: 54 | Passes décisives: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Javi Puado (Spain) - RCD Espanyol Barcelona
+Apparitions: 203 | Buts: 55 | Passes décisives: 17
+
+24
+00:02:27,200 --> 00:02:33,800
+Michel Pineda (France) - RCD Espanyol Barcelona
+Apparitions: 199 | Buts: 58
+
+25
+00:02:33,800 --> 00:02:40,400
+Gabriel Jorge (Spain) - RCD Espanyol Barcelona
+Apparitions: 180 | Buts: 60
+
+26
+00:02:40,400 --> 00:02:47,000
+Luis García (Spain) - RCD Espanyol Barcelona
+Apparitions: 261 | Buts: 62 | Passes décisives: 25
+
+27
+00:02:47,000 --> 00:02:53,600
+Javier Marcet (Spain) - RCD Espanyol Barcelona
+Apparitions: 160 | Buts: 65 | Passes décisives: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Ángel Calvo (Spain) - RCD Espanyol Barcelona
+Apparitions: 129 | Buts: 73
+
+29
+00:03:00,200 --> 00:03:06,800
+Julián Arcas (Spain) - RCD Espanyol Barcelona
+Apparitions: 214 | Buts: 97 | Passes décisives: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Rafa Marañón (Spain) - RCD Espanyol Barcelona
+Apparitions: 274 | Buts: 117 | Passes décisives: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Raúl Tamudo (Spain) - RCD Espanyol Barcelona
+Apparitions: 385 | Buts: 140 | Passes décisives: 19
+

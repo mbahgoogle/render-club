@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persita Tangerang Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Ryuji Utomo (Indonesia) - Persita Tangerang
+Presenze: 15 | Gol: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Jalwandi Jamal (Indonesia) - Persita Tangerang
+Presenze: 7 | Gol: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Aldi Al Achya (Indonesia) - Persita Tangerang
+Presenze: 29 | Gol: 2 | Assist: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Kasim Botan (Indonesia) - Persita Tangerang
+Presenze: 17 | Gol: 2 | Assist: 3
+
+6
+00:00:28,400 --> 00:00:35,000
+Mohcine Hassan (Morocco) - Persita Tangerang
+Presenze: 11 | Gol: 2 | Assist: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Fahreza Sudin (Indonesia) - Persita Tangerang
+Presenze: 87 | Gol: 3 | Assist: 3
+
+8
+00:00:41,600 --> 00:00:48,200
+Javlon Guseynov (Uzbekistan) - Persita Tangerang
+Presenze: 66 | Gol: 3 | Assist: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Éber Bessa (Brazil) - Persita Tangerang
+Presenze: 7 | Gol: 3 | Assist: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Dong-chan Kim (Korea, South) - Persita Tangerang
+Presenze: 30 | Gol: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Elisa Basna (Indonesia) - Persita Tangerang
+Presenze: 27 | Gol: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Andre Agustiar Prakoso (Indonesia) - Persita Tangerang
+Presenze: 24 | Gol: 3 | Assist: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Christian Rontini (Philippines) - Persita Tangerang
+Presenze: 29 | Gol: 3 | Assist: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Taylon Nicolas Correa Marcolino (Brazil) - Persita Tangerang
+Presenze: 14 | Gol: 4 | Assist: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Mohammad Edo Febriansah (Indonesia) - Persita Tangerang
+Presenze: 28 | Gol: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Ade Jantra (Indonesia) - Persita Tangerang
+Presenze: 58 | Gol: 5 | Assist: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Sin-young Bae (Korea, South) - Persita Tangerang
+Presenze: 118 | Gol: 5 | Assist: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Luis Edmundo Durán Riquelme (Chile) - Persita Tangerang
+Presenze: 46 | Gol: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Chandra Waskito Kusumawardana (Indonesia) - Persita Tangerang
+Presenze: 24 | Gol: 6 | Assist: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Ahmad Nur Hardianto (Indonesia) - Persita Tangerang
+Presenze: 47 | Gol: 7 | Assist: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Harrison (Brazil) - Persita Tangerang
+Presenze: 23 | Gol: 7 | Assist: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Rifky Dwi Septiawan (Indonesia) - Persita Tangerang
+Presenze: 61 | Gol: 7 | Assist: 3
+
+23
+00:02:20,600 --> 00:02:27,200
+Mochammad Wildan Ramdhani Nugraha (Indonesia) - Persita Tangerang
+Presenze: 31 | Gol: 7 | Assist: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Kenji Adachihara (Japan) - Persita Tangerang
+Presenze: 19 | Gol: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Esal Sahrul Muhrom (Indonesia) - Persita Tangerang
+Presenze: 36 | Gol: 8 | Assist: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Marios Ogboe (Greece) - Persita Tangerang
+Presenze: 23 | Gol: 8
+
+27
+00:02:47,000 --> 00:02:53,600
+Irsyad Maulana (Indonesia) - Persita Tangerang
+Presenze: 77 | Gol: 10 | Assist: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Cristian Carrasco (Indonesia) - Persita Tangerang
+Presenze: 46 | Gol: 15
+
+29
+00:03:00,200 --> 00:03:06,800
+Norberto Ezequiel Vidal (Argentina) - Persita Tangerang
+Presenze: 63 | Gol: 17 | Assist: 14
+
+30
+00:03:06,800 --> 00:03:13,400
+Sirvi Arvani (Indonesia) - Persita Tangerang
+Presenze: 69 | Gol: 19 | Assist: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Ramiro Fergonzi (Argentina) - Persita Tangerang
+Presenze: 68 | Gol: 23 | Assist: 13
+

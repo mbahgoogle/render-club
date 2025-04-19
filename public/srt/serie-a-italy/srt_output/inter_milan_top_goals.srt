@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Inter Milan All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Pietro Ferraris (Italy) - Inter Milan
+Appearances: 161 | Goals: 56 | Assists: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Pietro Serantoni (Italy) - Inter Milan
+Appearances: 163 | Goals: 57 | Assists: 0
+
+4
+00:00:15,200 --> 00:00:21,800
+Lennart Skoglund (Sweden) - Inter Milan
+Appearances: 246 | Goals: 57 | Assists: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Rodrigo Palacio (Argentina) - Inter Milan
+Appearances: 169 | Goals: 58 | Assists: 31
+
+6
+00:00:28,400 --> 00:00:35,000
+Enrico Candiani (Italy) - Inter Milan
+Appearances: 169 | Goals: 59 | Assists: 0
+
+7
+00:00:35,000 --> 00:00:41,600
+Ronaldo Luís Nazário de Lima (Brazil) - Inter Milan
+Appearances: 99 | Goals: 59 | Assists: 10
+
+8
+00:00:41,600 --> 00:00:48,200
+Zlatan Ibrahimovic (Sweden) - Inter Milan
+Appearances: 117 | Goals: 66 | Assists: 29
+
+9
+00:00:48,200 --> 00:00:54,800
+Leopoldo Conti (Italy) - Inter Milan
+Appearances: 214 | Goals: 68 | Assists: 6
+
+10
+00:00:54,800 --> 00:01:01,400
+Eddie Firmani (Italy) - Inter Milan
+Appearances: 102 | Goals: 69 | Assists: 0
+
+11
+00:01:01,400 --> 00:01:08,000
+Jair da Costa (Brazil) - Inter Milan
+Appearances: 263 | Goals: 70 | Assists: 4
+
+12
+00:01:08,000 --> 00:01:14,600
+Gino Armano (Italy) - Inter Milan
+Appearances: 255 | Goals: 72 | Assists: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Álvaro Recoba (Uruguay) - Inter Milan
+Appearances: 261 | Goals: 72 | Assists: 66
+
+14
+00:01:21,200 --> 00:01:27,800
+Adriano Leite Ribeiro (Brazil) - Inter Milan
+Appearances: 177 | Goals: 74 | Assists: 28
+
+15
+00:01:27,800 --> 00:01:34,400
+Diego Milito (Argentina) - Inter Milan
+Appearances: 171 | Goals: 75 | Assists: 28
+
+16
+00:01:34,400 --> 00:01:41,000
+Julio Cruz (Argentina) - Inter Milan
+Appearances: 197 | Goals: 75 | Assists: 21
+
+17
+00:01:41,000 --> 00:01:47,600
+Giacinto Facchetti (Italy) - Inter Milan
+Appearances: 637 | Goals: 76 | Assists: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Romelu Lukaku (Belgium) - Inter Milan
+Appearances: 132 | Goals: 78 | Assists: 22
+
+19
+00:01:54,200 --> 00:02:00,800
+Aldo Serena (Italy) - Inter Milan
+Appearances: 223 | Goals: 78 | Assists: 23
+
+20
+00:02:00,800 --> 00:02:07,400
+Antonio Angelillo (Italy) - Inter Milan
+Appearances: 128 | Goals: 80 | Assists: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Attilio Demaría (Italy) - Inter Milan
+Appearances: 295 | Goals: 86 | Assists: 0
+
+22
+00:02:14,000 --> 00:02:20,600
+Mario Corso (Italy) - Inter Milan
+Appearances: 509 | Goals: 95 | Assists: 3
+
+23
+00:02:20,600 --> 00:02:27,200
+Christian Vieri (Italy) - Inter Milan
+Appearances: 190 | Goals: 123 | Assists: 22
+
+24
+00:02:27,200 --> 00:02:33,800
+Mauro Icardi (Argentina) - Inter Milan
+Appearances: 219 | Goals: 124 | Assists: 29
+
+25
+00:02:33,800 --> 00:02:40,400
+István Nyers (Hungary) - Inter Milan
+Appearances: 183 | Goals: 133 | Assists: 0
+
+26
+00:02:40,400 --> 00:02:47,000
+Benito Lorenzi (Italy) - Inter Milan
+Appearances: 314 | Goals: 143 | Assists: 7
+
+27
+00:02:47,000 --> 00:02:53,600
+Lautaro Martínez (Argentina) - Inter Milan
+Appearances: 319 | Goals: 146 | Assists: 49
+
+28
+00:02:53,600 --> 00:03:00,200
+Sandro Mazzola (Italy) - Inter Milan
+Appearances: 566 | Goals: 162 | Assists: 14
+
+29
+00:03:00,200 --> 00:03:06,800
+Roberto Boninsegna (Italy) - Inter Milan
+Appearances: 283 | Goals: 173 | Assists: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Alessandro Altobelli (Italy) - Inter Milan
+Appearances: 465 | Goals: 209 | Assists: 8
+
+31
+00:03:13,400 --> 00:03:20,000
+Giuseppe Meazza (Italy) - Inter Milan
+Appearances: 409 | Goals: 284 | Assists: 3
+

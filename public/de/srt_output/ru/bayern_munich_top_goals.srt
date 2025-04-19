@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bayern Munich Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Michael Ballack (Germany) - Bayern Munich
+Матчи: 157 | Голы: 62 | Голевые передачи: 40
+
+3
+00:00:08,600 --> 00:00:15,200
+Michael Rummenigge (Germany) - Bayern Munich
+Матчи: 205 | Голы: 66 | Голевые передачи: 23
+
+4
+00:00:15,200 --> 00:00:21,800
+Bastian Schweinsteiger (Germany) - Bayern Munich
+Матчи: 500 | Голы: 68 | Голевые передачи: 98
+
+5
+00:00:21,800 --> 00:00:28,400
+Kingsley Coman (France) - Bayern Munich
+Матчи: 328 | Голы: 69 | Голевые передачи: 65
+
+6
+00:00:28,400 --> 00:00:35,000
+Alexander Zickler (Germany) - Bayern Munich
+Матчи: 308 | Голы: 70 | Голевые передачи: 29
+
+7
+00:00:35,000 --> 00:00:41,600
+Peter Grosser (Germany) - Bayern Munich
+Матчи: 149 | Голы: 73
+
+8
+00:00:41,600 --> 00:00:48,200
+Klaus Augenthaler (Germany) - Bayern Munich
+Матчи: 551 | Голы: 74 | Голевые передачи: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Franz Beckenbauer (Germany) - Bayern Munich
+Матчи: 584 | Голы: 75 | Голевые передачи: 75
+
+10
+00:00:54,800 --> 00:01:01,400
+Harry Kane (England) - Bayern Munich
+Матчи: 83 | Голы: 77 | Голевые передачи: 24
+
+11
+00:01:01,400 --> 00:01:08,000
+Carsten Jancker (Germany) - Bayern Munich
+Матчи: 225 | Голы: 79 | Голевые передачи: 40
+
+12
+00:01:08,000 --> 00:01:14,600
+Serge Gnabry (Germany) - Bayern Munich
+Матчи: 271 | Голы: 91 | Голевые передачи: 51
+
+13
+00:01:14,600 --> 00:01:21,200
+Franz Roth (Germany) - Bayern Munich
+Матчи: 440 | Голы: 95 | Голевые передачи: 32
+
+14
+00:01:21,200 --> 00:01:27,800
+Lothar Matthäus (Germany) - Bayern Munich
+Матчи: 410 | Голы: 100 | Голевые передачи: 51
+
+15
+00:01:27,800 --> 00:01:34,400
+Roy Makaay (Netherlands) - Bayern Munich
+Матчи: 183 | Голы: 103 | Голевые передачи: 35
+
+16
+00:01:34,400 --> 00:01:41,000
+Paul Breitner (Germany) - Bayern Munich
+Матчи: 352 | Голы: 110 | Голевые передачи: 41
+
+17
+00:01:41,000 --> 00:01:47,600
+Uli Hoeneß (Germany) - Bayern Munich
+Матчи: 341 | Голы: 112 | Голевые передачи: 61
+
+18
+00:01:47,600 --> 00:01:54,200
+Mario Gómez (Germany) - Bayern Munich
+Матчи: 174 | Голы: 113 | Голевые передачи: 26
+
+19
+00:01:54,200 --> 00:02:00,800
+Mehmet Scholl (Germany) - Bayern Munich
+Матчи: 469 | Голы: 117 | Голевые передачи: 106
+
+20
+00:02:00,800 --> 00:02:07,400
+Franck Ribéry (France) - Bayern Munich
+Матчи: 425 | Голы: 124 | Голевые передачи: 182
+
+21
+00:02:07,400 --> 00:02:14,000
+Claudio Pizarro (Peru) - Bayern Munich
+Матчи: 327 | Голы: 125 | Голевые передачи: 53
+
+22
+00:02:14,000 --> 00:02:20,600
+Giovane Élber (Brazil) - Bayern Munich
+Матчи: 266 | Голы: 139 | Голевые передачи: 57
+
+23
+00:02:20,600 --> 00:02:27,200
+Dieter Brenninger (Germany) - Bayern Munich
+Матчи: 360 | Голы: 141 | Голевые передачи: 46
+
+24
+00:02:27,200 --> 00:02:33,800
+Arjen Robben (Netherlands) - Bayern Munich
+Матчи: 309 | Голы: 144 | Голевые передачи: 100
+
+25
+00:02:33,800 --> 00:02:40,400
+Dieter Hoeneß (Germany) - Bayern Munich
+Матчи: 302 | Голы: 145 | Голевые передачи: 14
+
+26
+00:02:40,400 --> 00:02:47,000
+Roland Wohlfarth (Germany) - Bayern Munich
+Матчи: 332 | Голы: 156 | Голевые передачи: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Karl-Heinz Rummenigge (Germany) - Bayern Munich
+Матчи: 422 | Голы: 217 | Голевые передачи: 69
+
+28
+00:02:53,600 --> 00:03:00,200
+Rainer Ohlhauser (Germany) - Bayern Munich
+Матчи: 360 | Голы: 229 | Голевые передачи: 24
+
+29
+00:03:00,200 --> 00:03:06,800
+Thomas Müller (Germany) - Bayern Munich
+Матчи: 742 | Голы: 247 | Голевые передачи: 273
+
+30
+00:03:06,800 --> 00:03:13,400
+Robert Lewandowski (Poland) - Bayern Munich
+Матчи: 375 | Голы: 344 | Голевые передачи: 73
+
+31
+00:03:13,400 --> 00:03:20,000
+Gerd Müller (Germany) - Bayern Munich
+Матчи: 613 | Голы: 570 | Голевые передачи: 103
+

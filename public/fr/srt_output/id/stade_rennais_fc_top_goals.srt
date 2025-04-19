@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Rennais FC Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Marco Grassi (Switzerland) - Stade Rennais FC
+Penampilan: 60 | Gol: 28 | Asis: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+John Utaka (Nigeria) - Stade Rennais FC
+Penampilan: 75 | Gol: 28 | Asis: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Pokou (Cote d'Ivoire) - Stade Rennais FC
+Penampilan: 56 | Gol: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+M'Baye Niang (Senegal) - Stade Rennais FC
+Penampilan: 92 | Gol: 30 | Asis: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Stéphane Guivarc'h (France) - Stade Rennais FC
+Penampilan: 45 | Gol: 30
+
+7
+00:00:35,000 --> 00:00:41,600
+Amine Gouiri (Algeria) - Stade Rennais FC
+Penampilan: 103 | Gol: 31 | Asis: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Robert Rico (France) - Stade Rennais FC
+Penampilan: 165 | Gol: 36
+
+9
+00:00:48,200 --> 00:00:54,800
+Arnaud Kalimuendo (France) - Stade Rennais FC
+Penampilan: 105 | Gol: 36 | Asis: 9
+
+10
+00:00:54,800 --> 00:01:01,400
+Adrien Hunou (France) - Stade Rennais FC
+Penampilan: 160 | Gol: 36 | Asis: 5
+
+11
+00:01:01,400 --> 00:01:08,000
+Shabani Nonda (DR Congo) - Stade Rennais FC
+Penampilan: 77 | Gol: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+Marcel Loncle (France) - Stade Rennais FC
+Penampilan: 155 | Gol: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+Claude Dubaële (France) - Stade Rennais FC
+Penampilan: 101 | Gol: 37
+
+14
+00:01:21,200 --> 00:01:27,800
+Olivier Monterrubio (France) - Stade Rennais FC
+Penampilan: 216 | Gol: 41 | Asis: 33
+
+15
+00:01:27,800 --> 00:01:34,400
+Farès Bousdira (France) - Stade Rennais FC
+Penampilan: 121 | Gol: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Laurent Delamontagne (France) - Stade Rennais FC
+Penampilan: 213 | Gol: 42
+
+17
+00:01:41,000 --> 00:01:47,600
+Jimmy Briand (France) - Stade Rennais FC
+Penampilan: 212 | Gol: 43 | Asis: 27
+
+18
+00:01:47,600 --> 00:01:54,200
+Jocelyn Gourvennec (France) - Stade Rennais FC
+Penampilan: 179 | Gol: 43 | Asis: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Silvester Takac (Serbia) - Stade Rennais FC
+Penampilan: 94 | Gol: 44
+
+20
+00:02:00,800 --> 00:02:07,400
+Sylvain Wiltord (France) - Stade Rennais FC
+Penampilan: 178 | Gol: 45 | Asis: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Hervé Guermeur (France) - Stade Rennais FC
+Penampilan: 204 | Gol: 46 | Asis: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Erik-Jan van den Boogaard (Netherlands) - Stade Rennais FC
+Penampilan: 93 | Gol: 49
+
+23
+00:02:20,600 --> 00:02:27,200
+Mario Relmy (France) - Stade Rennais FC
+Penampilan: 130 | Gol: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Martin Terrier (France) - Stade Rennais FC
+Penampilan: 141 | Gol: 51 | Asis: 24
+
+25
+00:02:33,800 --> 00:02:40,400
+Alex Frei (Switzerland) - Stade Rennais FC
+Penampilan: 117 | Gol: 52 | Asis: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Serge Lenoir (France) - Stade Rennais FC
+Penampilan: 132 | Gol: 55
+
+27
+00:02:47,000 --> 00:02:53,600
+Benjamin Bourigeaud (France) - Stade Rennais FC
+Penampilan: 311 | Gol: 66 | Asis: 66
+
+28
+00:02:53,600 --> 00:03:00,200
+Khennane Mahi (Algeria) - Stade Rennais FC
+Penampilan: 179 | Gol: 70
+
+29
+00:03:00,200 --> 00:03:06,800
+Giovanni Pellegrini (France) - Stade Rennais FC
+Penampilan: 176 | Gol: 78
+
+30
+00:03:06,800 --> 00:03:13,400
+Jean Grumellon (France) - Stade Rennais FC
+Penampilan: 134 | Gol: 92
+
+31
+00:03:13,400 --> 00:03:20,000
+Daniel Rodighiero (France) - Stade Rennais FC
+Penampilan: 228 | Gol: 125
+

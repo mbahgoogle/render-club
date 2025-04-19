@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Borussia Dortmund Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Lucas Barrios (Paraguay) - Borussia Dortmund
+Presenze: 102 | Gol: 49 | Assist: 17
+
+3
+00:00:08,600 --> 00:00:15,200
+Hans Flügel (Germany) - Borussia Dortmund
+Presenze: 129 | Gol: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Norbert Dickel (Germany) - Borussia Dortmund
+Presenze: 108 | Gol: 50 | Assist: 11
+
+5
+00:00:21,800 --> 00:00:28,400
+Lothar Huber (Germany) - Borussia Dortmund
+Presenze: 372 | Gol: 50 | Assist: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Jadon Sancho (England) - Borussia Dortmund
+Presenze: 158 | Gol: 53 | Assist: 64
+
+7
+00:00:35,000 --> 00:00:41,600
+Sigfried Held (Germany) - Borussia Dortmund
+Presenze: 259 | Gol: 53 | Assist: 51
+
+8
+00:00:41,600 --> 00:00:48,200
+Ewerthon (Brazil) - Borussia Dortmund
+Presenze: 154 | Gol: 54 | Assist: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Burghard Segler (Germany) - Borussia Dortmund
+Presenze: 200 | Gol: 54 | Assist: 4
+
+10
+00:00:54,800 --> 00:01:01,400
+Heiko Herrlich (Germany) - Borussia Dortmund
+Presenze: 183 | Gol: 56 | Assist: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Shinji Kagawa (Japan) - Borussia Dortmund
+Presenze: 216 | Gol: 60 | Assist: 55
+
+12
+00:01:08,000 --> 00:01:14,600
+Edmond Kasperski (Germany) - Borussia Dortmund
+Presenze: 136 | Gol: 66 | Assist: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Frank Mill (Germany) - Borussia Dortmund
+Presenze: 227 | Gol: 66 | Assist: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Lars Ricken (Germany) - Borussia Dortmund
+Presenze: 407 | Gol: 69 | Assist: 68
+
+15
+00:01:27,800 --> 00:01:34,400
+Jan Koller (Czech Republic) - Borussia Dortmund
+Presenze: 184 | Gol: 79 | Assist: 33
+
+16
+00:01:34,400 --> 00:01:41,000
+Erling Haaland (Norway) - Borussia Dortmund
+Presenze: 89 | Gol: 86 | Assist: 23
+
+17
+00:01:41,000 --> 00:01:47,600
+Andreas Möller (Germany) - Borussia Dortmund
+Presenze: 301 | Gol: 88 | Assist: 94
+
+18
+00:01:47,600 --> 00:01:54,200
+Aki Schmidt (Germany) - Borussia Dortmund
+Presenze: 331 | Gol: 91 | Assist: 14
+
+19
+00:01:54,200 --> 00:02:00,800
+Reinhold Wosab (Germany) - Borussia Dortmund
+Presenze: 275 | Gol: 94 | Assist: 23
+
+20
+00:02:00,800 --> 00:02:07,400
+Robert Lewandowski (Poland) - Borussia Dortmund
+Presenze: 187 | Gol: 103 | Assist: 42
+
+21
+00:02:07,400 --> 00:02:14,000
+Stéphane Chapuisat (Switzerland) - Borussia Dortmund
+Presenze: 284 | Gol: 123 | Assist: 65
+
+22
+00:02:14,000 --> 00:02:20,600
+Alfred Kelbassa (Germany) - Borussia Dortmund
+Presenze: 218 | Gol: 123 | Assist: 5
+
+23
+00:02:20,600 --> 00:02:27,200
+Alfred Niepieklo (Germany) - Borussia Dortmund
+Presenze: 201 | Gol: 126 | Assist: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Pierre-Emerick Aubameyang (Gabon) - Borussia Dortmund
+Presenze: 213 | Gol: 141 | Assist: 35
+
+25
+00:02:33,800 --> 00:02:40,400
+Jürgen Schütz (Germany) - Borussia Dortmund
+Presenze: 214 | Gol: 143 | Assist: 9
+
+26
+00:02:40,400 --> 00:02:47,000
+Lothar Emmerich (Germany) - Borussia Dortmund
+Presenze: 249 | Gol: 148 | Assist: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Timo Konietzka (Germany) - Borussia Dortmund
+Presenze: 196 | Gol: 155 | Assist: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Manfred Burgsmüller (Germany) - Borussia Dortmund
+Presenze: 252 | Gol: 158 | Assist: 5
+
+29
+00:03:00,200 --> 00:03:06,800
+Michael Zorc (Germany) - Borussia Dortmund
+Presenze: 572 | Gol: 159 | Assist: 38
+
+30
+00:03:06,800 --> 00:03:13,400
+Marco Reus (Germany) - Borussia Dortmund
+Presenze: 429 | Gol: 170 | Assist: 131
+
+31
+00:03:13,400 --> 00:03:20,000
+Adi Preißler (Germany) - Borussia Dortmund
+Presenze: 274 | Gol: 177 | Assist: 5
+

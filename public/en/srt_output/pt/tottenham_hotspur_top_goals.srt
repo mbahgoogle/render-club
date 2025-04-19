@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Tottenham Hotspur Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Tommy Harmer (England) - Tottenham Hotspur
+Partidas: 219 | Gols: 51 | Assistências: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Dave Mackay (Scotland) - Tottenham Hotspur
+Partidas: 320 | Gols: 52 | Assistências: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Sonny Walters (England) - Tottenham Hotspur
+Partidas: 169 | Gols: 54
+
+5
+00:00:21,800 --> 00:00:28,400
+Les Bennett (England) - Tottenham Hotspur
+Partidas: 141 | Gols: 55
+
+6
+00:00:28,400 --> 00:00:35,000
+Terry Dyson (England) - Tottenham Hotspur
+Partidas: 208 | Gols: 56 | Assistências: 28
+
+7
+00:00:35,000 --> 00:00:41,600
+George Robb (England) - Tottenham Hotspur
+Partidas: 193 | Gols: 57 | Assistências: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Chris Armstrong (England) - Tottenham Hotspur
+Partidas: 173 | Gols: 62 | Assistências: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Les Allen (England) - Tottenham Hotspur
+Partidas: 137 | Gols: 63 | Assistências: 38
+
+10
+00:00:54,800 --> 00:01:01,400
+Dele Alli (England) - Tottenham Hotspur
+Partidas: 269 | Gols: 67 | Assistências: 55
+
+11
+00:01:01,400 --> 00:01:08,000
+Christian Eriksen (Denmark) - Tottenham Hotspur
+Partidas: 305 | Gols: 69 | Assistências: 88
+
+12
+00:01:08,000 --> 00:01:14,600
+Terry Medwin (Wales) - Tottenham Hotspur
+Partidas: 213 | Gols: 70 | Assistências: 13
+
+13
+00:01:14,600 --> 00:01:21,200
+Garth Crooks (England) - Tottenham Hotspur
+Partidas: 174 | Gols: 70 | Assistências: 12
+
+14
+00:01:21,200 --> 00:01:27,800
+Martin Peters (England) - Tottenham Hotspur
+Partidas: 249 | Gols: 71 | Assistências: 3
+
+15
+00:01:27,800 --> 00:01:34,400
+Gareth Bale (Wales) - Tottenham Hotspur
+Partidas: 237 | Gols: 71 | Assistências: 53
+
+16
+00:01:34,400 --> 00:01:41,000
+Steve Archibald (Scotland) - Tottenham Hotspur
+Partidas: 184 | Gols: 75 | Assistências: 15
+
+17
+00:01:41,000 --> 00:01:47,600
+Len Duquemin (Guernsey) - Tottenham Hotspur
+Partidas: 182 | Gols: 76
+
+18
+00:01:47,600 --> 00:01:54,200
+Gary Lineker (England) - Tottenham Hotspur
+Partidas: 139 | Gols: 80 | Assistências: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Clive Allen (England) - Tottenham Hotspur
+Partidas: 133 | Gols: 82 | Assistências: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Mark Falco (England) - Tottenham Hotspur
+Partidas: 224 | Gols: 89 | Assistências: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Glenn Hoddle (England) - Tottenham Hotspur
+Partidas: 435 | Gols: 96 | Assistências: 50
+
+22
+00:02:14,000 --> 00:02:20,600
+Robbie Keane (Ireland) - Tottenham Hotspur
+Partidas: 306 | Gols: 122 | Assistências: 39
+
+23
+00:02:20,600 --> 00:02:27,200
+Teddy Sheringham (England) - Tottenham Hotspur
+Partidas: 277 | Gols: 125 | Assistências: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Alan Gilzean (Scotland) - Tottenham Hotspur
+Partidas: 424 | Gols: 128 | Assistências: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Jermain Defoe (England) - Tottenham Hotspur
+Partidas: 363 | Gols: 143 | Assistências: 29
+
+26
+00:02:40,400 --> 00:02:47,000
+Cliff Jones (Wales) - Tottenham Hotspur
+Partidas: 377 | Gols: 159 | Assistências: 36
+
+27
+00:02:47,000 --> 00:02:53,600
+Martin Chivers (England) - Tottenham Hotspur
+Partidas: 349 | Gols: 167 | Assistências: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Heung-min Son (Korea, South) - Tottenham Hotspur
+Partidas: 449 | Gols: 173 | Assistências: 96
+
+29
+00:03:00,200 --> 00:03:06,800
+Bobby Smith (England) - Tottenham Hotspur
+Partidas: 316 | Gols: 211 | Assistências: 31
+
+30
+00:03:06,800 --> 00:03:13,400
+Jimmy Greaves (England) - Tottenham Hotspur
+Partidas: 376 | Gols: 266 | Assistências: 45
+
+31
+00:03:13,400 --> 00:03:20,000
+Harry Kane (England) - Tottenham Hotspur
+Partidas: 435 | Gols: 280 | Assistências: 61
+

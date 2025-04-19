@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Paris Saint-Germain सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Lionel Messi (Argentina) - Paris Saint-Germain
+प्रदर्शन: 75 | गोल: 32 | असिस्ट: 35
+
+3
+00:00:08,600 --> 00:00:15,200
+Blaise Matuidi (France) - Paris Saint-Germain
+प्रदर्शन: 295 | गोल: 33 | असिस्ट: 29
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Robert (France) - Paris Saint-Germain
+प्रदर्शन: 84 | गोल: 34 | असिस्ट: 12
+
+5
+00:00:21,800 --> 00:00:28,400
+Dominique Bathenay (France) - Paris Saint-Germain
+प्रदर्शन: 273 | गोल: 35
+
+6
+00:00:28,400 --> 00:00:35,000
+Ezequiel Lavezzi (Argentina) - Paris Saint-Germain
+प्रदर्शन: 161 | गोल: 35 | असिस्ट: 24
+
+7
+00:00:35,000 --> 00:00:41,600
+Patrice Loko (France) - Paris Saint-Germain
+प्रदर्शन: 115 | गोल: 36 | असिस्ट: 3
+
+8
+00:00:41,600 --> 00:00:48,200
+Péguy Luyindula (France) - Paris Saint-Germain
+प्रदर्शन: 180 | गोल: 37 | असिस्ट: 18
+
+9
+00:00:48,200 --> 00:00:54,800
+Mauro Icardi (Argentina) - Paris Saint-Germain
+प्रदर्शन: 92 | गोल: 38 | असिस्ट: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Ousmane Dembélé (France) - Paris Saint-Germain
+प्रदर्शन: 81 | गोल: 38 | असिस्ट: 19
+
+11
+00:01:01,400 --> 00:01:08,000
+Luis Fernandez (France) - Paris Saint-Germain
+प्रदर्शन: 273 | गोल: 39
+
+12
+00:01:08,000 --> 00:01:14,600
+Marquinhos (Brazil) - Paris Saint-Germain
+प्रदर्शन: 476 | गोल: 40 | असिस्ट: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Nambatingue Toko (Chad) - Paris Saint-Germain
+प्रदर्शन: 171 | गोल: 43
+
+14
+00:01:21,200 --> 00:01:27,800
+David Ginola (France) - Paris Saint-Germain
+प्रदर्शन: 158 | गोल: 44 | असिस्ट: 15
+
+15
+00:01:27,800 --> 00:01:34,400
+Javier Pastore (Argentina) - Paris Saint-Germain
+प्रदर्शन: 269 | गोल: 45 | असिस्ट: 61
+
+16
+00:01:34,400 --> 00:01:41,000
+Lucas Moura (Brazil) - Paris Saint-Germain
+प्रदर्शन: 229 | गोल: 46 | असिस्ट: 49
+
+17
+00:01:41,000 --> 00:01:47,600
+Nenê (Brazil) - Paris Saint-Germain
+प्रदर्शन: 112 | गोल: 48 | असिस्ट: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+George Weah (Liberia) - Paris Saint-Germain
+प्रदर्शन: 138 | गोल: 55 | असिस्ट: 11
+
+19
+00:01:54,200 --> 00:02:00,800
+Guillaume Hoarau (France) - Paris Saint-Germain
+प्रदर्शन: 161 | गोल: 57 | असिस्ट: 23
+
+20
+00:02:00,800 --> 00:02:07,400
+Carlos Bianchi (Argentina) - Paris Saint-Germain
+प्रदर्शन: 80 | गोल: 71
+
+21
+00:02:07,400 --> 00:02:14,000
+Raí (Brazil) - Paris Saint-Germain
+प्रदर्शन: 215 | गोल: 72 | असिस्ट: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Safet Susic (Bosnia-Herzegovina) - Paris Saint-Germain
+प्रदर्शन: 345 | गोल: 85 | असिस्ट: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+François M'Pelé (Congo) - Paris Saint-Germain
+प्रदर्शन: 197 | गोल: 87
+
+24
+00:02:27,200 --> 00:02:33,800
+Ángel Di María (Argentina) - Paris Saint-Germain
+प्रदर्शन: 295 | गोल: 93 | असिस्ट: 119
+
+25
+00:02:33,800 --> 00:02:40,400
+Mustapha Dahleb (Algeria) - Paris Saint-Germain
+प्रदर्शन: 309 | गोल: 98
+
+26
+00:02:40,400 --> 00:02:47,000
+Dominique Rocheteau (France) - Paris Saint-Germain
+प्रदर्शन: 255 | गोल: 100
+
+27
+00:02:47,000 --> 00:02:53,600
+Pauleta (Portugal) - Paris Saint-Germain
+प्रदर्शन: 211 | गोल: 109 | असिस्ट: 16
+
+28
+00:02:53,600 --> 00:03:00,200
+Neymar (Brazil) - Paris Saint-Germain
+प्रदर्शन: 173 | गोल: 118 | असिस्ट: 77
+
+29
+00:03:00,200 --> 00:03:06,800
+Zlatan Ibrahimović (Sweden) - Paris Saint-Germain
+प्रदर्शन: 180 | गोल: 156 | असिस्ट: 62
+
+30
+00:03:06,800 --> 00:03:13,400
+Edinson Cavani (Uruguay) - Paris Saint-Germain
+प्रदर्शन: 301 | गोल: 200 | असिस्ट: 43
+
+31
+00:03:13,400 --> 00:03:20,000
+Kylian Mbappé (France) - Paris Saint-Germain
+प्रदर्शन: 308 | गोल: 256 | असिस्ट: 98
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persik Kediri 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Qischil Gandrum (Indonesia) - Persik Kediri
+出場数: 14 | ゴール: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Adi Eko (Indonesia) - Persik Kediri
+出場数: 99 | ゴール: 2 | アシスト: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Ezra Walian (Indonesia) - Persik Kediri
+出場数: 19 | ゴール: 2 | アシスト: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Iqmal Samsu (Indonesia) - Persik Kediri
+出場数: 7 | ゴール: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Jefinho (Brazil) - Persik Kediri
+出場数: 7 | ゴール: 2 | アシスト: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Fitra Ridwan (Indonesia) - Persik Kediri
+出場数: 52 | ゴール: 2 | アシスト: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Mario Yagalo (Indonesia) - Persik Kediri
+出場数: 58 | ゴール: 3 | アシスト: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Rohit Chand (Nepal) - Persik Kediri
+出場数: 80 | ゴール: 3 | アシスト: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Yusuf Meilana (Indonesia) - Persik Kediri
+出場数: 110 | ゴール: 3 | アシスト: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Antoni Nugroho (Indonesia) - Persik Kediri
+出場数: 36 | ゴール: 3 | アシスト: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Syaiful Indra (Indonesia) - Persik Kediri
+出場数: 15 | ゴール: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Andri Ibo (Indonesia) - Persik Kediri
+出場数: 21 | ゴール: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Majed Osman (Lebanon) - Persik Kediri
+出場数: 25 | ゴール: 3 | アシスト: 3
+
+15
+00:01:27,800 --> 00:01:34,400
+Risna Prahalabenta (Indonesia) - Persik Kediri
+出場数: 37 | ゴール: 3 | アシスト: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Udo Fortune (Nigeria) - Persik Kediri
+出場数: 10 | ゴール: 4
+
+17
+00:01:41,000 --> 00:01:47,600
+Yohanes Pahabol (Indonesia) - Persik Kediri
+出場数: 43 | ゴール: 4 | アシスト: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Anderson (Brazil) - Persik Kediri
+出場数: 42 | ゴール: 5 | アシスト: 3
+
+19
+00:01:54,200 --> 00:02:00,800
+Jeam Kelly Sroyer (Indonesia) - Persik Kediri
+出場数: 46 | ゴール: 5 | アシスト: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Hamra Hehanussa (Indonesia) - Persik Kediri
+出場数: 62 | ゴール: 5 | アシスト: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Ramiro Fergonzi (Argentina) - Persik Kediri
+出場数: 23 | ゴール: 5 | アシスト: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Bayu Otto (Indonesia) - Persik Kediri
+出場数: 105 | ゴール: 6 | アシスト: 10
+
+23
+00:02:20,600 --> 00:02:27,200
+Zé Valente (Portugal) - Persik Kediri
+出場数: 37 | ゴール: 7 | アシスト: 9
+
+24
+00:02:27,200 --> 00:02:33,800
+Septian Bagaskara (Indonesia) - Persik Kediri
+出場数: 29 | ゴール: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Riyatno Abiyoso (Indonesia) - Persik Kediri
+出場数: 54 | ゴール: 8 | アシスト: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Guy Bertrand Ngon Mamoun (Cameroon) - Persik Kediri
+出場数: 18 | ゴール: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+Faris Aditama (Indonesia) - Persik Kediri
+出場数: 110 | ゴール: 9 | アシスト: 6
+
+28
+00:02:53,600 --> 00:03:00,200
+Renan Silva (Brazil) - Persik Kediri
+出場数: 65 | ゴール: 14 | アシスト: 16
+
+29
+00:03:00,200 --> 00:03:06,800
+Mohammad Khanafi (Indonesia) - Persik Kediri
+出場数: 56 | ゴール: 14 | アシスト: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Youssef Ezzejjari (Spain) - Persik Kediri
+出場数: 32 | ゴール: 18 | アシスト: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Flávio Silva (Portugal) - Persik Kediri
+出場数: 45 | ゴール: 30 | アシスト: 5
+

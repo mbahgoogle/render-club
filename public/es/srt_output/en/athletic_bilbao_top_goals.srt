@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Athletic Bilbao All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Fran Yeste (Spain) - Athletic Bilbao
+Appearances: 348 | Goals: 57 | Assists: 62
+
+3
+00:00:08,600 --> 00:00:15,200
+Ignacio Uribe (Spain) - Athletic Bilbao
+Appearances: 203 | Goals: 65
+
+4
+00:00:15,200 --> 00:00:21,800
+Mauri (Spain) - Athletic Bilbao
+Appearances: 279 | Goals: 66 | Assists: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Estanis Argote (Spain) - Athletic Bilbao
+Appearances: 384 | Goals: 68 | Assists: 10
+
+6
+00:00:28,400 --> 00:00:35,000
+Antón Arieta (Spain) - Athletic Bilbao
+Appearances: 308 | Goals: 68
+
+7
+00:00:35,000 --> 00:00:41,600
+Iker Muniain (Spain) - Athletic Bilbao
+Appearances: 560 | Goals: 76 | Assists: 70
+
+8
+00:00:41,600 --> 00:00:48,200
+Félix Marcaida (Spain) - Athletic Bilbao
+Appearances: 180 | Goals: 77 | Assists: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Victorio Unamuno (Spain) - Athletic Bilbao
+Appearances: 106 | Goals: 84
+
+10
+00:00:54,800 --> 00:01:01,400
+Raúl García (Spain) - Athletic Bilbao
+Appearances: 363 | Goals: 84 | Assists: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Cuco Ziganda (Spain) - Athletic Bilbao
+Appearances: 276 | Goals: 84 | Assists: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Venancio (Spain) - Athletic Bilbao
+Appearances: 206 | Goals: 89 | Assists: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Ruiz (Spain) - Athletic Bilbao
+Appearances: 238 | Goals: 93
+
+14
+00:01:21,200 --> 00:01:27,800
+Manu Sarabia (Spain) - Athletic Bilbao
+Appearances: 327 | Goals: 94 | Assists: 11
+
+15
+00:01:27,800 --> 00:01:34,400
+Joseba Etxeberria (Spain) - Athletic Bilbao
+Appearances: 503 | Goals: 95 | Assists: 57
+
+16
+00:01:34,400 --> 00:01:41,000
+José Iraragorri (Spain) - Athletic Bilbao
+Appearances: 160 | Goals: 99
+
+17
+00:01:41,000 --> 00:01:47,600
+Fidel Uriarte (Spain) - Athletic Bilbao
+Appearances: 339 | Goals: 101
+
+18
+00:01:47,600 --> 00:01:54,200
+Iñaki Williams (Ghana) - Athletic Bilbao
+Appearances: 462 | Goals: 110 | Assists: 63
+
+19
+00:01:54,200 --> 00:02:00,800
+Julen Guerrero (Spain) - Athletic Bilbao
+Appearances: 413 | Goals: 110 | Assists: 8
+
+20
+00:02:00,800 --> 00:02:07,400
+Rafael Iriondo (Spain) - Athletic Bilbao
+Appearances: 322 | Goals: 111 | Assists: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Fernando Llorente (Spain) - Athletic Bilbao
+Appearances: 333 | Goals: 116 | Assists: 37
+
+22
+00:02:14,000 --> 00:02:20,600
+Bata (Spain) - Athletic Bilbao
+Appearances: 133 | Goals: 117
+
+23
+00:02:20,600 --> 00:02:27,200
+Ismael Urzaiz (Spain) - Athletic Bilbao
+Appearances: 407 | Goals: 122 | Assists: 37
+
+24
+00:02:27,200 --> 00:02:33,800
+Guillermo Gorostiza (Spain) - Athletic Bilbao
+Appearances: 162 | Goals: 124
+
+25
+00:02:33,800 --> 00:02:40,400
+José Artetxe (Spain) - Athletic Bilbao
+Appearances: 325 | Goals: 131 | Assists: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Piru Gaínza (Spain) - Athletic Bilbao
+Appearances: 485 | Goals: 150 | Assists: 17
+
+27
+00:02:47,000 --> 00:02:53,600
+Eneko Arieta (Spain) - Athletic Bilbao
+Appearances: 280 | Goals: 152 | Assists: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+José Panizo (Spain) - Athletic Bilbao
+Appearances: 404 | Goals: 172 | Assists: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Aritz Aduriz (Spain) - Athletic Bilbao
+Appearances: 406 | Goals: 172 | Assists: 50
+
+30
+00:03:06,800 --> 00:03:13,400
+Dani (Spain) - Athletic Bilbao
+Appearances: 359 | Goals: 174 | Assists: 12
+
+31
+00:03:13,400 --> 00:03:20,000
+Telmo Zarra (Spain) - Athletic Bilbao
+Appearances: 351 | Goals: 335 | Assists: 4
+

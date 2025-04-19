@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Barcelona Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Ángel Arocha (Spain) - FC Barcelona
+Partidas: 92 | Gols: 81
+
+3
+00:00:08,600 --> 00:00:15,200
+Sándor Kocsis (Hungary) - FC Barcelona
+Partidas: 126 | Gols: 82 | Assistências: 7
+
+4
+00:00:15,200 --> 00:00:21,800
+Xavi (Spain) - FC Barcelona
+Partidas: 767 | Gols: 85 | Assistências: 184
+
+5
+00:00:21,800 --> 00:00:28,400
+Julio Salinas (Spain) - FC Barcelona
+Partidas: 215 | Gols: 85 | Assistências: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Josep Samitier (Spain) - FC Barcelona
+Partidas: 103 | Gols: 86
+
+7
+00:00:35,000 --> 00:00:41,600
+Ronald Koeman (Netherlands) - FC Barcelona
+Partidas: 264 | Gols: 88 | Assistências: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Bernd Schuster (Germany) - FC Barcelona
+Partidas: 241 | Gols: 89 | Assistências: 10
+
+9
+00:00:48,200 --> 00:00:54,800
+Justo Tejada (Spain) - FC Barcelona
+Partidas: 194 | Gols: 92 | Assistências: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+José Mari Bakero (Spain) - FC Barcelona
+Partidas: 347 | Gols: 94 | Assistências: 13
+
+11
+00:01:01,400 --> 00:01:08,000
+Ronaldinho (Brazil) - FC Barcelona
+Partidas: 207 | Gols: 94 | Assistências: 69
+
+12
+00:01:08,000 --> 00:01:14,600
+Robert Lewandowski (Poland) - FC Barcelona
+Partidas: 138 | Gols: 97 | Assistências: 20
+
+13
+00:01:14,600 --> 00:01:21,200
+Pedro (Spain) - FC Barcelona
+Partidas: 321 | Gols: 99 | Assistências: 61
+
+14
+00:01:21,200 --> 00:01:27,800
+Juan Manuel Asensi (Spain) - FC Barcelona
+Partidas: 396 | Gols: 101 | Assistências: 9
+
+15
+00:01:27,800 --> 00:01:34,400
+Neymar (Brazil) - FC Barcelona
+Partidas: 186 | Gols: 105 | Assistências: 76
+
+16
+00:01:34,400 --> 00:01:41,000
+Evaristo de Macedo (Brazil) - FC Barcelona
+Partidas: 151 | Gols: 105 | Assistências: 8
+
+17
+00:01:41,000 --> 00:01:47,600
+Eulogio Martínez (Spain) - FC Barcelona
+Partidas: 162 | Gols: 105 | Assistências: 11
+
+18
+00:01:47,600 --> 00:01:54,200
+José Zaldúa (Spain) - FC Barcelona
+Partidas: 215 | Gols: 106
+
+19
+00:01:54,200 --> 00:02:00,800
+Luis Enrique (Spain) - FC Barcelona
+Partidas: 300 | Gols: 108 | Assistências: 40
+
+20
+00:02:00,800 --> 00:02:07,400
+Estanislao Basora (Spain) - FC Barcelona
+Partidas: 296 | Gols: 110 | Assistências: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Hristo Stoichkov (Bulgaria) - FC Barcelona
+Partidas: 255 | Gols: 117 | Assistências: 29
+
+22
+00:02:14,000 --> 00:02:20,600
+Josep Escolà (Spain) - FC Barcelona
+Partidas: 191 | Gols: 120
+
+23
+00:02:20,600 --> 00:02:27,200
+Patrick Kluivert (Netherlands) - FC Barcelona
+Partidas: 257 | Gols: 122 | Assistências: 60
+
+24
+00:02:27,200 --> 00:02:33,800
+Carles Rexach (Spain) - FC Barcelona
+Partidas: 449 | Gols: 122 | Assistências: 22
+
+25
+00:02:33,800 --> 00:02:40,400
+Mariano Martín (Spain) - FC Barcelona
+Partidas: 144 | Gols: 129
+
+26
+00:02:40,400 --> 00:02:47,000
+Rivaldo (Brazil) - FC Barcelona
+Partidas: 235 | Gols: 130 | Assistências: 46
+
+27
+00:02:47,000 --> 00:02:53,600
+Samuel Eto'o (Cameroon) - FC Barcelona
+Partidas: 199 | Gols: 130 | Assistências: 34
+
+28
+00:02:53,600 --> 00:03:00,200
+László Kubala (Hungary) - FC Barcelona
+Partidas: 254 | Gols: 193 | Assistências: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Luis Suárez (Uruguay) - FC Barcelona
+Partidas: 283 | Gols: 195 | Assistências: 113
+
+30
+00:03:06,800 --> 00:03:13,400
+César Rodríguez (Spain) - FC Barcelona
+Partidas: 344 | Gols: 226 | Assistências: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Lionel Messi (Argentina) - FC Barcelona
+Partidas: 778 | Gols: 672 | Assistências: 303
+

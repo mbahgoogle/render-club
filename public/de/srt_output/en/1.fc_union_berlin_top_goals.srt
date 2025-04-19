@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+1.FC Union Berlin All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+André Sirocks (Germany) - 1.FC Union Berlin
+Appearances: 122 | Goals: 21
+
+3
+00:00:08,600 --> 00:00:15,200
+Steffen Baumgart (Germany) - 1.FC Union Berlin
+Appearances: 68 | Goals: 22 | Assists: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Ralf Sträßer (Germany) - 1.FC Union Berlin
+Appearances: 51 | Goals: 22
+
+5
+00:00:21,800 --> 00:00:28,400
+Sheraldo Becker (Suriname) - 1.FC Union Berlin
+Appearances: 140 | Goals: 24 | Assists: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Horst Schiller (Germany) - 1.FC Union Berlin
+Appearances: 100 | Goals: 24
+
+7
+00:00:35,000 --> 00:00:41,600
+Sreto Ristic (Serbia) - 1.FC Union Berlin
+Appearances: 93 | Goals: 24 | Assists: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Taiwo Awoniyi (Nigeria) - 1.FC Union Berlin
+Appearances: 65 | Goals: 25 | Assists: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Simon Terodde (Germany) - 1.FC Union Berlin
+Appearances: 93 | Goals: 25 | Assists: 13
+
+10
+00:00:54,800 --> 00:01:01,400
+Horst Assmy (Germany) - 1.FC Union Berlin
+Appearances: 33 | Goals: 25
+
+11
+00:01:01,400 --> 00:01:08,000
+Sebastian Andersson (Sweden) - 1.FC Union Berlin
+Appearances: 74 | Goals: 26 | Assists: 10
+
+12
+00:01:08,000 --> 00:01:14,600
+Harun Isa (Albania) - 1.FC Union Berlin
+Appearances: 74 | Goals: 26 | Assists: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Jens Henschel (Germany) - 1.FC Union Berlin
+Appearances: 75 | Goals: 27
+
+14
+00:01:21,200 --> 00:01:27,800
+Jens Härtel (Germany) - 1.FC Union Berlin
+Appearances: 165 | Goals: 27
+
+15
+00:01:27,800 --> 00:01:34,400
+Thoralf Bennert (Germany) - 1.FC Union Berlin
+Appearances: 117 | Goals: 28
+
+16
+00:01:34,400 --> 00:01:41,000
+Rene Adamczewski (Germany) - 1.FC Union Berlin
+Appearances: 116 | Goals: 29
+
+17
+00:01:41,000 --> 00:01:47,600
+Steven Skrzybski (Germany) - 1.FC Union Berlin
+Appearances: 143 | Goals: 30 | Assists: 18
+
+18
+00:01:47,600 --> 00:01:54,200
+Thorsten Boer (Germany) - 1.FC Union Berlin
+Appearances: 106 | Goals: 32
+
+19
+00:01:54,200 --> 00:02:00,800
+Olaf Seier (Germany) - 1.FC Union Berlin
+Appearances: 173 | Goals: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Damir Kreilach (Croatia) - 1.FC Union Berlin
+Appearances: 157 | Goals: 33 | Assists: 18
+
+21
+00:02:07,400 --> 00:02:14,000
+Matthias Zimmerling (Germany) - 1.FC Union Berlin
+Appearances: 92 | Goals: 37
+
+22
+00:02:14,000 --> 00:02:20,600
+Steffen Menze (Germany) - 1.FC Union Berlin
+Appearances: 163 | Goals: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Günther Wirth (Germany) - 1.FC Union Berlin
+Appearances: 84 | Goals: 42
+
+24
+00:02:27,200 --> 00:02:33,800
+Goran Markov (North Macedonia) - 1.FC Union Berlin
+Appearances: 70 | Goals: 44
+
+25
+00:02:33,800 --> 00:02:40,400
+Nico Patschinski (Germany) - 1.FC Union Berlin
+Appearances: 140 | Goals: 44 | Assists: 5
+
+26
+00:02:40,400 --> 00:02:47,000
+Sebastian Polter (Germany) - 1.FC Union Berlin
+Appearances: 104 | Goals: 46 | Assists: 16
+
+27
+00:02:47,000 --> 00:02:53,600
+Daniel Teixeira (Brazil) - 1.FC Union Berlin
+Appearances: 68 | Goals: 47 | Assists: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Sergej Barbarez (Bosnia-Herzegovina) - 1.FC Union Berlin
+Appearances: 92 | Goals: 48
+
+29
+00:03:00,200 --> 00:03:06,800
+Torsten Mattuschka (Germany) - 1.FC Union Berlin
+Appearances: 281 | Goals: 61 | Assists: 64
+
+30
+00:03:06,800 --> 00:03:13,400
+Karim Benyamina (Algeria) - 1.FC Union Berlin
+Appearances: 192 | Goals: 62 | Assists: 15
+
+31
+00:03:13,400 --> 00:03:20,000
+Jacek Mencel (Poland) - 1.FC Union Berlin
+Appearances: 118 | Goals: 66
+

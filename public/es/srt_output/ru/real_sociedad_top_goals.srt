@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Real Sociedad Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+José María Araquistain (Spain) - Real Sociedad
+Матчи: 136 | Голы: 37
+
+3
+00:00:08,600 --> 00:00:15,200
+Valeriy Karpin (Russia) - Real Sociedad
+Матчи: 194 | Голы: 37 | Голевые передачи: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Sarasqueta (Spain) - Real Sociedad
+Матчи: 128 | Голы: 38 | Голевые передачи: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Loren Juarros (Spain) - Real Sociedad
+Матчи: 399 | Голы: 39 | Голевые передачи: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Santi Idígoras (Spain) - Real Sociedad
+Матчи: 229 | Голы: 40
+
+7
+00:00:35,000 --> 00:00:41,600
+John Aldridge (Ireland) - Real Sociedad
+Матчи: 75 | Голы: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+José María Pérez (Spain) - Real Sociedad
+Матчи: 211 | Голы: 42 | Голевые передачи: 3
+
+9
+00:00:48,200 --> 00:00:54,800
+Alexander Isak (Sweden) - Real Sociedad
+Матчи: 132 | Голы: 44 | Голевые передачи: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Paco Bienzobas (Spain) - Real Sociedad
+Матчи: 86 | Голы: 45
+
+11
+00:01:01,400 --> 00:01:08,000
+Sebastián Ontoria (Spain) - Real Sociedad
+Матчи: 223 | Голы: 45
+
+12
+00:01:08,000 --> 00:01:14,600
+Epi (Spain) - Real Sociedad
+Матчи: 143 | Голы: 48
+
+13
+00:01:14,600 --> 00:01:21,200
+Javi de Pedro (Spain) - Real Sociedad
+Матчи: 323 | Голы: 52 | Голевые передачи: 35
+
+14
+00:01:21,200 --> 00:01:27,800
+Antoine Griezmann (France) - Real Sociedad
+Матчи: 202 | Голы: 52 | Голевые передачи: 18
+
+15
+00:01:27,800 --> 00:01:34,400
+Cholín (Spain) - Real Sociedad
+Матчи: 104 | Голы: 54
+
+16
+00:01:34,400 --> 00:01:41,000
+Nihat Kahveci (Türkiye) - Real Sociedad
+Матчи: 142 | Голы: 58 | Голевые передачи: 12
+
+17
+00:01:41,000 --> 00:01:47,600
+Óscar de Paula (Spain) - Real Sociedad
+Матчи: 298 | Голы: 60 | Голевые передачи: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Paz (Spain) - Real Sociedad
+Матчи: 243 | Голы: 60 | Голевые передачи: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Willian José (Brazil) - Real Sociedad
+Матчи: 170 | Голы: 62 | Голевые передачи: 15
+
+20
+00:02:00,800 --> 00:02:07,400
+Silvestre Igoa (Spain) - Real Sociedad
+Матчи: 128 | Голы: 68
+
+21
+00:02:07,400 --> 00:02:14,000
+Jesús Mari Zamora (Spain) - Real Sociedad
+Матчи: 529 | Голы: 69
+
+22
+00:02:14,000 --> 00:02:20,600
+Carlos Vela (Mexico) - Real Sociedad
+Матчи: 250 | Голы: 73 | Голевые передачи: 43
+
+23
+00:02:20,600 --> 00:02:27,200
+Imanol Agirretxe (Spain) - Real Sociedad
+Матчи: 271 | Голы: 74 | Голевые передачи: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Xabi Prieto (Spain) - Real Sociedad
+Матчи: 531 | Голы: 74 | Голевые передачи: 52
+
+25
+00:02:33,800 --> 00:02:40,400
+José Mari Bakero (Spain) - Real Sociedad
+Матчи: 260 | Голы: 76
+
+26
+00:02:40,400 --> 00:02:47,000
+Pello Uralde (Spain) - Real Sociedad
+Матчи: 221 | Голы: 80 | Голевые передачи: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Meho Kodro (Bosnia-Herzegovina) - Real Sociedad
+Матчи: 146 | Голы: 81
+
+28
+00:02:53,600 --> 00:03:00,200
+Darko Kovačević (Serbia) - Real Sociedad
+Матчи: 283 | Голы: 107 | Голевые передачи: 22
+
+29
+00:03:00,200 --> 00:03:06,800
+Mikel Oyarzabal (Spain) - Real Sociedad
+Матчи: 388 | Голы: 111 | Голевые передачи: 60
+
+30
+00:03:06,800 --> 00:03:13,400
+Roberto López Ufarte (Spain) - Real Sociedad
+Матчи: 423 | Голы: 111 | Голевые передачи: 5
+
+31
+00:03:13,400 --> 00:03:20,000
+Jesús Satrustegui (Spain) - Real Sociedad
+Матчи: 340 | Голы: 152 | Голевые передачи: 1
+

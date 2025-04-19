@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Liverpool FC Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Ian Callaghan (England) - Liverpool FC
+Einsätze: 846 | Tore: 67 | Vorlagen: 87
+
+3
+00:00:08,600 --> 00:00:15,200
+Daniel Sturridge (England) - Liverpool FC
+Einsätze: 160 | Tore: 68 | Vorlagen: 20
+
+4
+00:00:15,200 --> 00:00:21,800
+Dick Forshaw (England) - Liverpool FC
+Einsätze: 136 | Tore: 69 | Vorlagen: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Harry Chambers (England) - Liverpool FC
+Einsätze: 171 | Tore: 69
+
+6
+00:00:28,400 --> 00:00:35,000
+Ray Kennedy (England) - Liverpool FC
+Einsätze: 390 | Tore: 71 | Vorlagen: 58
+
+7
+00:00:35,000 --> 00:00:41,600
+Dirk Kuyt (Netherlands) - Liverpool FC
+Einsätze: 285 | Tore: 71 | Vorlagen: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+Jimmy Melia (England) - Liverpool FC
+Einsätze: 260 | Tore: 73 | Vorlagen: 28
+
+9
+00:00:48,200 --> 00:00:54,800
+Ronnie Whelan (Ireland) - Liverpool FC
+Einsätze: 484 | Tore: 73 | Vorlagen: 50
+
+10
+00:00:54,800 --> 00:01:01,400
+Steve Heighway (Ireland) - Liverpool FC
+Einsätze: 471 | Tore: 76 | Vorlagen: 67
+
+11
+00:01:01,400 --> 00:01:08,000
+Albert Stubbins (England) - Liverpool FC
+Einsätze: 169 | Tore: 76 | Vorlagen: 13
+
+12
+00:01:08,000 --> 00:01:14,600
+David Johnson (England) - Liverpool FC
+Einsätze: 213 | Tore: 78 | Vorlagen: 31
+
+13
+00:01:14,600 --> 00:01:21,200
+Fernando Torres (Spain) - Liverpool FC
+Einsätze: 142 | Tore: 81 | Vorlagen: 19
+
+14
+00:01:21,200 --> 00:01:27,800
+Terry McDermott (England) - Liverpool FC
+Einsätze: 329 | Tore: 81 | Vorlagen: 59
+
+15
+00:01:27,800 --> 00:01:34,400
+Luis Suárez (Uruguay) - Liverpool FC
+Einsätze: 133 | Tore: 82 | Vorlagen: 31
+
+16
+00:01:34,400 --> 00:01:41,000
+Jack Balmer (England) - Liverpool FC
+Einsätze: 268 | Tore: 94 | Vorlagen: 12
+
+17
+00:01:41,000 --> 00:01:47,600
+John Toshack (Wales) - Liverpool FC
+Einsätze: 247 | Tore: 96 | Vorlagen: 54
+
+18
+00:01:47,600 --> 00:01:54,200
+Kevin Keegan (England) - Liverpool FC
+Einsätze: 321 | Tore: 100 | Vorlagen: 88
+
+19
+00:01:54,200 --> 00:02:00,800
+John Barnes (England) - Liverpool FC
+Einsätze: 406 | Tore: 107 | Vorlagen: 91
+
+20
+00:02:00,800 --> 00:02:07,400
+Roberto Firmino (Brazil) - Liverpool FC
+Einsätze: 362 | Tore: 111 | Vorlagen: 75
+
+21
+00:02:07,400 --> 00:02:14,000
+Ian St. John (Scotland) - Liverpool FC
+Einsätze: 421 | Tore: 117 | Vorlagen: 73
+
+22
+00:02:14,000 --> 00:02:20,600
+Sadio Mané (Senegal) - Liverpool FC
+Einsätze: 269 | Tore: 120 | Vorlagen: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Michael Owen (England) - Liverpool FC
+Einsätze: 297 | Tore: 158 | Vorlagen: 51
+
+24
+00:02:27,200 --> 00:02:33,800
+Kenny Dalglish (Scotland) - Liverpool FC
+Einsätze: 511 | Tore: 170 | Vorlagen: 186
+
+25
+00:02:33,800 --> 00:02:40,400
+Gordon Hodgson (England) - Liverpool FC
+Einsätze: 266 | Tore: 174 | Vorlagen: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Robbie Fowler (England) - Liverpool FC
+Einsätze: 369 | Tore: 183 | Vorlagen: 50
+
+27
+00:02:47,000 --> 00:02:53,600
+Steven Gerrard (England) - Liverpool FC
+Einsätze: 710 | Tore: 186 | Vorlagen: 155
+
+28
+00:02:53,600 --> 00:03:00,200
+Billy Liddell (Scotland) - Liverpool FC
+Einsätze: 492 | Tore: 203 | Vorlagen: 76
+
+29
+00:03:00,200 --> 00:03:06,800
+Mohamed Salah (Egypt) - Liverpool FC
+Einsätze: 393 | Tore: 243 | Vorlagen: 110
+
+30
+00:03:06,800 --> 00:03:13,400
+Roger Hunt (England) - Liverpool FC
+Einsätze: 466 | Tore: 274 | Vorlagen: 41
+
+31
+00:03:13,400 --> 00:03:20,000
+Ian Rush (Wales) - Liverpool FC
+Einsätze: 653 | Tore: 339 | Vorlagen: 110
+

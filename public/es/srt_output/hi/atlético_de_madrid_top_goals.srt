@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Atlético de Madrid सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+José Luis Caminero (Spain) - Atlético de Madrid
+प्रदर्शन: 185 | गोल: 48 | असिस्ट: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Negro Cabrera (Argentina) - Atlético de Madrid
+प्रदर्शन: 151 | गोल: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Futre (Portugal) - Atlético de Madrid
+प्रदर्शन: 209 | गोल: 51 | असिस्ट: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Rubén Ayala (Argentina) - Atlético de Madrid
+प्रदर्शन: 203 | गोल: 57
+
+6
+00:00:28,400 --> 00:00:35,000
+Larbi Ben Barek (Morocco) - Atlético de Madrid
+प्रदर्शन: 117 | गोल: 58 | असिस्ट: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Álvaro Morata (Spain) - Atlético de Madrid
+प्रदर्शन: 154 | गोल: 58 | असिस्ट: 14
+
+8
+00:00:41,600 --> 00:00:48,200
+Roberto Marina (Spain) - Atlético de Madrid
+प्रदर्शन: 295 | गोल: 58 | असिस्ट: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Baltazar (Brazil) - Atlético de Madrid
+प्रदर्शन: 90 | गोल: 60
+
+10
+00:00:54,800 --> 00:01:01,400
+Javier Irureta (Spain) - Atlético de Madrid
+प्रदर्शन: 257 | गोल: 60
+
+11
+00:01:01,400 --> 00:01:08,000
+Kiko Narváez (Spain) - Atlético de Madrid
+प्रदर्शन: 277 | गोल: 64 | असिस्ट: 13
+
+12
+00:01:08,000 --> 00:01:14,600
+Miguel González (Spain) - Atlético de Madrid
+प्रदर्शन: 233 | गोल: 68 | असिस्ट: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Radamel Falcao (Colombia) - Atlético de Madrid
+प्रदर्शन: 91 | गोल: 70 | असिस्ट: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Hugo Sánchez (Mexico) - Atlético de Madrid
+प्रदर्शन: 150 | गोल: 75
+
+15
+00:01:27,800 --> 00:01:34,400
+José Juncosa (Spain) - Atlético de Madrid
+प्रदर्शन: 194 | गोल: 82 | असिस्ट: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Diego Costa (Spain) - Atlético de Madrid
+प्रदर्शन: 216 | गोल: 83 | असिस्ट: 36
+
+17
+00:01:41,000 --> 00:01:47,600
+Jorge Mendonça (Portugal) - Atlético de Madrid
+प्रदर्शन: 217 | गोल: 83
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Correa (Argentina) - Atlético de Madrid
+प्रदर्शन: 460 | गोल: 87 | असिस्ट: 65
+
+19
+00:01:54,200 --> 00:02:00,800
+Enrique Collar (Spain) - Atlético de Madrid
+प्रदर्शन: 415 | गोल: 89 | असिस्ट: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Rubén Cano (Spain) - Atlético de Madrid
+प्रदर्शन: 190 | गोल: 90
+
+21
+00:02:07,400 --> 00:02:14,000
+Manolo (Spain) - Atlético de Madrid
+प्रदर्शन: 267 | गोल: 92 | असिस्ट: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Diego Forlán (Uruguay) - Atlético de Madrid
+प्रदर्शन: 198 | गोल: 96 | असिस्ट: 31
+
+23
+00:02:20,600 --> 00:02:27,200
+Adelardo (Spain) - Atlético de Madrid
+प्रदर्शन: 500 | गोल: 98
+
+24
+00:02:27,200 --> 00:02:33,800
+Sergio Agüero (Argentina) - Atlético de Madrid
+प्रदर्शन: 234 | गोल: 101 | असिस्ट: 47
+
+25
+00:02:33,800 --> 00:02:40,400
+Joaquín Peiró (Spain) - Atlético de Madrid
+प्रदर्शन: 193 | गोल: 113
+
+26
+00:02:40,400 --> 00:02:47,000
+Paco Campos (Spain) - Atlético de Madrid
+प्रदर्शन: 206 | गोल: 123
+
+27
+00:02:47,000 --> 00:02:53,600
+José Eulogio Gárate (Spain) - Atlético de Madrid
+प्रदर्शन: 299 | गोल: 125 | असिस्ट: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Fernando Torres (Spain) - Atlético de Madrid
+प्रदर्शन: 403 | गोल: 129 | असिस्ट: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Adrián Escudero (Spain) - Atlético de Madrid
+प्रदर्शन: 293 | गोल: 153 | असिस्ट: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Luis Aragonés (Spain) - Atlético de Madrid
+प्रदर्शन: 332 | गोल: 158
+
+31
+00:03:13,400 --> 00:03:20,000
+Antoine Griezmann (France) - Atlético de Madrid
+प्रदर्शन: 433 | गोल: 197 | असिस्ट: 91
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Liverpool FC Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Ian Callaghan (England) - Liverpool FC
+Penampilan: 846 | Gol: 67 | Asis: 87
+
+3
+00:00:08,600 --> 00:00:15,200
+Daniel Sturridge (England) - Liverpool FC
+Penampilan: 160 | Gol: 68 | Asis: 20
+
+4
+00:00:15,200 --> 00:00:21,800
+Dick Forshaw (England) - Liverpool FC
+Penampilan: 136 | Gol: 69 | Asis: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Harry Chambers (England) - Liverpool FC
+Penampilan: 171 | Gol: 69
+
+6
+00:00:28,400 --> 00:00:35,000
+Ray Kennedy (England) - Liverpool FC
+Penampilan: 390 | Gol: 71 | Asis: 58
+
+7
+00:00:35,000 --> 00:00:41,600
+Dirk Kuyt (Netherlands) - Liverpool FC
+Penampilan: 285 | Gol: 71 | Asis: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+Jimmy Melia (England) - Liverpool FC
+Penampilan: 260 | Gol: 73 | Asis: 28
+
+9
+00:00:48,200 --> 00:00:54,800
+Ronnie Whelan (Ireland) - Liverpool FC
+Penampilan: 484 | Gol: 73 | Asis: 50
+
+10
+00:00:54,800 --> 00:01:01,400
+Steve Heighway (Ireland) - Liverpool FC
+Penampilan: 471 | Gol: 76 | Asis: 67
+
+11
+00:01:01,400 --> 00:01:08,000
+Albert Stubbins (England) - Liverpool FC
+Penampilan: 169 | Gol: 76 | Asis: 13
+
+12
+00:01:08,000 --> 00:01:14,600
+David Johnson (England) - Liverpool FC
+Penampilan: 213 | Gol: 78 | Asis: 31
+
+13
+00:01:14,600 --> 00:01:21,200
+Fernando Torres (Spain) - Liverpool FC
+Penampilan: 142 | Gol: 81 | Asis: 19
+
+14
+00:01:21,200 --> 00:01:27,800
+Terry McDermott (England) - Liverpool FC
+Penampilan: 329 | Gol: 81 | Asis: 59
+
+15
+00:01:27,800 --> 00:01:34,400
+Luis Suárez (Uruguay) - Liverpool FC
+Penampilan: 133 | Gol: 82 | Asis: 31
+
+16
+00:01:34,400 --> 00:01:41,000
+Jack Balmer (England) - Liverpool FC
+Penampilan: 268 | Gol: 94 | Asis: 12
+
+17
+00:01:41,000 --> 00:01:47,600
+John Toshack (Wales) - Liverpool FC
+Penampilan: 247 | Gol: 96 | Asis: 54
+
+18
+00:01:47,600 --> 00:01:54,200
+Kevin Keegan (England) - Liverpool FC
+Penampilan: 321 | Gol: 100 | Asis: 88
+
+19
+00:01:54,200 --> 00:02:00,800
+John Barnes (England) - Liverpool FC
+Penampilan: 406 | Gol: 107 | Asis: 91
+
+20
+00:02:00,800 --> 00:02:07,400
+Roberto Firmino (Brazil) - Liverpool FC
+Penampilan: 362 | Gol: 111 | Asis: 75
+
+21
+00:02:07,400 --> 00:02:14,000
+Ian St. John (Scotland) - Liverpool FC
+Penampilan: 421 | Gol: 117 | Asis: 73
+
+22
+00:02:14,000 --> 00:02:20,600
+Sadio Mané (Senegal) - Liverpool FC
+Penampilan: 269 | Gol: 120 | Asis: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Michael Owen (England) - Liverpool FC
+Penampilan: 297 | Gol: 158 | Asis: 51
+
+24
+00:02:27,200 --> 00:02:33,800
+Kenny Dalglish (Scotland) - Liverpool FC
+Penampilan: 511 | Gol: 170 | Asis: 186
+
+25
+00:02:33,800 --> 00:02:40,400
+Gordon Hodgson (England) - Liverpool FC
+Penampilan: 266 | Gol: 174 | Asis: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Robbie Fowler (England) - Liverpool FC
+Penampilan: 369 | Gol: 183 | Asis: 50
+
+27
+00:02:47,000 --> 00:02:53,600
+Steven Gerrard (England) - Liverpool FC
+Penampilan: 710 | Gol: 186 | Asis: 155
+
+28
+00:02:53,600 --> 00:03:00,200
+Billy Liddell (Scotland) - Liverpool FC
+Penampilan: 492 | Gol: 203 | Asis: 76
+
+29
+00:03:00,200 --> 00:03:06,800
+Mohamed Salah (Egypt) - Liverpool FC
+Penampilan: 393 | Gol: 243 | Asis: 110
+
+30
+00:03:06,800 --> 00:03:13,400
+Roger Hunt (England) - Liverpool FC
+Penampilan: 466 | Gol: 274 | Asis: 41
+
+31
+00:03:13,400 --> 00:03:20,000
+Ian Rush (Wales) - Liverpool FC
+Penampilan: 653 | Gol: 339 | Asis: 110
+

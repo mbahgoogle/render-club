@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Villarreal CF 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Marco Ruben (Argentina) - Villarreal CF
+出场数: 89 | 进球: 21 | 助攻: 12
+
+3
+00:00:08,600 --> 00:00:15,200
+Jérémy Perbet (France) - Villarreal CF
+出场数: 48 | 进球: 22 | 助攻: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Moisés García (Spain) - Villarreal CF
+出场数: 74 | 进球: 22 | 助攻: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Sonny Anderson (Brazil) - Villarreal CF
+出场数: 64 | 进球: 24 | 助攻: 5
+
+6
+00:00:28,400 --> 00:00:35,000
+Karl Toko Ekambi (Cameroon) - Villarreal CF
+出场数: 62 | 进球: 24 | 助攻: 9
+
+7
+00:00:35,000 --> 00:00:41,600
+Arnaut Danjuma (Netherlands) - Villarreal CF
+出场数: 54 | 进球: 24 | 助攻: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+José Mari (Spain) - Villarreal CF
+出场数: 161 | 进球: 24 | 助攻: 13
+
+9
+00:00:48,200 --> 00:00:54,800
+Antonio Guayre (Spain) - Villarreal CF
+出场数: 176 | 进球: 25 | 助攻: 9
+
+10
+00:00:54,800 --> 00:01:01,400
+Nihat Kahveci (Türkiye) - Villarreal CF
+出场数: 78 | 进球: 25 | 助攻: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Álex Baena (Spain) - Villarreal CF
+出场数: 142 | 进球: 25 | 助攻: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+José Luis Morales (Spain) - Villarreal CF
+出场数: 80 | 进球: 25 | 助攻: 5
+
+13
+00:01:14,600 --> 00:01:21,200
+Alexander Sørloth (Norway) - Villarreal CF
+出场数: 41 | 进球: 26 | 助攻: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Gică Craioveanu (Romania) - Villarreal CF
+出场数: 103 | 进球: 26 | 助攻: 4
+
+15
+00:01:27,800 --> 00:01:34,400
+Jorge López (Spain) - Villarreal CF
+出场数: 131 | 进球: 28 | 助攻: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Joseba Llorente (Spain) - Villarreal CF
+出场数: 80 | 进球: 29 | 助攻: 8
+
+17
+00:01:41,000 --> 00:01:47,600
+Bruno Soriano (Spain) - Villarreal CF
+出场数: 425 | 进球: 32 | 助攻: 25
+
+18
+00:01:47,600 --> 00:01:54,200
+Marcos Senna (Spain) - Villarreal CF
+出场数: 361 | 进球: 33 | 助攻: 19
+
+19
+00:01:54,200 --> 00:02:00,800
+Cani (Spain) - Villarreal CF
+出场数: 327 | 进球: 33 | 助攻: 40
+
+20
+00:02:00,800 --> 00:02:07,400
+Nilmar (Brazil) - Villarreal CF
+出场数: 116 | 进球: 34 | 助攻: 16
+
+21
+00:02:07,400 --> 00:02:14,000
+Ikechukwu Uche (Nigeria) - Villarreal CF
+出场数: 98 | 进球: 36 | 助攻: 5
+
+22
+00:02:14,000 --> 00:02:20,600
+Samuel Chukwueze (Nigeria) - Villarreal CF
+出场数: 207 | 进球: 37 | 助攻: 28
+
+23
+00:02:20,600 --> 00:02:27,200
+Manu Trigueros (Spain) - Villarreal CF
+出场数: 477 | 进球: 38 | 助攻: 39
+
+24
+00:02:27,200 --> 00:02:33,800
+Víctor Fernández (Spain) - Villarreal CF
+出场数: 160 | 进球: 42 | 助攻: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Carlos Bacca (Colombia) - Villarreal CF
+出场数: 144 | 进球: 43 | 助攻: 15
+
+26
+00:02:40,400 --> 00:02:47,000
+Juan Román Riquelme (Argentina) - Villarreal CF
+出场数: 143 | 进球: 45 | 助攻: 28
+
+27
+00:02:47,000 --> 00:02:53,600
+Cédric Bakambu (DR Congo) - Villarreal CF
+出场数: 105 | 进球: 47 | 助攻: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Santi Cazorla (Spain) - Villarreal CF
+出场数: 330 | 进球: 57 | 助攻: 57
+
+29
+00:03:00,200 --> 00:03:06,800
+Diego Forlán (Uruguay) - Villarreal CF
+出场数: 127 | 进球: 59 | 助攻: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Giuseppe Rossi (Italy) - Villarreal CF
+出场数: 192 | 进球: 82 | 助攻: 25
+
+31
+00:03:13,400 --> 00:03:20,000
+Gerard Moreno (Spain) - Villarreal CF
+出场数: 293 | 进球: 120 | 助攻: 48
+

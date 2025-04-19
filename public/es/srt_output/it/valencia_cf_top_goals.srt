@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Valencia CF Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Vicente (Spain) - Valencia CF
+Presenze: 338 | Gol: 52 | Assist: 56
+
+3
+00:00:08,600 --> 00:00:15,200
+Juan Sánchez (Spain) - Valencia CF
+Presenze: 204 | Gol: 52 | Assist: 18
+
+4
+00:00:15,200 --> 00:00:21,800
+Héctor Núñez (Uruguay) - Valencia CF
+Presenze: 148 | Gol: 55
+
+5
+00:00:21,800 --> 00:00:28,400
+Enrique Saura (Spain) - Valencia CF
+Presenze: 394 | Gol: 56 | Assist: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Rubén Baraja (Spain) - Valencia CF
+Presenze: 361 | Gol: 56 | Assist: 25
+
+7
+00:00:35,000 --> 00:00:41,600
+Óscar Valdez (Spain) - Valencia CF
+Presenze: 197 | Gol: 56 | Assist: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Gaizka Mendieta (Spain) - Valencia CF
+Presenze: 299 | Gol: 57 | Assist: 27
+
+9
+00:00:48,200 --> 00:00:54,800
+Rodrigo (Spain) - Valencia CF
+Presenze: 220 | Gol: 59 | Assist: 41
+
+10
+00:00:54,800 --> 00:01:01,400
+Antonio Fuertes (Spain) - Valencia CF
+Presenze: 196 | Gol: 62 | Assist: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Dani Parejo (Spain) - Valencia CF
+Presenze: 383 | Gol: 63 | Assist: 64
+
+12
+00:01:08,000 --> 00:01:14,600
+José Claramunt (Spain) - Valencia CF
+Presenze: 336 | Gol: 64 | Assist: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Miguel Ángel Angulo (Spain) - Valencia CF
+Presenze: 432 | Gol: 65 | Assist: 45
+
+14
+00:01:21,200 --> 00:01:27,800
+Pasieguito (Spain) - Valencia CF
+Presenze: 259 | Gol: 65 | Assist: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Vicente Guillot (Spain) - Valencia CF
+Presenze: 198 | Gol: 67
+
+16
+00:01:34,400 --> 00:01:41,000
+Predrag Mijatović (Montenegro) - Valencia CF
+Presenze: 128 | Gol: 68 | Assist: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Robert Fernández (Spain) - Valencia CF
+Presenze: 313 | Gol: 69
+
+18
+00:01:47,600 --> 00:01:54,200
+Claudio López (Argentina) - Valencia CF
+Presenze: 175 | Gol: 71 | Assist: 34
+
+19
+00:01:54,200 --> 00:02:00,800
+Amadeo (Spain) - Valencia CF
+Presenze: 237 | Gol: 82 | Assist: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Roberto Soldado (Spain) - Valencia CF
+Presenze: 141 | Gol: 82 | Assist: 15
+
+21
+00:02:07,400 --> 00:02:14,000
+Guillermo Gorostiza (Spain) - Valencia CF
+Presenze: 132 | Gol: 84
+
+22
+00:02:14,000 --> 00:02:20,600
+Lyuboslav Penev (Bulgaria) - Valencia CF
+Presenze: 199 | Gol: 85 | Assist: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Vicente Seguí (Spain) - Valencia CF
+Presenze: 280 | Gol: 85 | Assist: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Epi (Spain) - Valencia CF
+Presenze: 220 | Gol: 86 | Assist: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Silvestre Igoa (Spain) - Valencia CF
+Presenze: 183 | Gol: 86 | Assist: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Manuel Badenes (Spain) - Valencia CF
+Presenze: 107 | Gol: 104
+
+27
+00:02:47,000 --> 00:02:53,600
+Fernando (Spain) - Valencia CF
+Presenze: 487 | Gol: 123 | Assist: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+David Villa (Spain) - Valencia CF
+Presenze: 225 | Gol: 129 | Assist: 29
+
+29
+00:03:00,200 --> 00:03:06,800
+Waldo Machado (Brazil) - Valencia CF
+Presenze: 269 | Gol: 149 | Assist: 1
+
+30
+00:03:06,800 --> 00:03:13,400
+Mario Kempes (Argentina) - Valencia CF
+Presenze: 246 | Gol: 149 | Assist: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Mundo (Spain) - Valencia CF
+Presenze: 232 | Gol: 205
+

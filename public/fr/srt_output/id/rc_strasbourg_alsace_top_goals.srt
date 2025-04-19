@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RC Strasbourg Alsace Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Teddy Bertin (France) - RC Strasbourg Alsace
+Penampilan: 180 | Gol: 29 | Asis: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Antoine Hertrich (France) - RC Strasbourg Alsace
+Penampilan: 109 | Gol: 30
+
+4
+00:00:15,200 --> 00:00:21,800
+Vicky Peretz (Israel) - RC Strasbourg Alsace
+Penampilan: 81 | Gol: 32 | Asis: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Dimitri Liénard (France) - RC Strasbourg Alsace
+Penampilan: 328 | Gol: 33 | Asis: 44
+
+6
+00:00:28,400 --> 00:00:35,000
+Gérald Baticle (France) - RC Strasbourg Alsace
+Penampilan: 137 | Gol: 34 | Asis: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Antoine Groschulski (Poland) - RC Strasbourg Alsace
+Penampilan: 60 | Gol: 34
+
+8
+00:00:41,600 --> 00:00:48,200
+Jérémy Blayac (France) - RC Strasbourg Alsace
+Penampilan: 110 | Gol: 35 | Asis: 8
+
+9
+00:00:48,200 --> 00:00:54,800
+Robert Szczepaniak (France) - RC Strasbourg Alsace
+Penampilan: 156 | Gol: 39
+
+10
+00:00:54,800 --> 00:01:01,400
+Oscar Heisserer (France) - RC Strasbourg Alsace
+Penampilan: 138 | Gol: 40 | Asis: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Habib Diallo (Senegal) - RC Strasbourg Alsace
+Penampilan: 103 | Gol: 41 | Asis: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Roland Wagner (France) - RC Strasbourg Alsace
+Penampilan: 183 | Gol: 43 | Asis: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Kévin Gameiro (France) - RC Strasbourg Alsace
+Penampilan: 170 | Gol: 43 | Asis: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Marc Keller (France) - RC Strasbourg Alsace
+Penampilan: 180 | Gol: 44 | Asis: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Marc Molitor (France) - RC Strasbourg Alsace
+Penampilan: 97 | Gol: 46 | Asis: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Danijel Ljuboja (Serbia) - RC Strasbourg Alsace
+Penampilan: 138 | Gol: 46 | Asis: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+David Zitelli (France) - RC Strasbourg Alsace
+Penampilan: 157 | Gol: 48 | Asis: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Fritz Keller (France) - RC Strasbourg Alsace
+Penampilan: 122 | Gol: 49
+
+19
+00:01:54,200 --> 00:02:00,800
+Peter Reichert (Germany) - RC Strasbourg Alsace
+Penampilan: 112 | Gol: 50 | Asis: 5
+
+20
+00:02:00,800 --> 00:02:07,400
+Ludovic Ajorque (France) - RC Strasbourg Alsace
+Penampilan: 151 | Gol: 51 | Asis: 19
+
+21
+00:02:07,400 --> 00:02:14,000
+Frank Leboeuf (France) - RC Strasbourg Alsace
+Penampilan: 223 | Gol: 55 | Asis: 9
+
+22
+00:02:14,000 --> 00:02:20,600
+Edmond Haan (France) - RC Strasbourg Alsace
+Penampilan: 258 | Gol: 59
+
+23
+00:02:20,600 --> 00:02:27,200
+José Farias (Argentina) - RC Strasbourg Alsace
+Penampilan: 163 | Gol: 61
+
+24
+00:02:27,200 --> 00:02:33,800
+Philippe Piat (France) - RC Strasbourg Alsace
+Penampilan: 161 | Gol: 61
+
+25
+00:02:33,800 --> 00:02:40,400
+Ernst Stojaspal (Austria) - RC Strasbourg Alsace
+Penampilan: 110 | Gol: 64
+
+26
+00:02:40,400 --> 00:02:47,000
+Casimir Koza (France) - RC Strasbourg Alsace
+Penampilan: 136 | Gol: 74
+
+27
+00:02:47,000 --> 00:02:53,600
+Francis Piasecki (France) - RC Strasbourg Alsace
+Penampilan: 339 | Gol: 78 | Asis: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Gérard Hausser (France) - RC Strasbourg Alsace
+Penampilan: 282 | Gol: 79
+
+29
+00:03:00,200 --> 00:03:06,800
+Didier Monczuk (France) - RC Strasbourg Alsace
+Penampilan: 117 | Gol: 85
+
+30
+00:03:06,800 --> 00:03:13,400
+Albert Gemmrich (France) - RC Strasbourg Alsace
+Penampilan: 232 | Gol: 91
+
+31
+00:03:13,400 --> 00:03:20,000
+Oskar Rohr (Germany) - RC Strasbourg Alsace
+Penampilan: 134 | Gol: 120
+

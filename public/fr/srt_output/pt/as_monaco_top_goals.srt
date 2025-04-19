@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AS Monaco Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Aleksandr Golovin (Russia) - AS Monaco
+Partidas: 231 | Gols: 34 | Assistências: 40
+
+3
+00:00:08,600 --> 00:00:15,200
+André Hess (France) - AS Monaco
+Partidas: 133 | Gols: 34
+
+4
+00:00:15,200 --> 00:00:21,800
+Jürgen Klinsmann (Germany) - AS Monaco
+Partidas: 84 | Gols: 35 | Assistências: 11
+
+5
+00:00:21,800 --> 00:00:28,400
+Youssouf Fofana (Cote d'Ivoire) - AS Monaco
+Partidas: 229 | Gols: 35 | Assistências: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Umberto Barberis (Switzerland) - AS Monaco
+Partidas: 121 | Gols: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Kevin Volland (Germany) - AS Monaco
+Partidas: 115 | Gols: 39 | Assistências: 24
+
+8
+00:00:41,600 --> 00:00:48,200
+Manuel Amoros (France) - AS Monaco
+Partidas: 349 | Gols: 42
+
+9
+00:00:48,200 --> 00:00:54,800
+Bart Carlier (Netherlands) - AS Monaco
+Partidas: 197 | Gols: 43
+
+10
+00:00:54,800 --> 00:01:01,400
+Marco Simone (Italy) - AS Monaco
+Partidas: 99 | Gols: 44 | Assistências: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Théodore Szkudlapski (France) - AS Monaco
+Partidas: 250 | Gols: 44
+
+12
+00:01:08,000 --> 00:01:14,600
+Dado Prso (Croatia) - AS Monaco
+Partidas: 146 | Gols: 45 | Assistências: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Jean Petit (France) - AS Monaco
+Partidas: 302 | Gols: 49
+
+14
+00:01:21,200 --> 00:01:27,800
+Valère Germain (France) - AS Monaco
+Partidas: 202 | Gols: 53 | Assistências: 20
+
+15
+00:01:27,800 --> 00:01:34,400
+Karimou Djibrill (Togo) - AS Monaco
+Partidas: 225 | Gols: 55
+
+16
+00:01:34,400 --> 00:01:41,000
+Bruno Bellone (France) - AS Monaco
+Partidas: 230 | Gols: 56
+
+17
+00:01:41,000 --> 00:01:47,600
+Bernard Genghini (France) - AS Monaco
+Partidas: 129 | Gols: 57
+
+18
+00:01:47,600 --> 00:01:54,200
+David Trezeguet (France) - AS Monaco
+Partidas: 125 | Gols: 62 | Assistências: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Serge Roy (France) - AS Monaco
+Partidas: 127 | Gols: 62
+
+20
+00:02:00,800 --> 00:02:07,400
+Christian Dalger (France) - AS Monaco
+Partidas: 263 | Gols: 64 | Assistências: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+George Weah (Liberia) - AS Monaco
+Partidas: 149 | Gols: 66 | Assistências: 13
+
+22
+00:02:14,000 --> 00:02:20,600
+Sonny Anderson (Brazil) - AS Monaco
+Partidas: 117 | Gols: 67 | Assistências: 9
+
+23
+00:02:20,600 --> 00:02:27,200
+Shabani Nonda (DR Congo) - AS Monaco
+Partidas: 145 | Gols: 67 | Assistências: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Ludovic Giuly (France) - AS Monaco
+Partidas: 268 | Gols: 67 | Assistências: 13
+
+25
+00:02:33,800 --> 00:02:40,400
+Youri Djorkaeff (France) - AS Monaco
+Partidas: 197 | Gols: 68 | Assistências: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Yvon Douis (France) - AS Monaco
+Partidas: 197 | Gols: 73
+
+27
+00:02:47,000 --> 00:02:53,600
+Victor Ikpeba (Nigeria) - AS Monaco
+Partidas: 223 | Gols: 77 | Assistências: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Radamel Falcao (Colombia) - AS Monaco
+Partidas: 140 | Gols: 83 | Assistências: 14
+
+29
+00:03:00,200 --> 00:03:06,800
+Lucien Cossou (France) - AS Monaco
+Partidas: 190 | Gols: 114
+
+30
+00:03:06,800 --> 00:03:13,400
+Wissam Ben Yedder (France) - AS Monaco
+Partidas: 201 | Gols: 118 | Assistências: 31
+
+31
+00:03:13,400 --> 00:03:20,000
+Delio Onnis (Argentina) - AS Monaco
+Partidas: 246 | Gols: 193
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AS Saint-Étienne Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Antoine Cuissard (France) - AS Saint-Étienne
+Apparitions: 147 | Buts: 37
+
+3
+00:00:08,600 --> 00:00:15,200
+Alex Dias (Brazil) - AS Saint-Étienne
+Apparitions: 91 | Buts: 37 | Passes décisives: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Jacques Zimako (France) - AS Saint-Étienne
+Apparitions: 152 | Buts: 38 | Passes décisives: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Pascal Feindouno (Guinea) - AS Saint-Étienne
+Apparitions: 150 | Buts: 38 | Passes décisives: 19
+
+6
+00:00:28,400 --> 00:00:35,000
+Philippe Tibeuf (France) - AS Saint-Étienne
+Apparitions: 128 | Buts: 39
+
+7
+00:00:35,000 --> 00:00:41,600
+Pierre-Emerick Aubameyang (Gabon) - AS Saint-Étienne
+Apparitions: 97 | Buts: 41 | Passes décisives: 18
+
+8
+00:00:41,600 --> 00:00:48,200
+René Ferrier (France) - AS Saint-Étienne
+Apparitions: 283 | Buts: 41
+
+9
+00:00:48,200 --> 00:00:54,800
+René Domingo (France) - AS Saint-Étienne
+Apparitions: 493 | Buts: 42
+
+10
+00:00:54,800 --> 00:01:01,400
+Étienne Mendy (France) - AS Saint-Étienne
+Apparitions: 158 | Buts: 42 | Passes décisives: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Bafétimbi Gomis (France) - AS Saint-Étienne
+Apparitions: 165 | Buts: 49 | Passes décisives: 14
+
+12
+00:01:08,000 --> 00:01:14,600
+Jean-François Larios (France) - AS Saint-Étienne
+Apparitions: 216 | Buts: 49 | Passes décisives: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Laurent Roussey (France) - AS Saint-Étienne
+Apparitions: 145 | Buts: 50
+
+14
+00:01:21,200 --> 00:01:27,800
+André Guy (France) - AS Saint-Étienne
+Apparitions: 77 | Buts: 52
+
+15
+00:01:27,800 --> 00:01:34,400
+Jacques Santini (France) - AS Saint-Étienne
+Apparitions: 343 | Buts: 54
+
+16
+00:01:34,400 --> 00:01:41,000
+Kees Rijvers (Netherlands) - AS Saint-Étienne
+Apparitions: 225 | Buts: 55
+
+17
+00:01:41,000 --> 00:01:47,600
+Dominique Rocheteau (France) - AS Saint-Étienne
+Apparitions: 199 | Buts: 56
+
+18
+00:01:47,600 --> 00:01:54,200
+Ginès Liron (France) - AS Saint-Étienne
+Apparitions: 113 | Buts: 58
+
+19
+00:01:54,200 --> 00:02:00,800
+Johnny Rep (Netherlands) - AS Saint-Étienne
+Apparitions: 176 | Buts: 60 | Passes décisives: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Romain Hamouma (France) - AS Saint-Étienne
+Apparitions: 321 | Buts: 62 | Passes décisives: 48
+
+21
+00:02:07,400 --> 00:02:14,000
+René Alpsteg (France) - AS Saint-Étienne
+Apparitions: 209 | Buts: 62
+
+22
+00:02:14,000 --> 00:02:20,600
+Jacques Foix (France) - AS Saint-Étienne
+Apparitions: 149 | Buts: 63
+
+23
+00:02:20,600 --> 00:02:27,200
+Georges Bereta (France) - AS Saint-Étienne
+Apparitions: 358 | Buts: 71
+
+24
+00:02:27,200 --> 00:02:33,800
+Michel Platini (France) - AS Saint-Étienne
+Apparitions: 145 | Buts: 83 | Passes décisives: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Robert Herbin (France) - AS Saint-Étienne
+Apparitions: 464 | Buts: 84
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrick Revelli (France) - AS Saint-Étienne
+Apparitions: 303 | Buts: 87 | Passes décisives: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Eugène Njo-Léa (Cameroon) - AS Saint-Étienne
+Apparitions: 155 | Buts: 91
+
+28
+00:02:53,600 --> 00:03:00,200
+Jean-Michel Larqué (France) - AS Saint-Étienne
+Apparitions: 416 | Buts: 105
+
+29
+00:03:00,200 --> 00:03:06,800
+Rachid Mekhloufi (Algeria) - AS Saint-Étienne
+Apparitions: 314 | Buts: 137
+
+30
+00:03:06,800 --> 00:03:13,400
+Salif Keita (Mali) - AS Saint-Étienne
+Apparitions: 189 | Buts: 142
+
+31
+00:03:13,400 --> 00:03:20,000
+Hervé Revelli (France) - AS Saint-Étienne
+Apparitions: 414 | Buts: 220
+

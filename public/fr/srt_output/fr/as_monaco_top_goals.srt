@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AS Monaco Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Aleksandr Golovin (Russia) - AS Monaco
+Apparitions: 231 | Buts: 34 | Passes décisives: 40
+
+3
+00:00:08,600 --> 00:00:15,200
+André Hess (France) - AS Monaco
+Apparitions: 133 | Buts: 34
+
+4
+00:00:15,200 --> 00:00:21,800
+Jürgen Klinsmann (Germany) - AS Monaco
+Apparitions: 84 | Buts: 35 | Passes décisives: 11
+
+5
+00:00:21,800 --> 00:00:28,400
+Youssouf Fofana (Cote d'Ivoire) - AS Monaco
+Apparitions: 229 | Buts: 35 | Passes décisives: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Umberto Barberis (Switzerland) - AS Monaco
+Apparitions: 121 | Buts: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Kevin Volland (Germany) - AS Monaco
+Apparitions: 115 | Buts: 39 | Passes décisives: 24
+
+8
+00:00:41,600 --> 00:00:48,200
+Manuel Amoros (France) - AS Monaco
+Apparitions: 349 | Buts: 42
+
+9
+00:00:48,200 --> 00:00:54,800
+Bart Carlier (Netherlands) - AS Monaco
+Apparitions: 197 | Buts: 43
+
+10
+00:00:54,800 --> 00:01:01,400
+Marco Simone (Italy) - AS Monaco
+Apparitions: 99 | Buts: 44 | Passes décisives: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Théodore Szkudlapski (France) - AS Monaco
+Apparitions: 250 | Buts: 44
+
+12
+00:01:08,000 --> 00:01:14,600
+Dado Prso (Croatia) - AS Monaco
+Apparitions: 146 | Buts: 45 | Passes décisives: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Jean Petit (France) - AS Monaco
+Apparitions: 302 | Buts: 49
+
+14
+00:01:21,200 --> 00:01:27,800
+Valère Germain (France) - AS Monaco
+Apparitions: 202 | Buts: 53 | Passes décisives: 20
+
+15
+00:01:27,800 --> 00:01:34,400
+Karimou Djibrill (Togo) - AS Monaco
+Apparitions: 225 | Buts: 55
+
+16
+00:01:34,400 --> 00:01:41,000
+Bruno Bellone (France) - AS Monaco
+Apparitions: 230 | Buts: 56
+
+17
+00:01:41,000 --> 00:01:47,600
+Bernard Genghini (France) - AS Monaco
+Apparitions: 129 | Buts: 57
+
+18
+00:01:47,600 --> 00:01:54,200
+David Trezeguet (France) - AS Monaco
+Apparitions: 125 | Buts: 62 | Passes décisives: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Serge Roy (France) - AS Monaco
+Apparitions: 127 | Buts: 62
+
+20
+00:02:00,800 --> 00:02:07,400
+Christian Dalger (France) - AS Monaco
+Apparitions: 263 | Buts: 64 | Passes décisives: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+George Weah (Liberia) - AS Monaco
+Apparitions: 149 | Buts: 66 | Passes décisives: 13
+
+22
+00:02:14,000 --> 00:02:20,600
+Sonny Anderson (Brazil) - AS Monaco
+Apparitions: 117 | Buts: 67 | Passes décisives: 9
+
+23
+00:02:20,600 --> 00:02:27,200
+Shabani Nonda (DR Congo) - AS Monaco
+Apparitions: 145 | Buts: 67 | Passes décisives: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Ludovic Giuly (France) - AS Monaco
+Apparitions: 268 | Buts: 67 | Passes décisives: 13
+
+25
+00:02:33,800 --> 00:02:40,400
+Youri Djorkaeff (France) - AS Monaco
+Apparitions: 197 | Buts: 68 | Passes décisives: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Yvon Douis (France) - AS Monaco
+Apparitions: 197 | Buts: 73
+
+27
+00:02:47,000 --> 00:02:53,600
+Victor Ikpeba (Nigeria) - AS Monaco
+Apparitions: 223 | Buts: 77 | Passes décisives: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Radamel Falcao (Colombia) - AS Monaco
+Apparitions: 140 | Buts: 83 | Passes décisives: 14
+
+29
+00:03:00,200 --> 00:03:06,800
+Lucien Cossou (France) - AS Monaco
+Apparitions: 190 | Buts: 114
+
+30
+00:03:06,800 --> 00:03:13,400
+Wissam Ben Yedder (France) - AS Monaco
+Apparitions: 201 | Buts: 118 | Passes décisives: 31
+
+31
+00:03:13,400 --> 00:03:20,000
+Delio Onnis (Argentina) - AS Monaco
+Apparitions: 246 | Buts: 193
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Borneo FC Samarinda 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Boaz Solossa (Indonesia) - Borneo FC Samarinda
+出場数: 22 | ゴール: 3 | アシスト: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Léo Lelis (Brazil) - Borneo FC Samarinda
+出場数: 20 | ゴール: 3
+
+4
+00:00:15,200 --> 00:00:21,800
+Javlon Guseynov (Uzbekistan) - Borneo FC Samarinda
+出場数: 93 | ゴール: 4 | アシスト: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Agung Prasetyo (Indonesia) - Borneo FC Samarinda
+出場数: 42 | ゴール: 4 | アシスト: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Pedro Velázquez (Paraguay) - Borneo FC Samarinda
+出場数: 10 | ゴール: 4 | アシスト: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Diego Michiels (Indonesia) - Borneo FC Samarinda
+出場数: 146 | ゴール: 4 | アシスト: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Shane Smeltz (New Zealand) - Borneo FC Samarinda
+出場数: 20 | ゴール: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Berguinho (Brazil) - Borneo FC Samarinda
+出場数: 32 | ゴール: 5 | アシスト: 3
+
+10
+00:00:54,800 --> 00:01:01,400
+Wiljan Pluim (Netherlands) - Borneo FC Samarinda
+出場数: 14 | ゴール: 5 | アシスト: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Ahmad Nur Hardianto (Indonesia) - Borneo FC Samarinda
+出場数: 47 | ゴール: 5 | アシスト: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Wildansyah (Indonesia) - Borneo FC Samarinda
+出場数: 92 | ゴール: 5 | アシスト: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Mariano Peralta (Argentina) - Borneo FC Samarinda
+出場数: 28 | ゴール: 5 | アシスト: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Marlon Silva (Brazil) - Borneo FC Samarinda
+出場数: 13 | ゴール: 6 | アシスト: 3
+
+15
+00:01:27,800 --> 00:01:34,400
+Habibi Jusuf (Indonesia) - Borneo FC Samarinda
+出場数: 28 | ゴール: 6 | アシスト: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Wawan Febrianto (Indonesia) - Borneo FC Samarinda
+出場数: 27 | ゴール: 7 | アシスト: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Flávio Beck Junior (Brazil) - Borneo FC Samarinda
+出場数: 30 | ゴール: 7 | アシスト: 5
+
+18
+00:01:47,600 --> 00:01:54,200
+Titus Bonai (Indonesia) - Borneo FC Samarinda
+出場数: 29 | ゴール: 8 | アシスト: 3
+
+19
+00:01:54,200 --> 00:02:00,800
+Adam Alis (Indonesia) - Borneo FC Samarinda
+出場数: 52 | ゴール: 8 | アシスト: 7
+
+20
+00:02:00,800 --> 00:02:07,400
+Sultan Samma (Indonesia) - Borneo FC Samarinda
+出場数: 109 | ゴール: 9 | アシスト: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Muhammad Sihran (Indonesia) - Borneo FC Samarinda
+出場数: 144 | ゴール: 11 | アシスト: 12
+
+22
+00:02:14,000 --> 00:02:20,600
+Jonathan Bustos (Argentina) - Borneo FC Samarinda
+出場数: 64 | ゴール: 11 | アシスト: 16
+
+23
+00:02:20,600 --> 00:02:27,200
+Léo Gaúcho (Brazil) - Borneo FC Samarinda
+出場数: 24 | ゴール: 12
+
+24
+00:02:27,200 --> 00:02:33,800
+Renan Silva (Brazil) - Borneo FC Samarinda
+出場数: 37 | ゴール: 13 | アシスト: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Felipe Cadenazzi (Argentina) - Borneo FC Samarinda
+出場数: 29 | ゴール: 15
+
+26
+00:02:40,400 --> 00:02:47,000
+Francisco Torres (Brazil) - Borneo FC Samarinda
+出場数: 32 | ゴール: 17 | アシスト: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Matías Conti (Argentina) - Borneo FC Samarinda
+出場数: 47 | ゴール: 23 | アシスト: 8
+
+28
+00:02:53,600 --> 00:03:00,200
+Stefano Lilipaly (Indonesia) - Borneo FC Samarinda
+出場数: 105 | ゴール: 27 | アシスト: 36
+
+29
+00:03:00,200 --> 00:03:06,800
+Terens Puhiri (Indonesia) - Borneo FC Samarinda
+出場数: 207 | ゴール: 29 | アシスト: 37
+
+30
+00:03:06,800 --> 00:03:13,400
+Lerby Eliandry Pong Babu (Indonesia) - Borneo FC Samarinda
+出場数: 101 | ゴール: 38 | アシスト: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Matheus Antonio Souza dos Santos (Brazil) - Borneo FC Samarinda
+出場数: 54 | ゴール: 38 | アシスト: 6
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AS Monaco Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Aleksandr Golovin (Russia) - AS Monaco
+Presenze: 231 | Gol: 34 | Assist: 40
+
+3
+00:00:08,600 --> 00:00:15,200
+André Hess (France) - AS Monaco
+Presenze: 133 | Gol: 34
+
+4
+00:00:15,200 --> 00:00:21,800
+Jürgen Klinsmann (Germany) - AS Monaco
+Presenze: 84 | Gol: 35 | Assist: 11
+
+5
+00:00:21,800 --> 00:00:28,400
+Youssouf Fofana (Cote d'Ivoire) - AS Monaco
+Presenze: 229 | Gol: 35 | Assist: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Umberto Barberis (Switzerland) - AS Monaco
+Presenze: 121 | Gol: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Kevin Volland (Germany) - AS Monaco
+Presenze: 115 | Gol: 39 | Assist: 24
+
+8
+00:00:41,600 --> 00:00:48,200
+Manuel Amoros (France) - AS Monaco
+Presenze: 349 | Gol: 42
+
+9
+00:00:48,200 --> 00:00:54,800
+Bart Carlier (Netherlands) - AS Monaco
+Presenze: 197 | Gol: 43
+
+10
+00:00:54,800 --> 00:01:01,400
+Marco Simone (Italy) - AS Monaco
+Presenze: 99 | Gol: 44 | Assist: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Théodore Szkudlapski (France) - AS Monaco
+Presenze: 250 | Gol: 44
+
+12
+00:01:08,000 --> 00:01:14,600
+Dado Prso (Croatia) - AS Monaco
+Presenze: 146 | Gol: 45 | Assist: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Jean Petit (France) - AS Monaco
+Presenze: 302 | Gol: 49
+
+14
+00:01:21,200 --> 00:01:27,800
+Valère Germain (France) - AS Monaco
+Presenze: 202 | Gol: 53 | Assist: 20
+
+15
+00:01:27,800 --> 00:01:34,400
+Karimou Djibrill (Togo) - AS Monaco
+Presenze: 225 | Gol: 55
+
+16
+00:01:34,400 --> 00:01:41,000
+Bruno Bellone (France) - AS Monaco
+Presenze: 230 | Gol: 56
+
+17
+00:01:41,000 --> 00:01:47,600
+Bernard Genghini (France) - AS Monaco
+Presenze: 129 | Gol: 57
+
+18
+00:01:47,600 --> 00:01:54,200
+David Trezeguet (France) - AS Monaco
+Presenze: 125 | Gol: 62 | Assist: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Serge Roy (France) - AS Monaco
+Presenze: 127 | Gol: 62
+
+20
+00:02:00,800 --> 00:02:07,400
+Christian Dalger (France) - AS Monaco
+Presenze: 263 | Gol: 64 | Assist: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+George Weah (Liberia) - AS Monaco
+Presenze: 149 | Gol: 66 | Assist: 13
+
+22
+00:02:14,000 --> 00:02:20,600
+Sonny Anderson (Brazil) - AS Monaco
+Presenze: 117 | Gol: 67 | Assist: 9
+
+23
+00:02:20,600 --> 00:02:27,200
+Shabani Nonda (DR Congo) - AS Monaco
+Presenze: 145 | Gol: 67 | Assist: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Ludovic Giuly (France) - AS Monaco
+Presenze: 268 | Gol: 67 | Assist: 13
+
+25
+00:02:33,800 --> 00:02:40,400
+Youri Djorkaeff (France) - AS Monaco
+Presenze: 197 | Gol: 68 | Assist: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Yvon Douis (France) - AS Monaco
+Presenze: 197 | Gol: 73
+
+27
+00:02:47,000 --> 00:02:53,600
+Victor Ikpeba (Nigeria) - AS Monaco
+Presenze: 223 | Gol: 77 | Assist: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Radamel Falcao (Colombia) - AS Monaco
+Presenze: 140 | Gol: 83 | Assist: 14
+
+29
+00:03:00,200 --> 00:03:06,800
+Lucien Cossou (France) - AS Monaco
+Presenze: 190 | Gol: 114
+
+30
+00:03:06,800 --> 00:03:13,400
+Wissam Ben Yedder (France) - AS Monaco
+Presenze: 201 | Gol: 118 | Assist: 31
+
+31
+00:03:13,400 --> 00:03:20,000
+Delio Onnis (Argentina) - AS Monaco
+Presenze: 246 | Gol: 193
+

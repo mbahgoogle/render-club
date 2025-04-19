@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+TSG 1899 Hoffenheim Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Kai Herdling (Germany) - TSG 1899 Hoffenheim
+Presenze: 89 | Gol: 14 | Assist: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Dragan Paljic (Germany) - TSG 1899 Hoffenheim
+Presenze: 99 | Gol: 14 | Assist: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Thorsten Thee (Germany) - TSG 1899 Hoffenheim
+Presenze: 130 | Gol: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Sandro Cescutti (Germany) - TSG 1899 Hoffenheim
+Presenze: 71 | Gol: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Sebastian Rudy (Germany) - TSG 1899 Hoffenheim
+Presenze: 327 | Gol: 17 | Assist: 47
+
+7
+00:00:35,000 --> 00:00:41,600
+Guido Streichsbier (Germany) - TSG 1899 Hoffenheim
+Presenze: 48 | Gol: 17
+
+8
+00:00:41,600 --> 00:00:48,200
+Pavel Kaderabek (Czech Republic) - TSG 1899 Hoffenheim
+Presenze: 282 | Gol: 17 | Assist: 35
+
+9
+00:00:48,200 --> 00:00:54,800
+Tomislav Maric (Croatia) - TSG 1899 Hoffenheim
+Presenze: 47 | Gol: 17
+
+10
+00:00:54,800 --> 00:01:01,400
+Ishak Belfodil (Algeria) - TSG 1899 Hoffenheim
+Presenze: 60 | Gol: 18 | Assist: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Sandro Wagner (Germany) - TSG 1899 Hoffenheim
+Presenze: 50 | Gol: 18 | Assist: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Maximilian Beier (Germany) - TSG 1899 Hoffenheim
+Presenze: 46 | Gol: 18 | Assist: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Eduardo (Brazil) - TSG 1899 Hoffenheim
+Presenze: 90 | Gol: 19 | Assist: 22
+
+14
+00:01:21,200 --> 00:01:27,800
+Anthony Modeste (France) - TSG 1899 Hoffenheim
+Presenze: 62 | Gol: 23 | Assist: 7
+
+15
+00:01:27,800 --> 00:01:34,400
+Heiko Throm (Germany) - TSG 1899 Hoffenheim
+Presenze: 79 | Gol: 23 | Assist: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Ádám Szalai (Hungary) - TSG 1899 Hoffenheim
+Presenze: 113 | Gol: 25 | Assist: 13
+
+17
+00:01:41,000 --> 00:01:47,600
+Sven Schipplock (Germany) - TSG 1899 Hoffenheim
+Presenze: 98 | Gol: 26 | Assist: 19
+
+18
+00:01:47,600 --> 00:01:54,200
+Chinedu Obasi (Nigeria) - TSG 1899 Hoffenheim
+Presenze: 102 | Gol: 27 | Assist: 16
+
+19
+00:01:54,200 --> 00:02:00,800
+Francisco Copado (Germany) - TSG 1899 Hoffenheim
+Presenze: 70 | Gol: 28 | Assist: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Munas Dabbur (Israel) - TSG 1899 Hoffenheim
+Presenze: 99 | Gol: 29 | Assist: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Christoph Baumgartner (Austria) - TSG 1899 Hoffenheim
+Presenze: 138 | Gol: 30 | Assist: 22
+
+22
+00:02:14,000 --> 00:02:20,600
+Mark Uth (Germany) - TSG 1899 Hoffenheim
+Presenze: 86 | Gol: 33 | Assist: 15
+
+23
+00:02:20,600 --> 00:02:27,200
+Christoph Teinert (Germany) - TSG 1899 Hoffenheim
+Presenze: 93 | Gol: 34
+
+24
+00:02:27,200 --> 00:02:33,800
+Kevin Volland (Germany) - TSG 1899 Hoffenheim
+Presenze: 144 | Gol: 36 | Assist: 39
+
+25
+00:02:33,800 --> 00:02:40,400
+Ihlas Bebou (Togo) - TSG 1899 Hoffenheim
+Presenze: 158 | Gol: 37 | Assist: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Demba Ba (Senegal) - TSG 1899 Hoffenheim
+Presenze: 106 | Gol: 40 | Assist: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Thomas Ollhoff (Germany) - TSG 1899 Hoffenheim
+Presenze: 97 | Gol: 42 | Assist: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Roberto Firmino (Brazil) - TSG 1899 Hoffenheim
+Presenze: 153 | Gol: 49 | Assist: 36
+
+29
+00:03:00,200 --> 00:03:06,800
+Vedad Ibisevic (Bosnia-Herzegovina) - TSG 1899 Hoffenheim
+Presenze: 135 | Gol: 54 | Assist: 22
+
+30
+00:03:06,800 --> 00:03:13,400
+Sejad Salihovic (Bosnia-Herzegovina) - TSG 1899 Hoffenheim
+Presenze: 249 | Gol: 67 | Assist: 61
+
+31
+00:03:13,400 --> 00:03:20,000
+Andrej Kramaric (Croatia) - TSG 1899 Hoffenheim
+Presenze: 318 | Gol: 140 | Assist: 63
+

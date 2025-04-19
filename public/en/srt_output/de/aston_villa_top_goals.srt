@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Aston Villa Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Brian Little (England) - Aston Villa
+Einsätze: 198 | Tore: 41 | Vorlagen: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Ian Taylor (England) - Aston Villa
+Einsätze: 290 | Tore: 42 | Vorlagen: 16
+
+4
+00:00:15,200 --> 00:00:21,800
+Mark Walters (England) - Aston Villa
+Einsätze: 195 | Tore: 42 | Vorlagen: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Julian Joachim (England) - Aston Villa
+Einsätze: 170 | Tore: 44 | Vorlagen: 17
+
+6
+00:00:28,400 --> 00:00:35,000
+Bobby Thomson (Scotland) - Aston Villa
+Einsätze: 125 | Tore: 45 | Vorlagen: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Darius Vassell (England) - Aston Villa
+Einsätze: 201 | Tore: 45 | Vorlagen: 15
+
+8
+00:00:41,600 --> 00:00:48,200
+Tom Waring (England) - Aston Villa
+Einsätze: 46 | Tore: 46
+
+9
+00:00:48,200 --> 00:00:54,800
+Dean Saunders (Wales) - Aston Villa
+Einsätze: 141 | Tore: 47 | Vorlagen: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+John Carew (Norway) - Aston Villa
+Einsätze: 131 | Tore: 48 | Vorlagen: 12
+
+11
+00:01:01,400 --> 00:01:08,000
+John Deehan (England) - Aston Villa
+Einsätze: 129 | Tore: 48
+
+12
+00:01:08,000 --> 00:01:14,600
+Christian Benteke (Belgium) - Aston Villa
+Einsätze: 101 | Tore: 49 | Vorlagen: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Gareth Barry (England) - Aston Villa
+Einsätze: 439 | Tore: 52 | Vorlagen: 47
+
+14
+00:01:21,200 --> 00:01:27,800
+Allan Evans (Scotland) - Aston Villa
+Einsätze: 435 | Tore: 57 | Vorlagen: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Gordon Cowans (England) - Aston Villa
+Einsätze: 506 | Tore: 58 | Vorlagen: 33
+
+16
+00:01:34,400 --> 00:01:41,000
+Harry Burrows (England) - Aston Villa
+Einsätze: 159 | Tore: 58 | Vorlagen: 4
+
+17
+00:01:41,000 --> 00:01:47,600
+Dion Dublin (England) - Aston Villa
+Einsätze: 189 | Tore: 58 | Vorlagen: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+David Platt (England) - Aston Villa
+Einsätze: 136 | Tore: 59 | Vorlagen: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Trevor Ford (Wales) - Aston Villa
+Einsätze: 122 | Tore: 60
+
+20
+00:02:00,800 --> 00:02:07,400
+Juan Pablo Ángel (Colombia) - Aston Villa
+Einsätze: 205 | Tore: 62 | Vorlagen: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Andy Gray (Scotland) - Aston Villa
+Einsätze: 193 | Tore: 67
+
+22
+00:02:14,000 --> 00:02:20,600
+Tommy Thompson (England) - Aston Villa
+Einsätze: 157 | Tore: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Gerry Hitchens (England) - Aston Villa
+Einsätze: 114 | Tore: 68 | Vorlagen: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Tony Hateley (England) - Aston Villa
+Einsätze: 138 | Tore: 74 | Vorlagen: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Gary Shaw (England) - Aston Villa
+Einsätze: 207 | Tore: 75 | Vorlagen: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Ollie Watkins (England) - Aston Villa
+Einsätze: 212 | Tore: 84 | Vorlagen: 38
+
+27
+00:02:47,000 --> 00:02:53,600
+Gabriel Agbonlahor (England) - Aston Villa
+Einsätze: 391 | Tore: 86 | Vorlagen: 43
+
+28
+00:02:53,600 --> 00:03:00,200
+Peter Withe (England) - Aston Villa
+Einsätze: 229 | Tore: 91 | Vorlagen: 29
+
+29
+00:03:00,200 --> 00:03:06,800
+Dwight Yorke (Trinidad and Tobago) - Aston Villa
+Einsätze: 282 | Tore: 95 | Vorlagen: 31
+
+30
+00:03:06,800 --> 00:03:13,400
+Peter McParland (Northern Ireland) - Aston Villa
+Einsätze: 279 | Tore: 95 | Vorlagen: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Johnny Dixon (England) - Aston Villa
+Einsätze: 403 | Tore: 137 | Vorlagen: 2
+

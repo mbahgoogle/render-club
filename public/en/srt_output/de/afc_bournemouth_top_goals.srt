@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AFC Bournemouth Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Garreth O'Connor (Ireland) - AFC Bournemouth
+Einsätze: 160 | Tore: 17 | Vorlagen: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Arnaut Danjuma (Netherlands) - AFC Bournemouth
+Einsätze: 52 | Tore: 17 | Vorlagen: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Charlie Daniels (England) - AFC Bournemouth
+Einsätze: 265 | Tore: 17 | Vorlagen: 26
+
+5
+00:00:21,800 --> 00:00:28,400
+Antoine Semenyo (Ghana) - AFC Bournemouth
+Einsätze: 81 | Tore: 18 | Vorlagen: 8
+
+6
+00:00:28,400 --> 00:00:35,000
+Josh McQuoid (Northern Ireland) - AFC Bournemouth
+Einsätze: 123 | Tore: 18 | Vorlagen: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Carl Fletcher (Wales) - AFC Bournemouth
+Einsätze: 172 | Tore: 20
+
+8
+00:00:41,600 --> 00:00:48,200
+Steve Cook (England) - AFC Bournemouth
+Einsätze: 387 | Tore: 21 | Vorlagen: 11
+
+9
+00:00:48,200 --> 00:00:54,800
+Dan Gosling (England) - AFC Bournemouth
+Einsätze: 192 | Tore: 22 | Vorlagen: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+David Brooks (Wales) - AFC Bournemouth
+Einsätze: 141 | Tore: 22 | Vorlagen: 17
+
+11
+00:01:01,400 --> 00:01:08,000
+Justin Kluivert (Netherlands) - AFC Bournemouth
+Einsätze: 69 | Tore: 22 | Vorlagen: 10
+
+12
+00:01:08,000 --> 00:01:14,600
+Jermain Defoe (England) - AFC Bournemouth
+Einsätze: 64 | Tore: 23 | Vorlagen: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Ryan Fraser (Scotland) - AFC Bournemouth
+Einsätze: 208 | Tore: 24 | Vorlagen: 30
+
+14
+00:01:21,200 --> 00:01:27,800
+Yann Kermorgant (France) - AFC Bournemouth
+Einsätze: 69 | Tore: 27 | Vorlagen: 14
+
+15
+00:01:27,800 --> 00:01:34,400
+Danny Hollands (England) - AFC Bournemouth
+Einsätze: 219 | Tore: 28 | Vorlagen: 6
+
+16
+00:01:34,400 --> 00:01:41,000
+Harry Arter (Ireland) - AFC Bournemouth
+Einsätze: 256 | Tore: 29 | Vorlagen: 20
+
+17
+00:01:41,000 --> 00:01:47,600
+Warren Feeney (Northern Ireland) - AFC Bournemouth
+Einsätze: 101 | Tore: 30
+
+18
+00:01:47,600 --> 00:01:54,200
+Wade Elliott (England) - AFC Bournemouth
+Einsätze: 202 | Tore: 30 | Vorlagen: 14
+
+19
+00:01:54,200 --> 00:02:00,800
+Matt Ritchie (Scotland) - AFC Bournemouth
+Einsätze: 142 | Tore: 31 | Vorlagen: 29
+
+20
+00:02:00,800 --> 00:02:07,400
+Philip Billing (Denmark) - AFC Bournemouth
+Einsätze: 201 | Tore: 31 | Vorlagen: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Mark Stein (England) - AFC Bournemouth
+Einsätze: 106 | Tore: 35
+
+22
+00:02:14,000 --> 00:02:20,600
+Lewis Grabban (Jamaica) - AFC Bournemouth
+Einsätze: 115 | Tore: 36 | Vorlagen: 14
+
+23
+00:02:20,600 --> 00:02:27,200
+Stephen Robinson (Northern Ireland) - AFC Bournemouth
+Einsätze: 166 | Tore: 37
+
+24
+00:02:27,200 --> 00:02:33,800
+Junior Stanislas (England) - AFC Bournemouth
+Einsätze: 179 | Tore: 37 | Vorlagen: 24
+
+25
+00:02:33,800 --> 00:02:40,400
+Joshua King (Norway) - AFC Bournemouth
+Einsätze: 184 | Tore: 53 | Vorlagen: 18
+
+26
+00:02:40,400 --> 00:02:47,000
+Marc Pugh (England) - AFC Bournemouth
+Einsätze: 312 | Tore: 56 | Vorlagen: 50
+
+27
+00:02:47,000 --> 00:02:53,600
+Callum Wilson (England) - AFC Bournemouth
+Einsätze: 187 | Tore: 67 | Vorlagen: 26
+
+28
+00:02:53,600 --> 00:03:00,200
+Dominic Solanke (England) - AFC Bournemouth
+Einsätze: 216 | Tore: 77 | Vorlagen: 29
+
+29
+00:03:00,200 --> 00:03:06,800
+Steve Fletcher (England) - AFC Bournemouth
+Einsätze: 526 | Tore: 92 | Vorlagen: 26
+
+30
+00:03:06,800 --> 00:03:13,400
+James Hayter (England) - AFC Bournemouth
+Einsätze: 343 | Tore: 93 | Vorlagen: 10
+
+31
+00:03:13,400 --> 00:03:20,000
+Brett Pitman (Jersey) - AFC Bournemouth
+Einsätze: 302 | Tore: 102 | Vorlagen: 18
+

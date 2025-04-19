@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC St. Pauli Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Harald Stender (Germany) - FC St. Pauli
+Apparitions: 355 | Buts: 28
+
+3
+00:00:08,600 --> 00:00:15,200
+Werner Heitkamp (Germany) - FC St. Pauli
+Apparitions: 57 | Buts: 28
+
+4
+00:00:15,200 --> 00:00:21,800
+Yuriy Savichev (Russia) - FC St. Pauli
+Apparitions: 95 | Buts: 30 | Passes décisives: 8
+
+5
+00:00:21,800 --> 00:00:28,400
+Werner Kruppa (Germany) - FC St. Pauli
+Apparitions: 46 | Buts: 31
+
+6
+00:00:28,400 --> 00:00:35,000
+André Trulsen (Germany) - FC St. Pauli
+Apparitions: 409 | Buts: 31 | Passes décisives: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Guido Burgstaller (Austria) - FC St. Pauli
+Apparitions: 57 | Buts: 31 | Passes décisives: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Ingo Porges (Germany) - FC St. Pauli
+Apparitions: 314 | Buts: 31
+
+9
+00:00:48,200 --> 00:00:54,800
+Fabian Boll (Germany) - FC St. Pauli
+Apparitions: 292 | Buts: 32 | Passes décisives: 17
+
+10
+00:00:54,800 --> 00:01:01,400
+Joachim Philipkowski (Germany) - FC St. Pauli
+Apparitions: 162 | Buts: 34
+
+11
+00:01:01,400 --> 00:01:08,000
+Jens Scharping (Germany) - FC St. Pauli
+Apparitions: 133 | Buts: 35 | Passes décisives: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Emil Schildt (Germany) - FC St. Pauli
+Apparitions: 133 | Buts: 39
+
+13
+00:01:14,600 --> 00:01:21,200
+Hans Sump (Germany) - FC St. Pauli
+Apparitions: 113 | Buts: 39 | Passes décisives: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Jürgen Gronau (Germany) - FC St. Pauli
+Apparitions: 476 | Buts: 42 | Passes décisives: 7
+
+15
+00:01:27,800 --> 00:01:34,400
+Marcus Marin (Germany) - FC St. Pauli
+Apparitions: 105 | Buts: 42 | Passes décisives: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Martin Driller (Germany) - FC St. Pauli
+Apparitions: 162 | Buts: 42 | Passes décisives: 5
+
+17
+00:01:41,000 --> 00:01:47,600
+Marius Ebbers (Germany) - FC St. Pauli
+Apparitions: 143 | Buts: 46 | Passes décisives: 24
+
+18
+00:01:47,600 --> 00:01:54,200
+Thomas Meggle (Germany) - FC St. Pauli
+Apparitions: 184 | Buts: 46 | Passes décisives: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Rolf Höfert (Germany) - FC St. Pauli
+Apparitions: 212 | Buts: 47 | Passes décisives: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Alfred Beck (Germany) - FC St. Pauli
+Apparitions: 167 | Buts: 47
+
+21
+00:02:07,400 --> 00:02:14,000
+Michael Dahms (Germany) - FC St. Pauli
+Apparitions: 291 | Buts: 48 | Passes décisives: 4
+
+22
+00:02:14,000 --> 00:02:20,600
+Dirk Zander (Germany) - FC St. Pauli
+Apparitions: 181 | Buts: 52 | Passes décisives: 6
+
+23
+00:02:20,600 --> 00:02:27,200
+Horst Neumann (Germany) - FC St. Pauli
+Apparitions: 219 | Buts: 54 | Passes décisives: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Hans-Jürgen Bargfrede (Germany) - FC St. Pauli
+Apparitions: 265 | Buts: 57
+
+25
+00:02:33,800 --> 00:02:40,400
+Rolf Bergeest (Germany) - FC St. Pauli
+Apparitions: 225 | Buts: 66
+
+26
+00:02:40,400 --> 00:02:47,000
+Alfred Boller (Germany) - FC St. Pauli
+Apparitions: 130 | Buts: 78 | Passes décisives: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+André Golke (Germany) - FC St. Pauli
+Apparitions: 298 | Buts: 79 | Passes décisives: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Rüdiger Wenzel (Germany) - FC St. Pauli
+Apparitions: 213 | Buts: 91 | Passes décisives: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Franz Gerber (Germany) - FC St. Pauli
+Apparitions: 165 | Buts: 105 | Passes décisives: 1
+
+30
+00:03:06,800 --> 00:03:13,400
+Horst Haecks (Germany) - FC St. Pauli
+Apparitions: 267 | Buts: 164
+
+31
+00:03:13,400 --> 00:03:20,000
+Peter Osterhoff (Germany) - FC St. Pauli
+Apparitions: 293 | Buts: 173
+

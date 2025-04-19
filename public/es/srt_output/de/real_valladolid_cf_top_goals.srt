@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Real Valladolid CF Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Fernando (Spain) - Real Valladolid CF
+Einsätze: 64 | Tore: 22 | Vorlagen: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Tini (Spain) - Real Valladolid CF
+Einsätze: 156 | Tore: 22
+
+4
+00:00:15,200 --> 00:00:21,800
+Antonio Morro Mora (Spain) - Real Valladolid CF
+Einsätze: 37 | Tore: 22
+
+5
+00:00:21,800 --> 00:00:28,400
+José Amavisca (Spain) - Real Valladolid CF
+Einsätze: 76 | Tore: 22
+
+6
+00:00:28,400 --> 00:00:35,000
+Julián Vaquero del Caño (Spain) - Real Valladolid CF
+Einsätze: 54 | Tore: 23 | Vorlagen: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Pepe Moré (Spain) - Real Valladolid CF
+Einsätze: 250 | Tore: 24
+
+8
+00:00:41,600 --> 00:00:48,200
+Gabi Moya (Spain) - Real Valladolid CF
+Einsätze: 155 | Tore: 24 | Vorlagen: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Manuel Peña (Spain) - Real Valladolid CF
+Einsätze: 157 | Tore: 25
+
+10
+00:00:54,800 --> 00:01:01,400
+Juan Villar (Spain) - Real Valladolid CF
+Einsätze: 72 | Tore: 25 | Vorlagen: 10
+
+11
+00:01:01,400 --> 00:01:08,000
+Luis Minguela (Spain) - Real Valladolid CF
+Einsätze: 364 | Tore: 25
+
+12
+00:01:08,000 --> 00:01:14,600
+Mami Quevedo (Spain) - Real Valladolid CF
+Einsätze: 123 | Tore: 26 | Vorlagen: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Nauzet Alemán (Spain) - Real Valladolid CF
+Einsätze: 100 | Tore: 27 | Vorlagen: 14
+
+14
+00:01:21,200 --> 00:01:27,800
+Óscar Plano (Spain) - Real Valladolid CF
+Einsätze: 229 | Tore: 27 | Vorlagen: 31
+
+15
+00:01:27,800 --> 00:01:34,400
+Rodilla (Spain) - Real Valladolid CF
+Einsätze: 59 | Tore: 28
+
+16
+00:01:34,400 --> 00:01:41,000
+Jorge da Silva (Uruguay) - Real Valladolid CF
+Einsätze: 74 | Tore: 29
+
+17
+00:01:41,000 --> 00:01:47,600
+Shon Weissman (Israel) - Real Valladolid CF
+Einsätze: 92 | Tore: 30 | Vorlagen: 6
+
+18
+00:01:47,600 --> 00:01:54,200
+Joseba Llorente (Spain) - Real Valladolid CF
+Einsätze: 77 | Tore: 34 | Vorlagen: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Manuel Badenes (Spain) - Real Valladolid CF
+Einsätze: 59 | Tore: 36 | Vorlagen: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Jaime Mata (Spain) - Real Valladolid CF
+Einsätze: 76 | Tore: 41 | Vorlagen: 9
+
+21
+00:02:07,400 --> 00:02:14,000
+Joaquín Murillo (Spain) - Real Valladolid CF
+Einsätze: 82 | Tore: 43
+
+22
+00:02:14,000 --> 00:02:20,600
+Delio Morollón (Spain) - Real Valladolid CF
+Einsätze: 117 | Tore: 45
+
+23
+00:02:20,600 --> 00:02:27,200
+Goyo Fonseca (Spain) - Real Valladolid CF
+Einsätze: 185 | Tore: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Jesus Domingo (Spain) - Real Valladolid CF
+Einsätze: 105 | Tore: 49
+
+25
+00:02:33,800 --> 00:02:40,400
+Jorge Alonso (Spain) - Real Valladolid CF
+Einsätze: 232 | Tore: 51 | Vorlagen: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Gerardo Coque (Spain) - Real Valladolid CF
+Einsätze: 136 | Tore: 55 | Vorlagen: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Alen Peternac (Croatia) - Real Valladolid CF
+Einsätze: 166 | Tore: 58 | Vorlagen: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Alberto López Moreno (Spain) - Real Valladolid CF
+Einsätze: 267 | Tore: 60 | Vorlagen: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Óscar González (Spain) - Real Valladolid CF
+Einsätze: 284 | Tore: 70 | Vorlagen: 39
+
+30
+00:03:06,800 --> 00:03:13,400
+Javi Guerra (Spain) - Real Valladolid CF
+Einsätze: 155 | Tore: 73 | Vorlagen: 11
+
+31
+00:03:13,400 --> 00:03:20,000
+Víctor Fernández (Spain) - Real Valladolid CF
+Einsätze: 264 | Tore: 74 | Vorlagen: 10
+

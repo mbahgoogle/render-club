@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Real Sociedad सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+José María Araquistain (Spain) - Real Sociedad
+प्रदर्शन: 136 | गोल: 37
+
+3
+00:00:08,600 --> 00:00:15,200
+Valeriy Karpin (Russia) - Real Sociedad
+प्रदर्शन: 194 | गोल: 37 | असिस्ट: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Sarasqueta (Spain) - Real Sociedad
+प्रदर्शन: 128 | गोल: 38 | असिस्ट: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Loren Juarros (Spain) - Real Sociedad
+प्रदर्शन: 399 | गोल: 39 | असिस्ट: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Santi Idígoras (Spain) - Real Sociedad
+प्रदर्शन: 229 | गोल: 40
+
+7
+00:00:35,000 --> 00:00:41,600
+John Aldridge (Ireland) - Real Sociedad
+प्रदर्शन: 75 | गोल: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+José María Pérez (Spain) - Real Sociedad
+प्रदर्शन: 211 | गोल: 42 | असिस्ट: 3
+
+9
+00:00:48,200 --> 00:00:54,800
+Alexander Isak (Sweden) - Real Sociedad
+प्रदर्शन: 132 | गोल: 44 | असिस्ट: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Paco Bienzobas (Spain) - Real Sociedad
+प्रदर्शन: 86 | गोल: 45
+
+11
+00:01:01,400 --> 00:01:08,000
+Sebastián Ontoria (Spain) - Real Sociedad
+प्रदर्शन: 223 | गोल: 45
+
+12
+00:01:08,000 --> 00:01:14,600
+Epi (Spain) - Real Sociedad
+प्रदर्शन: 143 | गोल: 48
+
+13
+00:01:14,600 --> 00:01:21,200
+Javi de Pedro (Spain) - Real Sociedad
+प्रदर्शन: 323 | गोल: 52 | असिस्ट: 35
+
+14
+00:01:21,200 --> 00:01:27,800
+Antoine Griezmann (France) - Real Sociedad
+प्रदर्शन: 202 | गोल: 52 | असिस्ट: 18
+
+15
+00:01:27,800 --> 00:01:34,400
+Cholín (Spain) - Real Sociedad
+प्रदर्शन: 104 | गोल: 54
+
+16
+00:01:34,400 --> 00:01:41,000
+Nihat Kahveci (Türkiye) - Real Sociedad
+प्रदर्शन: 142 | गोल: 58 | असिस्ट: 12
+
+17
+00:01:41,000 --> 00:01:47,600
+Óscar de Paula (Spain) - Real Sociedad
+प्रदर्शन: 298 | गोल: 60 | असिस्ट: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Paz (Spain) - Real Sociedad
+प्रदर्शन: 243 | गोल: 60 | असिस्ट: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Willian José (Brazil) - Real Sociedad
+प्रदर्शन: 170 | गोल: 62 | असिस्ट: 15
+
+20
+00:02:00,800 --> 00:02:07,400
+Silvestre Igoa (Spain) - Real Sociedad
+प्रदर्शन: 128 | गोल: 68
+
+21
+00:02:07,400 --> 00:02:14,000
+Jesús Mari Zamora (Spain) - Real Sociedad
+प्रदर्शन: 529 | गोल: 69
+
+22
+00:02:14,000 --> 00:02:20,600
+Carlos Vela (Mexico) - Real Sociedad
+प्रदर्शन: 250 | गोल: 73 | असिस्ट: 43
+
+23
+00:02:20,600 --> 00:02:27,200
+Imanol Agirretxe (Spain) - Real Sociedad
+प्रदर्शन: 271 | गोल: 74 | असिस्ट: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Xabi Prieto (Spain) - Real Sociedad
+प्रदर्शन: 531 | गोल: 74 | असिस्ट: 52
+
+25
+00:02:33,800 --> 00:02:40,400
+José Mari Bakero (Spain) - Real Sociedad
+प्रदर्शन: 260 | गोल: 76
+
+26
+00:02:40,400 --> 00:02:47,000
+Pello Uralde (Spain) - Real Sociedad
+प्रदर्शन: 221 | गोल: 80 | असिस्ट: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Meho Kodro (Bosnia-Herzegovina) - Real Sociedad
+प्रदर्शन: 146 | गोल: 81
+
+28
+00:02:53,600 --> 00:03:00,200
+Darko Kovačević (Serbia) - Real Sociedad
+प्रदर्शन: 283 | गोल: 107 | असिस्ट: 22
+
+29
+00:03:00,200 --> 00:03:06,800
+Mikel Oyarzabal (Spain) - Real Sociedad
+प्रदर्शन: 388 | गोल: 111 | असिस्ट: 60
+
+30
+00:03:06,800 --> 00:03:13,400
+Roberto López Ufarte (Spain) - Real Sociedad
+प्रदर्शन: 423 | गोल: 111 | असिस्ट: 5
+
+31
+00:03:13,400 --> 00:03:20,000
+Jesús Satrustegui (Spain) - Real Sociedad
+प्रदर्शन: 340 | गोल: 152 | असिस्ट: 1
+

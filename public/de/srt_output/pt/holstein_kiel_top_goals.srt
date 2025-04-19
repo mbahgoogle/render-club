@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Holstein Kiel Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Rafael Kazior (Germany) - Holstein Kiel
+Partidas: 172 | Gols: 33 | Assistências: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Pavel Dobry (Czech Republic) - Holstein Kiel
+Partidas: 102 | Gols: 33
+
+4
+00:00:15,200 --> 00:00:21,800
+Kingsley Schindler (Ghana) - Holstein Kiel
+Partidas: 101 | Gols: 34 | Assistências: 22
+
+5
+00:00:21,800 --> 00:00:28,400
+Jaroslaw Lindner (Poland) - Holstein Kiel
+Partidas: 117 | Gols: 34 | Assistências: 20
+
+6
+00:00:28,400 --> 00:00:35,000
+Helmut Schweger (Germany) - Holstein Kiel
+Partidas: 108 | Gols: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Janni Serra (Germany) - Holstein Kiel
+Partidas: 91 | Gols: 35 | Assistências: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Steven Skrzybski (Germany) - Holstein Kiel
+Partidas: 106 | Gols: 35 | Assistências: 13
+
+9
+00:00:48,200 --> 00:00:54,800
+Manfred Jochimiak (Germany) - Holstein Kiel
+Partidas: 123 | Gols: 36 | Assistências: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Eggert Dolling (Germany) - Holstein Kiel
+Partidas: 239 | Gols: 36 | Assistências: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Harry Witt (Germany) - Holstein Kiel
+Partidas: 190 | Gols: 38
+
+12
+00:01:08,000 --> 00:01:14,600
+Diether Trede (Germany) - Holstein Kiel
+Partidas: 160 | Gols: 38
+
+13
+00:01:14,600 --> 00:01:21,200
+Walter Hain (Germany) - Holstein Kiel
+Partidas: 108 | Gols: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Tim Siedschlag (Germany) - Holstein Kiel
+Partidas: 289 | Gols: 39 | Assistências: 40
+
+15
+00:01:27,800 --> 00:01:34,400
+Michael Holt (Germany) - Holstein Kiel
+Partidas: 80 | Gols: 44 | Assistências: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Alexander Mühling (Germany) - Holstein Kiel
+Partidas: 238 | Gols: 44 | Assistências: 31
+
+17
+00:01:41,000 --> 00:01:47,600
+Rainer Menzel (Germany) - Holstein Kiel
+Partidas: 120 | Gols: 45 | Assistências: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Franz-Josef Hönig (Germany) - Holstein Kiel
+Partidas: 88 | Gols: 45
+
+19
+00:01:54,200 --> 00:02:00,800
+Fiete Sykora (Germany) - Holstein Kiel
+Partidas: 166 | Gols: 45 | Assistências: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Daniel Jurgeleit (Germany) - Holstein Kiel
+Partidas: 110 | Gols: 47
+
+21
+00:02:07,400 --> 00:02:14,000
+Emil Maier (Germany) - Holstein Kiel
+Partidas: 97 | Gols: 49
+
+22
+00:02:14,000 --> 00:02:20,600
+Hans-Peter Ehlers (Germany) - Holstein Kiel
+Partidas: 372 | Gols: 49
+
+23
+00:02:20,600 --> 00:02:27,200
+Axel Möller (Germany) - Holstein Kiel
+Partidas: 193 | Gols: 53
+
+24
+00:02:27,200 --> 00:02:33,800
+Horst Martinsen (Germany) - Holstein Kiel
+Partidas: 105 | Gols: 54
+
+25
+00:02:33,800 --> 00:02:40,400
+André Bistram (Germany) - Holstein Kiel
+Partidas: 142 | Gols: 66
+
+26
+00:02:40,400 --> 00:02:47,000
+Carsten Nemitz (Germany) - Holstein Kiel
+Partidas: 125 | Gols: 71
+
+27
+00:02:47,000 --> 00:02:53,600
+Gerd Saborowski (Germany) - Holstein Kiel
+Partidas: 92 | Gols: 74
+
+28
+00:02:53,600 --> 00:03:00,200
+Marc Heider (United States) - Holstein Kiel
+Partidas: 241 | Gols: 85 | Assistências: 53
+
+29
+00:03:00,200 --> 00:03:06,800
+Dmitrijus Guscinas (Lithuania) - Holstein Kiel
+Partidas: 217 | Gols: 87 | Assistências: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Alfred Bornemann (Germany) - Holstein Kiel
+Partidas: 222 | Gols: 114
+
+31
+00:03:13,400 --> 00:03:20,000
+Gerd Koll (Germany) - Holstein Kiel
+Partidas: 253 | Gols: 135
+

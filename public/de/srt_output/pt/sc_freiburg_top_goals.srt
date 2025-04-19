@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+SC Freiburg Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Altin Rraklli (Albania) - SC Freiburg
+Partidas: 95 | Gols: 25 | Assistências: 9
+
+3
+00:00:08,600 --> 00:00:15,200
+Hans-Dietmar Deinert (Germany) - SC Freiburg
+Partidas: 114 | Gols: 25 | Assistências: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Zlatan Bajramovic (Bosnia-Herzegovina) - SC Freiburg
+Partidas: 77 | Gols: 26 | Assistências: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Florian Niederlechner (Germany) - SC Freiburg
+Partidas: 89 | Gols: 26 | Assistências: 8
+
+6
+00:00:28,400 --> 00:00:35,000
+Mohamadou Idrissou (Cameroon) - SC Freiburg
+Partidas: 79 | Gols: 26 | Assistências: 11
+
+7
+00:00:35,000 --> 00:00:41,600
+Roland Sallai (Hungary) - SC Freiburg
+Partidas: 163 | Gols: 27 | Assistências: 23
+
+8
+00:00:41,600 --> 00:00:48,200
+Martin Braun (Germany) - SC Freiburg
+Partidas: 166 | Gols: 28 | Assistências: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Paul Dörflinger (Germany) - SC Freiburg
+Partidas: 56 | Gols: 28
+
+10
+00:00:54,800 --> 00:01:01,400
+Rodolfo Cardoso (Argentina) - SC Freiburg
+Partidas: 69 | Gols: 29 | Assistências: 18
+
+11
+00:01:01,400 --> 00:01:08,000
+Roda Antar (Lebanon) - SC Freiburg
+Partidas: 105 | Gols: 29 | Assistências: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Marco Weißhaupt (Germany) - SC Freiburg
+Partidas: 120 | Gols: 29 | Assistências: 16
+
+13
+00:01:14,600 --> 00:01:21,200
+Michael Gregoritsch (Austria) - SC Freiburg
+Partidas: 103 | Gols: 30 | Assistências: 12
+
+14
+00:01:21,200 --> 00:01:27,800
+Adel Sellimi (Tunisia) - SC Freiburg
+Partidas: 124 | Gols: 30 | Assistências: 12
+
+15
+00:01:27,800 --> 00:01:34,400
+Jonathan Schmid (France) - SC Freiburg
+Partidas: 218 | Gols: 31 | Assistências: 39
+
+16
+00:01:34,400 --> 00:01:41,000
+Uwe Wassmer (Germany) - SC Freiburg
+Partidas: 128 | Gols: 32 | Assistências: 11
+
+17
+00:01:41,000 --> 00:01:47,600
+Thomas Schweizer (Germany) - SC Freiburg
+Partidas: 143 | Gols: 32 | Assistências: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Jens Todt (Germany) - SC Freiburg
+Partidas: 180 | Gols: 35 | Assistências: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Levan Kobiashvili (Georgia) - SC Freiburg
+Partidas: 185 | Gols: 36 | Assistências: 22
+
+20
+00:02:00,800 --> 00:02:07,400
+Reinhard Binder (Germany) - SC Freiburg
+Partidas: 307 | Gols: 39 | Assistências: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Papiss Demba Cissé (Senegal) - SC Freiburg
+Partidas: 67 | Gols: 39 | Assistências: 5
+
+22
+00:02:14,000 --> 00:02:20,600
+Lucas Höler (Germany) - SC Freiburg
+Partidas: 258 | Gols: 41 | Assistências: 29
+
+23
+00:02:20,600 --> 00:02:27,200
+Soumaila Coulibaly (Mali) - SC Freiburg
+Partidas: 234 | Gols: 43 | Assistências: 14
+
+24
+00:02:27,200 --> 00:02:33,800
+Andreas Zeyer (Germany) - SC Freiburg
+Partidas: 441 | Gols: 46 | Assistências: 14
+
+25
+00:02:33,800 --> 00:02:40,400
+Uwe Spies (Germany) - SC Freiburg
+Partidas: 202 | Gols: 53 | Assistências: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Souleyman Sané (Senegal) - SC Freiburg
+Partidas: 113 | Gols: 58
+
+27
+00:02:47,000 --> 00:02:53,600
+Alexander Iashvili (Georgia) - SC Freiburg
+Partidas: 281 | Gols: 63 | Assistências: 61
+
+28
+00:02:53,600 --> 00:03:00,200
+Wolfgang Schüler (Germany) - SC Freiburg
+Partidas: 103 | Gols: 67 | Assistências: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+Joachim Löw (Germany) - SC Freiburg
+Partidas: 263 | Gols: 83
+
+30
+00:03:06,800 --> 00:03:13,400
+Vincenzo Grifo (Italy) - SC Freiburg
+Partidas: 300 | Gols: 94 | Assistências: 85
+
+31
+00:03:13,400 --> 00:03:20,000
+Nils Petersen (Germany) - SC Freiburg
+Partidas: 277 | Gols: 105 | Assistências: 21
+

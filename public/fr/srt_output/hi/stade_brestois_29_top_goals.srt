@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Brestois 29 सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Joël Henry (France) - Stade Brestois 29
+प्रदर्शन: 89 | गोल: 16 | असिस्ट: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Yvon Le Roux (France) - Stade Brestois 29
+प्रदर्शन: 133 | गोल: 17
+
+4
+00:00:15,200 --> 00:00:21,800
+Hervé Guégan (France) - Stade Brestois 29
+प्रदर्शन: 87 | गोल: 17
+
+5
+00:00:21,800 --> 00:00:28,400
+Romain Faivre (France) - Stade Brestois 29
+प्रदर्शन: 90 | गोल: 17 | असिस्ट: 14
+
+6
+00:00:28,400 --> 00:00:35,000
+Habib Diallo (Senegal) - Stade Brestois 29
+प्रदर्शन: 52 | गोल: 18 | असिस्ट: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Bernard Ferrer (France) - Stade Brestois 29
+प्रदर्शन: 60 | गोल: 18
+
+8
+00:00:41,600 --> 00:00:48,200
+Dragiša Binić (Serbia) - Stade Brestois 29
+प्रदर्शन: 33 | गोल: 18
+
+9
+00:00:48,200 --> 00:00:54,800
+Cristian Battocchio (Italy) - Stade Brestois 29
+प्रदर्शन: 131 | गोल: 19 | असिस्ट: 17
+
+10
+00:00:54,800 --> 00:01:01,400
+Irvin Cardona (France) - Stade Brestois 29
+प्रदर्शन: 106 | गोल: 19 | असिस्ट: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Romain Poyet (France) - Stade Brestois 29
+प्रदर्शन: 158 | गोल: 19 | असिस्ट: 19
+
+12
+00:01:08,000 --> 00:01:14,600
+Romain Del Castillo (France) - Stade Brestois 29
+प्रदर्शन: 109 | गोल: 19 | असिस्ट: 26
+
+13
+00:01:14,600 --> 00:01:21,200
+Alexandre Alphonse (Guadeloupe) - Stade Brestois 29
+प्रदर्शन: 95 | गोल: 20 | असिस्ट: 5
+
+14
+00:01:21,200 --> 00:01:27,800
+Patrick Martet (France) - Stade Brestois 29
+प्रदर्शन: 46 | गोल: 21
+
+15
+00:01:27,800 --> 00:01:34,400
+Mathias Autret (France) - Stade Brestois 29
+प्रदर्शन: 118 | गोल: 21 | असिस्ट: 21
+
+16
+00:01:34,400 --> 00:01:41,000
+Jérémy Le Douaron (France) - Stade Brestois 29
+प्रदर्शन: 136 | गोल: 22 | असिस्ट: 10
+
+17
+00:01:41,000 --> 00:01:47,600
+Basile de Carvalho (Guinea-Bissau) - Stade Brestois 29
+प्रदर्शन: 117 | गोल: 22 | असिस्ट: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Robert Malm (Togo) - Stade Brestois 29
+प्रदर्शन: 62 | गोल: 23 | असिस्ट: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Bernard Bureau (France) - Stade Brestois 29
+प्रदर्शन: 73 | गोल: 23
+
+20
+00:02:00,800 --> 00:02:07,400
+Jonathan Ayité (Togo) - Stade Brestois 29
+प्रदर्शन: 110 | गोल: 25 | असिस्ट: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Ronan Salaün (France) - Stade Brestois 29
+प्रदर्शन: 115 | गोल: 25 | असिस्ट: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Pascal Mariini (France) - Stade Brestois 29
+प्रदर्शन: 75 | गोल: 25
+
+23
+00:02:20,600 --> 00:02:27,200
+Franck Honorat (France) - Stade Brestois 29
+प्रदर्शन: 109 | गोल: 25 | असिस्ट: 17
+
+24
+00:02:27,200 --> 00:02:33,800
+Nolan Roux (France) - Stade Brestois 29
+प्रदर्शन: 86 | गोल: 29 | असिस्ट: 13
+
+25
+00:02:33,800 --> 00:02:40,400
+Steve Mounié (Benin) - Stade Brestois 29
+प्रदर्शन: 135 | गोल: 33 | असिस्ट: 9
+
+26
+00:02:40,400 --> 00:02:47,000
+Roberto Cabañas (Paraguay) - Stade Brestois 29
+प्रदर्शन: 60 | गोल: 36
+
+27
+00:02:47,000 --> 00:02:53,600
+Richard Socrier (Guadeloupe) - Stade Brestois 29
+प्रदर्शन: 132 | गोल: 40 | असिस्ट: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+Gaëtan Charbonnier (France) - Stade Brestois 29
+प्रदर्शन: 137 | गोल: 53 | असिस्ट: 15
+
+29
+00:03:00,200 --> 00:03:06,800
+Bruno Grougi (Martinique) - Stade Brestois 29
+प्रदर्शन: 307 | गोल: 53 | असिस्ट: 30
+
+30
+00:03:06,800 --> 00:03:13,400
+Gérard Buscher (France) - Stade Brestois 29
+प्रदर्शन: 147 | गोल: 64
+
+31
+00:03:13,400 --> 00:03:20,000
+Drago Vabec (Croatia) - Stade Brestois 29
+प्रदर्शन: 129 | गोल: 64 | असिस्ट: 2
+

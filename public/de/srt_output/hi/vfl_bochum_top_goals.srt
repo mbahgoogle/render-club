@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfL Bochum सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Klaus Fischer (Germany) - VfL Bochum
+प्रदर्शन: 96 | गोल: 30 | असिस्ट: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Martin Kree (Germany) - VfL Bochum
+प्रदर्शन: 182 | गोल: 30
+
+4
+00:00:15,200 --> 00:00:21,800
+Karl-Heinz Böttcher (Germany) - VfL Bochum
+प्रदर्शन: 91 | गोल: 31 | असिस्ट: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Walter Oswald (Germany) - VfL Bochum
+प्रदर्शन: 402 | गोल: 31 | असिस्ट: 3
+
+6
+00:00:28,400 --> 00:00:35,000
+Frank Schulz (Germany) - VfL Bochum
+प्रदर्शन: 124 | गोल: 31
+
+7
+00:00:35,000 --> 00:00:41,600
+Simon Zoller (Germany) - VfL Bochum
+प्रदर्शन: 109 | गोल: 33 | असिस्ट: 21
+
+8
+00:00:41,600 --> 00:00:48,200
+Erich Pawlak (Germany) - VfL Bochum
+प्रदर्शन: 131 | गोल: 33
+
+9
+00:00:48,200 --> 00:00:54,800
+Dieter Bast (Germany) - VfL Bochum
+प्रदर्शन: 226 | गोल: 34 | असिस्ट: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Hans-Werner Hartl (Germany) - VfL Bochum
+प्रदर्शन: 82 | गोल: 34 | असिस्ट: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Theodor Bergmeier (Germany) - VfL Bochum
+प्रदर्शन: 100 | गोल: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Lukas Hinterseer (Austria) - VfL Bochum
+प्रदर्शन: 65 | गोल: 35 | असिस्ट: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Lothar Woelk (Germany) - VfL Bochum
+प्रदर्शन: 438 | गोल: 36 | असिस्ट: 5
+
+14
+00:01:21,200 --> 00:01:27,800
+Stanislav Sestak (Slovakia) - VfL Bochum
+प्रदर्शन: 120 | गोल: 37 | असिस्ट: 21
+
+15
+00:01:27,800 --> 00:01:34,400
+Gerd Schirrmacher (Germany) - VfL Bochum
+प्रदर्शन: 174 | गोल: 38
+
+16
+00:01:34,400 --> 00:01:41,000
+Gerd Hohmann (Germany) - VfL Bochum
+प्रदर्शन: 115 | गोल: 39
+
+17
+00:01:41,000 --> 00:01:47,600
+Vahid Hashemian (Iran) - VfL Bochum
+प्रदर्शन: 137 | गोल: 40 | असिस्ट: 13
+
+18
+00:01:47,600 --> 00:01:54,200
+Thomas Christiansen (Spain) - VfL Bochum
+प्रदर्शन: 79 | गोल: 41 | असिस्ट: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Christian Schreier (Germany) - VfL Bochum
+प्रदर्शन: 110 | गोल: 42 | असिस्ट: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Dariusz Wosz (Germany) - VfL Bochum
+प्रदर्शन: 383 | गोल: 45 | असिस्ट: 81
+
+21
+00:02:07,400 --> 00:02:14,000
+Michael Lameck (Germany) - VfL Bochum
+प्रदर्शन: 596 | गोल: 45 | असिस्ट: 8
+
+22
+00:02:14,000 --> 00:02:20,600
+Simon Terodde (Germany) - VfL Bochum
+प्रदर्शन: 72 | गोल: 47 | असिस्ट: 12
+
+23
+00:02:20,600 --> 00:02:27,200
+Stefan Kuntz (Germany) - VfL Bochum
+प्रदर्शन: 130 | गोल: 50 | असिस्ट: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Gustav Eversberg (Germany) - VfL Bochum
+प्रदर्शन: 110 | गोल: 56
+
+25
+00:02:33,800 --> 00:02:40,400
+Uwe Leifeld (Germany) - VfL Bochum
+प्रदर्शन: 173 | गोल: 57 | असिस्ट: 6
+
+26
+00:02:40,400 --> 00:02:47,000
+Peter Peschel (Germany) - VfL Bochum
+प्रदर्शन: 271 | गोल: 59 | असिस्ट: 21
+
+27
+00:02:47,000 --> 00:02:53,600
+Josef Kaczor (Germany) - VfL Bochum
+प्रदर्शन: 159 | गोल: 64 | असिस्ट: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Hans-Joachim Abel (Germany) - VfL Bochum
+प्रदर्शन: 165 | गोल: 77
+
+29
+00:03:00,200 --> 00:03:06,800
+Uwe Wegmann (Germany) - VfL Bochum
+प्रदर्शन: 269 | गोल: 82 | असिस्ट: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Werner Balte (Germany) - VfL Bochum
+प्रदर्शन: 320 | गोल: 112 | असिस्ट: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Hans Walitza (Germany) - VfL Bochum
+प्रदर्शन: 194 | गोल: 129 | असिस्ट: 14
+

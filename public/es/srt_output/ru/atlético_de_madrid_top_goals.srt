@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Atlético de Madrid Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+José Luis Caminero (Spain) - Atlético de Madrid
+Матчи: 185 | Голы: 48 | Голевые передачи: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Negro Cabrera (Argentina) - Atlético de Madrid
+Матчи: 151 | Голы: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Futre (Portugal) - Atlético de Madrid
+Матчи: 209 | Голы: 51 | Голевые передачи: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Rubén Ayala (Argentina) - Atlético de Madrid
+Матчи: 203 | Голы: 57
+
+6
+00:00:28,400 --> 00:00:35,000
+Larbi Ben Barek (Morocco) - Atlético de Madrid
+Матчи: 117 | Голы: 58 | Голевые передачи: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Álvaro Morata (Spain) - Atlético de Madrid
+Матчи: 154 | Голы: 58 | Голевые передачи: 14
+
+8
+00:00:41,600 --> 00:00:48,200
+Roberto Marina (Spain) - Atlético de Madrid
+Матчи: 295 | Голы: 58 | Голевые передачи: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Baltazar (Brazil) - Atlético de Madrid
+Матчи: 90 | Голы: 60
+
+10
+00:00:54,800 --> 00:01:01,400
+Javier Irureta (Spain) - Atlético de Madrid
+Матчи: 257 | Голы: 60
+
+11
+00:01:01,400 --> 00:01:08,000
+Kiko Narváez (Spain) - Atlético de Madrid
+Матчи: 277 | Голы: 64 | Голевые передачи: 13
+
+12
+00:01:08,000 --> 00:01:14,600
+Miguel González (Spain) - Atlético de Madrid
+Матчи: 233 | Голы: 68 | Голевые передачи: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Radamel Falcao (Colombia) - Atlético de Madrid
+Матчи: 91 | Голы: 70 | Голевые передачи: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Hugo Sánchez (Mexico) - Atlético de Madrid
+Матчи: 150 | Голы: 75
+
+15
+00:01:27,800 --> 00:01:34,400
+José Juncosa (Spain) - Atlético de Madrid
+Матчи: 194 | Голы: 82 | Голевые передачи: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Diego Costa (Spain) - Atlético de Madrid
+Матчи: 216 | Голы: 83 | Голевые передачи: 36
+
+17
+00:01:41,000 --> 00:01:47,600
+Jorge Mendonça (Portugal) - Atlético de Madrid
+Матчи: 217 | Голы: 83
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Correa (Argentina) - Atlético de Madrid
+Матчи: 460 | Голы: 87 | Голевые передачи: 65
+
+19
+00:01:54,200 --> 00:02:00,800
+Enrique Collar (Spain) - Atlético de Madrid
+Матчи: 415 | Голы: 89 | Голевые передачи: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Rubén Cano (Spain) - Atlético de Madrid
+Матчи: 190 | Голы: 90
+
+21
+00:02:07,400 --> 00:02:14,000
+Manolo (Spain) - Atlético de Madrid
+Матчи: 267 | Голы: 92 | Голевые передачи: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Diego Forlán (Uruguay) - Atlético de Madrid
+Матчи: 198 | Голы: 96 | Голевые передачи: 31
+
+23
+00:02:20,600 --> 00:02:27,200
+Adelardo (Spain) - Atlético de Madrid
+Матчи: 500 | Голы: 98
+
+24
+00:02:27,200 --> 00:02:33,800
+Sergio Agüero (Argentina) - Atlético de Madrid
+Матчи: 234 | Голы: 101 | Голевые передачи: 47
+
+25
+00:02:33,800 --> 00:02:40,400
+Joaquín Peiró (Spain) - Atlético de Madrid
+Матчи: 193 | Голы: 113
+
+26
+00:02:40,400 --> 00:02:47,000
+Paco Campos (Spain) - Atlético de Madrid
+Матчи: 206 | Голы: 123
+
+27
+00:02:47,000 --> 00:02:53,600
+José Eulogio Gárate (Spain) - Atlético de Madrid
+Матчи: 299 | Голы: 125 | Голевые передачи: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Fernando Torres (Spain) - Atlético de Madrid
+Матчи: 403 | Голы: 129 | Голевые передачи: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Adrián Escudero (Spain) - Atlético de Madrid
+Матчи: 293 | Голы: 153 | Голевые передачи: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Luis Aragonés (Spain) - Atlético de Madrid
+Матчи: 332 | Голы: 158
+
+31
+00:03:13,400 --> 00:03:20,000
+Antoine Griezmann (France) - Atlético de Madrid
+Матчи: 433 | Голы: 197 | Голевые передачи: 91
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Valencia CF Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Vicente (Spain) - Valencia CF
+Einsätze: 338 | Tore: 52 | Vorlagen: 56
+
+3
+00:00:08,600 --> 00:00:15,200
+Juan Sánchez (Spain) - Valencia CF
+Einsätze: 204 | Tore: 52 | Vorlagen: 18
+
+4
+00:00:15,200 --> 00:00:21,800
+Héctor Núñez (Uruguay) - Valencia CF
+Einsätze: 148 | Tore: 55
+
+5
+00:00:21,800 --> 00:00:28,400
+Enrique Saura (Spain) - Valencia CF
+Einsätze: 394 | Tore: 56 | Vorlagen: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Rubén Baraja (Spain) - Valencia CF
+Einsätze: 361 | Tore: 56 | Vorlagen: 25
+
+7
+00:00:35,000 --> 00:00:41,600
+Óscar Valdez (Spain) - Valencia CF
+Einsätze: 197 | Tore: 56 | Vorlagen: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Gaizka Mendieta (Spain) - Valencia CF
+Einsätze: 299 | Tore: 57 | Vorlagen: 27
+
+9
+00:00:48,200 --> 00:00:54,800
+Rodrigo (Spain) - Valencia CF
+Einsätze: 220 | Tore: 59 | Vorlagen: 41
+
+10
+00:00:54,800 --> 00:01:01,400
+Antonio Fuertes (Spain) - Valencia CF
+Einsätze: 196 | Tore: 62 | Vorlagen: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Dani Parejo (Spain) - Valencia CF
+Einsätze: 383 | Tore: 63 | Vorlagen: 64
+
+12
+00:01:08,000 --> 00:01:14,600
+José Claramunt (Spain) - Valencia CF
+Einsätze: 336 | Tore: 64 | Vorlagen: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Miguel Ángel Angulo (Spain) - Valencia CF
+Einsätze: 432 | Tore: 65 | Vorlagen: 45
+
+14
+00:01:21,200 --> 00:01:27,800
+Pasieguito (Spain) - Valencia CF
+Einsätze: 259 | Tore: 65 | Vorlagen: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Vicente Guillot (Spain) - Valencia CF
+Einsätze: 198 | Tore: 67
+
+16
+00:01:34,400 --> 00:01:41,000
+Predrag Mijatović (Montenegro) - Valencia CF
+Einsätze: 128 | Tore: 68 | Vorlagen: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Robert Fernández (Spain) - Valencia CF
+Einsätze: 313 | Tore: 69
+
+18
+00:01:47,600 --> 00:01:54,200
+Claudio López (Argentina) - Valencia CF
+Einsätze: 175 | Tore: 71 | Vorlagen: 34
+
+19
+00:01:54,200 --> 00:02:00,800
+Amadeo (Spain) - Valencia CF
+Einsätze: 237 | Tore: 82 | Vorlagen: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Roberto Soldado (Spain) - Valencia CF
+Einsätze: 141 | Tore: 82 | Vorlagen: 15
+
+21
+00:02:07,400 --> 00:02:14,000
+Guillermo Gorostiza (Spain) - Valencia CF
+Einsätze: 132 | Tore: 84
+
+22
+00:02:14,000 --> 00:02:20,600
+Lyuboslav Penev (Bulgaria) - Valencia CF
+Einsätze: 199 | Tore: 85 | Vorlagen: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Vicente Seguí (Spain) - Valencia CF
+Einsätze: 280 | Tore: 85 | Vorlagen: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Epi (Spain) - Valencia CF
+Einsätze: 220 | Tore: 86 | Vorlagen: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Silvestre Igoa (Spain) - Valencia CF
+Einsätze: 183 | Tore: 86 | Vorlagen: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Manuel Badenes (Spain) - Valencia CF
+Einsätze: 107 | Tore: 104
+
+27
+00:02:47,000 --> 00:02:53,600
+Fernando (Spain) - Valencia CF
+Einsätze: 487 | Tore: 123 | Vorlagen: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+David Villa (Spain) - Valencia CF
+Einsätze: 225 | Tore: 129 | Vorlagen: 29
+
+29
+00:03:00,200 --> 00:03:06,800
+Waldo Machado (Brazil) - Valencia CF
+Einsätze: 269 | Tore: 149 | Vorlagen: 1
+
+30
+00:03:06,800 --> 00:03:13,400
+Mario Kempes (Argentina) - Valencia CF
+Einsätze: 246 | Tore: 149 | Vorlagen: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Mundo (Spain) - Valencia CF
+Einsätze: 232 | Tore: 205
+

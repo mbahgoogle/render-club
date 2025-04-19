@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSM Makassar 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Daisuke Sakai (Japan) - PSM Makassar
+출전: 27 | 골: 4 | 도움: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Saldi (Indonesia) - PSM Makassar
+출전: 44 | 골: 4 | 도움: 5
+
+4
+00:00:15,200 --> 00:00:21,800
+Titus Bonai (Indonesia) - PSM Makassar
+출전: 22 | 골: 4 | 도움: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Giancarlo (Brazil) - PSM Makassar
+출전: 7 | 골: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Sandro (Hongkong) - PSM Makassar
+출전: 11 | 골: 4 | 도움: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Ponaryo Astaman (Indonesia) - PSM Makassar
+출전: 13 | 골: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Aaron Evans (Australia) - PSM Makassar
+출전: 47 | 골: 5 | 도움: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Anco Jansen (Netherlands) - PSM Makassar
+출전: 20 | 골: 5 | 도움: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Hamka Hamzah (Indonesia) - PSM Makassar
+출전: 30 | 골: 5 | 도움: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Rizky Eka Pratama (Indonesia) - PSM Makassar
+출전: 166 | 골: 5 | 도움: 15
+
+12
+00:01:08,000 --> 00:01:14,600
+Aloísio Neto (Brazil) - PSM Makassar
+출전: 34 | 골: 5 | 도움: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Amido Baldé (Guinea-Bissau) - PSM Makassar
+출전: 14 | 골: 6 | 도움: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Yance Sayuri (Indonesia) - PSM Makassar
+출전: 94 | 골: 7 | 도움: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Rasyid Bakri (Indonesia) - PSM Makassar
+출전: 169 | 골: 8 | 도움: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Reinaldo (Brazil) - PSM Makassar
+출전: 17 | 골: 9 | 도움: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Adilson Silva (Portugal) - PSM Makassar
+출전: 54 | 골: 11 | 도움: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Eero Markkanen (Finland) - PSM Makassar
+출전: 21 | 골: 11 | 도움: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Ramadhan Sananta (Indonesia) - PSM Makassar
+출전: 28 | 골: 11 | 도움: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Guy Junior (Indonesia) - PSM Makassar
+출전: 54 | 골: 13 | 도움: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Everton (Brazil) - PSM Makassar
+출전: 61 | 골: 14 | 도움: 8
+
+22
+00:02:14,000 --> 00:02:20,600
+Nermin Haljeta (Slovenia) - PSM Makassar
+출전: 31 | 골: 14 | 도움: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Yuran Fernandes (Cape Verde) - PSM Makassar
+출전: 102 | 골: 15 | 도움: 8
+
+24
+00:02:27,200 --> 00:02:33,800
+Rizky Pellu (Indonesia) - PSM Makassar
+출전: 121 | 골: 16 | 도움: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Marc Klok (Indonesia) - PSM Makassar
+출전: 102 | 골: 17 | 도움: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Rahmat (Indonesia) - PSM Makassar
+출전: 124 | 골: 22 | 도움: 15
+
+27
+00:02:47,000 --> 00:02:53,600
+Kenzo Nambu (Japan) - PSM Makassar
+출전: 74 | 골: 23 | 도움: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Yakob Sayuri (Indonesia) - PSM Makassar
+출전: 105 | 골: 25 | 도움: 16
+
+29
+00:03:00,200 --> 00:03:06,800
+Zulham Zamrun (Indonesia) - PSM Makassar
+출전: 75 | 골: 25 | 도움: 10
+
+30
+00:03:06,800 --> 00:03:13,400
+Wiljan Pluim (Netherlands) - PSM Makassar
+출전: 178 | 골: 47 | 도움: 51
+
+31
+00:03:13,400 --> 00:03:20,000
+Ferdinan Sinaga (Indonesia) - PSM Makassar
+출전: 126 | 골: 47 | 도움: 9
+

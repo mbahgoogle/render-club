@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+1.FSV Mainz 05 Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Ádám Szalai (Hungary) - 1.FSV Mainz 05
+Partidas: 146 | Gols: 28 | Assistências: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Aristide Bancé (Burkina Faso) - 1.FSV Mainz 05
+Partidas: 67 | Gols: 28 | Assistências: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Fabrizio Hayer (Germany) - 1.FSV Mainz 05
+Partidas: 182 | Gols: 28 | Assistências: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Wolfgang Elze (Germany) - 1.FSV Mainz 05
+Partidas: 50 | Gols: 29
+
+6
+00:00:28,400 --> 00:00:35,000
+Shinji Okazaki (Japan) - 1.FSV Mainz 05
+Partidas: 70 | Gols: 29 | Assistências: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Jürgen Kramny (Germany) - 1.FSV Mainz 05
+Partidas: 229 | Gols: 30 | Assistências: 25
+
+8
+00:00:41,600 --> 00:00:48,200
+Mohamed Zidan (Egypt) - 1.FSV Mainz 05
+Partidas: 57 | Gols: 30 | Assistências: 6
+
+9
+00:00:48,200 --> 00:00:54,800
+Thomas Ziemer (Germany) - 1.FSV Mainz 05
+Partidas: 104 | Gols: 30 | Assistências: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Andriy Voronin (Ukraine) - 1.FSV Mainz 05
+Partidas: 79 | Gols: 30 | Assistências: 12
+
+11
+00:01:01,400 --> 00:01:08,000
+Gerd Klier (Germany) - 1.FSV Mainz 05
+Partidas: 84 | Gols: 30 | Assistências: 4
+
+12
+00:01:08,000 --> 00:01:14,600
+Werner Sommer (Germany) - 1.FSV Mainz 05
+Partidas: 184 | Gols: 31
+
+13
+00:01:14,600 --> 00:01:21,200
+Armin Maier (Germany) - 1.FSV Mainz 05
+Partidas: 92 | Gols: 31
+
+14
+00:01:21,200 --> 00:01:27,800
+Michael Schuhmacher (Germany) - 1.FSV Mainz 05
+Partidas: 320 | Gols: 32 | Assistências: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Yunus Mallı (Türkiye) - 1.FSV Mainz 05
+Partidas: 146 | Gols: 32 | Assistências: 23
+
+16
+00:01:34,400 --> 00:01:41,000
+Josef Meinhardt (Germany) - 1.FSV Mainz 05
+Partidas: 146 | Gols: 32
+
+17
+00:01:41,000 --> 00:01:47,600
+Abderrahim Ouakili (Morocco) - 1.FSV Mainz 05
+Partidas: 121 | Gols: 33 | Assistências: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+Robin Quaison (Sweden) - 1.FSV Mainz 05
+Partidas: 130 | Gols: 34 | Assistências: 12
+
+19
+00:01:54,200 --> 00:02:00,800
+Benjamin Auer (Germany) - 1.FSV Mainz 05
+Partidas: 128 | Gols: 34 | Assistências: 16
+
+20
+00:02:00,800 --> 00:02:07,400
+Karim Onisiwo (Austria) - 1.FSV Mainz 05
+Partidas: 233 | Gols: 35 | Assistências: 32
+
+21
+00:02:07,400 --> 00:02:14,000
+Lothar Buchmann (Germany) - 1.FSV Mainz 05
+Partidas: 106 | Gols: 36
+
+22
+00:02:14,000 --> 00:02:20,600
+Vincenz Fuchs (Germany) - 1.FSV Mainz 05
+Partidas: 91 | Gols: 37 | Assistências: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Jonathan Burkardt (Germany) - 1.FSV Mainz 05
+Partidas: 138 | Gols: 42 | Assistências: 14
+
+24
+00:02:27,200 --> 00:02:33,800
+Bernhard Christ (Germany) - 1.FSV Mainz 05
+Partidas: 188 | Gols: 44 | Assistências: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Michael Müller (Germany) - 1.FSV Mainz 05
+Partidas: 352 | Gols: 44 | Assistências: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Karl-Heinz Wettig (Germany) - 1.FSV Mainz 05
+Partidas: 127 | Gols: 50 | Assistências: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Jürgen Klopp (Germany) - 1.FSV Mainz 05
+Partidas: 340 | Gols: 56 | Assistências: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Norbert Hönnscheidt (Germany) - 1.FSV Mainz 05
+Partidas: 147 | Gols: 56 | Assistências: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Sven Demandt (Germany) - 1.FSV Mainz 05
+Partidas: 188 | Gols: 57 | Assistências: 15
+
+30
+00:03:06,800 --> 00:03:13,400
+Michael Thurk (Germany) - 1.FSV Mainz 05
+Partidas: 202 | Gols: 64 | Assistências: 29
+
+31
+00:03:13,400 --> 00:03:20,000
+Karl-Heinz Mähn (Germany) - 1.FSV Mainz 05
+Partidas: 203 | Gols: 85 | Assistências: 4
+

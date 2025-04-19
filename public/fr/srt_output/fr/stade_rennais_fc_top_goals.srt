@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Rennais FC Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Marco Grassi (Switzerland) - Stade Rennais FC
+Apparitions: 60 | Buts: 28 | Passes décisives: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+John Utaka (Nigeria) - Stade Rennais FC
+Apparitions: 75 | Buts: 28 | Passes décisives: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Pokou (Cote d'Ivoire) - Stade Rennais FC
+Apparitions: 56 | Buts: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+M'Baye Niang (Senegal) - Stade Rennais FC
+Apparitions: 92 | Buts: 30 | Passes décisives: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Stéphane Guivarc'h (France) - Stade Rennais FC
+Apparitions: 45 | Buts: 30
+
+7
+00:00:35,000 --> 00:00:41,600
+Amine Gouiri (Algeria) - Stade Rennais FC
+Apparitions: 103 | Buts: 31 | Passes décisives: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Robert Rico (France) - Stade Rennais FC
+Apparitions: 165 | Buts: 36
+
+9
+00:00:48,200 --> 00:00:54,800
+Arnaud Kalimuendo (France) - Stade Rennais FC
+Apparitions: 105 | Buts: 36 | Passes décisives: 9
+
+10
+00:00:54,800 --> 00:01:01,400
+Adrien Hunou (France) - Stade Rennais FC
+Apparitions: 160 | Buts: 36 | Passes décisives: 5
+
+11
+00:01:01,400 --> 00:01:08,000
+Shabani Nonda (DR Congo) - Stade Rennais FC
+Apparitions: 77 | Buts: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+Marcel Loncle (France) - Stade Rennais FC
+Apparitions: 155 | Buts: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+Claude Dubaële (France) - Stade Rennais FC
+Apparitions: 101 | Buts: 37
+
+14
+00:01:21,200 --> 00:01:27,800
+Olivier Monterrubio (France) - Stade Rennais FC
+Apparitions: 216 | Buts: 41 | Passes décisives: 33
+
+15
+00:01:27,800 --> 00:01:34,400
+Farès Bousdira (France) - Stade Rennais FC
+Apparitions: 121 | Buts: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Laurent Delamontagne (France) - Stade Rennais FC
+Apparitions: 213 | Buts: 42
+
+17
+00:01:41,000 --> 00:01:47,600
+Jimmy Briand (France) - Stade Rennais FC
+Apparitions: 212 | Buts: 43 | Passes décisives: 27
+
+18
+00:01:47,600 --> 00:01:54,200
+Jocelyn Gourvennec (France) - Stade Rennais FC
+Apparitions: 179 | Buts: 43 | Passes décisives: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Silvester Takac (Serbia) - Stade Rennais FC
+Apparitions: 94 | Buts: 44
+
+20
+00:02:00,800 --> 00:02:07,400
+Sylvain Wiltord (France) - Stade Rennais FC
+Apparitions: 178 | Buts: 45 | Passes décisives: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Hervé Guermeur (France) - Stade Rennais FC
+Apparitions: 204 | Buts: 46 | Passes décisives: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Erik-Jan van den Boogaard (Netherlands) - Stade Rennais FC
+Apparitions: 93 | Buts: 49
+
+23
+00:02:20,600 --> 00:02:27,200
+Mario Relmy (France) - Stade Rennais FC
+Apparitions: 130 | Buts: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Martin Terrier (France) - Stade Rennais FC
+Apparitions: 141 | Buts: 51 | Passes décisives: 24
+
+25
+00:02:33,800 --> 00:02:40,400
+Alex Frei (Switzerland) - Stade Rennais FC
+Apparitions: 117 | Buts: 52 | Passes décisives: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Serge Lenoir (France) - Stade Rennais FC
+Apparitions: 132 | Buts: 55
+
+27
+00:02:47,000 --> 00:02:53,600
+Benjamin Bourigeaud (France) - Stade Rennais FC
+Apparitions: 311 | Buts: 66 | Passes décisives: 66
+
+28
+00:02:53,600 --> 00:03:00,200
+Khennane Mahi (Algeria) - Stade Rennais FC
+Apparitions: 179 | Buts: 70
+
+29
+00:03:00,200 --> 00:03:06,800
+Giovanni Pellegrini (France) - Stade Rennais FC
+Apparitions: 176 | Buts: 78
+
+30
+00:03:06,800 --> 00:03:13,400
+Jean Grumellon (France) - Stade Rennais FC
+Apparitions: 134 | Buts: 92
+
+31
+00:03:13,400 --> 00:03:20,000
+Daniel Rodighiero (France) - Stade Rennais FC
+Apparitions: 228 | Buts: 125
+

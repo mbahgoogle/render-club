@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Real Sociedad Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+José María Araquistain (Spain) - Real Sociedad
+Partidos: 136 | Goles: 37
+
+3
+00:00:08,600 --> 00:00:15,200
+Valeriy Karpin (Russia) - Real Sociedad
+Partidos: 194 | Goles: 37 | Asistencias: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Sarasqueta (Spain) - Real Sociedad
+Partidos: 128 | Goles: 38 | Asistencias: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Loren Juarros (Spain) - Real Sociedad
+Partidos: 399 | Goles: 39 | Asistencias: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Santi Idígoras (Spain) - Real Sociedad
+Partidos: 229 | Goles: 40
+
+7
+00:00:35,000 --> 00:00:41,600
+John Aldridge (Ireland) - Real Sociedad
+Partidos: 75 | Goles: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+José María Pérez (Spain) - Real Sociedad
+Partidos: 211 | Goles: 42 | Asistencias: 3
+
+9
+00:00:48,200 --> 00:00:54,800
+Alexander Isak (Sweden) - Real Sociedad
+Partidos: 132 | Goles: 44 | Asistencias: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Paco Bienzobas (Spain) - Real Sociedad
+Partidos: 86 | Goles: 45
+
+11
+00:01:01,400 --> 00:01:08,000
+Sebastián Ontoria (Spain) - Real Sociedad
+Partidos: 223 | Goles: 45
+
+12
+00:01:08,000 --> 00:01:14,600
+Epi (Spain) - Real Sociedad
+Partidos: 143 | Goles: 48
+
+13
+00:01:14,600 --> 00:01:21,200
+Javi de Pedro (Spain) - Real Sociedad
+Partidos: 323 | Goles: 52 | Asistencias: 35
+
+14
+00:01:21,200 --> 00:01:27,800
+Antoine Griezmann (France) - Real Sociedad
+Partidos: 202 | Goles: 52 | Asistencias: 18
+
+15
+00:01:27,800 --> 00:01:34,400
+Cholín (Spain) - Real Sociedad
+Partidos: 104 | Goles: 54
+
+16
+00:01:34,400 --> 00:01:41,000
+Nihat Kahveci (Türkiye) - Real Sociedad
+Partidos: 142 | Goles: 58 | Asistencias: 12
+
+17
+00:01:41,000 --> 00:01:47,600
+Óscar de Paula (Spain) - Real Sociedad
+Partidos: 298 | Goles: 60 | Asistencias: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Paz (Spain) - Real Sociedad
+Partidos: 243 | Goles: 60 | Asistencias: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Willian José (Brazil) - Real Sociedad
+Partidos: 170 | Goles: 62 | Asistencias: 15
+
+20
+00:02:00,800 --> 00:02:07,400
+Silvestre Igoa (Spain) - Real Sociedad
+Partidos: 128 | Goles: 68
+
+21
+00:02:07,400 --> 00:02:14,000
+Jesús Mari Zamora (Spain) - Real Sociedad
+Partidos: 529 | Goles: 69
+
+22
+00:02:14,000 --> 00:02:20,600
+Carlos Vela (Mexico) - Real Sociedad
+Partidos: 250 | Goles: 73 | Asistencias: 43
+
+23
+00:02:20,600 --> 00:02:27,200
+Imanol Agirretxe (Spain) - Real Sociedad
+Partidos: 271 | Goles: 74 | Asistencias: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Xabi Prieto (Spain) - Real Sociedad
+Partidos: 531 | Goles: 74 | Asistencias: 52
+
+25
+00:02:33,800 --> 00:02:40,400
+José Mari Bakero (Spain) - Real Sociedad
+Partidos: 260 | Goles: 76
+
+26
+00:02:40,400 --> 00:02:47,000
+Pello Uralde (Spain) - Real Sociedad
+Partidos: 221 | Goles: 80 | Asistencias: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Meho Kodro (Bosnia-Herzegovina) - Real Sociedad
+Partidos: 146 | Goles: 81
+
+28
+00:02:53,600 --> 00:03:00,200
+Darko Kovačević (Serbia) - Real Sociedad
+Partidos: 283 | Goles: 107 | Asistencias: 22
+
+29
+00:03:00,200 --> 00:03:06,800
+Mikel Oyarzabal (Spain) - Real Sociedad
+Partidos: 388 | Goles: 111 | Asistencias: 60
+
+30
+00:03:06,800 --> 00:03:13,400
+Roberto López Ufarte (Spain) - Real Sociedad
+Partidos: 423 | Goles: 111 | Asistencias: 5
+
+31
+00:03:13,400 --> 00:03:20,000
+Jesús Satrustegui (Spain) - Real Sociedad
+Partidos: 340 | Goles: 152 | Asistencias: 1
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Nottingham Forest Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Ian Woan (England) - Nottingham Forest
+Partidos: 248 | Goles: 38 | Asistencias: 27
+
+3
+00:00:08,600 --> 00:00:15,200
+Stan Collymore (England) - Nottingham Forest
+Partidos: 57 | Goles: 38 | Asistencias: 7
+
+4
+00:00:15,200 --> 00:00:21,800
+Kris Commons (Scotland) - Nottingham Forest
+Partidos: 157 | Goles: 38 | Asistencias: 23
+
+5
+00:00:21,800 --> 00:00:28,400
+Ian Wallace (Scotland) - Nottingham Forest
+Partidos: 154 | Goles: 38 | Asistencias: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Colin Booth (England) - Nottingham Forest
+Partidos: 90 | Goles: 39 | Asistencias: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Martin O'Neill (Northern Ireland) - Nottingham Forest
+Partidos: 209 | Goles: 40 | Asistencias: 16
+
+8
+00:00:41,600 --> 00:00:48,200
+Nathan Tyson (England) - Nottingham Forest
+Partidos: 209 | Goles: 40 | Asistencias: 19
+
+9
+00:00:48,200 --> 00:00:54,800
+Andy Reid (Ireland) - Nottingham Forest
+Partidos: 288 | Goles: 41 | Asistencias: 49
+
+10
+00:00:54,800 --> 00:01:01,400
+Geoff Vowden (England) - Nottingham Forest
+Partidos: 100 | Goles: 42 | Asistencias: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Robert Earnshaw (Wales) - Nottingham Forest
+Partidos: 110 | Goles: 43 | Asistencias: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Dexter Blackstock (Antigua and Barbuda) - Nottingham Forest
+Partidos: 187 | Goles: 44 | Asistencias: 23
+
+13
+00:01:14,600 --> 00:01:21,200
+Lewis McGugan (England) - Nottingham Forest
+Partidos: 229 | Goles: 44 | Asistencias: 27
+
+14
+00:01:21,200 --> 00:01:27,800
+Joe Baker (England) - Nottingham Forest
+Partidos: 127 | Goles: 45 | Asistencias: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Tony Woodcock (England) - Nottingham Forest
+Partidos: 139 | Goles: 46 | Asistencias: 34
+
+16
+00:01:34,400 --> 00:01:41,000
+Frank Wignall (England) - Nottingham Forest
+Partidos: 167 | Goles: 48 | Asistencias: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+David Johnson (Jamaica) - Nottingham Forest
+Partidos: 163 | Goles: 48 | Asistencias: 7
+
+18
+00:01:47,600 --> 00:01:54,200
+Marlon Harewood (England) - Nottingham Forest
+Partidos: 204 | Goles: 54 | Asistencias: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+John Quigley (Scotland) - Nottingham Forest
+Partidos: 252 | Goles: 54 | Asistencias: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Neil Webb (England) - Nottingham Forest
+Partidos: 195 | Goles: 55 | Asistencias: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Lewis Grabban (Jamaica) - Nottingham Forest
+Partidos: 149 | Goles: 56 | Asistencias: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Tommy Wilson (England) - Nottingham Forest
+Partidos: 123 | Goles: 56
+
+23
+00:02:20,600 --> 00:02:27,200
+Peter Davenport (England) - Nottingham Forest
+Partidos: 136 | Goles: 57
+
+24
+00:02:27,200 --> 00:02:33,800
+Ian Bowyer (England) - Nottingham Forest
+Partidos: 397 | Goles: 59 | Asistencias: 9
+
+25
+00:02:33,800 --> 00:02:40,400
+Steve Hodge (England) - Nottingham Forest
+Partidos: 255 | Goles: 63 | Asistencias: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Colin Addison (England) - Nottingham Forest
+Partidos: 169 | Goles: 65
+
+27
+00:02:47,000 --> 00:02:53,600
+John Robertson (Scotland) - Nottingham Forest
+Partidos: 350 | Goles: 71 | Asistencias: 36
+
+28
+00:02:53,600 --> 00:03:00,200
+Stuart Pearce (England) - Nottingham Forest
+Partidos: 464 | Goles: 75 | Asistencias: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Garry Birtles (England) - Nottingham Forest
+Partidos: 266 | Goles: 89 | Asistencias: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Ian Storey-Moore (England) - Nottingham Forest
+Partidos: 251 | Goles: 113 | Asistencias: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Nigel Clough (England) - Nottingham Forest
+Partidos: 385 | Goles: 124 | Asistencias: 10
+

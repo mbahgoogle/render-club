@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Sriwijaya FC 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Reyhan Firdaus (Indonesia) - Sriwijaya FC
+出場数: 19 | ゴール: 4 | アシスト: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Marckho Merauje (Indonesia) - Sriwijaya FC
+出場数: 58 | ゴール: 4 | アシスト: 3
+
+4
+00:00:15,200 --> 00:00:21,800
+Vendry Mofu (Indonesia) - Sriwijaya FC
+出場数: 17 | ゴール: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Asri Akbar (Indonesia) - Sriwijaya FC
+出場数: 17 | ゴール: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Hamka Hamzah (Indonesia) - Sriwijaya FC
+出場数: 15 | ゴール: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Siswanto (Indonesia) - Sriwijaya FC
+出場数: 52 | ゴール: 4 | アシスト: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Achmad Jufriyanto (Indonesia) - Sriwijaya FC
+出場数: 65 | ゴール: 5 | アシスト: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Ponaryo Astaman (Indonesia) - Sriwijaya FC
+出場数: 67 | ゴール: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Nur Iskandar (Indonesia) - Sriwijaya FC
+出場数: 85 | ゴール: 5 | アシスト: 10
+
+11
+00:01:01,400 --> 00:01:08,000
+Rivaldi Bawuo (Indonesia) - Sriwijaya FC
+出場数: 18 | ゴール: 5 | アシスト: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Airlangga Sucipto (Indonesia) - Sriwijaya FC
+出場数: 24 | ゴール: 5 | アシスト: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Tijani Belaid (Tunisia) - Sriwijaya FC
+出場数: 26 | ゴール: 5 | アシスト: 12
+
+14
+00:01:21,200 --> 00:01:27,800
+Muhammad Fadly (Indonesia) - Sriwijaya FC
+出場数: 16 | ゴール: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Lewis Eric Weeks (Liberia) - Sriwijaya FC
+出場数: 18 | ゴール: 6
+
+16
+00:01:34,400 --> 00:01:41,000
+Dedi Hartono (Indonesia) - Sriwijaya FC
+出場数: 13 | ゴール: 6 | アシスト: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Firman Utina (Indonesia) - Sriwijaya FC
+出場数: 40 | ゴール: 6
+
+18
+00:01:47,600 --> 00:01:54,200
+Habibi Jusuf (Indonesia) - Sriwijaya FC
+出場数: 11 | ゴール: 7 | アシスト: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Lancine Kone (Cote d'Ivoire) - Sriwijaya FC
+出場数: 17 | ゴール: 7
+
+20
+00:02:00,800 --> 00:02:07,400
+Ramdani Lestaluhu (Indonesia) - Sriwijaya FC
+出場数: 25 | ゴール: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Herman Dzumafo (Indonesia) - Sriwijaya FC
+出場数: 16 | ゴール: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Manuchekhr Dzhalilov (Tajikistan) - Sriwijaya FC
+出場数: 30 | ゴール: 7 | アシスト: 5
+
+23
+00:02:20,600 --> 00:02:27,200
+Thierry Gathuessi (Cameroon) - Sriwijaya FC
+出場数: 36 | ゴール: 7
+
+24
+00:02:27,200 --> 00:02:33,800
+Boakay Foday (Liberia) - Sriwijaya FC
+出場数: 28 | ゴール: 9
+
+25
+00:02:33,800 --> 00:02:40,400
+Muhammad Ridwan (Indonesia) - Sriwijaya FC
+出場数: 47 | ゴール: 9 | アシスト: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Tantan (Indonesia) - Sriwijaya FC
+出場数: 32 | ゴール: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+Chencho Gyeltshen (Bhutan) - Sriwijaya FC
+出場数: 28 | ゴール: 11 | アシスト: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Esteban Vizcarra (Indonesia) - Sriwijaya FC
+出場数: 32 | ゴール: 11 | アシスト: 4
+
+29
+00:03:00,200 --> 00:03:06,800
+Keith Gumbs (St. Kitts & Nevis) - Sriwijaya FC
+出場数: 46 | ゴール: 28
+
+30
+00:03:06,800 --> 00:03:13,400
+Beto (Indonesia) - Sriwijaya FC
+出場数: 70 | ゴール: 37 | アシスト: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Hilton Moreira (Indonesia) - Sriwijaya FC
+出場数: 84 | ゴール: 40 | アシスト: 6
+

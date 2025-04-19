@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Atlético de Madrid All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+José Luis Caminero (Spain) - Atlético de Madrid
+Appearances: 185 | Goals: 48 | Assists: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Negro Cabrera (Argentina) - Atlético de Madrid
+Appearances: 151 | Goals: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Futre (Portugal) - Atlético de Madrid
+Appearances: 209 | Goals: 51 | Assists: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Rubén Ayala (Argentina) - Atlético de Madrid
+Appearances: 203 | Goals: 57
+
+6
+00:00:28,400 --> 00:00:35,000
+Larbi Ben Barek (Morocco) - Atlético de Madrid
+Appearances: 117 | Goals: 58 | Assists: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Álvaro Morata (Spain) - Atlético de Madrid
+Appearances: 154 | Goals: 58 | Assists: 14
+
+8
+00:00:41,600 --> 00:00:48,200
+Roberto Marina (Spain) - Atlético de Madrid
+Appearances: 295 | Goals: 58 | Assists: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Baltazar (Brazil) - Atlético de Madrid
+Appearances: 90 | Goals: 60
+
+10
+00:00:54,800 --> 00:01:01,400
+Javier Irureta (Spain) - Atlético de Madrid
+Appearances: 257 | Goals: 60
+
+11
+00:01:01,400 --> 00:01:08,000
+Kiko Narváez (Spain) - Atlético de Madrid
+Appearances: 277 | Goals: 64 | Assists: 13
+
+12
+00:01:08,000 --> 00:01:14,600
+Miguel González (Spain) - Atlético de Madrid
+Appearances: 233 | Goals: 68 | Assists: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Radamel Falcao (Colombia) - Atlético de Madrid
+Appearances: 91 | Goals: 70 | Assists: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Hugo Sánchez (Mexico) - Atlético de Madrid
+Appearances: 150 | Goals: 75
+
+15
+00:01:27,800 --> 00:01:34,400
+José Juncosa (Spain) - Atlético de Madrid
+Appearances: 194 | Goals: 82 | Assists: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Diego Costa (Spain) - Atlético de Madrid
+Appearances: 216 | Goals: 83 | Assists: 36
+
+17
+00:01:41,000 --> 00:01:47,600
+Jorge Mendonça (Portugal) - Atlético de Madrid
+Appearances: 217 | Goals: 83
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Correa (Argentina) - Atlético de Madrid
+Appearances: 460 | Goals: 87 | Assists: 65
+
+19
+00:01:54,200 --> 00:02:00,800
+Enrique Collar (Spain) - Atlético de Madrid
+Appearances: 415 | Goals: 89 | Assists: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Rubén Cano (Spain) - Atlético de Madrid
+Appearances: 190 | Goals: 90
+
+21
+00:02:07,400 --> 00:02:14,000
+Manolo (Spain) - Atlético de Madrid
+Appearances: 267 | Goals: 92 | Assists: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Diego Forlán (Uruguay) - Atlético de Madrid
+Appearances: 198 | Goals: 96 | Assists: 31
+
+23
+00:02:20,600 --> 00:02:27,200
+Adelardo (Spain) - Atlético de Madrid
+Appearances: 500 | Goals: 98
+
+24
+00:02:27,200 --> 00:02:33,800
+Sergio Agüero (Argentina) - Atlético de Madrid
+Appearances: 234 | Goals: 101 | Assists: 47
+
+25
+00:02:33,800 --> 00:02:40,400
+Joaquín Peiró (Spain) - Atlético de Madrid
+Appearances: 193 | Goals: 113
+
+26
+00:02:40,400 --> 00:02:47,000
+Paco Campos (Spain) - Atlético de Madrid
+Appearances: 206 | Goals: 123
+
+27
+00:02:47,000 --> 00:02:53,600
+José Eulogio Gárate (Spain) - Atlético de Madrid
+Appearances: 299 | Goals: 125 | Assists: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Fernando Torres (Spain) - Atlético de Madrid
+Appearances: 403 | Goals: 129 | Assists: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Adrián Escudero (Spain) - Atlético de Madrid
+Appearances: 293 | Goals: 153 | Assists: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Luis Aragonés (Spain) - Atlético de Madrid
+Appearances: 332 | Goals: 158
+
+31
+00:03:13,400 --> 00:03:20,000
+Antoine Griezmann (France) - Atlético de Madrid
+Appearances: 433 | Goals: 197 | Assists: 91
+

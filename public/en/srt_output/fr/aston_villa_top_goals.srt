@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Aston Villa Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Brian Little (England) - Aston Villa
+Apparitions: 198 | Buts: 41 | Passes décisives: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Ian Taylor (England) - Aston Villa
+Apparitions: 290 | Buts: 42 | Passes décisives: 16
+
+4
+00:00:15,200 --> 00:00:21,800
+Mark Walters (England) - Aston Villa
+Apparitions: 195 | Buts: 42 | Passes décisives: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Julian Joachim (England) - Aston Villa
+Apparitions: 170 | Buts: 44 | Passes décisives: 17
+
+6
+00:00:28,400 --> 00:00:35,000
+Bobby Thomson (Scotland) - Aston Villa
+Apparitions: 125 | Buts: 45 | Passes décisives: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Darius Vassell (England) - Aston Villa
+Apparitions: 201 | Buts: 45 | Passes décisives: 15
+
+8
+00:00:41,600 --> 00:00:48,200
+Tom Waring (England) - Aston Villa
+Apparitions: 46 | Buts: 46
+
+9
+00:00:48,200 --> 00:00:54,800
+Dean Saunders (Wales) - Aston Villa
+Apparitions: 141 | Buts: 47 | Passes décisives: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+John Carew (Norway) - Aston Villa
+Apparitions: 131 | Buts: 48 | Passes décisives: 12
+
+11
+00:01:01,400 --> 00:01:08,000
+John Deehan (England) - Aston Villa
+Apparitions: 129 | Buts: 48
+
+12
+00:01:08,000 --> 00:01:14,600
+Christian Benteke (Belgium) - Aston Villa
+Apparitions: 101 | Buts: 49 | Passes décisives: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Gareth Barry (England) - Aston Villa
+Apparitions: 439 | Buts: 52 | Passes décisives: 47
+
+14
+00:01:21,200 --> 00:01:27,800
+Allan Evans (Scotland) - Aston Villa
+Apparitions: 435 | Buts: 57 | Passes décisives: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Gordon Cowans (England) - Aston Villa
+Apparitions: 506 | Buts: 58 | Passes décisives: 33
+
+16
+00:01:34,400 --> 00:01:41,000
+Harry Burrows (England) - Aston Villa
+Apparitions: 159 | Buts: 58 | Passes décisives: 4
+
+17
+00:01:41,000 --> 00:01:47,600
+Dion Dublin (England) - Aston Villa
+Apparitions: 189 | Buts: 58 | Passes décisives: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+David Platt (England) - Aston Villa
+Apparitions: 136 | Buts: 59 | Passes décisives: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Trevor Ford (Wales) - Aston Villa
+Apparitions: 122 | Buts: 60
+
+20
+00:02:00,800 --> 00:02:07,400
+Juan Pablo Ángel (Colombia) - Aston Villa
+Apparitions: 205 | Buts: 62 | Passes décisives: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Andy Gray (Scotland) - Aston Villa
+Apparitions: 193 | Buts: 67
+
+22
+00:02:14,000 --> 00:02:20,600
+Tommy Thompson (England) - Aston Villa
+Apparitions: 157 | Buts: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Gerry Hitchens (England) - Aston Villa
+Apparitions: 114 | Buts: 68 | Passes décisives: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Tony Hateley (England) - Aston Villa
+Apparitions: 138 | Buts: 74 | Passes décisives: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Gary Shaw (England) - Aston Villa
+Apparitions: 207 | Buts: 75 | Passes décisives: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Ollie Watkins (England) - Aston Villa
+Apparitions: 212 | Buts: 84 | Passes décisives: 38
+
+27
+00:02:47,000 --> 00:02:53,600
+Gabriel Agbonlahor (England) - Aston Villa
+Apparitions: 391 | Buts: 86 | Passes décisives: 43
+
+28
+00:02:53,600 --> 00:03:00,200
+Peter Withe (England) - Aston Villa
+Apparitions: 229 | Buts: 91 | Passes décisives: 29
+
+29
+00:03:00,200 --> 00:03:06,800
+Dwight Yorke (Trinidad and Tobago) - Aston Villa
+Apparitions: 282 | Buts: 95 | Passes décisives: 31
+
+30
+00:03:06,800 --> 00:03:13,400
+Peter McParland (Northern Ireland) - Aston Villa
+Apparitions: 279 | Buts: 95 | Passes décisives: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Johnny Dixon (England) - Aston Villa
+Apparitions: 403 | Buts: 137 | Passes décisives: 2
+

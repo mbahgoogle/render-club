@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Olympique Lyon Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Franck Durix (France) - Olympique Lyon
+Einsätze: 118 | Tore: 39
+
+3
+00:00:08,600 --> 00:00:15,200
+Corentin Tolisso (France) - Olympique Lyon
+Einsätze: 262 | Tore: 40 | Vorlagen: 26
+
+4
+00:00:15,200 --> 00:00:21,800
+Houssem Aouar (Algeria) - Olympique Lyon
+Einsätze: 233 | Tore: 41 | Vorlagen: 35
+
+5
+00:00:21,800 --> 00:00:28,400
+Fred (Brazil) - Olympique Lyon
+Einsätze: 125 | Tore: 43 | Vorlagen: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Jacques Fatton (Switzerland) - Olympique Lyon
+Einsätze: 98 | Tore: 43
+
+7
+00:00:35,000 --> 00:00:41,600
+Péguy Luyindula (France) - Olympique Lyon
+Einsätze: 126 | Tore: 46 | Vorlagen: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Lucien Cossou (France) - Olympique Lyon
+Einsätze: 102 | Tore: 47
+
+9
+00:00:48,200 --> 00:00:54,800
+Jean-Pierre Orts (France) - Olympique Lyon
+Einsätze: 83 | Tore: 50
+
+10
+00:00:54,800 --> 00:01:01,400
+Maxwel Cornet (Cote d'Ivoire) - Olympique Lyon
+Einsätze: 252 | Tore: 51 | Vorlagen: 28
+
+11
+00:01:01,400 --> 00:01:08,000
+Florian Maurice (France) - Olympique Lyon
+Einsätze: 141 | Tore: 51 | Vorlagen: 9
+
+12
+00:01:08,000 --> 00:01:14,600
+Ernest Schultz (France) - Olympique Lyon
+Einsätze: 112 | Tore: 56
+
+13
+00:01:14,600 --> 00:01:21,200
+Alain Caveglia (France) - Olympique Lyon
+Einsätze: 138 | Tore: 62 | Vorlagen: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Eugène Kabongo (DR Congo) - Olympique Lyon
+Einsätze: 97 | Tore: 63
+
+15
+00:01:27,800 --> 00:01:34,400
+Karim Benzema (France) - Olympique Lyon
+Einsätze: 148 | Tore: 66 | Vorlagen: 25
+
+16
+00:01:34,400 --> 00:01:41,000
+Nabil Fekir (France) - Olympique Lyon
+Einsätze: 193 | Tore: 69 | Vorlagen: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Moussa Dembélé (France) - Olympique Lyon
+Einsätze: 172 | Tore: 70 | Vorlagen: 18
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Rambert (France) - Olympique Lyon
+Einsätze: 380 | Tore: 71
+
+19
+00:01:54,200 --> 00:02:00,800
+Memphis Depay (Netherlands) - Olympique Lyon
+Einsätze: 178 | Tore: 76 | Vorlagen: 54
+
+20
+00:02:00,800 --> 00:02:07,400
+André Guy (France) - Olympique Lyon
+Einsätze: 129 | Tore: 76
+
+21
+00:02:07,400 --> 00:02:14,000
+Sima Nikolic (Bosnia-Herzegovina) - Olympique Lyon
+Einsätze: 167 | Tore: 77
+
+22
+00:02:14,000 --> 00:02:20,600
+Sidney Govou (France) - Olympique Lyon
+Einsätze: 412 | Tore: 77 | Vorlagen: 38
+
+23
+00:02:20,600 --> 00:02:27,200
+Lisandro López (Argentina) - Olympique Lyon
+Einsätze: 168 | Tore: 82 | Vorlagen: 24
+
+24
+00:02:27,200 --> 00:02:33,800
+Sonny Anderson (Brazil) - Olympique Lyon
+Einsätze: 161 | Tore: 94 | Vorlagen: 4
+
+25
+00:02:33,800 --> 00:02:40,400
+Nestor Combin (France) - Olympique Lyon
+Einsätze: 164 | Tore: 94
+
+26
+00:02:40,400 --> 00:02:47,000
+Bafétimbi Gomis (France) - Olympique Lyon
+Einsätze: 244 | Tore: 95 | Vorlagen: 21
+
+27
+00:02:47,000 --> 00:02:53,600
+Juninho Pernambucano (Brazil) - Olympique Lyon
+Einsätze: 344 | Tore: 100 | Vorlagen: 77
+
+28
+00:02:53,600 --> 00:03:00,200
+Serge Chiesa (France) - Olympique Lyon
+Einsätze: 547 | Tore: 135
+
+29
+00:03:00,200 --> 00:03:06,800
+Bernard Lacombe (France) - Olympique Lyon
+Einsätze: 258 | Tore: 149
+
+30
+00:03:06,800 --> 00:03:13,400
+Alexandre Lacazette (France) - Olympique Lyon
+Einsätze: 383 | Tore: 195 | Vorlagen: 47
+
+31
+00:03:13,400 --> 00:03:20,000
+Fleury Di Nallo (France) - Olympique Lyon
+Einsätze: 494 | Tore: 222
+

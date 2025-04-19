@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Borussia Dortmund All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Lucas Barrios (Paraguay) - Borussia Dortmund
+Appearances: 102 | Goals: 49 | Assists: 17
+
+3
+00:00:08,600 --> 00:00:15,200
+Hans Flügel (Germany) - Borussia Dortmund
+Appearances: 129 | Goals: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Norbert Dickel (Germany) - Borussia Dortmund
+Appearances: 108 | Goals: 50 | Assists: 11
+
+5
+00:00:21,800 --> 00:00:28,400
+Lothar Huber (Germany) - Borussia Dortmund
+Appearances: 372 | Goals: 50 | Assists: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Jadon Sancho (England) - Borussia Dortmund
+Appearances: 158 | Goals: 53 | Assists: 64
+
+7
+00:00:35,000 --> 00:00:41,600
+Sigfried Held (Germany) - Borussia Dortmund
+Appearances: 259 | Goals: 53 | Assists: 51
+
+8
+00:00:41,600 --> 00:00:48,200
+Ewerthon (Brazil) - Borussia Dortmund
+Appearances: 154 | Goals: 54 | Assists: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Burghard Segler (Germany) - Borussia Dortmund
+Appearances: 200 | Goals: 54 | Assists: 4
+
+10
+00:00:54,800 --> 00:01:01,400
+Heiko Herrlich (Germany) - Borussia Dortmund
+Appearances: 183 | Goals: 56 | Assists: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Shinji Kagawa (Japan) - Borussia Dortmund
+Appearances: 216 | Goals: 60 | Assists: 55
+
+12
+00:01:08,000 --> 00:01:14,600
+Edmond Kasperski (Germany) - Borussia Dortmund
+Appearances: 136 | Goals: 66 | Assists: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Frank Mill (Germany) - Borussia Dortmund
+Appearances: 227 | Goals: 66 | Assists: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Lars Ricken (Germany) - Borussia Dortmund
+Appearances: 407 | Goals: 69 | Assists: 68
+
+15
+00:01:27,800 --> 00:01:34,400
+Jan Koller (Czech Republic) - Borussia Dortmund
+Appearances: 184 | Goals: 79 | Assists: 33
+
+16
+00:01:34,400 --> 00:01:41,000
+Erling Haaland (Norway) - Borussia Dortmund
+Appearances: 89 | Goals: 86 | Assists: 23
+
+17
+00:01:41,000 --> 00:01:47,600
+Andreas Möller (Germany) - Borussia Dortmund
+Appearances: 301 | Goals: 88 | Assists: 94
+
+18
+00:01:47,600 --> 00:01:54,200
+Aki Schmidt (Germany) - Borussia Dortmund
+Appearances: 331 | Goals: 91 | Assists: 14
+
+19
+00:01:54,200 --> 00:02:00,800
+Reinhold Wosab (Germany) - Borussia Dortmund
+Appearances: 275 | Goals: 94 | Assists: 23
+
+20
+00:02:00,800 --> 00:02:07,400
+Robert Lewandowski (Poland) - Borussia Dortmund
+Appearances: 187 | Goals: 103 | Assists: 42
+
+21
+00:02:07,400 --> 00:02:14,000
+Stéphane Chapuisat (Switzerland) - Borussia Dortmund
+Appearances: 284 | Goals: 123 | Assists: 65
+
+22
+00:02:14,000 --> 00:02:20,600
+Alfred Kelbassa (Germany) - Borussia Dortmund
+Appearances: 218 | Goals: 123 | Assists: 5
+
+23
+00:02:20,600 --> 00:02:27,200
+Alfred Niepieklo (Germany) - Borussia Dortmund
+Appearances: 201 | Goals: 126 | Assists: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Pierre-Emerick Aubameyang (Gabon) - Borussia Dortmund
+Appearances: 213 | Goals: 141 | Assists: 35
+
+25
+00:02:33,800 --> 00:02:40,400
+Jürgen Schütz (Germany) - Borussia Dortmund
+Appearances: 214 | Goals: 143 | Assists: 9
+
+26
+00:02:40,400 --> 00:02:47,000
+Lothar Emmerich (Germany) - Borussia Dortmund
+Appearances: 249 | Goals: 148 | Assists: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Timo Konietzka (Germany) - Borussia Dortmund
+Appearances: 196 | Goals: 155 | Assists: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Manfred Burgsmüller (Germany) - Borussia Dortmund
+Appearances: 252 | Goals: 158 | Assists: 5
+
+29
+00:03:00,200 --> 00:03:06,800
+Michael Zorc (Germany) - Borussia Dortmund
+Appearances: 572 | Goals: 159 | Assists: 38
+
+30
+00:03:06,800 --> 00:03:13,400
+Marco Reus (Germany) - Borussia Dortmund
+Appearances: 429 | Goals: 170 | Assists: 131
+
+31
+00:03:13,400 --> 00:03:20,000
+Adi Preißler (Germany) - Borussia Dortmund
+Appearances: 274 | Goals: 177 | Assists: 5
+

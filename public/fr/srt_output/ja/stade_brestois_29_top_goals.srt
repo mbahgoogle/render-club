@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Brestois 29 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Joël Henry (France) - Stade Brestois 29
+出場数: 89 | ゴール: 16 | アシスト: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Yvon Le Roux (France) - Stade Brestois 29
+出場数: 133 | ゴール: 17
+
+4
+00:00:15,200 --> 00:00:21,800
+Hervé Guégan (France) - Stade Brestois 29
+出場数: 87 | ゴール: 17
+
+5
+00:00:21,800 --> 00:00:28,400
+Romain Faivre (France) - Stade Brestois 29
+出場数: 90 | ゴール: 17 | アシスト: 14
+
+6
+00:00:28,400 --> 00:00:35,000
+Habib Diallo (Senegal) - Stade Brestois 29
+出場数: 52 | ゴール: 18 | アシスト: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Bernard Ferrer (France) - Stade Brestois 29
+出場数: 60 | ゴール: 18
+
+8
+00:00:41,600 --> 00:00:48,200
+Dragiša Binić (Serbia) - Stade Brestois 29
+出場数: 33 | ゴール: 18
+
+9
+00:00:48,200 --> 00:00:54,800
+Cristian Battocchio (Italy) - Stade Brestois 29
+出場数: 131 | ゴール: 19 | アシスト: 17
+
+10
+00:00:54,800 --> 00:01:01,400
+Irvin Cardona (France) - Stade Brestois 29
+出場数: 106 | ゴール: 19 | アシスト: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Romain Poyet (France) - Stade Brestois 29
+出場数: 158 | ゴール: 19 | アシスト: 19
+
+12
+00:01:08,000 --> 00:01:14,600
+Romain Del Castillo (France) - Stade Brestois 29
+出場数: 109 | ゴール: 19 | アシスト: 26
+
+13
+00:01:14,600 --> 00:01:21,200
+Alexandre Alphonse (Guadeloupe) - Stade Brestois 29
+出場数: 95 | ゴール: 20 | アシスト: 5
+
+14
+00:01:21,200 --> 00:01:27,800
+Patrick Martet (France) - Stade Brestois 29
+出場数: 46 | ゴール: 21
+
+15
+00:01:27,800 --> 00:01:34,400
+Mathias Autret (France) - Stade Brestois 29
+出場数: 118 | ゴール: 21 | アシスト: 21
+
+16
+00:01:34,400 --> 00:01:41,000
+Jérémy Le Douaron (France) - Stade Brestois 29
+出場数: 136 | ゴール: 22 | アシスト: 10
+
+17
+00:01:41,000 --> 00:01:47,600
+Basile de Carvalho (Guinea-Bissau) - Stade Brestois 29
+出場数: 117 | ゴール: 22 | アシスト: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Robert Malm (Togo) - Stade Brestois 29
+出場数: 62 | ゴール: 23 | アシスト: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Bernard Bureau (France) - Stade Brestois 29
+出場数: 73 | ゴール: 23
+
+20
+00:02:00,800 --> 00:02:07,400
+Jonathan Ayité (Togo) - Stade Brestois 29
+出場数: 110 | ゴール: 25 | アシスト: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Ronan Salaün (France) - Stade Brestois 29
+出場数: 115 | ゴール: 25 | アシスト: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Pascal Mariini (France) - Stade Brestois 29
+出場数: 75 | ゴール: 25
+
+23
+00:02:20,600 --> 00:02:27,200
+Franck Honorat (France) - Stade Brestois 29
+出場数: 109 | ゴール: 25 | アシスト: 17
+
+24
+00:02:27,200 --> 00:02:33,800
+Nolan Roux (France) - Stade Brestois 29
+出場数: 86 | ゴール: 29 | アシスト: 13
+
+25
+00:02:33,800 --> 00:02:40,400
+Steve Mounié (Benin) - Stade Brestois 29
+出場数: 135 | ゴール: 33 | アシスト: 9
+
+26
+00:02:40,400 --> 00:02:47,000
+Roberto Cabañas (Paraguay) - Stade Brestois 29
+出場数: 60 | ゴール: 36
+
+27
+00:02:47,000 --> 00:02:53,600
+Richard Socrier (Guadeloupe) - Stade Brestois 29
+出場数: 132 | ゴール: 40 | アシスト: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+Gaëtan Charbonnier (France) - Stade Brestois 29
+出場数: 137 | ゴール: 53 | アシスト: 15
+
+29
+00:03:00,200 --> 00:03:06,800
+Bruno Grougi (Martinique) - Stade Brestois 29
+出場数: 307 | ゴール: 53 | アシスト: 30
+
+30
+00:03:06,800 --> 00:03:13,400
+Gérard Buscher (France) - Stade Brestois 29
+出場数: 147 | ゴール: 64
+
+31
+00:03:13,400 --> 00:03:20,000
+Drago Vabec (Croatia) - Stade Brestois 29
+出場数: 129 | ゴール: 64 | アシスト: 2
+

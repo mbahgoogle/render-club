@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Wolverhampton Wanderers Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Peter Knowles (England) - Wolverhampton Wanderers
+Einsätze: 127 | Tore: 35 | Vorlagen: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Andy Gray (Scotland) - Wolverhampton Wanderers
+Einsätze: 120 | Tore: 35 | Vorlagen: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Nouha Dicko (Mali) - Wolverhampton Wanderers
+Einsätze: 108 | Tore: 35 | Vorlagen: 16
+
+5
+00:00:21,800 --> 00:00:28,400
+Ron Flowers (England) - Wolverhampton Wanderers
+Einsätze: 450 | Tore: 35 | Vorlagen: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Bakary Sako (Mali) - Wolverhampton Wanderers
+Einsätze: 124 | Tore: 38 | Vorlagen: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Sammy Smyth (Northern Ireland) - Wolverhampton Wanderers
+Einsätze: 106 | Tore: 38 | Vorlagen: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Ray Crawford (England) - Wolverhampton Wanderers
+Einsätze: 58 | Tore: 39
+
+9
+00:00:48,200 --> 00:00:54,800
+Hugh Curran (Scotland) - Wolverhampton Wanderers
+Einsätze: 87 | Tore: 40 | Vorlagen: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Jim McCalliog (Scotland) - Wolverhampton Wanderers
+Einsätze: 183 | Tore: 41 | Vorlagen: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+David Edwards (Wales) - Wolverhampton Wanderers
+Einsätze: 307 | Tore: 44 | Vorlagen: 16
+
+12
+00:01:08,000 --> 00:01:14,600
+Diogo Jota (Portugal) - Wolverhampton Wanderers
+Einsätze: 131 | Tore: 44 | Vorlagen: 19
+
+13
+00:01:14,600 --> 00:01:21,200
+Ted Farmer (England) - Wolverhampton Wanderers
+Einsätze: 60 | Tore: 44 | Vorlagen: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Terry Wharton (England) - Wolverhampton Wanderers
+Einsätze: 158 | Tore: 51
+
+15
+00:01:27,800 --> 00:01:34,400
+Bobby Mason (England) - Wolverhampton Wanderers
+Einsätze: 172 | Tore: 55 | Vorlagen: 5
+
+16
+00:01:34,400 --> 00:01:41,000
+Dennis Westcott (England) - Wolverhampton Wanderers
+Einsätze: 63 | Tore: 55
+
+17
+00:01:41,000 --> 00:01:47,600
+Raúl Jiménez (Mexico) - Wolverhampton Wanderers
+Einsätze: 166 | Tore: 57 | Vorlagen: 23
+
+18
+00:01:47,600 --> 00:01:54,200
+Kenny Miller (Scotland) - Wolverhampton Wanderers
+Einsätze: 185 | Tore: 61 | Vorlagen: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Sylvan Ebanks-Blake (England) - Wolverhampton Wanderers
+Einsätze: 193 | Tore: 62 | Vorlagen: 19
+
+20
+00:02:00,800 --> 00:02:07,400
+Norman Deeley (England) - Wolverhampton Wanderers
+Einsätze: 235 | Tore: 76 | Vorlagen: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Kenny Hibbitt (England) - Wolverhampton Wanderers
+Einsätze: 456 | Tore: 82
+
+22
+00:02:14,000 --> 00:02:20,600
+Jesse Pye (England) - Wolverhampton Wanderers
+Einsätze: 197 | Tore: 91
+
+23
+00:02:20,600 --> 00:02:27,200
+Derek Dougan (Northern Ireland) - Wolverhampton Wanderers
+Einsätze: 277 | Tore: 100 | Vorlagen: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Jimmy Mullen (England) - Wolverhampton Wanderers
+Einsätze: 460 | Tore: 105 | Vorlagen: 10
+
+25
+00:02:33,800 --> 00:02:40,400
+Dennis Wilshaw (England) - Wolverhampton Wanderers
+Einsätze: 213 | Tore: 105 | Vorlagen: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Roy Swinbourne (England) - Wolverhampton Wanderers
+Einsätze: 218 | Tore: 112
+
+27
+00:02:47,000 --> 00:02:53,600
+Peter Broadbent (England) - Wolverhampton Wanderers
+Einsätze: 487 | Tore: 143 | Vorlagen: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+John Richards (England) - Wolverhampton Wanderers
+Einsätze: 410 | Tore: 153 | Vorlagen: 2
+
+29
+00:03:00,200 --> 00:03:06,800
+Johnny Hancocks (England) - Wolverhampton Wanderers
+Einsätze: 359 | Tore: 159 | Vorlagen: 1
+
+30
+00:03:06,800 --> 00:03:13,400
+Jimmy Murray (England) - Wolverhampton Wanderers
+Einsätze: 296 | Tore: 166 | Vorlagen: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Steve Bull (England) - Wolverhampton Wanderers
+Einsätze: 279 | Tore: 183 | Vorlagen: 1
+

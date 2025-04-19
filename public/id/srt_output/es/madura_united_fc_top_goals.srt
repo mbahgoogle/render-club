@@ -1,0 +1,149 @@
+1
+00:00:00,000 --> 00:00:02,000
+Madura United FC Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Youssef Ezzejjari (Spain) - Madura United FC
+Partidos: 11 | Goles: 4 | Asistencias: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Beto (Brazil) - Madura United FC
+Partidos: 17 | Goles: 4 | Asistencias: 3
+
+4
+00:00:15,200 --> 00:00:21,800
+Beto (Brazil) - Madura United FC
+Partidos: 17 | Goles: 4 | Asistencias: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Maxuel Cássio (Brazil) - Madura United FC
+Partidos: 21 | Goles: 4 | Asistencias: 3
+
+6
+00:00:28,400 --> 00:00:35,000
+Fachruddin Aryanto (Indonesia) - Madura United FC
+Partidos: 145 | Goles: 4 | Asistencias: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Andi Irfan (Indonesia) - Madura United FC
+Partidos: 26 | Goles: 4 | Asistencias: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Andik Vermansyah (Indonesia) - Madura United FC
+Partidos: 32 | Goles: 4 | Asistencias: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Renan Silva (Brazil) - Madura United FC
+Partidos: 12 | Goles: 4
+
+10
+00:00:54,800 --> 00:01:01,400
+David Laly (Indonesia) - Madura United FC
+Partidos: 61 | Goles: 5 | Asistencias: 6
+
+11
+00:01:01,400 --> 00:01:08,000
+Dane Milovanovic (Australia) - Madura United FC
+Partidos: 24 | Goles: 5 | Asistencias: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Dalberto (Brazil) - Madura United FC
+Partidos: 17 | Goles: 6 | Asistencias: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Engelberd Sani (Indonesia) - Madura United FC
+Partidos: 79 | Goles: 6 | Asistencias: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Mamadou Samassa (Mali) - Madura United FC
+Partidos: 13 | Goles: 6 | Asistencias: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Jaime (Brazil) - Madura United FC
+Partidos: 76 | Goles: 6 | Asistencias: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Rafael Silva (Brazil) - Madura United FC
+Partidos: 12 | Goles: 6
+
+17
+00:01:41,000 --> 00:01:47,600
+Zah Rahan Krangar (Liberia) - Madura United FC
+Partidos: 39 | Goles: 6 | Asistencias: 12
+
+18
+00:01:47,600 --> 00:01:54,200
+Junior Brandão (Brazil) - Madura United FC
+Partidos: 20 | Goles: 9 | Asistencias: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Francisco Rivera (Mexico) - Madura United FC
+Partidos: 36 | Goles: 9 | Asistencias: 18
+
+20
+00:02:00,800 --> 00:02:07,400
+Pablo Rodríguez (Spain) - Madura United FC
+Partidos: 10 | Goles: 9 | Asistencias: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Bayu Gatra (Indonesia) - Madura United FC
+Partidos: 153 | Goles: 12 | Asistencias: 23
+
+22
+00:02:14,000 --> 00:02:20,600
+Fabiano Beltrame (Indonesia) - Madura United FC
+Partidos: 72 | Goles: 12
+
+23
+00:02:20,600 --> 00:02:27,200
+Peter Odemwingie (Nigeria) - Madura United FC
+Partidos: 23 | Goles: 15 | Asistencias: 8
+
+24
+00:02:27,200 --> 00:02:33,800
+Malik Risaldi (Indonesia) - Madura United FC
+Partidos: 66 | Goles: 16 | Asistencias: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Aleksandar Rakic (Serbia) - Madura United FC
+Partidos: 41 | Goles: 20 | Asistencias: 10
+
+26
+00:02:40,400 --> 00:02:47,000
+Slamet Nurcahyono (Indonesia) - Madura United FC
+Partidos: 174 | Goles: 21 | Asistencias: 20
+
+27
+00:02:47,000 --> 00:02:53,600
+Greg Nwokolo (Indonesia) - Madura United FC
+Partidos: 89 | Goles: 25 | Asistencias: 20
+
+28
+00:02:53,600 --> 00:03:00,200
+Jajá (Brazil) - Madura United FC
+Partidos: 103 | Goles: 25 | Asistencias: 14
+
+29
+00:03:00,200 --> 00:03:06,800
+Lulinha (Brazil) - Madura United FC
+Partidos: 83 | Goles: 30 | Asistencias: 12
+
+30
+00:03:06,800 --> 00:03:13,400
+Beto (Indonesia) - Madura United FC
+Partidos: 105 | Goles: 47 | Asistencias: 18
+

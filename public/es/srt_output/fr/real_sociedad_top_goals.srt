@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Real Sociedad Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+José María Araquistain (Spain) - Real Sociedad
+Apparitions: 136 | Buts: 37
+
+3
+00:00:08,600 --> 00:00:15,200
+Valeriy Karpin (Russia) - Real Sociedad
+Apparitions: 194 | Buts: 37 | Passes décisives: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Sarasqueta (Spain) - Real Sociedad
+Apparitions: 128 | Buts: 38 | Passes décisives: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Loren Juarros (Spain) - Real Sociedad
+Apparitions: 399 | Buts: 39 | Passes décisives: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Santi Idígoras (Spain) - Real Sociedad
+Apparitions: 229 | Buts: 40
+
+7
+00:00:35,000 --> 00:00:41,600
+John Aldridge (Ireland) - Real Sociedad
+Apparitions: 75 | Buts: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+José María Pérez (Spain) - Real Sociedad
+Apparitions: 211 | Buts: 42 | Passes décisives: 3
+
+9
+00:00:48,200 --> 00:00:54,800
+Alexander Isak (Sweden) - Real Sociedad
+Apparitions: 132 | Buts: 44 | Passes décisives: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Paco Bienzobas (Spain) - Real Sociedad
+Apparitions: 86 | Buts: 45
+
+11
+00:01:01,400 --> 00:01:08,000
+Sebastián Ontoria (Spain) - Real Sociedad
+Apparitions: 223 | Buts: 45
+
+12
+00:01:08,000 --> 00:01:14,600
+Epi (Spain) - Real Sociedad
+Apparitions: 143 | Buts: 48
+
+13
+00:01:14,600 --> 00:01:21,200
+Javi de Pedro (Spain) - Real Sociedad
+Apparitions: 323 | Buts: 52 | Passes décisives: 35
+
+14
+00:01:21,200 --> 00:01:27,800
+Antoine Griezmann (France) - Real Sociedad
+Apparitions: 202 | Buts: 52 | Passes décisives: 18
+
+15
+00:01:27,800 --> 00:01:34,400
+Cholín (Spain) - Real Sociedad
+Apparitions: 104 | Buts: 54
+
+16
+00:01:34,400 --> 00:01:41,000
+Nihat Kahveci (Türkiye) - Real Sociedad
+Apparitions: 142 | Buts: 58 | Passes décisives: 12
+
+17
+00:01:41,000 --> 00:01:47,600
+Óscar de Paula (Spain) - Real Sociedad
+Apparitions: 298 | Buts: 60 | Passes décisives: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Paz (Spain) - Real Sociedad
+Apparitions: 243 | Buts: 60 | Passes décisives: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Willian José (Brazil) - Real Sociedad
+Apparitions: 170 | Buts: 62 | Passes décisives: 15
+
+20
+00:02:00,800 --> 00:02:07,400
+Silvestre Igoa (Spain) - Real Sociedad
+Apparitions: 128 | Buts: 68
+
+21
+00:02:07,400 --> 00:02:14,000
+Jesús Mari Zamora (Spain) - Real Sociedad
+Apparitions: 529 | Buts: 69
+
+22
+00:02:14,000 --> 00:02:20,600
+Carlos Vela (Mexico) - Real Sociedad
+Apparitions: 250 | Buts: 73 | Passes décisives: 43
+
+23
+00:02:20,600 --> 00:02:27,200
+Imanol Agirretxe (Spain) - Real Sociedad
+Apparitions: 271 | Buts: 74 | Passes décisives: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Xabi Prieto (Spain) - Real Sociedad
+Apparitions: 531 | Buts: 74 | Passes décisives: 52
+
+25
+00:02:33,800 --> 00:02:40,400
+José Mari Bakero (Spain) - Real Sociedad
+Apparitions: 260 | Buts: 76
+
+26
+00:02:40,400 --> 00:02:47,000
+Pello Uralde (Spain) - Real Sociedad
+Apparitions: 221 | Buts: 80 | Passes décisives: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Meho Kodro (Bosnia-Herzegovina) - Real Sociedad
+Apparitions: 146 | Buts: 81
+
+28
+00:02:53,600 --> 00:03:00,200
+Darko Kovačević (Serbia) - Real Sociedad
+Apparitions: 283 | Buts: 107 | Passes décisives: 22
+
+29
+00:03:00,200 --> 00:03:06,800
+Mikel Oyarzabal (Spain) - Real Sociedad
+Apparitions: 388 | Buts: 111 | Passes décisives: 60
+
+30
+00:03:06,800 --> 00:03:13,400
+Roberto López Ufarte (Spain) - Real Sociedad
+Apparitions: 423 | Buts: 111 | Passes décisives: 5
+
+31
+00:03:13,400 --> 00:03:20,000
+Jesús Satrustegui (Spain) - Real Sociedad
+Apparitions: 340 | Buts: 152 | Passes décisives: 1
+

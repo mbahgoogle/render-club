@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Arsenal FC Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Ronnie Rooke (England) - Arsenal FC
+Apparitions: 93 | Buts: 70
+
+3
+00:00:08,600 --> 00:00:15,200
+Alexandre Lacazette (France) - Arsenal FC
+Apparitions: 206 | Buts: 71 | Passes décisives: 32
+
+4
+00:00:15,200 --> 00:00:21,800
+Freddie Ljungberg (Sweden) - Arsenal FC
+Apparitions: 328 | Buts: 72 | Passes décisives: 40
+
+5
+00:00:21,800 --> 00:00:28,400
+George Graham (Scotland) - Arsenal FC
+Apparitions: 278 | Buts: 73 | Passes décisives: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Geoff Strong (England) - Arsenal FC
+Apparitions: 133 | Buts: 75 | Passes décisives: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Alexis Sánchez (Chile) - Arsenal FC
+Apparitions: 166 | Buts: 80 | Passes décisives: 44
+
+8
+00:00:41,600 --> 00:00:48,200
+Cliff Holton (England) - Arsenal FC
+Apparitions: 205 | Buts: 84
+
+9
+00:00:48,200 --> 00:00:54,800
+Robert Pirès (France) - Arsenal FC
+Apparitions: 284 | Buts: 84 | Passes décisives: 63
+
+10
+00:00:54,800 --> 00:01:01,400
+Alan Sunderland (England) - Arsenal FC
+Apparitions: 270 | Buts: 88 | Passes décisives: 20
+
+11
+00:01:01,400 --> 00:01:08,000
+Joe Hulme (England) - Arsenal FC
+Apparitions: 208 | Buts: 90 | Passes décisives: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Don Roper (England) - Arsenal FC
+Apparitions: 308 | Buts: 91
+
+13
+00:01:14,600 --> 00:01:21,200
+Pierre-Emerick Aubameyang (Gabon) - Arsenal FC
+Apparitions: 163 | Buts: 92 | Passes décisives: 20
+
+14
+00:01:21,200 --> 00:01:27,800
+Jack Lambert (England) - Arsenal FC
+Apparitions: 110 | Buts: 97
+
+15
+00:01:27,800 --> 00:01:34,400
+Joe Baker (England) - Arsenal FC
+Apparitions: 150 | Buts: 99
+
+16
+00:01:34,400 --> 00:01:41,000
+David Herd (Scotland) - Arsenal FC
+Apparitions: 169 | Buts: 99 | Passes décisives: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Paul Merson (England) - Arsenal FC
+Apparitions: 423 | Buts: 99 | Passes décisives: 51
+
+18
+00:01:47,600 --> 00:01:54,200
+Reg Lewis (England) - Arsenal FC
+Apparitions: 153 | Buts: 102
+
+19
+00:01:54,200 --> 00:02:00,800
+David Jack (England) - Arsenal FC
+Apparitions: 146 | Buts: 103
+
+20
+00:02:00,800 --> 00:02:07,400
+Olivier Giroud (France) - Arsenal FC
+Apparitions: 253 | Buts: 105 | Passes décisives: 37
+
+21
+00:02:07,400 --> 00:02:14,000
+Frank Stapleton (Ireland) - Arsenal FC
+Apparitions: 293 | Buts: 106 | Passes décisives: 21
+
+22
+00:02:14,000 --> 00:02:20,600
+Theo Walcott (England) - Arsenal FC
+Apparitions: 397 | Buts: 108 | Passes décisives: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Alan Smith (England) - Arsenal FC
+Apparitions: 341 | Buts: 113 | Passes décisives: 22
+
+24
+00:02:27,200 --> 00:02:33,800
+Ted Drake (England) - Arsenal FC
+Apparitions: 110 | Buts: 113
+
+25
+00:02:33,800 --> 00:02:40,400
+Dennis Bergkamp (Netherlands) - Arsenal FC
+Apparitions: 422 | Buts: 120 | Passes décisives: 116
+
+26
+00:02:40,400 --> 00:02:47,000
+Doug Lishman (England) - Arsenal FC
+Apparitions: 235 | Buts: 128
+
+27
+00:02:47,000 --> 00:02:53,600
+John Radford (England) - Arsenal FC
+Apparitions: 445 | Buts: 132 | Passes décisives: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Robin van Persie (Netherlands) - Arsenal FC
+Apparitions: 278 | Buts: 132 | Passes décisives: 55
+
+29
+00:03:00,200 --> 00:03:06,800
+Cliff Bastin (England) - Arsenal FC
+Apparitions: 266 | Buts: 151
+
+30
+00:03:06,800 --> 00:03:13,400
+Ian Wright (England) - Arsenal FC
+Apparitions: 288 | Buts: 185 | Passes décisives: 31
+
+31
+00:03:13,400 --> 00:03:20,000
+Thierry Henry (France) - Arsenal FC
+Apparitions: 377 | Buts: 228 | Passes décisives: 96
+

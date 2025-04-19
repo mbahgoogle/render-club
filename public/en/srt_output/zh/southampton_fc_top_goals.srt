@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Southampton FC 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Nathan Redmond (England) - Southampton FC
+出场数: 232 | 进球: 30 | 助攻: 27
+
+3
+00:00:08,600 --> 00:00:15,200
+Egil Østenstad (Norway) - Southampton FC
+出场数: 108 | 进球: 32 | 助攻: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Iain Dowie (Northern Ireland) - Southampton FC
+出场数: 138 | 进球: 32 | 助攻: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Adam Armstrong (England) - Southampton FC
+出场数: 142 | 进球: 32 | 助攻: 18
+
+6
+00:00:28,400 --> 00:00:35,000
+Graham Baker (England) - Southampton FC
+出场数: 180 | 进球: 33 | 助攻: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Martin Chivers (England) - Southampton FC
+出场数: 79 | 进球: 33
+
+8
+00:00:41,600 --> 00:00:48,200
+Grzegorz Rasiak (Poland) - Southampton FC
+出场数: 87 | 进球: 33 | 助攻: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Nick Holmes (England) - Southampton FC
+出场数: 367 | 进球: 35 | 助攻: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Jay Rodríguez (England) - Southampton FC
+出场数: 126 | 进球: 35 | 助攻: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Colin Clarke (Northern Ireland) - Southampton FC
+出场数: 88 | 进球: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+Glenn Cockerill (England) - Southampton FC
+出场数: 331 | 进球: 37 | 助攻: 5
+
+13
+00:01:14,600 --> 00:01:21,200
+Shane Long (Ireland) - Southampton FC
+出场数: 245 | 进球: 37 | 助攻: 23
+
+14
+00:01:21,200 --> 00:01:27,800
+Alan Shearer (England) - Southampton FC
+出场数: 150 | 进球: 38 | 助攻: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Phil Boyer (England) - Southampton FC
+出场数: 114 | 进球: 39 | 助攻: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Kevin Keegan (England) - Southampton FC
+出场数: 78 | 进球: 43 | 助攻: 13
+
+17
+00:01:41,000 --> 00:01:47,600
+Marians Pahars (Latvia) - Southampton FC
+出场数: 155 | 进球: 45 | 助攻: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Danny Ings (England) - Southampton FC
+出场数: 100 | 进球: 46 | 助攻: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Ché Adams (Scotland) - Southampton FC
+出场数: 191 | 进球: 48 | 助攻: 20
+
+20
+00:02:00,800 --> 00:02:07,400
+Terry Paine (England) - Southampton FC
+出场数: 378 | 进球: 51 | 助攻: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Rod Wallace (England) - Southampton FC
+出场数: 152 | 进球: 53 | 助攻: 3
+
+22
+00:02:14,000 --> 00:02:20,600
+James Ward-Prowse (England) - Southampton FC
+出场数: 410 | 进球: 55 | 助攻: 52
+
+23
+00:02:20,600 --> 00:02:27,200
+Adam Lallana (England) - Southampton FC
+出场数: 283 | 进球: 60 | 助攻: 47
+
+24
+00:02:27,200 --> 00:02:33,800
+David Armstrong (England) - Southampton FC
+出场数: 242 | 进球: 61 | 助攻: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Danny Wallace (England) - Southampton FC
+出场数: 284 | 进球: 65 | 助攻: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+James Beattie (England) - Southampton FC
+出场数: 232 | 进球: 76 | 助攻: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Steve Moran (England) - Southampton FC
+出场数: 203 | 进球: 87 | 助攻: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+Rickie Lambert (England) - Southampton FC
+出场数: 235 | 进球: 117 | 助攻: 58
+
+29
+00:03:00,200 --> 00:03:06,800
+Ron Davies (Wales) - Southampton FC
+出场数: 259 | 进球: 144 | 助攻: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Mick Channon (England) - Southampton FC
+出场数: 440 | 进球: 148 | 助攻: 20
+
+31
+00:03:13,400 --> 00:03:20,000
+Matt Le Tissier (England) - Southampton FC
+出场数: 518 | 进球: 195 | 助攻: 58
+

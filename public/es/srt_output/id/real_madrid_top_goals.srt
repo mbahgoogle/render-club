@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Real Madrid Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Ramón Grosso (Spain) - Real Madrid
+Penampilan: 366 | Gol: 75 | Asis: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Joseíto (Spain) - Real Madrid
+Penampilan: 176 | Gol: 76 | Asis: 26
+
+4
+00:00:15,200 --> 00:00:21,800
+Guti (Spain) - Real Madrid
+Penampilan: 542 | Gol: 77 | Asis: 94
+
+5
+00:00:21,800 --> 00:00:28,400
+Héctor Rial (Spain) - Real Madrid
+Penampilan: 165 | Gol: 81 | Asis: 34
+
+6
+00:00:28,400 --> 00:00:35,000
+Manuel Alday (Spain) - Real Madrid
+Penampilan: 93 | Gol: 81 | Asis: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Pruden Sánchez (Spain) - Real Madrid
+Penampilan: 116 | Gol: 87 | Asis: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Sabino Barinaga (Spain) - Real Madrid
+Penampilan: 182 | Gol: 93 | Asis: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Fernando Morientes (Spain) - Real Madrid
+Penampilan: 272 | Gol: 100 | Asis: 34
+
+10
+00:00:54,800 --> 00:01:01,400
+Sergio Ramos (Spain) - Real Madrid
+Penampilan: 671 | Gol: 101 | Asis: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Iván Zamorano (Chile) - Real Madrid
+Penampilan: 173 | Gol: 101 | Asis: 22
+
+12
+00:01:08,000 --> 00:01:14,600
+Vinicius Junior (Brazil) - Real Madrid
+Penampilan: 306 | Gol: 103 | Asis: 73
+
+13
+00:01:14,600 --> 00:01:21,200
+Ronaldo (Brazil) - Real Madrid
+Penampilan: 177 | Gol: 104 | Asis: 34
+
+14
+00:01:21,200 --> 00:01:27,800
+Luis Molowny (Spain) - Real Madrid
+Penampilan: 206 | Gol: 105 | Asis: 60
+
+15
+00:01:27,800 --> 00:01:34,400
+Gareth Bale (Wales) - Real Madrid
+Penampilan: 258 | Gol: 106 | Asis: 67
+
+16
+00:01:34,400 --> 00:01:41,000
+Juanito (Spain) - Real Madrid
+Penampilan: 397 | Gol: 117 | Asis: 24
+
+17
+00:01:41,000 --> 00:01:47,600
+Gonzalo Higuaín (Argentina) - Real Madrid
+Penampilan: 264 | Gol: 121 | Asis: 56
+
+18
+00:01:47,600 --> 00:01:54,200
+Pahiño (Spain) - Real Madrid
+Penampilan: 143 | Gol: 126 | Asis: 24
+
+19
+00:01:54,200 --> 00:02:00,800
+Fernando Hierro (Spain) - Real Madrid
+Penampilan: 601 | Gol: 127 | Asis: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Míchel (Spain) - Real Madrid
+Penampilan: 559 | Gol: 131 | Asis: 168
+
+21
+00:02:07,400 --> 00:02:14,000
+Amancio (Spain) - Real Madrid
+Penampilan: 471 | Gol: 153 | Asis: 6
+
+22
+00:02:14,000 --> 00:02:20,600
+Emilio Butragueño (Spain) - Real Madrid
+Penampilan: 463 | Gol: 170 | Asis: 115
+
+23
+00:02:20,600 --> 00:02:27,200
+Pirri (Spain) - Real Madrid
+Penampilan: 562 | Gol: 173 | Asis: 4
+
+24
+00:02:27,200 --> 00:02:33,800
+Paco Gento (Spain) - Real Madrid
+Penampilan: 596 | Gol: 179 | Asis: 52
+
+25
+00:02:33,800 --> 00:02:40,400
+Hugo Sánchez (Mexico) - Real Madrid
+Penampilan: 282 | Gol: 208 | Asis: 47
+
+26
+00:02:40,400 --> 00:02:47,000
+Ferenc Puskás (Hungary) - Real Madrid
+Penampilan: 262 | Gol: 242 | Asis: 27
+
+27
+00:02:47,000 --> 00:02:53,600
+Santillana (Spain) - Real Madrid
+Penampilan: 640 | Gol: 289 | Asis: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Alfredo di Stéfano (Spain) - Real Madrid
+Penampilan: 392 | Gol: 306 | Asis: 43
+
+29
+00:03:00,200 --> 00:03:06,800
+Raúl (Spain) - Real Madrid
+Penampilan: 741 | Gol: 323 | Asis: 135
+
+30
+00:03:06,800 --> 00:03:13,400
+Karim Benzema (France) - Real Madrid
+Penampilan: 648 | Gol: 354 | Asis: 151
+
+31
+00:03:13,400 --> 00:03:20,000
+Cristiano Ronaldo (Portugal) - Real Madrid
+Penampilan: 438 | Gol: 450 | Asis: 131
+

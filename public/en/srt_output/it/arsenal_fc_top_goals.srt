@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Arsenal FC Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Ronnie Rooke (England) - Arsenal FC
+Presenze: 93 | Gol: 70
+
+3
+00:00:08,600 --> 00:00:15,200
+Alexandre Lacazette (France) - Arsenal FC
+Presenze: 206 | Gol: 71 | Assist: 32
+
+4
+00:00:15,200 --> 00:00:21,800
+Freddie Ljungberg (Sweden) - Arsenal FC
+Presenze: 328 | Gol: 72 | Assist: 40
+
+5
+00:00:21,800 --> 00:00:28,400
+George Graham (Scotland) - Arsenal FC
+Presenze: 278 | Gol: 73 | Assist: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Geoff Strong (England) - Arsenal FC
+Presenze: 133 | Gol: 75 | Assist: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Alexis Sánchez (Chile) - Arsenal FC
+Presenze: 166 | Gol: 80 | Assist: 44
+
+8
+00:00:41,600 --> 00:00:48,200
+Cliff Holton (England) - Arsenal FC
+Presenze: 205 | Gol: 84
+
+9
+00:00:48,200 --> 00:00:54,800
+Robert Pirès (France) - Arsenal FC
+Presenze: 284 | Gol: 84 | Assist: 63
+
+10
+00:00:54,800 --> 00:01:01,400
+Alan Sunderland (England) - Arsenal FC
+Presenze: 270 | Gol: 88 | Assist: 20
+
+11
+00:01:01,400 --> 00:01:08,000
+Joe Hulme (England) - Arsenal FC
+Presenze: 208 | Gol: 90 | Assist: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Don Roper (England) - Arsenal FC
+Presenze: 308 | Gol: 91
+
+13
+00:01:14,600 --> 00:01:21,200
+Pierre-Emerick Aubameyang (Gabon) - Arsenal FC
+Presenze: 163 | Gol: 92 | Assist: 20
+
+14
+00:01:21,200 --> 00:01:27,800
+Jack Lambert (England) - Arsenal FC
+Presenze: 110 | Gol: 97
+
+15
+00:01:27,800 --> 00:01:34,400
+Joe Baker (England) - Arsenal FC
+Presenze: 150 | Gol: 99
+
+16
+00:01:34,400 --> 00:01:41,000
+David Herd (Scotland) - Arsenal FC
+Presenze: 169 | Gol: 99 | Assist: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Paul Merson (England) - Arsenal FC
+Presenze: 423 | Gol: 99 | Assist: 51
+
+18
+00:01:47,600 --> 00:01:54,200
+Reg Lewis (England) - Arsenal FC
+Presenze: 153 | Gol: 102
+
+19
+00:01:54,200 --> 00:02:00,800
+David Jack (England) - Arsenal FC
+Presenze: 146 | Gol: 103
+
+20
+00:02:00,800 --> 00:02:07,400
+Olivier Giroud (France) - Arsenal FC
+Presenze: 253 | Gol: 105 | Assist: 37
+
+21
+00:02:07,400 --> 00:02:14,000
+Frank Stapleton (Ireland) - Arsenal FC
+Presenze: 293 | Gol: 106 | Assist: 21
+
+22
+00:02:14,000 --> 00:02:20,600
+Theo Walcott (England) - Arsenal FC
+Presenze: 397 | Gol: 108 | Assist: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Alan Smith (England) - Arsenal FC
+Presenze: 341 | Gol: 113 | Assist: 22
+
+24
+00:02:27,200 --> 00:02:33,800
+Ted Drake (England) - Arsenal FC
+Presenze: 110 | Gol: 113
+
+25
+00:02:33,800 --> 00:02:40,400
+Dennis Bergkamp (Netherlands) - Arsenal FC
+Presenze: 422 | Gol: 120 | Assist: 116
+
+26
+00:02:40,400 --> 00:02:47,000
+Doug Lishman (England) - Arsenal FC
+Presenze: 235 | Gol: 128
+
+27
+00:02:47,000 --> 00:02:53,600
+John Radford (England) - Arsenal FC
+Presenze: 445 | Gol: 132 | Assist: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Robin van Persie (Netherlands) - Arsenal FC
+Presenze: 278 | Gol: 132 | Assist: 55
+
+29
+00:03:00,200 --> 00:03:06,800
+Cliff Bastin (England) - Arsenal FC
+Presenze: 266 | Gol: 151
+
+30
+00:03:06,800 --> 00:03:13,400
+Ian Wright (England) - Arsenal FC
+Presenze: 288 | Gol: 185 | Assist: 31
+
+31
+00:03:13,400 --> 00:03:20,000
+Thierry Henry (France) - Arsenal FC
+Presenze: 377 | Gol: 228 | Assist: 96
+

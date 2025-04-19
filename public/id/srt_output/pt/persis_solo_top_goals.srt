@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PERSIS Solo Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Alfath Faathier (Indonesia) - PERSIS Solo
+Partidas: 34 | Gols: 1 | Assistências: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Fransiskus Alesandro (Indonesia) - PERSIS Solo
+Partidas: 11 | Gols: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Cleylton (Brazil) - PERSIS Solo
+Partidas: 7 | Gols: 1 | Assistências: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Sunarto (Indonesia) - PERSIS Solo
+Partidas: 1 | Gols: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Sho Yamamoto (Japan) - PERSIS Solo
+Partidas: 45 | Gols: 2 | Assistências: 8
+
+7
+00:00:35,000 --> 00:00:41,600
+Jaime (Brazil) - PERSIS Solo
+Partidas: 54 | Gols: 2 | Assistências: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Zanadin Fariz (Indonesia) - PERSIS Solo
+Partidas: 36 | Gols: 2 | Assistências: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Muhammad Isa (Indonesia) - PERSIS Solo
+Partidas: 6 | Gols: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Iman Budi (Indonesia) - PERSIS Solo
+Partidas: 8 | Gols: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Jhon Cley (Brazil) - PERSIS Solo
+Partidas: 9 | Gols: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Karim Rossi (Switzerland) - PERSIS Solo
+Partidas: 24 | Gols: 2 | Assistências: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Miftahul Hamdi (Indonesia) - PERSIS Solo
+Partidas: 15 | Gols: 2 | Assistências: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Ricardo Lima (Brazil) - PERSIS Solo
+Partidas: 12 | Gols: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Eky Taufik (Indonesia) - PERSIS Solo
+Partidas: 86 | Gols: 3 | Assistências: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Sutanto Tan (Indonesia) - PERSIS Solo
+Partidas: 78 | Gols: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Lautaro Belleggia (Argentina) - PERSIS Solo
+Partidas: 10 | Gols: 3 | Assistências: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Irfan Jauhari (Indonesia) - PERSIS Solo
+Partidas: 63 | Gols: 4 | Assistências: 4
+
+19
+00:01:54,200 --> 00:02:00,800
+Fabiano Beltrame (Indonesia) - PERSIS Solo
+Partidas: 35 | Gols: 4 | Assistências: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Rivaldi Bawuo (Indonesia) - PERSIS Solo
+Partidas: 12 | Gols: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Irfan Bachdim (Indonesia) - PERSIS Solo
+Partidas: 27 | Gols: 4 | Assistências: 4
+
+22
+00:02:14,000 --> 00:02:20,600
+Ferdinan Sinaga (Indonesia) - PERSIS Solo
+Partidas: 41 | Gols: 5 | Assistências: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Samsul Arif (Indonesia) - PERSIS Solo
+Partidas: 33 | Gols: 5 | Assistências: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Althaf Alrizky (Indonesia) - PERSIS Solo
+Partidas: 74 | Gols: 5 | Assistências: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Roni (Spain) - PERSIS Solo
+Partidas: 33 | Gols: 7 | Assistências: 8
+
+26
+00:02:40,400 --> 00:02:47,000
+Ryo Matsumura (Japan) - PERSIS Solo
+Partidas: 28 | Gols: 11 | Assistências: 6
+
+27
+00:02:47,000 --> 00:02:53,600
+Beto Gonçalves (Indonesia) - PERSIS Solo
+Partidas: 14 | Gols: 11 | Assistências: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Alexis Messidoro (Argentina) - PERSIS Solo
+Partidas: 67 | Gols: 14 | Assistências: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Ramadhan Sananta (Indonesia) - PERSIS Solo
+Partidas: 51 | Gols: 15 | Assistências: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Fernando Rodríguez (Spain) - PERSIS Solo
+Partidas: 40 | Gols: 17 | Assistências: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Moussa Sidibé (Mali) - PERSIS Solo
+Partidas: 54 | Gols: 19 | Assistências: 9
+

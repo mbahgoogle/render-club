@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RC Strasbourg Alsace 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Teddy Bertin (France) - RC Strasbourg Alsace
+출전: 180 | 골: 29 | 도움: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Antoine Hertrich (France) - RC Strasbourg Alsace
+출전: 109 | 골: 30
+
+4
+00:00:15,200 --> 00:00:21,800
+Vicky Peretz (Israel) - RC Strasbourg Alsace
+출전: 81 | 골: 32 | 도움: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Dimitri Liénard (France) - RC Strasbourg Alsace
+출전: 328 | 골: 33 | 도움: 44
+
+6
+00:00:28,400 --> 00:00:35,000
+Gérald Baticle (France) - RC Strasbourg Alsace
+출전: 137 | 골: 34 | 도움: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Antoine Groschulski (Poland) - RC Strasbourg Alsace
+출전: 60 | 골: 34
+
+8
+00:00:41,600 --> 00:00:48,200
+Jérémy Blayac (France) - RC Strasbourg Alsace
+출전: 110 | 골: 35 | 도움: 8
+
+9
+00:00:48,200 --> 00:00:54,800
+Robert Szczepaniak (France) - RC Strasbourg Alsace
+출전: 156 | 골: 39
+
+10
+00:00:54,800 --> 00:01:01,400
+Oscar Heisserer (France) - RC Strasbourg Alsace
+출전: 138 | 골: 40 | 도움: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Habib Diallo (Senegal) - RC Strasbourg Alsace
+출전: 103 | 골: 41 | 도움: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Roland Wagner (France) - RC Strasbourg Alsace
+출전: 183 | 골: 43 | 도움: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Kévin Gameiro (France) - RC Strasbourg Alsace
+출전: 170 | 골: 43 | 도움: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Marc Keller (France) - RC Strasbourg Alsace
+출전: 180 | 골: 44 | 도움: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Marc Molitor (France) - RC Strasbourg Alsace
+출전: 97 | 골: 46 | 도움: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Danijel Ljuboja (Serbia) - RC Strasbourg Alsace
+출전: 138 | 골: 46 | 도움: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+David Zitelli (France) - RC Strasbourg Alsace
+출전: 157 | 골: 48 | 도움: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Fritz Keller (France) - RC Strasbourg Alsace
+출전: 122 | 골: 49
+
+19
+00:01:54,200 --> 00:02:00,800
+Peter Reichert (Germany) - RC Strasbourg Alsace
+출전: 112 | 골: 50 | 도움: 5
+
+20
+00:02:00,800 --> 00:02:07,400
+Ludovic Ajorque (France) - RC Strasbourg Alsace
+출전: 151 | 골: 51 | 도움: 19
+
+21
+00:02:07,400 --> 00:02:14,000
+Frank Leboeuf (France) - RC Strasbourg Alsace
+출전: 223 | 골: 55 | 도움: 9
+
+22
+00:02:14,000 --> 00:02:20,600
+Edmond Haan (France) - RC Strasbourg Alsace
+출전: 258 | 골: 59
+
+23
+00:02:20,600 --> 00:02:27,200
+José Farias (Argentina) - RC Strasbourg Alsace
+출전: 163 | 골: 61
+
+24
+00:02:27,200 --> 00:02:33,800
+Philippe Piat (France) - RC Strasbourg Alsace
+출전: 161 | 골: 61
+
+25
+00:02:33,800 --> 00:02:40,400
+Ernst Stojaspal (Austria) - RC Strasbourg Alsace
+출전: 110 | 골: 64
+
+26
+00:02:40,400 --> 00:02:47,000
+Casimir Koza (France) - RC Strasbourg Alsace
+출전: 136 | 골: 74
+
+27
+00:02:47,000 --> 00:02:53,600
+Francis Piasecki (France) - RC Strasbourg Alsace
+출전: 339 | 골: 78 | 도움: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Gérard Hausser (France) - RC Strasbourg Alsace
+출전: 282 | 골: 79
+
+29
+00:03:00,200 --> 00:03:06,800
+Didier Monczuk (France) - RC Strasbourg Alsace
+출전: 117 | 골: 85
+
+30
+00:03:06,800 --> 00:03:13,400
+Albert Gemmrich (France) - RC Strasbourg Alsace
+출전: 232 | 골: 91
+
+31
+00:03:13,400 --> 00:03:20,000
+Oskar Rohr (Germany) - RC Strasbourg Alsace
+출전: 134 | 골: 120
+

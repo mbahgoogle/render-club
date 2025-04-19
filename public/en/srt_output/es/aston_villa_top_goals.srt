@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Aston Villa Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Brian Little (England) - Aston Villa
+Partidos: 198 | Goles: 41 | Asistencias: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Ian Taylor (England) - Aston Villa
+Partidos: 290 | Goles: 42 | Asistencias: 16
+
+4
+00:00:15,200 --> 00:00:21,800
+Mark Walters (England) - Aston Villa
+Partidos: 195 | Goles: 42 | Asistencias: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Julian Joachim (England) - Aston Villa
+Partidos: 170 | Goles: 44 | Asistencias: 17
+
+6
+00:00:28,400 --> 00:00:35,000
+Bobby Thomson (Scotland) - Aston Villa
+Partidos: 125 | Goles: 45 | Asistencias: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Darius Vassell (England) - Aston Villa
+Partidos: 201 | Goles: 45 | Asistencias: 15
+
+8
+00:00:41,600 --> 00:00:48,200
+Tom Waring (England) - Aston Villa
+Partidos: 46 | Goles: 46
+
+9
+00:00:48,200 --> 00:00:54,800
+Dean Saunders (Wales) - Aston Villa
+Partidos: 141 | Goles: 47 | Asistencias: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+John Carew (Norway) - Aston Villa
+Partidos: 131 | Goles: 48 | Asistencias: 12
+
+11
+00:01:01,400 --> 00:01:08,000
+John Deehan (England) - Aston Villa
+Partidos: 129 | Goles: 48
+
+12
+00:01:08,000 --> 00:01:14,600
+Christian Benteke (Belgium) - Aston Villa
+Partidos: 101 | Goles: 49 | Asistencias: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Gareth Barry (England) - Aston Villa
+Partidos: 439 | Goles: 52 | Asistencias: 47
+
+14
+00:01:21,200 --> 00:01:27,800
+Allan Evans (Scotland) - Aston Villa
+Partidos: 435 | Goles: 57 | Asistencias: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Gordon Cowans (England) - Aston Villa
+Partidos: 506 | Goles: 58 | Asistencias: 33
+
+16
+00:01:34,400 --> 00:01:41,000
+Harry Burrows (England) - Aston Villa
+Partidos: 159 | Goles: 58 | Asistencias: 4
+
+17
+00:01:41,000 --> 00:01:47,600
+Dion Dublin (England) - Aston Villa
+Partidos: 189 | Goles: 58 | Asistencias: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+David Platt (England) - Aston Villa
+Partidos: 136 | Goles: 59 | Asistencias: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Trevor Ford (Wales) - Aston Villa
+Partidos: 122 | Goles: 60
+
+20
+00:02:00,800 --> 00:02:07,400
+Juan Pablo Ángel (Colombia) - Aston Villa
+Partidos: 205 | Goles: 62 | Asistencias: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Andy Gray (Scotland) - Aston Villa
+Partidos: 193 | Goles: 67
+
+22
+00:02:14,000 --> 00:02:20,600
+Tommy Thompson (England) - Aston Villa
+Partidos: 157 | Goles: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Gerry Hitchens (England) - Aston Villa
+Partidos: 114 | Goles: 68 | Asistencias: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Tony Hateley (England) - Aston Villa
+Partidos: 138 | Goles: 74 | Asistencias: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Gary Shaw (England) - Aston Villa
+Partidos: 207 | Goles: 75 | Asistencias: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Ollie Watkins (England) - Aston Villa
+Partidos: 212 | Goles: 84 | Asistencias: 38
+
+27
+00:02:47,000 --> 00:02:53,600
+Gabriel Agbonlahor (England) - Aston Villa
+Partidos: 391 | Goles: 86 | Asistencias: 43
+
+28
+00:02:53,600 --> 00:03:00,200
+Peter Withe (England) - Aston Villa
+Partidos: 229 | Goles: 91 | Asistencias: 29
+
+29
+00:03:00,200 --> 00:03:06,800
+Dwight Yorke (Trinidad and Tobago) - Aston Villa
+Partidos: 282 | Goles: 95 | Asistencias: 31
+
+30
+00:03:06,800 --> 00:03:13,400
+Peter McParland (Northern Ireland) - Aston Villa
+Partidos: 279 | Goles: 95 | Asistencias: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Johnny Dixon (England) - Aston Villa
+Partidos: 403 | Goles: 137 | Asistencias: 2
+

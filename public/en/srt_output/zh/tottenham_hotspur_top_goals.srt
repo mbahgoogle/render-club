@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Tottenham Hotspur 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Tommy Harmer (England) - Tottenham Hotspur
+出场数: 219 | 进球: 51 | 助攻: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Dave Mackay (Scotland) - Tottenham Hotspur
+出场数: 320 | 进球: 52 | 助攻: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Sonny Walters (England) - Tottenham Hotspur
+出场数: 169 | 进球: 54
+
+5
+00:00:21,800 --> 00:00:28,400
+Les Bennett (England) - Tottenham Hotspur
+出场数: 141 | 进球: 55
+
+6
+00:00:28,400 --> 00:00:35,000
+Terry Dyson (England) - Tottenham Hotspur
+出场数: 208 | 进球: 56 | 助攻: 28
+
+7
+00:00:35,000 --> 00:00:41,600
+George Robb (England) - Tottenham Hotspur
+出场数: 193 | 进球: 57 | 助攻: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Chris Armstrong (England) - Tottenham Hotspur
+出场数: 173 | 进球: 62 | 助攻: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Les Allen (England) - Tottenham Hotspur
+出场数: 137 | 进球: 63 | 助攻: 38
+
+10
+00:00:54,800 --> 00:01:01,400
+Dele Alli (England) - Tottenham Hotspur
+出场数: 269 | 进球: 67 | 助攻: 55
+
+11
+00:01:01,400 --> 00:01:08,000
+Christian Eriksen (Denmark) - Tottenham Hotspur
+出场数: 305 | 进球: 69 | 助攻: 88
+
+12
+00:01:08,000 --> 00:01:14,600
+Terry Medwin (Wales) - Tottenham Hotspur
+出场数: 213 | 进球: 70 | 助攻: 13
+
+13
+00:01:14,600 --> 00:01:21,200
+Garth Crooks (England) - Tottenham Hotspur
+出场数: 174 | 进球: 70 | 助攻: 12
+
+14
+00:01:21,200 --> 00:01:27,800
+Martin Peters (England) - Tottenham Hotspur
+出场数: 249 | 进球: 71 | 助攻: 3
+
+15
+00:01:27,800 --> 00:01:34,400
+Gareth Bale (Wales) - Tottenham Hotspur
+出场数: 237 | 进球: 71 | 助攻: 53
+
+16
+00:01:34,400 --> 00:01:41,000
+Steve Archibald (Scotland) - Tottenham Hotspur
+出场数: 184 | 进球: 75 | 助攻: 15
+
+17
+00:01:41,000 --> 00:01:47,600
+Len Duquemin (Guernsey) - Tottenham Hotspur
+出场数: 182 | 进球: 76
+
+18
+00:01:47,600 --> 00:01:54,200
+Gary Lineker (England) - Tottenham Hotspur
+出场数: 139 | 进球: 80 | 助攻: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Clive Allen (England) - Tottenham Hotspur
+出场数: 133 | 进球: 82 | 助攻: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Mark Falco (England) - Tottenham Hotspur
+出场数: 224 | 进球: 89 | 助攻: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Glenn Hoddle (England) - Tottenham Hotspur
+出场数: 435 | 进球: 96 | 助攻: 50
+
+22
+00:02:14,000 --> 00:02:20,600
+Robbie Keane (Ireland) - Tottenham Hotspur
+出场数: 306 | 进球: 122 | 助攻: 39
+
+23
+00:02:20,600 --> 00:02:27,200
+Teddy Sheringham (England) - Tottenham Hotspur
+出场数: 277 | 进球: 125 | 助攻: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Alan Gilzean (Scotland) - Tottenham Hotspur
+出场数: 424 | 进球: 128 | 助攻: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Jermain Defoe (England) - Tottenham Hotspur
+出场数: 363 | 进球: 143 | 助攻: 29
+
+26
+00:02:40,400 --> 00:02:47,000
+Cliff Jones (Wales) - Tottenham Hotspur
+出场数: 377 | 进球: 159 | 助攻: 36
+
+27
+00:02:47,000 --> 00:02:53,600
+Martin Chivers (England) - Tottenham Hotspur
+出场数: 349 | 进球: 167 | 助攻: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Heung-min Son (Korea, South) - Tottenham Hotspur
+出场数: 449 | 进球: 173 | 助攻: 96
+
+29
+00:03:00,200 --> 00:03:06,800
+Bobby Smith (England) - Tottenham Hotspur
+出场数: 316 | 进球: 211 | 助攻: 31
+
+30
+00:03:06,800 --> 00:03:13,400
+Jimmy Greaves (England) - Tottenham Hotspur
+出场数: 376 | 进球: 266 | 助攻: 45
+
+31
+00:03:13,400 --> 00:03:20,000
+Harry Kane (England) - Tottenham Hotspur
+出场数: 435 | 进球: 280 | 助攻: 61
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hellas Verona All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Giorgio Majoli (Italy) - Hellas Verona
+Appearances: 164 | Goals: 24 | Assists: 0
+
+3
+00:00:08,600 --> 00:00:15,200
+Daniele Cacia (Italy) - Hellas Verona
+Appearances: 56 | Goals: 24 | Assists: 7
+
+4
+00:00:15,200 --> 00:00:21,800
+Robert Prytz (Sweden) - Hellas Verona
+Appearances: 133 | Goals: 24 | Assists: 0
+
+5
+00:00:21,800 --> 00:00:28,400
+Davide Pellegrini (Italy) - Hellas Verona
+Appearances: 153 | Goals: 25 | Assists: 0
+
+6
+00:00:28,400 --> 00:00:35,000
+Vincenzo Italiano (Italy) - Hellas Verona
+Appearances: 260 | Goals: 25 | Assists: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Luigino Tessaro (Italy) - Hellas Verona
+Appearances: 150 | Goals: 25 | Assists: 0
+
+8
+00:00:41,600 --> 00:00:48,200
+Iseo Lodi (Italy) - Hellas Verona
+Appearances: 99 | Goals: 26 | Assists: 3
+
+9
+00:00:48,200 --> 00:00:54,800
+Gino Pivatelli (Italy) - Hellas Verona
+Appearances: 68 | Goals: 26 | Assists: 0
+
+10
+00:00:54,800 --> 00:01:01,400
+Claudio Lunini (Italy) - Hellas Verona
+Appearances: 145 | Goals: 29 | Assists: 0
+
+11
+00:01:01,400 --> 00:01:08,000
+Osvaldo Bagnoli (Italy) - Hellas Verona
+Appearances: 99 | Goals: 31 | Assists: 0
+
+12
+00:01:08,000 --> 00:01:14,600
+Ugo Pozzan (Italy) - Hellas Verona
+Appearances: 121 | Goals: 31 | Assists: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Arnaldo Morandi (Italy) - Hellas Verona
+Appearances: 95 | Goals: 33 | Assists: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Gianfranco Zigoni (Italy) - Hellas Verona
+Appearances: 164 | Goals: 34 | Assists: 7
+
+15
+00:01:27,800 --> 00:01:34,400
+Antonio Di Gennaro (Italy) - Hellas Verona
+Appearances: 258 | Goals: 34 | Assists: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Gianni Bui (Italy) - Hellas Verona
+Appearances: 91 | Goals: 35 | Assists: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Livio Luppi (Italy) - Hellas Verona
+Appearances: 177 | Goals: 36 | Assists: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Giovanni Chiecchi (Italy) - Hellas Verona
+Appearances: 60 | Goals: 36 | Assists: 0
+
+19
+00:01:54,200 --> 00:02:00,800
+Domenico Penzo (Italy) - Hellas Verona
+Appearances: 82 | Goals: 38 | Assists: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Antonio De Vitis (Italy) - Hellas Verona
+Appearances: 113 | Goals: 41 | Assists: 0
+
+21
+00:02:07,400 --> 00:02:14,000
+Fabrizio Cammarata (Italy) - Hellas Verona
+Appearances: 135 | Goals: 42 | Assists: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Juanito Gómez (Argentina) - Hellas Verona
+Appearances: 219 | Goals: 42 | Assists: 30
+
+23
+00:02:20,600 --> 00:02:27,200
+Giuseppe Galderisi (Italy) - Hellas Verona
+Appearances: 151 | Goals: 45 | Assists: 0
+
+24
+00:02:27,200 --> 00:02:33,800
+Arnaldo Porta (Brazil) - Hellas Verona
+Appearances: 118 | Goals: 45 | Assists: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Emiliano Mascetti (Italy) - Hellas Verona
+Appearances: 324 | Goals: 47 | Assists: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Preben Elkjaer Larsen (Denmark) - Hellas Verona
+Appearances: 130 | Goals: 48 | Assists: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Giampaolo Pazzini (Italy) - Hellas Verona
+Appearances: 135 | Goals: 50 | Assists: 6
+
+28
+00:02:53,600 --> 00:03:00,200
+Egidio Chiecchi (Italy) - Hellas Verona
+Appearances: 90 | Goals: 50 | Assists: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Luca Toni (Italy) - Hellas Verona
+Appearances: 100 | Goals: 51 | Assists: 13
+
+30
+00:03:06,800 --> 00:03:13,400
+Adaílton (Brazil) - Hellas Verona
+Appearances: 176 | Goals: 52 | Assists: 5
+
+31
+00:03:13,400 --> 00:03:20,000
+Sergio Sega (Italy) - Hellas Verona
+Appearances: 224 | Goals: 72 | Assists: 2
+

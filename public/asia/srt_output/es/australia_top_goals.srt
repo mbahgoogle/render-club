@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+no data Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Harry Souttar (Australia) - no data
+Partidos: 36 | Goles: 11 | Asistencias: no data
+
+3
+00:00:08,600 --> 00:00:15,200
+Mark Viduka (Australia) - no data
+Partidos: 43 | Goles: 11 | Asistencias: no data
+
+4
+00:00:15,200 --> 00:00:21,800
+Dave Harding (Australia) - no data
+Partidos: 45 | Goles: 11 | Asistencias: no data
+
+5
+00:00:21,800 --> 00:00:28,400
+Jackson Irvine (Australia) - no data
+Partidos: 76 | Goles: 11 | Asistencias: no data
+
+6
+00:00:28,400 --> 00:00:35,000
+Mitchell Duke (Australia) - no data
+Partidos: 45 | Goles: 12 | Asistencias: no data
+
+7
+00:00:35,000 --> 00:00:41,600
+Scott Chipperfield (Australia) - no data
+Partidos: 68 | Goles: 12 | Asistencias: no data
+
+8
+00:00:41,600 --> 00:00:48,200
+Jack Hughes (Australia) - no data
+Partidos: 9 | Goles: 13 | Asistencias: no data
+
+9
+00:00:48,200 --> 00:00:54,800
+Paul Trimboli (Australia) - no data
+Partidos: 40 | Goles: 13 | Asistencias: no data
+
+10
+00:00:54,800 --> 00:01:01,400
+Mark Bresciano (Australia) - no data
+Partidos: 84 | Goles: 13 | Asistencias: no data
+
+11
+00:01:01,400 --> 00:01:08,000
+Frank Parsons (Australia) - no data
+Partidos: 5 | Goles: 14 | Asistencias: no data
+
+12
+00:01:08,000 --> 00:01:14,600
+Judy Masters (Australia) - no data
+Partidos: 10 | Goles: 14 | Asistencias: no data
+
+13
+00:01:14,600 --> 00:01:21,200
+Frank Farina (Australia) - no data
+Partidos: 67 | Goles: 14 | Asistencias: no data
+
+14
+00:01:21,200 --> 00:01:27,800
+Mathew Leckie (Australia) - no data
+Partidos: 79 | Goles: 14 | Asistencias: no data
+
+15
+00:01:27,800 --> 00:01:34,400
+Eddie Krncevic (Australia) - no data
+Partidos: 35 | Goles: 17 | Asistencias: no data
+
+16
+00:01:34,400 --> 00:01:41,000
+Ray Baartz (Australia) - no data
+Partidos: 46 | Goles: 17 | Asistencias: no data
+
+17
+00:01:41,000 --> 00:01:47,600
+Harry Kewell (Australia) - no data
+Partidos: 58 | Goles: 17 | Asistencias: no data
+
+18
+00:01:47,600 --> 00:01:54,200
+Aurelio Vidmar (Australia) - no data
+Partidos: 53 | Goles: 18 | Asistencias: no data
+
+19
+00:01:54,200 --> 00:02:00,800
+Graham Arnold (Australia) - no data
+Partidos: 56 | Goles: 19 | Asistencias: no data
+
+20
+00:02:00,800 --> 00:02:07,400
+Joshua Kennedy (Australia) - no data
+Partidos: 36 | Goles: 20 | Asistencias: no data
+
+21
+00:02:07,400 --> 00:02:14,000
+Gary Cole (Australia) - no data
+Partidos: 40 | Goles: 20 | Asistencias: no data
+
+22
+00:02:14,000 --> 00:02:20,600
+Mile Jedinak (Australia) - no data
+Partidos: 79 | Goles: 20 | Asistencias: no data
+
+23
+00:02:20,600 --> 00:02:27,200
+Brett Emerton (Australia) - no data
+Partidos: 95 | Goles: 20 | Asistencias: no data
+
+24
+00:02:27,200 --> 00:02:33,800
+David Zdrilic (Australia) - no data
+Partidos: 31 | Goles: 21 | Asistencias: no data
+
+25
+00:02:33,800 --> 00:02:40,400
+John Kosmina (Australia) - no data
+Partidos: 60 | Goles: 25 | Asistencias: no data
+
+26
+00:02:40,400 --> 00:02:47,000
+Attila Abonyi (Australia) - no data
+Partidos: 60 | Goles: 25 | Asistencias: no data
+
+27
+00:02:47,000 --> 00:02:53,600
+John Aloisi (Australia) - no data
+Partidos: 55 | Goles: 27 | Asistencias: no data
+
+28
+00:02:53,600 --> 00:03:00,200
+Archie Thompson (Australia) - no data
+Partidos: 54 | Goles: 28 | Asistencias: no data
+
+29
+00:03:00,200 --> 00:03:06,800
+George Smith (Australia) - no data
+Partidos: 13 | Goles: 29 | Asistencias: no data
+
+30
+00:03:06,800 --> 00:03:13,400
+Damian Mori (Australia) - no data
+Partidos: 45 | Goles: 29 | Asistencias: no data
+
+31
+00:03:13,400 --> 00:03:20,000
+Tim Cahill (Australia) - no data
+Partidos: 108 | Goles: 50 | Asistencias: no data
+

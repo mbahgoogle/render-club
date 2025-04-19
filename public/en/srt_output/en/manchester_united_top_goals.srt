@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Manchester United All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Sammy McIlroy (Northern Ireland) - Manchester United
+Appearances: 373 | Goals: 61 | Assists: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Norman Whiteside (Northern Ireland) - Manchester United
+Appearances: 259 | Goals: 63 | Assists: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Steve Coppell (England) - Manchester United
+Appearances: 373 | Goals: 65 | Assists: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Dwight Yorke (Trinidad and Tobago) - Manchester United
+Appearances: 152 | Goals: 66 | Assists: 32
+
+6
+00:00:28,400 --> 00:00:35,000
+Brian Kidd (England) - Manchester United
+Appearances: 265 | Goals: 70 | Assists: 13
+
+7
+00:00:35,000 --> 00:00:41,600
+Frank Stapleton (Ireland) - Manchester United
+Appearances: 274 | Goals: 72 | Assists: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Lou Macari (Scotland) - Manchester United
+Appearances: 356 | Goals: 78
+
+9
+00:00:48,200 --> 00:00:54,800
+Éric Cantona (France) - Manchester United
+Appearances: 185 | Goals: 82 | Assists: 63
+
+10
+00:00:54,800 --> 00:01:01,400
+David Beckham (England) - Manchester United
+Appearances: 394 | Goals: 85 | Assists: 121
+
+11
+00:01:01,400 --> 00:01:08,000
+Anthony Martial (France) - Manchester United
+Appearances: 317 | Goals: 90 | Assists: 46
+
+12
+00:01:08,000 --> 00:01:14,600
+Bruno Fernandes (Portugal) - Manchester United
+Appearances: 278 | Goals: 95 | Assists: 82
+
+13
+00:01:14,600 --> 00:01:21,200
+Bryan Robson (England) - Manchester United
+Appearances: 446 | Goals: 97 | Assists: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy Cole (England) - Manchester United
+Appearances: 275 | Goals: 121 | Assists: 44
+
+15
+00:01:27,800 --> 00:01:34,400
+Brian McClair (Scotland) - Manchester United
+Appearances: 466 | Goals: 121 | Assists: 16
+
+16
+00:01:34,400 --> 00:01:41,000
+Ole Gunnar Solskjær (Norway) - Manchester United
+Appearances: 366 | Goals: 126 | Assists: 57
+
+17
+00:01:41,000 --> 00:01:47,600
+Tommy Taylor (England) - Manchester United
+Appearances: 189 | Goals: 131 | Assists: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Stan Pearson (England) - Manchester United
+Appearances: 315 | Goals: 135 | Assists: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Marcus Rashford (England) - Manchester United
+Appearances: 426 | Goals: 138 | Assists: 65
+
+20
+00:02:00,800 --> 00:02:07,400
+David Herd (Scotland) - Manchester United
+Appearances: 261 | Goals: 144 | Assists: 29
+
+21
+00:02:07,400 --> 00:02:14,000
+Cristiano Ronaldo (Portugal) - Manchester United
+Appearances: 346 | Goals: 145 | Assists: 64
+
+22
+00:02:14,000 --> 00:02:20,600
+Ruud van Nistelrooy (Netherlands) - Manchester United
+Appearances: 219 | Goals: 150 | Assists: 28
+
+23
+00:02:20,600 --> 00:02:27,200
+Paul Scholes (England) - Manchester United
+Appearances: 716 | Goals: 155 | Assists: 82
+
+24
+00:02:27,200 --> 00:02:33,800
+Mark Hughes (Wales) - Manchester United
+Appearances: 459 | Goals: 161 | Assists: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Ryan Giggs (Wales) - Manchester United
+Appearances: 963 | Goals: 168 | Assists: 265
+
+26
+00:02:40,400 --> 00:02:47,000
+Dennis Viollet (England) - Manchester United
+Appearances: 284 | Goals: 173 | Assists: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+George Best (Northern Ireland) - Manchester United
+Appearances: 470 | Goals: 179 | Assists: 33
+
+28
+00:02:53,600 --> 00:03:00,200
+Jack Rowley (England) - Manchester United
+Appearances: 357 | Goals: 189 | Assists: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Denis Law (Scotland) - Manchester United
+Appearances: 405 | Goals: 237 | Assists: 36
+
+30
+00:03:06,800 --> 00:03:13,400
+Sir Bobby Charlton (England) - Manchester United
+Appearances: 746 | Goals: 245 | Assists: 57
+
+31
+00:03:13,400 --> 00:03:20,000
+Wayne Rooney (England) - Manchester United
+Appearances: 559 | Goals: 253 | Assists: 139
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfB Stuttgart Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Serhou Guirassy (Guinea) - VfB Stuttgart
+Einsätze: 58 | Tore: 44 | Vorlagen: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Guido Buchwald (Germany) - VfB Stuttgart
+Einsätze: 387 | Tore: 45 | Vorlagen: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Erwin Läpple (Germany) - VfB Stuttgart
+Einsätze: 193 | Tore: 47
+
+5
+00:00:21,800 --> 00:00:28,400
+Ionel Ganea (Romania) - VfB Stuttgart
+Einsätze: 138 | Tore: 47 | Vorlagen: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Vedad Ibisevic (Bosnia-Herzegovina) - VfB Stuttgart
+Einsätze: 111 | Tore: 47 | Vorlagen: 16
+
+7
+00:00:35,000 --> 00:00:41,600
+Horst Köppel (Germany) - VfB Stuttgart
+Einsätze: 139 | Tore: 49 | Vorlagen: 10
+
+8
+00:00:41,600 --> 00:00:48,200
+Roland Wehrle (Germany) - VfB Stuttgart
+Einsätze: 104 | Tore: 50
+
+9
+00:00:48,200 --> 00:00:54,800
+Christian Gentner (Germany) - VfB Stuttgart
+Einsätze: 373 | Tore: 50 | Vorlagen: 45
+
+10
+00:00:54,800 --> 00:01:01,400
+Peter Reichert (Germany) - VfB Stuttgart
+Einsätze: 160 | Tore: 50
+
+11
+00:01:01,400 --> 00:01:08,000
+Kevin Kuranyi (Germany) - VfB Stuttgart
+Einsätze: 132 | Tore: 57 | Vorlagen: 26
+
+12
+00:01:08,000 --> 00:01:14,600
+Dieter Hoeneß (Germany) - VfB Stuttgart
+Einsätze: 117 | Tore: 57 | Vorlagen: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Dieter Höller (Germany) - VfB Stuttgart
+Einsätze: 139 | Tore: 58 | Vorlagen: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Gerhard Strohmaier (Germany) - VfB Stuttgart
+Einsätze: 211 | Tore: 63
+
+15
+00:01:27,800 --> 00:01:34,400
+Walter Kelsch (Germany) - VfB Stuttgart
+Einsätze: 251 | Tore: 65 | Vorlagen: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Martin Harnik (Austria) - VfB Stuttgart
+Einsätze: 214 | Tore: 68 | Vorlagen: 35
+
+17
+00:01:41,000 --> 00:01:47,600
+Karl-Heinz Handschuh (Germany) - VfB Stuttgart
+Einsätze: 209 | Tore: 72 | Vorlagen: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+Krasimir Balakov (Bulgaria) - VfB Stuttgart
+Einsätze: 298 | Tore: 73 | Vorlagen: 65
+
+19
+00:01:54,200 --> 00:02:00,800
+Hansi Müller (Germany) - VfB Stuttgart
+Einsätze: 224 | Tore: 81 | Vorlagen: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Rolf Geiger (Germany) - VfB Stuttgart
+Einsätze: 198 | Tore: 84 | Vorlagen: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Fredi Bobic (Germany) - VfB Stuttgart
+Einsätze: 182 | Tore: 86 | Vorlagen: 24
+
+22
+00:02:14,000 --> 00:02:20,600
+Jürgen Klinsmann (Germany) - VfB Stuttgart
+Einsätze: 186 | Tore: 94 | Vorlagen: 11
+
+23
+00:02:20,600 --> 00:02:27,200
+Otto Baitinger (Germany) - VfB Stuttgart
+Einsätze: 203 | Tore: 98
+
+24
+00:02:27,200 --> 00:02:33,800
+Robert Schlienz (Germany) - VfB Stuttgart
+Einsätze: 397 | Tore: 102
+
+25
+00:02:33,800 --> 00:02:40,400
+Cacau (Germany) - VfB Stuttgart
+Einsätze: 346 | Tore: 109 | Vorlagen: 44
+
+26
+00:02:40,400 --> 00:02:47,000
+Mario Gómez (Germany) - VfB Stuttgart
+Einsätze: 230 | Tore: 110 | Vorlagen: 30
+
+27
+00:02:47,000 --> 00:02:53,600
+Erwin Waldner (Germany) - VfB Stuttgart
+Einsätze: 307 | Tore: 116 | Vorlagen: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Fritz Walter (Germany) - VfB Stuttgart
+Einsätze: 258 | Tore: 123 | Vorlagen: 33
+
+29
+00:03:00,200 --> 00:03:06,800
+Rolf Blessing (Germany) - VfB Stuttgart
+Einsätze: 385 | Tore: 141
+
+30
+00:03:06,800 --> 00:03:13,400
+Hermann Ohlicher (Germany) - VfB Stuttgart
+Einsätze: 459 | Tore: 157 | Vorlagen: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Karl Allgöwer (Germany) - VfB Stuttgart
+Einsätze: 410 | Tore: 167 | Vorlagen: 18
+

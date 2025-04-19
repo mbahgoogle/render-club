@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Nantes Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Jorge Burruchaga (Argentina) - FC Nantes
+Einsätze: 162 | Tore: 30 | Vorlagen: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Jocelyn Gourvennec (France) - FC Nantes
+Einsätze: 109 | Tore: 31 | Vorlagen: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Patrice Rio (France) - FC Nantes
+Einsätze: 537 | Tore: 33
+
+5
+00:00:21,800 --> 00:00:28,400
+Reynald Pedros (France) - FC Nantes
+Einsätze: 184 | Tore: 34 | Vorlagen: 28
+
+6
+00:00:28,400 --> 00:00:35,000
+Olivier Monterrubio (France) - FC Nantes
+Einsätze: 118 | Tore: 34 | Vorlagen: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Moses Simon (Nigeria) - FC Nantes
+Einsätze: 195 | Tore: 36 | Vorlagen: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+Thierno Youm (Senegal) - FC Nantes
+Einsätze: 135 | Tore: 37 | Vorlagen: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Ángel Marcos (Argentina) - FC Nantes
+Einsätze: 99 | Tore: 39
+
+10
+00:00:54,800 --> 00:01:01,400
+Christophe Robert (France) - FC Nantes
+Einsätze: 215 | Tore: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Oscar Muller (Argentina) - FC Nantes
+Einsätze: 243 | Tore: 40 | Vorlagen: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Marama Vahirua (Tahiti) - FC Nantes
+Einsätze: 147 | Tore: 41 | Vorlagen: 5
+
+13
+00:01:14,600 --> 00:01:21,200
+Ludovic Blas (France) - FC Nantes
+Einsätze: 159 | Tore: 45 | Vorlagen: 18
+
+14
+00:01:21,200 --> 00:01:27,800
+Emiliano Sala (Argentina) - FC Nantes
+Einsätze: 133 | Tore: 48 | Vorlagen: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Patrice Loko (France) - FC Nantes
+Einsätze: 206 | Tore: 48 | Vorlagen: 10
+
+16
+00:01:34,400 --> 00:01:41,000
+Erich Maas (Germany) - FC Nantes
+Einsätze: 180 | Tore: 48
+
+17
+00:01:41,000 --> 00:01:47,600
+Viorel Moldovan (Romania) - FC Nantes
+Einsätze: 94 | Tore: 50 | Vorlagen: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Frédéric Da Rocha (France) - FC Nantes
+Einsätze: 508 | Tore: 57 | Vorlagen: 19
+
+19
+00:01:54,200 --> 00:02:00,800
+Filip Djordjevic (Serbia) - FC Nantes
+Einsätze: 198 | Tore: 69 | Vorlagen: 21
+
+20
+00:02:00,800 --> 00:02:07,400
+José Touré (France) - FC Nantes
+Einsätze: 207 | Tore: 73 | Vorlagen: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Bruno Baronchelli (France) - FC Nantes
+Einsätze: 391 | Tore: 81
+
+22
+00:02:14,000 --> 00:02:20,600
+Nicolas Ouédec (France) - FC Nantes
+Einsätze: 186 | Tore: 83 | Vorlagen: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+Japhet N'Doram (Chad) - FC Nantes
+Einsätze: 228 | Tore: 87 | Vorlagen: 11
+
+24
+00:02:27,200 --> 00:02:33,800
+Henri Michel (France) - FC Nantes
+Einsätze: 640 | Tore: 95
+
+25
+00:02:33,800 --> 00:02:40,400
+Jacky Simon (France) - FC Nantes
+Einsätze: 183 | Tore: 96
+
+26
+00:02:40,400 --> 00:02:47,000
+Éric Pécout (France) - FC Nantes
+Einsätze: 204 | Tore: 100
+
+27
+00:02:47,000 --> 00:02:53,600
+Gilles Rampillon (France) - FC Nantes
+Einsätze: 417 | Tore: 111
+
+28
+00:02:53,600 --> 00:03:00,200
+Vahid Halilhodzic (Bosnia-Herzegovina) - FC Nantes
+Einsätze: 192 | Tore: 112
+
+29
+00:03:00,200 --> 00:03:06,800
+Loïc Amisse (France) - FC Nantes
+Einsätze: 602 | Tore: 112
+
+30
+00:03:06,800 --> 00:03:13,400
+Bernard Blanchet (France) - FC Nantes
+Einsätze: 432 | Tore: 122
+
+31
+00:03:13,400 --> 00:03:20,000
+Philippe Gondet (France) - FC Nantes
+Einsätze: 235 | Tore: 127
+

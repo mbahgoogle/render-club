@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+LOSC Lille Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Zarko Olarevic (Serbia) - LOSC Lille
+Apparitions: 126 | Buts: 31 | Passes décisives: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Bruno Cheyrou (France) - LOSC Lille
+Apparitions: 114 | Buts: 32 | Passes décisives: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Roberto Cabral (Argentina) - LOSC Lille
+Apparitions: 111 | Buts: 34 | Passes décisives: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Salomon Kalou (Cote d'Ivoire) - LOSC Lille
+Apparitions: 80 | Buts: 34 | Passes décisives: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Gervinho (Cote d'Ivoire) - LOSC Lille
+Apparitions: 93 | Buts: 36 | Passes décisives: 15
+
+7
+00:00:35,000 --> 00:00:41,600
+Moussa Sow (Senegal) - LOSC Lille
+Apparitions: 76 | Buts: 36 | Passes décisives: 6
+
+8
+00:00:41,600 --> 00:00:48,200
+René Fatoux (France) - LOSC Lille
+Apparitions: 49 | Buts: 36
+
+9
+00:00:48,200 --> 00:00:54,800
+Stanislav Karasi (Serbia) - LOSC Lille
+Apparitions: 120 | Buts: 36
+
+10
+00:00:54,800 --> 00:01:01,400
+Nicolas Pépé (Cote d'Ivoire) - LOSC Lille
+Apparitions: 79 | Buts: 37 | Passes décisives: 18
+
+11
+00:01:01,400 --> 00:01:08,000
+Nolan Roux (France) - LOSC Lille
+Apparitions: 138 | Buts: 37 | Passes décisives: 17
+
+12
+00:01:08,000 --> 00:01:14,600
+Yohan Cabaye (France) - LOSC Lille
+Apparitions: 252 | Buts: 37 | Passes décisives: 32
+
+13
+00:01:14,600 --> 00:01:21,200
+Francois Heutte (France) - LOSC Lille
+Apparitions: 105 | Buts: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Laurent Peyrelade (France) - LOSC Lille
+Apparitions: 133 | Buts: 38 | Passes décisives: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+Matt Moussilou (Congo) - LOSC Lille
+Apparitions: 140 | Buts: 39 | Passes décisives: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Marius Walter (France) - LOSC Lille
+Apparitions: 99 | Buts: 39
+
+17
+00:01:41,000 --> 00:01:47,600
+Jean Lechantre (Belgium) - LOSC Lille
+Apparitions: 99 | Buts: 42
+
+18
+00:01:47,600 --> 00:01:54,200
+Djezon Boutoille (France) - LOSC Lille
+Apparitions: 273 | Buts: 44 | Passes décisives: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Erwin Vandenbergh (Belgium) - LOSC Lille
+Apparitions: 130 | Buts: 44
+
+20
+00:02:00,800 --> 00:02:07,400
+Fernand Devlaminck (France) - LOSC Lille
+Apparitions: 79 | Buts: 48
+
+21
+00:02:07,400 --> 00:02:14,000
+Eden Hazard (Belgium) - LOSC Lille
+Apparitions: 194 | Buts: 50 | Passes décisives: 53
+
+22
+00:02:14,000 --> 00:02:20,600
+André Guy (France) - LOSC Lille
+Apparitions: 89 | Buts: 51
+
+23
+00:02:20,600 --> 00:02:27,200
+Christian Coste (France) - LOSC Lille
+Apparitions: 109 | Buts: 54
+
+24
+00:02:27,200 --> 00:02:33,800
+Gérard Bourbotte (France) - LOSC Lille
+Apparitions: 174 | Buts: 60
+
+25
+00:02:33,800 --> 00:02:40,400
+Yvon Douis (France) - LOSC Lille
+Apparitions: 173 | Buts: 61
+
+26
+00:02:40,400 --> 00:02:47,000
+Jean Vincent (France) - LOSC Lille
+Apparitions: 179 | Buts: 62
+
+27
+00:02:47,000 --> 00:02:53,600
+Pierre Pleimelding (France) - LOSC Lille
+Apparitions: 131 | Buts: 62 | Passes décisives: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Bernard Lefèvre (France) - LOSC Lille
+Apparitions: 156 | Buts: 64
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean Baratte (France) - LOSC Lille
+Apparitions: 187 | Buts: 97
+
+30
+00:03:06,800 --> 00:03:13,400
+Jonathan David (Canada) - LOSC Lille
+Apparitions: 225 | Buts: 107 | Passes décisives: 27
+
+31
+00:03:13,400 --> 00:03:20,000
+André Strappe (France) - LOSC Lille
+Apparitions: 318 | Buts: 112
+

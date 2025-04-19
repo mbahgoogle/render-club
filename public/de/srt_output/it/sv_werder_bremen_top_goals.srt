@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+SV Werder Bremen Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Torsten Frings (Germany) - SV Werder Bremen
+Presenze: 449 | Gol: 52 | Assist: 62
+
+3
+00:00:08,600 --> 00:00:15,200
+Markus Rosenberg (Sweden) - SV Werder Bremen
+Presenze: 165 | Gol: 53 | Assist: 27
+
+4
+00:00:15,200 --> 00:00:21,800
+Marvin Ducksch (Germany) - SV Werder Bremen
+Presenze: 127 | Gol: 53 | Assist: 38
+
+5
+00:00:21,800 --> 00:00:28,400
+Diego (Brazil) - SV Werder Bremen
+Presenze: 132 | Gol: 54 | Assist: 42
+
+6
+00:00:28,400 --> 00:00:35,000
+Karl-Heinz Riedle (Germany) - SV Werder Bremen
+Presenze: 126 | Gol: 59 | Assist: 14
+
+7
+00:00:35,000 --> 00:00:41,600
+Benno Möhlmann (Germany) - SV Werder Bremen
+Presenze: 340 | Gol: 61 | Assist: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Miroslav Klose (Germany) - SV Werder Bremen
+Presenze: 132 | Gol: 63 | Assist: 47
+
+9
+00:00:48,200 --> 00:00:54,800
+Hugo Almeida (Portugal) - SV Werder Bremen
+Presenze: 177 | Gol: 63 | Assist: 26
+
+10
+00:00:54,800 --> 00:01:01,400
+Werner Weist (Germany) - SV Werder Bremen
+Presenze: 166 | Gol: 65 | Assist: 9
+
+11
+00:01:01,400 --> 00:01:08,000
+Hans Hagenacker (Germany) - SV Werder Bremen
+Presenze: 275 | Gol: 65
+
+12
+00:01:08,000 --> 00:01:14,600
+Jürgen Röber (Germany) - SV Werder Bremen
+Presenze: 216 | Gol: 68 | Assist: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Günter Wilmovius (Germany) - SV Werder Bremen
+Presenze: 179 | Gol: 70
+
+14
+00:01:21,200 --> 00:01:27,800
+Gerhard Zebrowski (Germany) - SV Werder Bremen
+Presenze: 250 | Gol: 72 | Assist: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Andreas Herzog (Austria) - SV Werder Bremen
+Presenze: 307 | Gol: 72 | Assist: 86
+
+16
+00:01:34,400 --> 00:01:41,000
+Horst-Dieter Höttges (Germany) - SV Werder Bremen
+Presenze: 483 | Gol: 74 | Assist: 20
+
+17
+00:01:41,000 --> 00:01:47,600
+Horst Gernhardt (Germany) - SV Werder Bremen
+Presenze: 134 | Gol: 75
+
+18
+00:01:47,600 --> 00:01:54,200
+Ivan Klasnic (Croatia) - SV Werder Bremen
+Presenze: 205 | Gol: 77 | Assist: 44
+
+19
+00:01:54,200 --> 00:02:00,800
+Klaus Hänel (Germany) - SV Werder Bremen
+Presenze: 255 | Gol: 87 | Assist: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Werner Görts (Germany) - SV Werder Bremen
+Presenze: 425 | Gol: 92 | Assist: 27
+
+21
+00:02:07,400 --> 00:02:14,000
+Wynton Rufer (New Zealand) - SV Werder Bremen
+Presenze: 242 | Gol: 104 | Assist: 33
+
+22
+00:02:14,000 --> 00:02:20,600
+Aílton (Brazil) - SV Werder Bremen
+Presenze: 214 | Gol: 106 | Assist: 42
+
+23
+00:02:20,600 --> 00:02:27,200
+Norbert Meier (Germany) - SV Werder Bremen
+Presenze: 372 | Gol: 113 | Assist: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Uwe Reinders (Germany) - SV Werder Bremen
+Presenze: 308 | Gol: 118 | Assist: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Rudi Völler (Germany) - SV Werder Bremen
+Presenze: 174 | Gol: 119 | Assist: 6
+
+26
+00:02:40,400 --> 00:02:47,000
+Marco Bode (Germany) - SV Werder Bremen
+Presenze: 495 | Gol: 134 | Assist: 66
+
+27
+00:02:47,000 --> 00:02:53,600
+Karl-Heinz Preuße (Germany) - SV Werder Bremen
+Presenze: 200 | Gol: 138
+
+28
+00:02:53,600 --> 00:03:00,200
+Frank Neubarth (Germany) - SV Werder Bremen
+Presenze: 421 | Gol: 141 | Assist: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Willi Schröder (Germany) - SV Werder Bremen
+Presenze: 239 | Gol: 146
+
+30
+00:03:06,800 --> 00:03:13,400
+Claudio Pizarro (Peru) - SV Werder Bremen
+Presenze: 320 | Gol: 153 | Assist: 53
+
+31
+00:03:13,400 --> 00:03:20,000
+Arnold Schütz (Germany) - SV Werder Bremen
+Presenze: 540 | Gol: 200 | Assist: 13
+

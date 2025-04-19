@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Manchester United 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Sammy McIlroy (Northern Ireland) - Manchester United
+출전: 373 | 골: 61 | 도움: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Norman Whiteside (Northern Ireland) - Manchester United
+출전: 259 | 골: 63 | 도움: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Steve Coppell (England) - Manchester United
+출전: 373 | 골: 65 | 도움: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Dwight Yorke (Trinidad and Tobago) - Manchester United
+출전: 152 | 골: 66 | 도움: 32
+
+6
+00:00:28,400 --> 00:00:35,000
+Brian Kidd (England) - Manchester United
+출전: 265 | 골: 70 | 도움: 13
+
+7
+00:00:35,000 --> 00:00:41,600
+Frank Stapleton (Ireland) - Manchester United
+출전: 274 | 골: 72 | 도움: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Lou Macari (Scotland) - Manchester United
+출전: 356 | 골: 78
+
+9
+00:00:48,200 --> 00:00:54,800
+Éric Cantona (France) - Manchester United
+출전: 185 | 골: 82 | 도움: 63
+
+10
+00:00:54,800 --> 00:01:01,400
+David Beckham (England) - Manchester United
+출전: 394 | 골: 85 | 도움: 121
+
+11
+00:01:01,400 --> 00:01:08,000
+Anthony Martial (France) - Manchester United
+출전: 317 | 골: 90 | 도움: 46
+
+12
+00:01:08,000 --> 00:01:14,600
+Bruno Fernandes (Portugal) - Manchester United
+출전: 278 | 골: 95 | 도움: 82
+
+13
+00:01:14,600 --> 00:01:21,200
+Bryan Robson (England) - Manchester United
+출전: 446 | 골: 97 | 도움: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy Cole (England) - Manchester United
+출전: 275 | 골: 121 | 도움: 44
+
+15
+00:01:27,800 --> 00:01:34,400
+Brian McClair (Scotland) - Manchester United
+출전: 466 | 골: 121 | 도움: 16
+
+16
+00:01:34,400 --> 00:01:41,000
+Ole Gunnar Solskjær (Norway) - Manchester United
+출전: 366 | 골: 126 | 도움: 57
+
+17
+00:01:41,000 --> 00:01:47,600
+Tommy Taylor (England) - Manchester United
+출전: 189 | 골: 131 | 도움: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Stan Pearson (England) - Manchester United
+출전: 315 | 골: 135 | 도움: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Marcus Rashford (England) - Manchester United
+출전: 426 | 골: 138 | 도움: 65
+
+20
+00:02:00,800 --> 00:02:07,400
+David Herd (Scotland) - Manchester United
+출전: 261 | 골: 144 | 도움: 29
+
+21
+00:02:07,400 --> 00:02:14,000
+Cristiano Ronaldo (Portugal) - Manchester United
+출전: 346 | 골: 145 | 도움: 64
+
+22
+00:02:14,000 --> 00:02:20,600
+Ruud van Nistelrooy (Netherlands) - Manchester United
+출전: 219 | 골: 150 | 도움: 28
+
+23
+00:02:20,600 --> 00:02:27,200
+Paul Scholes (England) - Manchester United
+출전: 716 | 골: 155 | 도움: 82
+
+24
+00:02:27,200 --> 00:02:33,800
+Mark Hughes (Wales) - Manchester United
+출전: 459 | 골: 161 | 도움: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Ryan Giggs (Wales) - Manchester United
+출전: 963 | 골: 168 | 도움: 265
+
+26
+00:02:40,400 --> 00:02:47,000
+Dennis Viollet (England) - Manchester United
+출전: 284 | 골: 173 | 도움: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+George Best (Northern Ireland) - Manchester United
+출전: 470 | 골: 179 | 도움: 33
+
+28
+00:02:53,600 --> 00:03:00,200
+Jack Rowley (England) - Manchester United
+출전: 357 | 골: 189 | 도움: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Denis Law (Scotland) - Manchester United
+출전: 405 | 골: 237 | 도움: 36
+
+30
+00:03:06,800 --> 00:03:13,400
+Sir Bobby Charlton (England) - Manchester United
+출전: 746 | 골: 245 | 도움: 57
+
+31
+00:03:13,400 --> 00:03:20,000
+Wayne Rooney (England) - Manchester United
+출전: 559 | 골: 253 | 도움: 139
+

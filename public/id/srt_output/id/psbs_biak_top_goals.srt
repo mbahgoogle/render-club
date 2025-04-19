@@ -1,0 +1,143 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSBS Biak Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Muhammad Tahir (Indonesia) - PSBS Biak
+Penampilan: 40 | Gol: 1 | Asis: 7
+
+3
+00:00:08,600 --> 00:00:15,200
+Fabiano Beltrame (Indonesia) - PSBS Biak
+Penampilan: 36 | Gol: 1 | Asis: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Marten Raweyai (Indonesia) - PSBS Biak
+Penampilan: 5 | Gol: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Marckho Merauje (Indonesia) - PSBS Biak
+Penampilan: 23 | Gol: 1 | Asis: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Takuya Matsunaga (Japan) - PSBS Biak
+Penampilan: 23 | Gol: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Armando Oropa (Indonesia) - PSBS Biak
+Penampilan: 20 | Gol: 1 | Asis: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Otávio Dutra (Indonesia) - PSBS Biak
+Penampilan: 10 | Gol: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Hermansyah Muchlis (Indonesia) - PSBS Biak
+Penampilan: 6 | Gol: 1 | Asis: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Febrianto Uopmabin (Indonesia) - PSBS Biak
+Penampilan: 47 | Gol: 1 | Asis: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Ariel Nahuelpán (Argentina) - PSBS Biak
+Penampilan: 8 | Gol: 1 | Asis: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Melcior Majefat (Indonesia) - PSBS Biak
+Penampilan: 16 | Gol: 1 | Asis: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Wawan Samma (Indonesia) - PSBS Biak
+Penampilan: 8 | Gol: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Melvis Uaga (Indonesia) - PSBS Biak
+Penampilan: 14 | Gol: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Rudy Kurni (Indonesia) - PSBS Biak
+Penampilan: 5 | Gol: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Yano Putra (Indonesia) - PSBS Biak
+Penampilan: 8 | Gol: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Charles Rumbino (Indonesia) - PSBS Biak
+Penampilan: 14 | Gol: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Gustavo Suebu (Indonesia) - PSBS Biak
+Penampilan: 7 | Gol: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Adrian Msen (Indonesia) - PSBS Biak
+Penampilan: 23 | Gol: 2 | Asis: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Osas Saha (Indonesia) - PSBS Biak
+Penampilan: 12 | Gol: 2 | Asis: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Jeam Kelly Sroyer (Indonesia) - PSBS Biak
+Penampilan: 37 | Gol: 3 | Asis: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Julián Velázquez (Argentina) - PSBS Biak
+Penampilan: 23 | Gol: 3
+
+23
+00:02:20,600 --> 00:02:27,200
+Toumahuw Ronald (Indonesia) - PSBS Biak
+Penampilan: 12 | Gol: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Ananias Fingkreuw (Indonesia) - PSBS Biak
+Penampilan: 12 | Gol: 5 | Asis: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Williams Lugo (Venezuela) - PSBS Biak
+Penampilan: 24 | Gol: 5 | Asis: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Abel Argañaraz (Argentina) - PSBS Biak
+Penampilan: 26 | Gol: 7 | Asis: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Mamadou Barry (Indonesia) - PSBS Biak
+Penampilan: 19 | Gol: 8
+
+28
+00:02:53,600 --> 00:03:00,200
+Beto (Indonesia) - PSBS Biak
+Penampilan: 39 | Gol: 11 | Asis: 4
+
+29
+00:03:00,200 --> 00:03:06,800
+Alexsandro (Brazil) - PSBS Biak
+Penampilan: 46 | Gol: 28 | Asis: 5

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Deltras FC Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Rendra Teddy (Indonesia) - Deltras FC
+Partidos: 16 | Goles: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Crah Angger (Indonesia) - Deltras FC
+Partidos: 16 | Goles: 1 | Asistencias: 3
+
+4
+00:00:15,200 --> 00:00:21,800
+Mijo Dadic (Croatia) - Deltras FC
+Partidos: 24 | Goles: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Amar Fadzillah (Indonesia) - Deltras FC
+Partidos: 31 | Goles: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Hyun-joon Shin (Korea, South) - Deltras FC
+Partidos: 15 | Goles: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Juan Revi (Indonesia) - Deltras FC
+Partidos: 14 | Goles: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Bima Ragil (Indonesia) - Deltras FC
+Partidos: 28 | Goles: 1 | Asistencias: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Januar Eka (Indonesia) - Deltras FC
+Partidos: 13 | Goles: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Amabel Ramansyah (Indonesia) - Deltras FC
+Partidos: 5 | Goles: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Wigi Pratama (Indonesia) - Deltras FC
+Partidos: 9 | Goles: 1 | Asistencias: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Wisal El-Burji (Indonesia) - Deltras FC
+Partidos: 22 | Goles: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Sekou Sylla (Guinea) - Deltras FC
+Partidos: 7 | Goles: 2 | Asistencias: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Rendi Irwan (Indonesia) - Deltras FC
+Partidos: 28 | Goles: 2 | Asistencias: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Rikza Syahwali (Indonesia) - Deltras FC
+Partidos: 18 | Goles: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Muhammad Afrizhan (Indonesia) - Deltras FC
+Partidos: 6 | Goles: 2 | Asistencias: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Budi Sudarsono (Indonesia) - Deltras FC
+Partidos: 15 | Goles: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Ahmad Maulana (Indonesia) - Deltras FC
+Partidos: 12 | Goles: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Amos Marah (Liberia) - Deltras FC
+Partidos: 13 | Goles: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Lancine Kone (Cote d'Ivoire) - Deltras FC
+Partidos: 13 | Goles: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+James Koko Lomell (Liberia) - Deltras FC
+Partidos: 16 | Goles: 3
+
+22
+00:02:14,000 --> 00:02:20,600
+Safitra Udu (Indonesia) - Deltras FC
+Partidos: 15 | Goles: 3 | Asistencias: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Rosalvo (Brazil) - Deltras FC
+Partidos: 10 | Goles: 4 | Asistencias: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Sean Rooney (Australia) - Deltras FC
+Partidos: 10 | Goles: 4
+
+25
+00:02:33,800 --> 00:02:40,400
+Artur Vieira (Brazil) - Deltras FC
+Partidos: 19 | Goles: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Thaufan Hidayat (Indonesia) - Deltras FC
+Partidos: 27 | Goles: 5 | Asistencias: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Emerson Carioca (Brazil) - Deltras FC
+Partidos: 17 | Goles: 6 | Asistencias: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Fakhrudin (Indonesia) - Deltras FC
+Partidos: 27 | Goles: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+Qischil Gandrum (Indonesia) - Deltras FC
+Partidos: 29 | Goles: 6
+
+30
+00:03:06,800 --> 00:03:13,400
+Dwiki Mardiyanto (Indonesia) - Deltras FC
+Partidos: 37 | Goles: 6 | Asistencias: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Risal Amin (Indonesia) - Deltras FC
+Partidos: 23 | Goles: 7 | Asistencias: 1
+

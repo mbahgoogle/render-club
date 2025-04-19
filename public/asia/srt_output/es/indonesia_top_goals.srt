@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSSI Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Irfan Jaya (Indonesia) - PSSI
+Partidos: 22 | Goles: 6 | Asistencias: no data
+
+3
+00:00:08,600 --> 00:00:15,200
+Ronny Pattinasarany (Indonesia) - PSSI
+Partidos: 31 | Goles: 6 | Asistencias: no data
+
+4
+00:00:15,200 --> 00:00:21,800
+Robby Darwis (Indonesia) - PSSI
+Partidos: 53 | Goles: 6 | Asistencias: no data
+
+5
+00:00:21,800 --> 00:00:28,400
+Zulham Zamrun (Indonesia) - PSSI
+Partidos: 31 | Goles: 7 | Asistencias: no data
+
+6
+00:00:28,400 --> 00:00:35,000
+Aji Santoso (Indonesia) - PSSI
+Partidos: 41 | Goles: 7 | Asistencias: no data
+
+7
+00:00:35,000 --> 00:00:41,600
+Egy Maulana Vikri (Indonesia) - PSSI
+Partidos: 27 | Goles: 8 | Asistencias: no data
+
+8
+00:00:41,600 --> 00:00:48,200
+Ansyari Lubis (Indonesia) - PSSI
+Partidos: 30 | Goles: 8 | Asistencias: no data
+
+9
+00:00:48,200 --> 00:00:54,800
+Elie Aiboy (Indonesia) - PSSI
+Partidos: 48 | Goles: 8 | Asistencias: no data
+
+10
+00:00:54,800 --> 00:01:01,400
+Witan Sulaeman (Indonesia) - PSSI
+Partidos: 46 | Goles: 9 | Asistencias: no data
+
+11
+00:01:01,400 --> 00:01:08,000
+Alberto Gonçalves da Costa (Indonesia) - PSSI
+Partidos: 12 | Goles: 10 | Asistencias: no data
+
+12
+00:01:08,000 --> 00:01:14,600
+Andi Anwar Ramang (Indonesia) - PSSI
+Partidos: 18 | Goles: 10 | Asistencias: no data
+
+13
+00:01:14,600 --> 00:01:21,200
+Irfan Bachdim (Indonesia) - PSSI
+Partidos: 40 | Goles: 11 | Asistencias: no data
+
+14
+00:01:21,200 --> 00:01:27,800
+Evan Dimas (Indonesia) - PSSI
+Partidos: 43 | Goles: 11 | Asistencias: no data
+
+15
+00:01:27,800 --> 00:01:34,400
+Bima Sakti (Indonesia) - PSSI
+Partidos: 58 | Goles: 12 | Asistencias: no data
+
+16
+00:01:34,400 --> 00:01:41,000
+Ilham Jaya Kesuma (Indonesia) - PSSI
+Partidos: 18 | Goles: 13 | Asistencias: no data
+
+17
+00:01:41,000 --> 00:01:47,600
+Cristian Gérard Alfaro Gonzáles (Indonesia) - PSSI
+Partidos: 32 | Goles: 13 | Asistencias: no data
+
+18
+00:01:47,600 --> 00:01:54,200
+Fakhri Husaini (Indonesia) - PSSI
+Partidos: 42 | Goles: 13 | Asistencias: no data
+
+19
+00:01:54,200 --> 00:02:00,800
+Uston Nawawi (Indonesia) - PSSI
+Partidos: 47 | Goles: 13 | Asistencias: no data
+
+20
+00:02:00,800 --> 00:02:07,400
+Boaz Solossa (Indonesia) - PSSI
+Partidos: 48 | Goles: 14 | Asistencias: no data
+
+21
+00:02:07,400 --> 00:02:14,000
+Widodo Cahyono Putro (Indonesia) - PSSI
+Partidos: 55 | Goles: 14 | Asistencias: no data
+
+22
+00:02:14,000 --> 00:02:20,600
+Budi Sudarsono (Indonesia) - PSSI
+Partidos: 46 | Goles: 16 | Asistencias: no data
+
+23
+00:02:20,600 --> 00:02:27,200
+Rochy Putiray (Indonesia) - PSSI
+Partidos: 41 | Goles: 17 | Asistencias: no data
+
+24
+00:02:27,200 --> 00:02:33,800
+Jacob Sihasale (Indonesia) - PSSI
+Partidos: 70 | Goles: 23 | Asistencias: no data
+
+25
+00:02:33,800 --> 00:02:40,400
+Risdianto (Indonesia) - PSSI
+Partidos: 59 | Goles: 27 | Asistencias: no data
+
+26
+00:02:40,400 --> 00:02:47,000
+Kainun Waskito (Indonesia) - PSSI
+Partidos: 80 | Goles: 31 | Asistencias: no data
+
+27
+00:02:47,000 --> 00:02:53,600
+Kurniawan Dwi Yulianto (Indonesia) - PSSI
+Partidos: 59 | Goles: 33 | Asistencias: no data
+
+28
+00:02:53,600 --> 00:03:00,200
+Soetjipto Soentoro (Indonesia) - PSSI
+Partidos: 61 | Goles: 37 | Asistencias: no data
+
+29
+00:03:00,200 --> 00:03:06,800
+Bambang Pamungkas (Indonesia) - PSSI
+Partidos: 87 | Goles: 38 | Asistencias: no data
+
+30
+00:03:06,800 --> 00:03:13,400
+Iswadi Idris (Indonesia) - PSSI
+Partidos: 97 | Goles: 55 | Asistencias: no data
+
+31
+00:03:13,400 --> 00:03:20,000
+Abdul Sulaiman Kadir (Indonesia) - PSSI
+Partidos: 111 | Goles: 70 | Asistencias: no data
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+OGC Nice Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Jules Bocandé (Senegal) - OGC Nice
+Einsätze: 115 | Tore: 33 | Vorlagen: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Jacques Faivre (France) - OGC Nice
+Einsätze: 93 | Tore: 33 | Vorlagen: 3
+
+4
+00:00:15,200 --> 00:00:21,800
+Josip Katalinski (Bosnia-Herzegovina) - OGC Nice
+Einsätze: 126 | Tore: 33
+
+5
+00:00:21,800 --> 00:00:28,400
+Fabrice Mège (France) - OGC Nice
+Einsätze: 185 | Tore: 34
+
+6
+00:00:28,400 --> 00:00:35,000
+Abdelaziz Ben Tifour (Algeria) - OGC Nice
+Einsätze: 137 | Tore: 36
+
+7
+00:00:35,000 --> 00:00:41,600
+Darío Cvitanich (Argentina) - OGC Nice
+Einsätze: 76 | Tore: 36 | Vorlagen: 3
+
+8
+00:00:41,600 --> 00:00:48,200
+Thomas Larsson (Sweden) - OGC Nice
+Einsätze: 97 | Tore: 37
+
+9
+00:00:48,200 --> 00:00:54,800
+Francois Milazzo (France) - OGC Nice
+Einsätze: 206 | Tore: 38
+
+10
+00:00:54,800 --> 00:01:01,400
+Daniel Bravo (France) - OGC Nice
+Einsätze: 175 | Tore: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Jorge Dominguez (Argentina) - OGC Nice
+Einsätze: 62 | Tore: 40
+
+12
+00:01:08,000 --> 00:01:14,600
+Marc Molitor (France) - OGC Nice
+Einsätze: 82 | Tore: 40
+
+13
+00:01:14,600 --> 00:01:21,200
+Mario Balotelli (Italy) - OGC Nice
+Einsätze: 76 | Tore: 43 | Vorlagen: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Alassane Pléa (France) - OGC Nice
+Einsätze: 135 | Tore: 44 | Vorlagen: 19
+
+15
+00:01:27,800 --> 00:01:34,400
+Yvon Giner (France) - OGC Nice
+Einsätze: 190 | Tore: 44
+
+16
+00:01:34,400 --> 00:01:41,000
+Jean-Pierre Serra (France) - OGC Nice
+Einsätze: 127 | Tore: 44
+
+17
+00:01:41,000 --> 00:01:47,600
+Hervé Revelli (France) - OGC Nice
+Einsätze: 81 | Tore: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+Désiré Carre (France) - OGC Nice
+Einsätze: 125 | Tore: 47
+
+19
+00:01:54,200 --> 00:02:00,800
+Alberto Muro (Argentina) - OGC Nice
+Einsätze: 101 | Tore: 48
+
+20
+00:02:00,800 --> 00:02:07,400
+Rafael Santos (Argentina) - OGC Nice
+Einsätze: 130 | Tore: 50
+
+21
+00:02:07,400 --> 00:02:14,000
+Leif Eriksson (Sweden) - OGC Nice
+Einsätze: 173 | Tore: 50
+
+22
+00:02:14,000 --> 00:02:20,600
+Just Fontaine (France) - OGC Nice
+Einsätze: 84 | Tore: 51
+
+23
+00:02:20,600 --> 00:02:27,200
+Daniel Sanchez (France) - OGC Nice
+Einsätze: 232 | Tore: 53 | Vorlagen: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Jean Courteaux (France) - OGC Nice
+Einsätze: 105 | Tore: 56
+
+25
+00:02:33,800 --> 00:02:40,400
+Omar Barrou (Mali) - OGC Nice
+Einsätze: 176 | Tore: 57
+
+26
+00:02:40,400 --> 00:02:47,000
+Joseph Ujlaki (France) - OGC Nice
+Einsätze: 164 | Tore: 71
+
+27
+00:02:47,000 --> 00:02:53,600
+Jacques Foix (France) - OGC Nice
+Einsätze: 196 | Tore: 74 | Vorlagen: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Héctor De Bourgoing (Argentina) - OGC Nice
+Einsätze: 132 | Tore: 74
+
+29
+00:03:00,200 --> 00:03:06,800
+Charly Loubet (France) - OGC Nice
+Einsätze: 308 | Tore: 86
+
+30
+00:03:06,800 --> 00:03:13,400
+Nenad Bjekovic (Serbia) - OGC Nice
+Einsätze: 170 | Tore: 108
+
+31
+00:03:13,400 --> 00:03:20,000
+Victor Nurenberg (Luxembourg) - OGC Nice
+Einsätze: 302 | Tore: 111
+

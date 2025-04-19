@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Reims Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Boulaye Dia (Senegal) - Stade Reims
+Einsätze: 88 | Tore: 28 | Vorlagen: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Djamel Tlemcani (Algeria) - Stade Reims
+Einsätze: 63 | Tore: 28
+
+4
+00:00:15,200 --> 00:00:21,800
+Michel Hidalgo (France) - Stade Reims
+Einsätze: 78 | Tore: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+Paul Sauvage (France) - Stade Reims
+Einsätze: 121 | Tore: 29
+
+6
+00:00:28,400 --> 00:00:35,000
+André Petitfils (France) - Stade Reims
+Einsätze: 127 | Tore: 30
+
+7
+00:00:35,000 --> 00:00:41,600
+Bernard Lech (France) - Stade Reims
+Einsätze: 138 | Tore: 31
+
+8
+00:00:41,600 --> 00:00:48,200
+Pierre Bini (France) - Stade Reims
+Einsätze: 96 | Tore: 31
+
+9
+00:00:48,200 --> 00:00:54,800
+Ivo Basay (Chile) - Stade Reims
+Einsätze: 73 | Tore: 34
+
+10
+00:00:54,800 --> 00:01:01,400
+Michel Leblond (France) - Stade Reims
+Einsätze: 325 | Tore: 35
+
+11
+00:01:01,400 --> 00:01:08,000
+Jean-François Charbonnier (France) - Stade Reims
+Einsätze: 120 | Tore: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Jean Templin (France) - Stade Reims
+Einsätze: 174 | Tore: 38
+
+13
+00:01:14,600 --> 00:01:21,200
+Armand Penverne (France) - Stade Reims
+Einsätze: 377 | Tore: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Alain Richard (France) - Stade Reims
+Einsätze: 206 | Tore: 40
+
+15
+00:01:27,800 --> 00:01:34,400
+Pierre Flamion (France) - Stade Reims
+Einsätze: 102 | Tore: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Delio Onnis (Argentina) - Stade Reims
+Einsätze: 76 | Tore: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Francis Méano (France) - Stade Reims
+Einsätze: 118 | Tore: 52
+
+18
+00:01:47,600 --> 00:01:54,200
+Santiago Santamaría (Argentina) - Stade Reims
+Einsätze: 170 | Tore: 52
+
+19
+00:01:54,200 --> 00:02:00,800
+Francois Calderaro (France) - Stade Reims
+Einsätze: 147 | Tore: 58
+
+20
+00:02:00,800 --> 00:02:07,400
+Hassan Akesbi (Morocco) - Stade Reims
+Einsätze: 94 | Tore: 60
+
+21
+00:02:07,400 --> 00:02:14,000
+Jean-Pierre Bertolino (France) - Stade Reims
+Einsätze: 220 | Tore: 63
+
+22
+00:02:14,000 --> 00:02:20,600
+Pierre Sinibaldi (France) - Stade Reims
+Einsätze: 135 | Tore: 72
+
+23
+00:02:20,600 --> 00:02:27,200
+Léon Glovacki (France) - Stade Reims
+Einsätze: 220 | Tore: 85
+
+24
+00:02:27,200 --> 00:02:33,800
+Raymond Kopa (France) - Stade Reims
+Einsätze: 400 | Tore: 89 | Vorlagen: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Cédric Fauré (France) - Stade Reims
+Einsätze: 212 | Tore: 90 | Vorlagen: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Jean Vincent (France) - Stade Reims
+Einsätze: 319 | Tore: 92
+
+27
+00:02:47,000 --> 00:02:53,600
+Bram Appel (Netherlands) - Stade Reims
+Einsätze: 164 | Tore: 109
+
+28
+00:02:53,600 --> 00:03:00,200
+René Bliard (France) - Stade Reims
+Einsätze: 182 | Tore: 117 | Vorlagen: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Roger Piantoni (France) - Stade Reims
+Einsätze: 198 | Tore: 132
+
+30
+00:03:06,800 --> 00:03:13,400
+Carlos Bianchi (Argentina) - Stade Reims
+Einsätze: 162 | Tore: 139
+
+31
+00:03:13,400 --> 00:03:20,000
+Just Fontaine (France) - Stade Reims
+Einsätze: 151 | Tore: 145 | Vorlagen: 1
+

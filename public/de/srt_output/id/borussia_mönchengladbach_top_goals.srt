@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Borussia Mönchengladbach Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Ewald Nienhaus (Germany) - Borussia Mönchengladbach
+Penampilan: 115 | Gol: 46
+
+3
+00:00:08,600 --> 00:00:15,200
+Thorgan Hazard (Belgium) - Borussia Mönchengladbach
+Penampilan: 182 | Gol: 46 | Asis: 44
+
+4
+00:00:15,200 --> 00:00:21,800
+Willi Wicken (Germany) - Borussia Mönchengladbach
+Penampilan: 183 | Gol: 46
+
+5
+00:00:21,800 --> 00:00:28,400
+Jonas Hofmann (Germany) - Borussia Mönchengladbach
+Penampilan: 214 | Gol: 48 | Asis: 51
+
+6
+00:00:28,400 --> 00:00:35,000
+Horst Köppel (Germany) - Borussia Mönchengladbach
+Penampilan: 219 | Gol: 51 | Asis: 14
+
+7
+00:00:35,000 --> 00:00:41,600
+Karl Heinz Mülhausen (Germany) - Borussia Mönchengladbach
+Penampilan: 179 | Gol: 51
+
+8
+00:00:41,600 --> 00:00:48,200
+Lothar Matthäus (Germany) - Borussia Mönchengladbach
+Penampilan: 200 | Gol: 51 | Asis: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Ewald Lienen (Germany) - Borussia Mönchengladbach
+Penampilan: 329 | Gol: 51 | Asis: 6
+
+10
+00:00:54,800 --> 00:01:01,400
+Patrick Herrmann (Germany) - Borussia Mönchengladbach
+Penampilan: 420 | Gol: 56 | Asis: 66
+
+11
+00:01:01,400 --> 00:01:08,000
+Christian Kulik (Germany) - Borussia Mönchengladbach
+Penampilan: 324 | Gol: 58 | Asis: 11
+
+12
+00:01:08,000 --> 00:01:14,600
+Henning Jensen (Denmark) - Borussia Mönchengladbach
+Penampilan: 182 | Gol: 60 | Asis: 13
+
+13
+00:01:14,600 --> 00:01:21,200
+Christian Hochstätter (Germany) - Borussia Mönchengladbach
+Penampilan: 395 | Gol: 61 | Asis: 28
+
+14
+00:01:21,200 --> 00:01:27,800
+Arie van Lent (Netherlands) - Borussia Mönchengladbach
+Penampilan: 158 | Gol: 62 | Asis: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Rainer Bonhof (Germany) - Borussia Mönchengladbach
+Penampilan: 329 | Gol: 63 | Asis: 19
+
+16
+00:01:34,400 --> 00:01:41,000
+Alassane Pléa (France) - Borussia Mönchengladbach
+Penampilan: 230 | Gol: 67 | Asis: 52
+
+17
+00:01:41,000 --> 00:01:47,600
+Herbert Wimmer (Germany) - Borussia Mönchengladbach
+Penampilan: 469 | Gol: 68 | Asis: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+Martin Dahlin (Sweden) - Borussia Mönchengladbach
+Penampilan: 146 | Gol: 68 | Asis: 22
+
+19
+00:01:54,200 --> 00:02:00,800
+Raffael (Brazil) - Borussia Mönchengladbach
+Penampilan: 201 | Gol: 71 | Asis: 35
+
+20
+00:02:00,800 --> 00:02:07,400
+Wilfried Hannes (Germany) - Borussia Mönchengladbach
+Penampilan: 326 | Gol: 72 | Asis: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Lars Stindl (Germany) - Borussia Mönchengladbach
+Penampilan: 271 | Gol: 83 | Asis: 61
+
+22
+00:02:14,000 --> 00:02:20,600
+Hans-Günter Bruns (Germany) - Borussia Mönchengladbach
+Penampilan: 407 | Gol: 85 | Asis: 9
+
+23
+00:02:20,600 --> 00:02:27,200
+Frank Mill (Germany) - Borussia Mönchengladbach
+Penampilan: 190 | Gol: 86 | Asis: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Ulrich Kohn (Germany) - Borussia Mönchengladbach
+Penampilan: 150 | Gol: 87
+
+25
+00:02:33,800 --> 00:02:40,400
+Bernd Rupp (Germany) - Borussia Mönchengladbach
+Penampilan: 201 | Gol: 100 | Asis: 41
+
+26
+00:02:40,400 --> 00:02:47,000
+Uwe Rahn (Germany) - Borussia Mönchengladbach
+Penampilan: 288 | Gol: 113 | Asis: 4
+
+27
+00:02:47,000 --> 00:02:53,600
+Hans-Jörg Criens (Germany) - Borussia Mönchengladbach
+Penampilan: 347 | Gol: 117 | Asis: 19
+
+28
+00:02:53,600 --> 00:03:00,200
+Allan Simonsen (Denmark) - Borussia Mönchengladbach
+Penampilan: 249 | Gol: 117 | Asis: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Günter Netzer (Germany) - Borussia Mönchengladbach
+Penampilan: 358 | Gol: 137 | Asis: 75
+
+30
+00:03:06,800 --> 00:03:13,400
+Herbert Laumen (Germany) - Borussia Mönchengladbach
+Penampilan: 274 | Gol: 141 | Asis: 19
+
+31
+00:03:13,400 --> 00:03:20,000
+Jupp Heynckes (Germany) - Borussia Mönchengladbach
+Penampilan: 417 | Gol: 298 | Asis: 49
+

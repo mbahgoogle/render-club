@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Barcelona 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Ángel Arocha (Spain) - FC Barcelona
+出場数: 92 | ゴール: 81
+
+3
+00:00:08,600 --> 00:00:15,200
+Sándor Kocsis (Hungary) - FC Barcelona
+出場数: 126 | ゴール: 82 | アシスト: 7
+
+4
+00:00:15,200 --> 00:00:21,800
+Xavi (Spain) - FC Barcelona
+出場数: 767 | ゴール: 85 | アシスト: 184
+
+5
+00:00:21,800 --> 00:00:28,400
+Julio Salinas (Spain) - FC Barcelona
+出場数: 215 | ゴール: 85 | アシスト: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Josep Samitier (Spain) - FC Barcelona
+出場数: 103 | ゴール: 86
+
+7
+00:00:35,000 --> 00:00:41,600
+Ronald Koeman (Netherlands) - FC Barcelona
+出場数: 264 | ゴール: 88 | アシスト: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Bernd Schuster (Germany) - FC Barcelona
+出場数: 241 | ゴール: 89 | アシスト: 10
+
+9
+00:00:48,200 --> 00:00:54,800
+Justo Tejada (Spain) - FC Barcelona
+出場数: 194 | ゴール: 92 | アシスト: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+José Mari Bakero (Spain) - FC Barcelona
+出場数: 347 | ゴール: 94 | アシスト: 13
+
+11
+00:01:01,400 --> 00:01:08,000
+Ronaldinho (Brazil) - FC Barcelona
+出場数: 207 | ゴール: 94 | アシスト: 69
+
+12
+00:01:08,000 --> 00:01:14,600
+Robert Lewandowski (Poland) - FC Barcelona
+出場数: 138 | ゴール: 97 | アシスト: 20
+
+13
+00:01:14,600 --> 00:01:21,200
+Pedro (Spain) - FC Barcelona
+出場数: 321 | ゴール: 99 | アシスト: 61
+
+14
+00:01:21,200 --> 00:01:27,800
+Juan Manuel Asensi (Spain) - FC Barcelona
+出場数: 396 | ゴール: 101 | アシスト: 9
+
+15
+00:01:27,800 --> 00:01:34,400
+Neymar (Brazil) - FC Barcelona
+出場数: 186 | ゴール: 105 | アシスト: 76
+
+16
+00:01:34,400 --> 00:01:41,000
+Evaristo de Macedo (Brazil) - FC Barcelona
+出場数: 151 | ゴール: 105 | アシスト: 8
+
+17
+00:01:41,000 --> 00:01:47,600
+Eulogio Martínez (Spain) - FC Barcelona
+出場数: 162 | ゴール: 105 | アシスト: 11
+
+18
+00:01:47,600 --> 00:01:54,200
+José Zaldúa (Spain) - FC Barcelona
+出場数: 215 | ゴール: 106
+
+19
+00:01:54,200 --> 00:02:00,800
+Luis Enrique (Spain) - FC Barcelona
+出場数: 300 | ゴール: 108 | アシスト: 40
+
+20
+00:02:00,800 --> 00:02:07,400
+Estanislao Basora (Spain) - FC Barcelona
+出場数: 296 | ゴール: 110 | アシスト: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Hristo Stoichkov (Bulgaria) - FC Barcelona
+出場数: 255 | ゴール: 117 | アシスト: 29
+
+22
+00:02:14,000 --> 00:02:20,600
+Josep Escolà (Spain) - FC Barcelona
+出場数: 191 | ゴール: 120
+
+23
+00:02:20,600 --> 00:02:27,200
+Patrick Kluivert (Netherlands) - FC Barcelona
+出場数: 257 | ゴール: 122 | アシスト: 60
+
+24
+00:02:27,200 --> 00:02:33,800
+Carles Rexach (Spain) - FC Barcelona
+出場数: 449 | ゴール: 122 | アシスト: 22
+
+25
+00:02:33,800 --> 00:02:40,400
+Mariano Martín (Spain) - FC Barcelona
+出場数: 144 | ゴール: 129
+
+26
+00:02:40,400 --> 00:02:47,000
+Rivaldo (Brazil) - FC Barcelona
+出場数: 235 | ゴール: 130 | アシスト: 46
+
+27
+00:02:47,000 --> 00:02:53,600
+Samuel Eto'o (Cameroon) - FC Barcelona
+出場数: 199 | ゴール: 130 | アシスト: 34
+
+28
+00:02:53,600 --> 00:03:00,200
+László Kubala (Hungary) - FC Barcelona
+出場数: 254 | ゴール: 193 | アシスト: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Luis Suárez (Uruguay) - FC Barcelona
+出場数: 283 | ゴール: 195 | アシスト: 113
+
+30
+00:03:06,800 --> 00:03:13,400
+César Rodríguez (Spain) - FC Barcelona
+出場数: 344 | ゴール: 226 | アシスト: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Lionel Messi (Argentina) - FC Barcelona
+出場数: 778 | ゴール: 672 | アシスト: 303
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bayer 04 Leverkusen Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Dieter Herzog (Germany) - Bayer 04 Leverkusen
+Einsätze: 212 | Tore: 36 | Vorlagen: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Andriy Voronin (Ukraine) - Bayer 04 Leverkusen
+Einsätze: 119 | Tore: 37 | Vorlagen: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Matthias Brücken (Germany) - Bayer 04 Leverkusen
+Einsätze: 97 | Tore: 38
+
+5
+00:00:21,800 --> 00:00:28,400
+Patrick Helmes (Germany) - Bayer 04 Leverkusen
+Einsätze: 72 | Tore: 38 | Vorlagen: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Javier Hernández Balcázar (Mexico) - Bayer 04 Leverkusen
+Einsätze: 76 | Tore: 39 | Vorlagen: 9
+
+7
+00:00:35,000 --> 00:00:41,600
+Leon Bailey (Jamaica) - Bayer 04 Leverkusen
+Einsätze: 156 | Tore: 39 | Vorlagen: 23
+
+8
+00:00:41,600 --> 00:00:48,200
+Peter Szech (Germany) - Bayer 04 Leverkusen
+Einsätze: 138 | Tore: 39
+
+9
+00:00:48,200 --> 00:00:54,800
+Julian Brandt (Germany) - Bayer 04 Leverkusen
+Einsätze: 215 | Tore: 42 | Vorlagen: 52
+
+10
+00:00:54,800 --> 00:01:01,400
+Michael Ballack (Germany) - Bayer 04 Leverkusen
+Einsätze: 155 | Tore: 42 | Vorlagen: 28
+
+11
+00:01:01,400 --> 00:01:08,000
+Kai Havertz (Germany) - Bayer 04 Leverkusen
+Einsätze: 150 | Tore: 46 | Vorlagen: 31
+
+12
+00:01:08,000 --> 00:01:14,600
+Hans-Otto Peters (Germany) - Bayer 04 Leverkusen
+Einsätze: 95 | Tore: 48
+
+13
+00:01:14,600 --> 00:01:21,200
+Simon Rolfes (Germany) - Bayer 04 Leverkusen
+Einsätze: 377 | Tore: 49 | Vorlagen: 36
+
+14
+00:01:21,200 --> 00:01:27,800
+Moussa Diaby (France) - Bayer 04 Leverkusen
+Einsätze: 172 | Tore: 49 | Vorlagen: 46
+
+15
+00:01:27,800 --> 00:01:34,400
+Kevin Volland (Germany) - Bayer 04 Leverkusen
+Einsätze: 148 | Tore: 50 | Vorlagen: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Arne Økland (Norway) - Bayer 04 Leverkusen
+Einsätze: 114 | Tore: 51 | Vorlagen: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Bernd Schneider (Germany) - Bayer 04 Leverkusen
+Einsätze: 366 | Tore: 52 | Vorlagen: 81
+
+18
+00:01:47,600 --> 00:01:54,200
+Andreas Thom (Germany) - Bayer 04 Leverkusen
+Einsätze: 204 | Tore: 55 | Vorlagen: 49
+
+19
+00:01:54,200 --> 00:02:00,800
+Oliver Neuville (Germany) - Bayer 04 Leverkusen
+Einsätze: 227 | Tore: 56 | Vorlagen: 41
+
+20
+00:02:00,800 --> 00:02:07,400
+Florian Wirtz (Germany) - Bayer 04 Leverkusen
+Einsätze: 191 | Tore: 56 | Vorlagen: 63
+
+21
+00:02:07,400 --> 00:02:14,000
+Karim Bellarabi (Germany) - Bayer 04 Leverkusen
+Einsätze: 290 | Tore: 57 | Vorlagen: 63
+
+22
+00:02:14,000 --> 00:02:20,600
+Lucas Alario (Argentina) - Bayer 04 Leverkusen
+Einsätze: 164 | Tore: 58 | Vorlagen: 16
+
+23
+00:02:20,600 --> 00:02:27,200
+Fredi Hennecken (Germany) - Bayer 04 Leverkusen
+Einsätze: 189 | Tore: 60
+
+24
+00:02:27,200 --> 00:02:33,800
+Bum-kun Cha (Korea, South) - Bayer 04 Leverkusen
+Einsätze: 215 | Tore: 63 | Vorlagen: 5
+
+25
+00:02:33,800 --> 00:02:40,400
+Paulo Sérgio (Brazil) - Bayer 04 Leverkusen
+Einsätze: 150 | Tore: 64 | Vorlagen: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrik Schick (Czech Republic) - Bayer 04 Leverkusen
+Einsätze: 161 | Tore: 77 | Vorlagen: 12
+
+27
+00:02:47,000 --> 00:02:53,600
+Christian Schreier (Germany) - Bayer 04 Leverkusen
+Einsätze: 244 | Tore: 83 | Vorlagen: 8
+
+28
+00:02:53,600 --> 00:03:00,200
+Herbert Waas (Germany) - Bayer 04 Leverkusen
+Einsätze: 246 | Tore: 87 | Vorlagen: 8
+
+29
+00:03:00,200 --> 00:03:06,800
+Dimitar Berbatov (Bulgaria) - Bayer 04 Leverkusen
+Einsätze: 202 | Tore: 91 | Vorlagen: 34
+
+30
+00:03:06,800 --> 00:03:13,400
+Stefan Kießling (Germany) - Bayer 04 Leverkusen
+Einsätze: 444 | Tore: 162 | Vorlagen: 76
+
+31
+00:03:13,400 --> 00:03:20,000
+Ulf Kirsten (Germany) - Bayer 04 Leverkusen
+Einsätze: 448 | Tore: 240 | Vorlagen: 51
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Girona FC 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Cristian Herrera (Spain) - Girona FC
+出场数: 54 | 进球: 9 | 助攻: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Valery Fernández (Spain) - Girona FC
+出场数: 140 | 进球: 10 | 助攻: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+David Timor (Spain) - Girona FC
+出场数: 60 | 进球: 10 | 助攻: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Luso (Spain) - Girona FC
+出场数: 74 | 进球: 10 | 助攻: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Savinho (Brazil) - Girona FC
+出场数: 41 | 进球: 11 | 助攻: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Chechu Flores (Spain) - Girona FC
+出场数: 99 | 进球: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Mamadou Sylla (Senegal) - Girona FC
+出场数: 43 | 进球: 11 | 助攻: 7
+
+9
+00:00:48,200 --> 00:00:54,800
+Yangel Herrera (Venezuela) - Girona FC
+出场数: 77 | 进球: 11 | 助攻: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Samu Saiz (Spain) - Girona FC
+出场数: 119 | 进球: 12 | 助攻: 17
+
+11
+00:01:01,400 --> 00:01:08,000
+Gerard Bordas (Spain) - Girona FC
+出场数: 62 | 进球: 13 | 助攻: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Viktor Tsygankov (Ukraine) - Girona FC
+出场数: 76 | 进球: 13 | 助攻: 17
+
+13
+00:01:14,600 --> 00:01:21,200
+Juanpe (Spain) - Girona FC
+出场数: 262 | 进球: 13 | 助攻: 8
+
+14
+00:01:21,200 --> 00:01:27,800
+Taty Castellanos (Argentina) - Girona FC
+出场数: 37 | 进球: 14 | 助攻: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Benja (Spain) - Girona FC
+出场数: 53 | 进球: 14 | 助攻: 8
+
+16
+00:01:34,400 --> 00:01:41,000
+Samuele Longo (Italy) - Girona FC
+出场数: 38 | 进球: 14 | 助攻: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Kiko Ratón (Spain) - Girona FC
+出场数: 76 | 进球: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+Nahuel Bustos (Argentina) - Girona FC
+出场数: 82 | 进球: 15 | 助攻: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Álex Granell (Spain) - Girona FC
+出场数: 232 | 进球: 16 | 助攻: 34
+
+20
+00:02:00,800 --> 00:02:07,400
+Ferrán Corominas (Spain) - Girona FC
+出场数: 40 | 进球: 18 | 助攻: 6
+
+21
+00:02:07,400 --> 00:02:14,000
+Ranko Despotovic (Serbia) - Girona FC
+出场数: 35 | 进球: 19
+
+22
+00:02:14,000 --> 00:02:20,600
+Roberto Peragón (Spain) - Girona FC
+出场数: 76 | 进球: 20
+
+23
+00:02:20,600 --> 00:02:27,200
+Borja García (Spain) - Girona FC
+出场数: 233 | 进球: 21 | 助攻: 30
+
+24
+00:02:27,200 --> 00:02:33,800
+Jaime Mata (Spain) - Girona FC
+出场数: 82 | 进球: 21 | 助攻: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Javi Acuña (Paraguay) - Girona FC
+出场数: 57 | 进球: 21 | 助攻: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Artem Dovbyk (Ukraine) - Girona FC
+出场数: 39 | 进球: 24 | 助攻: 10
+
+27
+00:02:47,000 --> 00:02:53,600
+Fran Sandaza (Spain) - Girona FC
+出场数: 73 | 进球: 25 | 助攻: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Felipe Sanchón (Spain) - Girona FC
+出场数: 153 | 进球: 36 | 助攻: 22
+
+29
+00:03:00,200 --> 00:03:06,800
+Jandro Castro (Spain) - Girona FC
+出场数: 175 | 进球: 37 | 助攻: 27
+
+30
+00:03:06,800 --> 00:03:13,400
+Portu (Spain) - Girona FC
+出场数: 177 | 进球: 37 | 助攻: 26
+
+31
+00:03:13,400 --> 00:03:20,000
+Cristhian Stuani (Uruguay) - Girona FC
+出场数: 280 | 进球: 136 | 助攻: 12
+

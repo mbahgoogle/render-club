@@ -1,0 +1,149 @@
+1
+00:00:00,000 --> 00:00:02,000
+Madura United FC 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Youssef Ezzejjari (Spain) - Madura United FC
+出场数: 11 | 进球: 4 | 助攻: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Beto (Brazil) - Madura United FC
+出场数: 17 | 进球: 4 | 助攻: 3
+
+4
+00:00:15,200 --> 00:00:21,800
+Beto (Brazil) - Madura United FC
+出场数: 17 | 进球: 4 | 助攻: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Maxuel Cássio (Brazil) - Madura United FC
+出场数: 21 | 进球: 4 | 助攻: 3
+
+6
+00:00:28,400 --> 00:00:35,000
+Fachruddin Aryanto (Indonesia) - Madura United FC
+出场数: 145 | 进球: 4 | 助攻: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Andi Irfan (Indonesia) - Madura United FC
+出场数: 26 | 进球: 4 | 助攻: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Andik Vermansyah (Indonesia) - Madura United FC
+出场数: 32 | 进球: 4 | 助攻: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Renan Silva (Brazil) - Madura United FC
+出场数: 12 | 进球: 4
+
+10
+00:00:54,800 --> 00:01:01,400
+David Laly (Indonesia) - Madura United FC
+出场数: 61 | 进球: 5 | 助攻: 6
+
+11
+00:01:01,400 --> 00:01:08,000
+Dane Milovanovic (Australia) - Madura United FC
+出场数: 24 | 进球: 5 | 助攻: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Dalberto (Brazil) - Madura United FC
+出场数: 17 | 进球: 6 | 助攻: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Engelberd Sani (Indonesia) - Madura United FC
+出场数: 79 | 进球: 6 | 助攻: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Mamadou Samassa (Mali) - Madura United FC
+出场数: 13 | 进球: 6 | 助攻: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Jaime (Brazil) - Madura United FC
+出场数: 76 | 进球: 6 | 助攻: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Rafael Silva (Brazil) - Madura United FC
+出场数: 12 | 进球: 6
+
+17
+00:01:41,000 --> 00:01:47,600
+Zah Rahan Krangar (Liberia) - Madura United FC
+出场数: 39 | 进球: 6 | 助攻: 12
+
+18
+00:01:47,600 --> 00:01:54,200
+Junior Brandão (Brazil) - Madura United FC
+出场数: 20 | 进球: 9 | 助攻: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Francisco Rivera (Mexico) - Madura United FC
+出场数: 36 | 进球: 9 | 助攻: 18
+
+20
+00:02:00,800 --> 00:02:07,400
+Pablo Rodríguez (Spain) - Madura United FC
+出场数: 10 | 进球: 9 | 助攻: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Bayu Gatra (Indonesia) - Madura United FC
+出场数: 153 | 进球: 12 | 助攻: 23
+
+22
+00:02:14,000 --> 00:02:20,600
+Fabiano Beltrame (Indonesia) - Madura United FC
+出场数: 72 | 进球: 12
+
+23
+00:02:20,600 --> 00:02:27,200
+Peter Odemwingie (Nigeria) - Madura United FC
+出场数: 23 | 进球: 15 | 助攻: 8
+
+24
+00:02:27,200 --> 00:02:33,800
+Malik Risaldi (Indonesia) - Madura United FC
+出场数: 66 | 进球: 16 | 助攻: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Aleksandar Rakic (Serbia) - Madura United FC
+出场数: 41 | 进球: 20 | 助攻: 10
+
+26
+00:02:40,400 --> 00:02:47,000
+Slamet Nurcahyono (Indonesia) - Madura United FC
+出场数: 174 | 进球: 21 | 助攻: 20
+
+27
+00:02:47,000 --> 00:02:53,600
+Greg Nwokolo (Indonesia) - Madura United FC
+出场数: 89 | 进球: 25 | 助攻: 20
+
+28
+00:02:53,600 --> 00:03:00,200
+Jajá (Brazil) - Madura United FC
+出场数: 103 | 进球: 25 | 助攻: 14
+
+29
+00:03:00,200 --> 00:03:06,800
+Lulinha (Brazil) - Madura United FC
+出场数: 83 | 进球: 30 | 助攻: 12
+
+30
+00:03:06,800 --> 00:03:13,400
+Beto (Indonesia) - Madura United FC
+出场数: 105 | 进球: 47 | 助攻: 18
+

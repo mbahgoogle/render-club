@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Borussia Dortmund Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Lucas Barrios (Paraguay) - Borussia Dortmund
+Partidas: 102 | Gols: 49 | Assistências: 17
+
+3
+00:00:08,600 --> 00:00:15,200
+Hans Flügel (Germany) - Borussia Dortmund
+Partidas: 129 | Gols: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Norbert Dickel (Germany) - Borussia Dortmund
+Partidas: 108 | Gols: 50 | Assistências: 11
+
+5
+00:00:21,800 --> 00:00:28,400
+Lothar Huber (Germany) - Borussia Dortmund
+Partidas: 372 | Gols: 50 | Assistências: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Jadon Sancho (England) - Borussia Dortmund
+Partidas: 158 | Gols: 53 | Assistências: 64
+
+7
+00:00:35,000 --> 00:00:41,600
+Sigfried Held (Germany) - Borussia Dortmund
+Partidas: 259 | Gols: 53 | Assistências: 51
+
+8
+00:00:41,600 --> 00:00:48,200
+Ewerthon (Brazil) - Borussia Dortmund
+Partidas: 154 | Gols: 54 | Assistências: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Burghard Segler (Germany) - Borussia Dortmund
+Partidas: 200 | Gols: 54 | Assistências: 4
+
+10
+00:00:54,800 --> 00:01:01,400
+Heiko Herrlich (Germany) - Borussia Dortmund
+Partidas: 183 | Gols: 56 | Assistências: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Shinji Kagawa (Japan) - Borussia Dortmund
+Partidas: 216 | Gols: 60 | Assistências: 55
+
+12
+00:01:08,000 --> 00:01:14,600
+Edmond Kasperski (Germany) - Borussia Dortmund
+Partidas: 136 | Gols: 66 | Assistências: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Frank Mill (Germany) - Borussia Dortmund
+Partidas: 227 | Gols: 66 | Assistências: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Lars Ricken (Germany) - Borussia Dortmund
+Partidas: 407 | Gols: 69 | Assistências: 68
+
+15
+00:01:27,800 --> 00:01:34,400
+Jan Koller (Czech Republic) - Borussia Dortmund
+Partidas: 184 | Gols: 79 | Assistências: 33
+
+16
+00:01:34,400 --> 00:01:41,000
+Erling Haaland (Norway) - Borussia Dortmund
+Partidas: 89 | Gols: 86 | Assistências: 23
+
+17
+00:01:41,000 --> 00:01:47,600
+Andreas Möller (Germany) - Borussia Dortmund
+Partidas: 301 | Gols: 88 | Assistências: 94
+
+18
+00:01:47,600 --> 00:01:54,200
+Aki Schmidt (Germany) - Borussia Dortmund
+Partidas: 331 | Gols: 91 | Assistências: 14
+
+19
+00:01:54,200 --> 00:02:00,800
+Reinhold Wosab (Germany) - Borussia Dortmund
+Partidas: 275 | Gols: 94 | Assistências: 23
+
+20
+00:02:00,800 --> 00:02:07,400
+Robert Lewandowski (Poland) - Borussia Dortmund
+Partidas: 187 | Gols: 103 | Assistências: 42
+
+21
+00:02:07,400 --> 00:02:14,000
+Stéphane Chapuisat (Switzerland) - Borussia Dortmund
+Partidas: 284 | Gols: 123 | Assistências: 65
+
+22
+00:02:14,000 --> 00:02:20,600
+Alfred Kelbassa (Germany) - Borussia Dortmund
+Partidas: 218 | Gols: 123 | Assistências: 5
+
+23
+00:02:20,600 --> 00:02:27,200
+Alfred Niepieklo (Germany) - Borussia Dortmund
+Partidas: 201 | Gols: 126 | Assistências: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Pierre-Emerick Aubameyang (Gabon) - Borussia Dortmund
+Partidas: 213 | Gols: 141 | Assistências: 35
+
+25
+00:02:33,800 --> 00:02:40,400
+Jürgen Schütz (Germany) - Borussia Dortmund
+Partidas: 214 | Gols: 143 | Assistências: 9
+
+26
+00:02:40,400 --> 00:02:47,000
+Lothar Emmerich (Germany) - Borussia Dortmund
+Partidas: 249 | Gols: 148 | Assistências: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Timo Konietzka (Germany) - Borussia Dortmund
+Partidas: 196 | Gols: 155 | Assistências: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Manfred Burgsmüller (Germany) - Borussia Dortmund
+Partidas: 252 | Gols: 158 | Assistências: 5
+
+29
+00:03:00,200 --> 00:03:06,800
+Michael Zorc (Germany) - Borussia Dortmund
+Partidas: 572 | Gols: 159 | Assistências: 38
+
+30
+00:03:06,800 --> 00:03:13,400
+Marco Reus (Germany) - Borussia Dortmund
+Partidas: 429 | Gols: 170 | Assistências: 131
+
+31
+00:03:13,400 --> 00:03:20,000
+Adi Preißler (Germany) - Borussia Dortmund
+Partidas: 274 | Gols: 177 | Assistências: 5
+

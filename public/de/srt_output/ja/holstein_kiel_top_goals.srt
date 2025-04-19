@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Holstein Kiel 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Rafael Kazior (Germany) - Holstein Kiel
+出場数: 172 | ゴール: 33 | アシスト: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Pavel Dobry (Czech Republic) - Holstein Kiel
+出場数: 102 | ゴール: 33
+
+4
+00:00:15,200 --> 00:00:21,800
+Kingsley Schindler (Ghana) - Holstein Kiel
+出場数: 101 | ゴール: 34 | アシスト: 22
+
+5
+00:00:21,800 --> 00:00:28,400
+Jaroslaw Lindner (Poland) - Holstein Kiel
+出場数: 117 | ゴール: 34 | アシスト: 20
+
+6
+00:00:28,400 --> 00:00:35,000
+Helmut Schweger (Germany) - Holstein Kiel
+出場数: 108 | ゴール: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Janni Serra (Germany) - Holstein Kiel
+出場数: 91 | ゴール: 35 | アシスト: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Steven Skrzybski (Germany) - Holstein Kiel
+出場数: 106 | ゴール: 35 | アシスト: 13
+
+9
+00:00:48,200 --> 00:00:54,800
+Manfred Jochimiak (Germany) - Holstein Kiel
+出場数: 123 | ゴール: 36 | アシスト: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Eggert Dolling (Germany) - Holstein Kiel
+出場数: 239 | ゴール: 36 | アシスト: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Harry Witt (Germany) - Holstein Kiel
+出場数: 190 | ゴール: 38
+
+12
+00:01:08,000 --> 00:01:14,600
+Diether Trede (Germany) - Holstein Kiel
+出場数: 160 | ゴール: 38
+
+13
+00:01:14,600 --> 00:01:21,200
+Walter Hain (Germany) - Holstein Kiel
+出場数: 108 | ゴール: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Tim Siedschlag (Germany) - Holstein Kiel
+出場数: 289 | ゴール: 39 | アシスト: 40
+
+15
+00:01:27,800 --> 00:01:34,400
+Michael Holt (Germany) - Holstein Kiel
+出場数: 80 | ゴール: 44 | アシスト: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Alexander Mühling (Germany) - Holstein Kiel
+出場数: 238 | ゴール: 44 | アシスト: 31
+
+17
+00:01:41,000 --> 00:01:47,600
+Rainer Menzel (Germany) - Holstein Kiel
+出場数: 120 | ゴール: 45 | アシスト: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Franz-Josef Hönig (Germany) - Holstein Kiel
+出場数: 88 | ゴール: 45
+
+19
+00:01:54,200 --> 00:02:00,800
+Fiete Sykora (Germany) - Holstein Kiel
+出場数: 166 | ゴール: 45 | アシスト: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Daniel Jurgeleit (Germany) - Holstein Kiel
+出場数: 110 | ゴール: 47
+
+21
+00:02:07,400 --> 00:02:14,000
+Emil Maier (Germany) - Holstein Kiel
+出場数: 97 | ゴール: 49
+
+22
+00:02:14,000 --> 00:02:20,600
+Hans-Peter Ehlers (Germany) - Holstein Kiel
+出場数: 372 | ゴール: 49
+
+23
+00:02:20,600 --> 00:02:27,200
+Axel Möller (Germany) - Holstein Kiel
+出場数: 193 | ゴール: 53
+
+24
+00:02:27,200 --> 00:02:33,800
+Horst Martinsen (Germany) - Holstein Kiel
+出場数: 105 | ゴール: 54
+
+25
+00:02:33,800 --> 00:02:40,400
+André Bistram (Germany) - Holstein Kiel
+出場数: 142 | ゴール: 66
+
+26
+00:02:40,400 --> 00:02:47,000
+Carsten Nemitz (Germany) - Holstein Kiel
+出場数: 125 | ゴール: 71
+
+27
+00:02:47,000 --> 00:02:53,600
+Gerd Saborowski (Germany) - Holstein Kiel
+出場数: 92 | ゴール: 74
+
+28
+00:02:53,600 --> 00:03:00,200
+Marc Heider (United States) - Holstein Kiel
+出場数: 241 | ゴール: 85 | アシスト: 53
+
+29
+00:03:00,200 --> 00:03:06,800
+Dmitrijus Guscinas (Lithuania) - Holstein Kiel
+出場数: 217 | ゴール: 87 | アシスト: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Alfred Bornemann (Germany) - Holstein Kiel
+出場数: 222 | ゴール: 114
+
+31
+00:03:13,400 --> 00:03:20,000
+Gerd Koll (Germany) - Holstein Kiel
+出場数: 253 | ゴール: 135
+

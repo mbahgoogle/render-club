@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSKC Cimahi Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Egwuatu Ouseloka (Indonesia) - PSKC Cimahi
+Einsätze: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Hersya Scifo (Indonesia) - PSKC Cimahi
+Einsätze: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Firdaus Aprilian (Indonesia) - PSKC Cimahi
+Einsätze: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Roista Susilo (Indonesia) - PSKC Cimahi
+Einsätze: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Iqbal Dalimunthe (Indonesia) - PSKC Cimahi
+Einsätze: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Agus Nova (Indonesia) - PSKC Cimahi
+Einsätze: 17 | Tore: 1 | Vorlagen: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Imanuel Sayuri (Indonesia) - PSKC Cimahi
+Einsätze: 16 | Tore: 1 | Vorlagen: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Rudiyana (Indonesia) - PSKC Cimahi
+Einsätze: 16 | Tore: 1 | Vorlagen: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Achmad Faris (Indonesia) - PSKC Cimahi
+Einsätze: 20 | Tore: 1 | Vorlagen: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Dennish (Indonesia) - PSKC Cimahi
+Einsätze: 10 | Tore: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Dicky Kurniawan (Indonesia) - PSKC Cimahi
+Einsätze: 8 | Tore: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Muhammad Idris (Indonesia) - PSKC Cimahi
+Einsätze: 5 | Tore: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Mukhammadali Tursunov (Uzbekistan) - PSKC Cimahi
+Einsätze: 12 | Tore: 1 | Vorlagen: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Anan Lestaluhu (Indonesia) - PSKC Cimahi
+Einsätze: 6 | Tore: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Rezky Renaldy (Indonesia) - PSKC Cimahi
+Einsätze: 6 | Tore: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Irvan Mofu (Indonesia) - PSKC Cimahi
+Einsätze: 4 | Tore: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Ichsan Kurniawan (Indonesia) - PSKC Cimahi
+Einsätze: 21 | Tore: 2 | Vorlagen: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Suhandi (Indonesia) - PSKC Cimahi
+Einsätze: 29 | Tore: 2 | Vorlagen: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Hambali Tholib (Indonesia) - PSKC Cimahi
+Einsätze: 19 | Tore: 2 | Vorlagen: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Joao Rodríguez (Colombia) - PSKC Cimahi
+Einsätze: 6 | Tore: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Fareed Sadat (Afghanistan) - PSKC Cimahi
+Einsätze: 13 | Tore: 2 | Vorlagen: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Dheco Zacky (Indonesia) - PSKC Cimahi
+Einsätze: 17 | Tore: 2 | Vorlagen: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Reksa Maulana (Indonesia) - PSKC Cimahi
+Einsätze: 11 | Tore: 2 | Vorlagen: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Gufroni Al Maruf (Indonesia) - PSKC Cimahi
+Einsätze: 16 | Tore: 2 | Vorlagen: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Adlin Cahya (Indonesia) - PSKC Cimahi
+Einsätze: 30 | Tore: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Chencho Gyeltshen (Bhutan) - PSKC Cimahi
+Einsätze: 8 | Tore: 3 | Vorlagen: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Rishadi Fauzi (Indonesia) - PSKC Cimahi
+Einsätze: 15 | Tore: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Nyoman Sukarja (Indonesia) - PSKC Cimahi
+Einsätze: 12 | Tore: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Afdal Yusra (Indonesia) - PSKC Cimahi
+Einsätze: 14 | Tore: 7 | Vorlagen: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Matheus (Brazil) - PSKC Cimahi
+Einsätze: 12 | Tore: 9 | Vorlagen: 2
+

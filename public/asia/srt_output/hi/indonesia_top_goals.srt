@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSSI सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Irfan Jaya (Indonesia) - PSSI
+प्रदर्शन: 22 | गोल: 6 | असिस्ट: no data
+
+3
+00:00:08,600 --> 00:00:15,200
+Ronny Pattinasarany (Indonesia) - PSSI
+प्रदर्शन: 31 | गोल: 6 | असिस्ट: no data
+
+4
+00:00:15,200 --> 00:00:21,800
+Robby Darwis (Indonesia) - PSSI
+प्रदर्शन: 53 | गोल: 6 | असिस्ट: no data
+
+5
+00:00:21,800 --> 00:00:28,400
+Zulham Zamrun (Indonesia) - PSSI
+प्रदर्शन: 31 | गोल: 7 | असिस्ट: no data
+
+6
+00:00:28,400 --> 00:00:35,000
+Aji Santoso (Indonesia) - PSSI
+प्रदर्शन: 41 | गोल: 7 | असिस्ट: no data
+
+7
+00:00:35,000 --> 00:00:41,600
+Egy Maulana Vikri (Indonesia) - PSSI
+प्रदर्शन: 27 | गोल: 8 | असिस्ट: no data
+
+8
+00:00:41,600 --> 00:00:48,200
+Ansyari Lubis (Indonesia) - PSSI
+प्रदर्शन: 30 | गोल: 8 | असिस्ट: no data
+
+9
+00:00:48,200 --> 00:00:54,800
+Elie Aiboy (Indonesia) - PSSI
+प्रदर्शन: 48 | गोल: 8 | असिस्ट: no data
+
+10
+00:00:54,800 --> 00:01:01,400
+Witan Sulaeman (Indonesia) - PSSI
+प्रदर्शन: 46 | गोल: 9 | असिस्ट: no data
+
+11
+00:01:01,400 --> 00:01:08,000
+Alberto Gonçalves da Costa (Indonesia) - PSSI
+प्रदर्शन: 12 | गोल: 10 | असिस्ट: no data
+
+12
+00:01:08,000 --> 00:01:14,600
+Andi Anwar Ramang (Indonesia) - PSSI
+प्रदर्शन: 18 | गोल: 10 | असिस्ट: no data
+
+13
+00:01:14,600 --> 00:01:21,200
+Irfan Bachdim (Indonesia) - PSSI
+प्रदर्शन: 40 | गोल: 11 | असिस्ट: no data
+
+14
+00:01:21,200 --> 00:01:27,800
+Evan Dimas (Indonesia) - PSSI
+प्रदर्शन: 43 | गोल: 11 | असिस्ट: no data
+
+15
+00:01:27,800 --> 00:01:34,400
+Bima Sakti (Indonesia) - PSSI
+प्रदर्शन: 58 | गोल: 12 | असिस्ट: no data
+
+16
+00:01:34,400 --> 00:01:41,000
+Ilham Jaya Kesuma (Indonesia) - PSSI
+प्रदर्शन: 18 | गोल: 13 | असिस्ट: no data
+
+17
+00:01:41,000 --> 00:01:47,600
+Cristian Gérard Alfaro Gonzáles (Indonesia) - PSSI
+प्रदर्शन: 32 | गोल: 13 | असिस्ट: no data
+
+18
+00:01:47,600 --> 00:01:54,200
+Fakhri Husaini (Indonesia) - PSSI
+प्रदर्शन: 42 | गोल: 13 | असिस्ट: no data
+
+19
+00:01:54,200 --> 00:02:00,800
+Uston Nawawi (Indonesia) - PSSI
+प्रदर्शन: 47 | गोल: 13 | असिस्ट: no data
+
+20
+00:02:00,800 --> 00:02:07,400
+Boaz Solossa (Indonesia) - PSSI
+प्रदर्शन: 48 | गोल: 14 | असिस्ट: no data
+
+21
+00:02:07,400 --> 00:02:14,000
+Widodo Cahyono Putro (Indonesia) - PSSI
+प्रदर्शन: 55 | गोल: 14 | असिस्ट: no data
+
+22
+00:02:14,000 --> 00:02:20,600
+Budi Sudarsono (Indonesia) - PSSI
+प्रदर्शन: 46 | गोल: 16 | असिस्ट: no data
+
+23
+00:02:20,600 --> 00:02:27,200
+Rochy Putiray (Indonesia) - PSSI
+प्रदर्शन: 41 | गोल: 17 | असिस्ट: no data
+
+24
+00:02:27,200 --> 00:02:33,800
+Jacob Sihasale (Indonesia) - PSSI
+प्रदर्शन: 70 | गोल: 23 | असिस्ट: no data
+
+25
+00:02:33,800 --> 00:02:40,400
+Risdianto (Indonesia) - PSSI
+प्रदर्शन: 59 | गोल: 27 | असिस्ट: no data
+
+26
+00:02:40,400 --> 00:02:47,000
+Kainun Waskito (Indonesia) - PSSI
+प्रदर्शन: 80 | गोल: 31 | असिस्ट: no data
+
+27
+00:02:47,000 --> 00:02:53,600
+Kurniawan Dwi Yulianto (Indonesia) - PSSI
+प्रदर्शन: 59 | गोल: 33 | असिस्ट: no data
+
+28
+00:02:53,600 --> 00:03:00,200
+Soetjipto Soentoro (Indonesia) - PSSI
+प्रदर्शन: 61 | गोल: 37 | असिस्ट: no data
+
+29
+00:03:00,200 --> 00:03:06,800
+Bambang Pamungkas (Indonesia) - PSSI
+प्रदर्शन: 87 | गोल: 38 | असिस्ट: no data
+
+30
+00:03:06,800 --> 00:03:13,400
+Iswadi Idris (Indonesia) - PSSI
+प्रदर्शन: 97 | गोल: 55 | असिस्ट: no data
+
+31
+00:03:13,400 --> 00:03:20,000
+Abdul Sulaiman Kadir (Indonesia) - PSSI
+प्रदर्शन: 111 | गोल: 70 | असिस्ट: no data
+

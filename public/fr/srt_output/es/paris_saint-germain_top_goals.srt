@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Paris Saint-Germain Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Lionel Messi (Argentina) - Paris Saint-Germain
+Partidos: 75 | Goles: 32 | Asistencias: 35
+
+3
+00:00:08,600 --> 00:00:15,200
+Blaise Matuidi (France) - Paris Saint-Germain
+Partidos: 295 | Goles: 33 | Asistencias: 29
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Robert (France) - Paris Saint-Germain
+Partidos: 84 | Goles: 34 | Asistencias: 12
+
+5
+00:00:21,800 --> 00:00:28,400
+Dominique Bathenay (France) - Paris Saint-Germain
+Partidos: 273 | Goles: 35
+
+6
+00:00:28,400 --> 00:00:35,000
+Ezequiel Lavezzi (Argentina) - Paris Saint-Germain
+Partidos: 161 | Goles: 35 | Asistencias: 24
+
+7
+00:00:35,000 --> 00:00:41,600
+Patrice Loko (France) - Paris Saint-Germain
+Partidos: 115 | Goles: 36 | Asistencias: 3
+
+8
+00:00:41,600 --> 00:00:48,200
+Péguy Luyindula (France) - Paris Saint-Germain
+Partidos: 180 | Goles: 37 | Asistencias: 18
+
+9
+00:00:48,200 --> 00:00:54,800
+Mauro Icardi (Argentina) - Paris Saint-Germain
+Partidos: 92 | Goles: 38 | Asistencias: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Ousmane Dembélé (France) - Paris Saint-Germain
+Partidos: 81 | Goles: 38 | Asistencias: 19
+
+11
+00:01:01,400 --> 00:01:08,000
+Luis Fernandez (France) - Paris Saint-Germain
+Partidos: 273 | Goles: 39
+
+12
+00:01:08,000 --> 00:01:14,600
+Marquinhos (Brazil) - Paris Saint-Germain
+Partidos: 476 | Goles: 40 | Asistencias: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Nambatingue Toko (Chad) - Paris Saint-Germain
+Partidos: 171 | Goles: 43
+
+14
+00:01:21,200 --> 00:01:27,800
+David Ginola (France) - Paris Saint-Germain
+Partidos: 158 | Goles: 44 | Asistencias: 15
+
+15
+00:01:27,800 --> 00:01:34,400
+Javier Pastore (Argentina) - Paris Saint-Germain
+Partidos: 269 | Goles: 45 | Asistencias: 61
+
+16
+00:01:34,400 --> 00:01:41,000
+Lucas Moura (Brazil) - Paris Saint-Germain
+Partidos: 229 | Goles: 46 | Asistencias: 49
+
+17
+00:01:41,000 --> 00:01:47,600
+Nenê (Brazil) - Paris Saint-Germain
+Partidos: 112 | Goles: 48 | Asistencias: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+George Weah (Liberia) - Paris Saint-Germain
+Partidos: 138 | Goles: 55 | Asistencias: 11
+
+19
+00:01:54,200 --> 00:02:00,800
+Guillaume Hoarau (France) - Paris Saint-Germain
+Partidos: 161 | Goles: 57 | Asistencias: 23
+
+20
+00:02:00,800 --> 00:02:07,400
+Carlos Bianchi (Argentina) - Paris Saint-Germain
+Partidos: 80 | Goles: 71
+
+21
+00:02:07,400 --> 00:02:14,000
+Raí (Brazil) - Paris Saint-Germain
+Partidos: 215 | Goles: 72 | Asistencias: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Safet Susic (Bosnia-Herzegovina) - Paris Saint-Germain
+Partidos: 345 | Goles: 85 | Asistencias: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+François M'Pelé (Congo) - Paris Saint-Germain
+Partidos: 197 | Goles: 87
+
+24
+00:02:27,200 --> 00:02:33,800
+Ángel Di María (Argentina) - Paris Saint-Germain
+Partidos: 295 | Goles: 93 | Asistencias: 119
+
+25
+00:02:33,800 --> 00:02:40,400
+Mustapha Dahleb (Algeria) - Paris Saint-Germain
+Partidos: 309 | Goles: 98
+
+26
+00:02:40,400 --> 00:02:47,000
+Dominique Rocheteau (France) - Paris Saint-Germain
+Partidos: 255 | Goles: 100
+
+27
+00:02:47,000 --> 00:02:53,600
+Pauleta (Portugal) - Paris Saint-Germain
+Partidos: 211 | Goles: 109 | Asistencias: 16
+
+28
+00:02:53,600 --> 00:03:00,200
+Neymar (Brazil) - Paris Saint-Germain
+Partidos: 173 | Goles: 118 | Asistencias: 77
+
+29
+00:03:00,200 --> 00:03:06,800
+Zlatan Ibrahimović (Sweden) - Paris Saint-Germain
+Partidos: 180 | Goles: 156 | Asistencias: 62
+
+30
+00:03:06,800 --> 00:03:13,400
+Edinson Cavani (Uruguay) - Paris Saint-Germain
+Partidos: 301 | Goles: 200 | Asistencias: 43
+
+31
+00:03:13,400 --> 00:03:20,000
+Kylian Mbappé (France) - Paris Saint-Germain
+Partidos: 308 | Goles: 256 | Asistencias: 98
+

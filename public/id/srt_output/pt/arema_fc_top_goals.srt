@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Arema FC Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+KH Yudo (Indonesia) - Arema FC
+Partidas: 24 | Gols: 5 | Assistências: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Hendro Siswanto (Indonesia) - Arema FC
+Partidas: 156 | Gols: 5 | Assistências: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Sylvano Comvalius (Netherlands) - Arema FC
+Partidas: 27 | Gols: 5 | Assistências: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Abel Camará (Guinea-Bissau) - Arema FC
+Partidas: 27 | Gols: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Hanif Sjahbandi (Indonesia) - Arema FC
+Partidas: 92 | Gols: 6 | Assistências: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Thierry Gathuessi (Cameroon) - Arema FC
+Partidas: 56 | Gols: 6
+
+8
+00:00:41,600 --> 00:00:48,200
+Salim Tuharea (Indonesia) - Arema FC
+Partidas: 24 | Gols: 7 | Assistências: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Wiliam Marcilio (Brazil) - Arema FC
+Partidas: 24 | Gols: 7 | Assistências: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Rizky Dwi (Indonesia) - Arema FC
+Partidas: 66 | Gols: 7 | Assistências: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Gustavo López (Argentina) - Arema FC
+Partidas: 24 | Gols: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Esteban Vizcarra (Indonesia) - Arema FC
+Partidas: 39 | Gols: 8 | Assistências: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Keith Gumbs (St. Kitts & Nevis) - Arema FC
+Partidas: 30 | Gols: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Hamka Hamzah (Indonesia) - Arema FC
+Partidas: 65 | Gols: 9 | Assistências: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Ricky Kayame (Indonesia) - Arema FC
+Partidas: 38 | Gols: 9 | Assistências: 6
+
+16
+00:01:34,400 --> 00:01:41,000
+Rivaldi Bawuo (Indonesia) - Arema FC
+Partidas: 55 | Gols: 10 | Assistências: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Ahmad Nur Hardianto (Indonesia) - Arema FC
+Partidas: 36 | Gols: 10 | Assistências: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Muhammad Rafli (Indonesia) - Arema FC
+Partidas: 148 | Gols: 11 | Assistências: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Johan Alfarizi (Indonesia) - Arema FC
+Partidas: 253 | Gols: 13 | Assistências: 15
+
+20
+00:02:00,800 --> 00:02:07,400
+Ahmad Sunarto (Indonesia) - Arema FC
+Partidas: 56 | Gols: 13 | Assistências: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Gustavo (Brazil) - Arema FC
+Partidas: 16 | Gols: 14
+
+22
+00:02:14,000 --> 00:02:20,600
+Greg Nwokolo (Indonesia) - Arema FC
+Partidas: 34 | Gols: 14 | Assistências: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Samsul Arif (Indonesia) - Arema FC
+Partidas: 26 | Gols: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Dalberto (Brazil) - Arema FC
+Partidas: 31 | Gols: 16 | Assistências: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Dendi Santoso (Indonesia) - Arema FC
+Partidas: 253 | Gols: 18 | Assistências: 33
+
+26
+00:02:40,400 --> 00:02:47,000
+Carlos Fortes (Cape Verde) - Arema FC
+Partidas: 31 | Gols: 20 | Assistências: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Charles Lokolingoy (Australia) - Arema FC
+Partidas: 60 | Gols: 22 | Assistências: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Beto (Indonesia) - Arema FC
+Partidas: 56 | Gols: 27
+
+29
+00:03:00,200 --> 00:03:06,800
+Makan Konate (Mali) - Arema FC
+Partidas: 61 | Gols: 34 | Assistências: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Cristian Gonzáles (Indonesia) - Arema FC
+Partidas: 96 | Gols: 46 | Assistências: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Dedik Setiawan (Indonesia) - Arema FC
+Partidas: 189 | Gols: 50 | Assistências: 21
+

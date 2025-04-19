@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Eintracht Frankfurt Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Bruno Pezzey (Austria) - Eintracht Frankfurt
+Partidas: 181 | Gols: 38 | Assistências: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Jörn Andersen (Norway) - Eintracht Frankfurt
+Partidas: 115 | Gols: 38 | Assistências: 11
+
+4
+00:00:15,200 --> 00:00:21,800
+Manfred Binz (Germany) - Eintracht Frankfurt
+Partidas: 411 | Gols: 38 | Assistências: 20
+
+5
+00:00:21,800 --> 00:00:28,400
+Daichi Kamada (Japan) - Eintracht Frankfurt
+Partidas: 179 | Gols: 40 | Assistências: 33
+
+6
+00:00:28,400 --> 00:00:35,000
+Luka Jović (Serbia) - Eintracht Frankfurt
+Partidas: 93 | Gols: 40 | Assistências: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Andreas Möller (Germany) - Eintracht Frankfurt
+Partidas: 137 | Gols: 41 | Assistências: 18
+
+8
+00:00:41,600 --> 00:00:48,200
+Erich Bäumler (Germany) - Eintracht Frankfurt
+Partidas: 115 | Gols: 43
+
+9
+00:00:48,200 --> 00:00:54,800
+Wolfgang Kraus (Germany) - Eintracht Frankfurt
+Partidas: 233 | Gols: 45 | Assistências: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+André Silva (Portugal) - Eintracht Frankfurt
+Partidas: 71 | Gols: 45 | Assistências: 15
+
+11
+00:01:01,400 --> 00:01:08,000
+Hubert Schieth (Germany) - Eintracht Frankfurt
+Partidas: 107 | Gols: 46
+
+12
+00:01:08,000 --> 00:01:14,600
+Uwe Bein (Germany) - Eintracht Frankfurt
+Partidas: 182 | Gols: 47 | Assistências: 64
+
+13
+00:01:14,600 --> 00:01:21,200
+Willi Kraus (Germany) - Eintracht Frankfurt
+Partidas: 120 | Gols: 49
+
+14
+00:01:21,200 --> 00:01:27,800
+Ioannis Amanatidis (Greece) - Eintracht Frankfurt
+Partidas: 158 | Gols: 49 | Assistências: 16
+
+15
+00:01:27,800 --> 00:01:34,400
+Karl-Heinz Körbel (Germany) - Eintracht Frankfurt
+Partidas: 731 | Gols: 51 | Assistências: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Hans Weilbächer (Germany) - Eintracht Frankfurt
+Partidas: 271 | Gols: 53 | Assistências: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Bum-kun Cha (Korea, South) - Eintracht Frankfurt
+Partidas: 156 | Gols: 58 | Assistências: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Eckehard Feigenspan (Germany) - Eintracht Frankfurt
+Partidas: 87 | Gols: 66 | Assistências: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Dieter Lindner (Germany) - Eintracht Frankfurt
+Partidas: 395 | Gols: 66 | Assistências: 12
+
+20
+00:02:00,800 --> 00:02:07,400
+Rüdiger Wenzel (Germany) - Eintracht Frankfurt
+Partidas: 166 | Gols: 68
+
+21
+00:02:07,400 --> 00:02:14,000
+Lothar Schämer (Germany) - Eintracht Frankfurt
+Partidas: 359 | Gols: 74 | Assistências: 15
+
+22
+00:02:14,000 --> 00:02:20,600
+Richard Kreß (Germany) - Eintracht Frankfurt
+Partidas: 325 | Gols: 80 | Assistências: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+Wolfgang Solz (Germany) - Eintracht Frankfurt
+Partidas: 223 | Gols: 81 | Assistências: 18
+
+24
+00:02:27,200 --> 00:02:33,800
+Anthony Yeboah (Ghana) - Eintracht Frankfurt
+Partidas: 156 | Gols: 89 | Assistências: 29
+
+25
+00:02:33,800 --> 00:02:40,400
+Wilhelm Huberts (Austria) - Eintracht Frankfurt
+Partidas: 261 | Gols: 89 | Assistências: 29
+
+26
+00:02:40,400 --> 00:02:47,000
+Erwin Stein (Germany) - Eintracht Frankfurt
+Partidas: 180 | Gols: 111 | Assistências: 7
+
+27
+00:02:47,000 --> 00:02:53,600
+Alfred Pfaff (Germany) - Eintracht Frankfurt
+Partidas: 323 | Gols: 111 | Assistências: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Alexander Meier (Germany) - Eintracht Frankfurt
+Partidas: 379 | Gols: 137 | Assistências: 55
+
+29
+00:03:00,200 --> 00:03:06,800
+Jürgen Grabowski (Germany) - Eintracht Frankfurt
+Partidas: 545 | Gols: 147 | Assistências: 76
+
+30
+00:03:06,800 --> 00:03:13,400
+Bernd Nickel (Germany) - Eintracht Frankfurt
+Partidas: 534 | Gols: 178 | Assistências: 37
+
+31
+00:03:13,400 --> 00:03:20,000
+Bernd Hölzenbein (Germany) - Eintracht Frankfurt
+Partidas: 524 | Gols: 212 | Assistências: 39
+

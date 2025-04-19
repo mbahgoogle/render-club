@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Girona FC Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Cristian Herrera (Spain) - Girona FC
+Partidos: 54 | Goles: 9 | Asistencias: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Valery Fernández (Spain) - Girona FC
+Partidos: 140 | Goles: 10 | Asistencias: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+David Timor (Spain) - Girona FC
+Partidos: 60 | Goles: 10 | Asistencias: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Luso (Spain) - Girona FC
+Partidos: 74 | Goles: 10 | Asistencias: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Savinho (Brazil) - Girona FC
+Partidos: 41 | Goles: 11 | Asistencias: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Chechu Flores (Spain) - Girona FC
+Partidos: 99 | Goles: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Mamadou Sylla (Senegal) - Girona FC
+Partidos: 43 | Goles: 11 | Asistencias: 7
+
+9
+00:00:48,200 --> 00:00:54,800
+Yangel Herrera (Venezuela) - Girona FC
+Partidos: 77 | Goles: 11 | Asistencias: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Samu Saiz (Spain) - Girona FC
+Partidos: 119 | Goles: 12 | Asistencias: 17
+
+11
+00:01:01,400 --> 00:01:08,000
+Gerard Bordas (Spain) - Girona FC
+Partidos: 62 | Goles: 13 | Asistencias: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Viktor Tsygankov (Ukraine) - Girona FC
+Partidos: 76 | Goles: 13 | Asistencias: 17
+
+13
+00:01:14,600 --> 00:01:21,200
+Juanpe (Spain) - Girona FC
+Partidos: 262 | Goles: 13 | Asistencias: 8
+
+14
+00:01:21,200 --> 00:01:27,800
+Taty Castellanos (Argentina) - Girona FC
+Partidos: 37 | Goles: 14 | Asistencias: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Benja (Spain) - Girona FC
+Partidos: 53 | Goles: 14 | Asistencias: 8
+
+16
+00:01:34,400 --> 00:01:41,000
+Samuele Longo (Italy) - Girona FC
+Partidos: 38 | Goles: 14 | Asistencias: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Kiko Ratón (Spain) - Girona FC
+Partidos: 76 | Goles: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+Nahuel Bustos (Argentina) - Girona FC
+Partidos: 82 | Goles: 15 | Asistencias: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Álex Granell (Spain) - Girona FC
+Partidos: 232 | Goles: 16 | Asistencias: 34
+
+20
+00:02:00,800 --> 00:02:07,400
+Ferrán Corominas (Spain) - Girona FC
+Partidos: 40 | Goles: 18 | Asistencias: 6
+
+21
+00:02:07,400 --> 00:02:14,000
+Ranko Despotovic (Serbia) - Girona FC
+Partidos: 35 | Goles: 19
+
+22
+00:02:14,000 --> 00:02:20,600
+Roberto Peragón (Spain) - Girona FC
+Partidos: 76 | Goles: 20
+
+23
+00:02:20,600 --> 00:02:27,200
+Borja García (Spain) - Girona FC
+Partidos: 233 | Goles: 21 | Asistencias: 30
+
+24
+00:02:27,200 --> 00:02:33,800
+Jaime Mata (Spain) - Girona FC
+Partidos: 82 | Goles: 21 | Asistencias: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Javi Acuña (Paraguay) - Girona FC
+Partidos: 57 | Goles: 21 | Asistencias: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Artem Dovbyk (Ukraine) - Girona FC
+Partidos: 39 | Goles: 24 | Asistencias: 10
+
+27
+00:02:47,000 --> 00:02:53,600
+Fran Sandaza (Spain) - Girona FC
+Partidos: 73 | Goles: 25 | Asistencias: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Felipe Sanchón (Spain) - Girona FC
+Partidos: 153 | Goles: 36 | Asistencias: 22
+
+29
+00:03:00,200 --> 00:03:06,800
+Jandro Castro (Spain) - Girona FC
+Partidos: 175 | Goles: 37 | Asistencias: 27
+
+30
+00:03:06,800 --> 00:03:13,400
+Portu (Spain) - Girona FC
+Partidos: 177 | Goles: 37 | Asistencias: 26
+
+31
+00:03:13,400 --> 00:03:20,000
+Cristhian Stuani (Uruguay) - Girona FC
+Partidos: 280 | Goles: 136 | Asistencias: 12
+

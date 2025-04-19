@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RCD Mallorca Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Manuel Haro (Spain) - RCD Mallorca
+Presenze: 58 | Gol: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Emilio Nsue (Equatorial Guinea) - RCD Mallorca
+Presenze: 154 | Gol: 16 | Assist: 12
+
+4
+00:00:15,200 --> 00:00:21,800
+Antonio Raíllo (Spain) - RCD Mallorca
+Presenze: 284 | Gol: 17 | Assist: 8
+
+5
+00:00:21,800 --> 00:00:28,400
+Leo Biagini (Argentina) - RCD Mallorca
+Presenze: 94 | Gol: 17
+
+6
+00:00:28,400 --> 00:00:35,000
+Walter Pandiani (Uruguay) - RCD Mallorca
+Presenze: 40 | Gol: 18 | Assist: 8
+
+7
+00:00:35,000 --> 00:00:41,600
+Ante Budimir (Croatia) - RCD Mallorca
+Presenze: 57 | Gol: 19 | Assist: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Dani García (Spain) - RCD Mallorca
+Presenze: 49 | Gol: 19
+
+9
+00:00:48,200 --> 00:00:54,800
+Alejandro Alfaro (Spain) - RCD Mallorca
+Presenze: 105 | Gol: 19 | Assist: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Brandon Thomas (Spain) - RCD Mallorca
+Presenze: 78 | Gol: 21 | Assist: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Jovan Stankovic (Serbia) - RCD Mallorca
+Presenze: 170 | Gol: 22 | Assist: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Diego Tristán (Spain) - RCD Mallorca
+Presenze: 62 | Gol: 23 | Assist: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Tomer Hemed (Israel) - RCD Mallorca
+Presenze: 97 | Gol: 23 | Assist: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Enrique Magdaleno (Spain) - RCD Mallorca
+Presenze: 74 | Gol: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Aritz Aduriz (Spain) - RCD Mallorca
+Presenze: 78 | Gol: 24 | Assist: 10
+
+16
+00:01:34,400 --> 00:01:41,000
+Albert Luque (Spain) - RCD Mallorca
+Presenze: 88 | Gol: 24 | Assist: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Salva Sevilla (Spain) - RCD Mallorca
+Presenze: 186 | Gol: 25 | Assist: 21
+
+18
+00:01:47,600 --> 00:01:54,200
+Carlitos (Spain) - RCD Mallorca
+Presenze: 152 | Gol: 26 | Assist: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Chory Castro (Uruguay) - RCD Mallorca
+Presenze: 148 | Gol: 27 | Assist: 26
+
+20
+00:02:00,800 --> 00:02:07,400
+Pierre Webó (Cameroon) - RCD Mallorca
+Presenze: 121 | Gol: 28 | Assist: 15
+
+21
+00:02:07,400 --> 00:02:14,000
+Goran Milojevic (Serbia) - RCD Mallorca
+Presenze: 69 | Gol: 28
+
+22
+00:02:14,000 --> 00:02:20,600
+Miguel Ángel Nadal (Spain) - RCD Mallorca
+Presenze: 305 | Gol: 29 | Assist: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Ariel Ibagaza (Argentina) - RCD Mallorca
+Presenze: 245 | Gol: 30 | Assist: 33
+
+24
+00:02:27,200 --> 00:02:33,800
+Dani Rodríguez (Spain) - RCD Mallorca
+Presenze: 272 | Gol: 32 | Assist: 38
+
+25
+00:02:33,800 --> 00:02:40,400
+Dani Güiza (Spain) - RCD Mallorca
+Presenze: 50 | Gol: 32 | Assist: 8
+
+26
+00:02:40,400 --> 00:02:47,000
+Vedat Muriqi (Kosovo) - RCD Mallorca
+Presenze: 112 | Gol: 35 | Assist: 11
+
+27
+00:02:47,000 --> 00:02:53,600
+Lago Júnior (Cote d'Ivoire) - RCD Mallorca
+Presenze: 206 | Gol: 36 | Assist: 13
+
+28
+00:02:53,600 --> 00:03:00,200
+Víctor Casadesús (Spain) - RCD Mallorca
+Presenze: 236 | Gol: 46 | Assist: 23
+
+29
+00:03:00,200 --> 00:03:06,800
+Juan Arango (Venezuela) - RCD Mallorca
+Presenze: 195 | Gol: 49 | Assist: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Abdón Prats (Spain) - RCD Mallorca
+Presenze: 263 | Gol: 55 | Assist: 11
+
+31
+00:03:13,400 --> 00:03:20,000
+Samuel Eto'o (Cameroon) - RCD Mallorca
+Presenze: 162 | Gol: 70 | Assist: 19
+

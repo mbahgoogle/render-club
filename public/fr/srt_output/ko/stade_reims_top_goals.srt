@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Reims 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Boulaye Dia (Senegal) - Stade Reims
+출전: 88 | 골: 28 | 도움: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Djamel Tlemcani (Algeria) - Stade Reims
+출전: 63 | 골: 28
+
+4
+00:00:15,200 --> 00:00:21,800
+Michel Hidalgo (France) - Stade Reims
+출전: 78 | 골: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+Paul Sauvage (France) - Stade Reims
+출전: 121 | 골: 29
+
+6
+00:00:28,400 --> 00:00:35,000
+André Petitfils (France) - Stade Reims
+출전: 127 | 골: 30
+
+7
+00:00:35,000 --> 00:00:41,600
+Bernard Lech (France) - Stade Reims
+출전: 138 | 골: 31
+
+8
+00:00:41,600 --> 00:00:48,200
+Pierre Bini (France) - Stade Reims
+출전: 96 | 골: 31
+
+9
+00:00:48,200 --> 00:00:54,800
+Ivo Basay (Chile) - Stade Reims
+출전: 73 | 골: 34
+
+10
+00:00:54,800 --> 00:01:01,400
+Michel Leblond (France) - Stade Reims
+출전: 325 | 골: 35
+
+11
+00:01:01,400 --> 00:01:08,000
+Jean-François Charbonnier (France) - Stade Reims
+출전: 120 | 골: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Jean Templin (France) - Stade Reims
+출전: 174 | 골: 38
+
+13
+00:01:14,600 --> 00:01:21,200
+Armand Penverne (France) - Stade Reims
+출전: 377 | 골: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Alain Richard (France) - Stade Reims
+출전: 206 | 골: 40
+
+15
+00:01:27,800 --> 00:01:34,400
+Pierre Flamion (France) - Stade Reims
+출전: 102 | 골: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Delio Onnis (Argentina) - Stade Reims
+출전: 76 | 골: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Francis Méano (France) - Stade Reims
+출전: 118 | 골: 52
+
+18
+00:01:47,600 --> 00:01:54,200
+Santiago Santamaría (Argentina) - Stade Reims
+출전: 170 | 골: 52
+
+19
+00:01:54,200 --> 00:02:00,800
+Francois Calderaro (France) - Stade Reims
+출전: 147 | 골: 58
+
+20
+00:02:00,800 --> 00:02:07,400
+Hassan Akesbi (Morocco) - Stade Reims
+출전: 94 | 골: 60
+
+21
+00:02:07,400 --> 00:02:14,000
+Jean-Pierre Bertolino (France) - Stade Reims
+출전: 220 | 골: 63
+
+22
+00:02:14,000 --> 00:02:20,600
+Pierre Sinibaldi (France) - Stade Reims
+출전: 135 | 골: 72
+
+23
+00:02:20,600 --> 00:02:27,200
+Léon Glovacki (France) - Stade Reims
+출전: 220 | 골: 85
+
+24
+00:02:27,200 --> 00:02:33,800
+Raymond Kopa (France) - Stade Reims
+출전: 400 | 골: 89 | 도움: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Cédric Fauré (France) - Stade Reims
+출전: 212 | 골: 90 | 도움: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Jean Vincent (France) - Stade Reims
+출전: 319 | 골: 92
+
+27
+00:02:47,000 --> 00:02:53,600
+Bram Appel (Netherlands) - Stade Reims
+출전: 164 | 골: 109
+
+28
+00:02:53,600 --> 00:03:00,200
+René Bliard (France) - Stade Reims
+출전: 182 | 골: 117 | 도움: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Roger Piantoni (France) - Stade Reims
+출전: 198 | 골: 132
+
+30
+00:03:06,800 --> 00:03:13,400
+Carlos Bianchi (Argentina) - Stade Reims
+출전: 162 | 골: 139
+
+31
+00:03:13,400 --> 00:03:20,000
+Just Fontaine (France) - Stade Reims
+출전: 151 | 골: 145 | 도움: 1
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+LOSC Lille Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Zarko Olarevic (Serbia) - LOSC Lille
+Partidos: 126 | Goles: 31 | Asistencias: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Bruno Cheyrou (France) - LOSC Lille
+Partidos: 114 | Goles: 32 | Asistencias: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Roberto Cabral (Argentina) - LOSC Lille
+Partidos: 111 | Goles: 34 | Asistencias: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Salomon Kalou (Cote d'Ivoire) - LOSC Lille
+Partidos: 80 | Goles: 34 | Asistencias: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Gervinho (Cote d'Ivoire) - LOSC Lille
+Partidos: 93 | Goles: 36 | Asistencias: 15
+
+7
+00:00:35,000 --> 00:00:41,600
+Moussa Sow (Senegal) - LOSC Lille
+Partidos: 76 | Goles: 36 | Asistencias: 6
+
+8
+00:00:41,600 --> 00:00:48,200
+René Fatoux (France) - LOSC Lille
+Partidos: 49 | Goles: 36
+
+9
+00:00:48,200 --> 00:00:54,800
+Stanislav Karasi (Serbia) - LOSC Lille
+Partidos: 120 | Goles: 36
+
+10
+00:00:54,800 --> 00:01:01,400
+Nicolas Pépé (Cote d'Ivoire) - LOSC Lille
+Partidos: 79 | Goles: 37 | Asistencias: 18
+
+11
+00:01:01,400 --> 00:01:08,000
+Nolan Roux (France) - LOSC Lille
+Partidos: 138 | Goles: 37 | Asistencias: 17
+
+12
+00:01:08,000 --> 00:01:14,600
+Yohan Cabaye (France) - LOSC Lille
+Partidos: 252 | Goles: 37 | Asistencias: 32
+
+13
+00:01:14,600 --> 00:01:21,200
+Francois Heutte (France) - LOSC Lille
+Partidos: 105 | Goles: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Laurent Peyrelade (France) - LOSC Lille
+Partidos: 133 | Goles: 38 | Asistencias: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+Matt Moussilou (Congo) - LOSC Lille
+Partidos: 140 | Goles: 39 | Asistencias: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Marius Walter (France) - LOSC Lille
+Partidos: 99 | Goles: 39
+
+17
+00:01:41,000 --> 00:01:47,600
+Jean Lechantre (Belgium) - LOSC Lille
+Partidos: 99 | Goles: 42
+
+18
+00:01:47,600 --> 00:01:54,200
+Djezon Boutoille (France) - LOSC Lille
+Partidos: 273 | Goles: 44 | Asistencias: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Erwin Vandenbergh (Belgium) - LOSC Lille
+Partidos: 130 | Goles: 44
+
+20
+00:02:00,800 --> 00:02:07,400
+Fernand Devlaminck (France) - LOSC Lille
+Partidos: 79 | Goles: 48
+
+21
+00:02:07,400 --> 00:02:14,000
+Eden Hazard (Belgium) - LOSC Lille
+Partidos: 194 | Goles: 50 | Asistencias: 53
+
+22
+00:02:14,000 --> 00:02:20,600
+André Guy (France) - LOSC Lille
+Partidos: 89 | Goles: 51
+
+23
+00:02:20,600 --> 00:02:27,200
+Christian Coste (France) - LOSC Lille
+Partidos: 109 | Goles: 54
+
+24
+00:02:27,200 --> 00:02:33,800
+Gérard Bourbotte (France) - LOSC Lille
+Partidos: 174 | Goles: 60
+
+25
+00:02:33,800 --> 00:02:40,400
+Yvon Douis (France) - LOSC Lille
+Partidos: 173 | Goles: 61
+
+26
+00:02:40,400 --> 00:02:47,000
+Jean Vincent (France) - LOSC Lille
+Partidos: 179 | Goles: 62
+
+27
+00:02:47,000 --> 00:02:53,600
+Pierre Pleimelding (France) - LOSC Lille
+Partidos: 131 | Goles: 62 | Asistencias: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Bernard Lefèvre (France) - LOSC Lille
+Partidos: 156 | Goles: 64
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean Baratte (France) - LOSC Lille
+Partidos: 187 | Goles: 97
+
+30
+00:03:06,800 --> 00:03:13,400
+Jonathan David (Canada) - LOSC Lille
+Partidos: 225 | Goles: 107 | Asistencias: 27
+
+31
+00:03:13,400 --> 00:03:20,000
+André Strappe (France) - LOSC Lille
+Partidos: 318 | Goles: 112
+

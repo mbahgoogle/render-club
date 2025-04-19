@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Everton FC Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+David Unsworth (England) - Everton FC
+Einsätze: 346 | Tore: 40 | Vorlagen: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Bobby Collins (Scotland) - Everton FC
+Einsätze: 137 | Tore: 43
+
+4
+00:00:15,200 --> 00:00:21,800
+Johnny Morrissey (England) - Everton FC
+Einsätze: 306 | Tore: 49 | Vorlagen: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Tommy Eglington (Ireland) - Everton FC
+Einsätze: 315 | Tore: 50 | Vorlagen: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Kevin Campbell (England) - Everton FC
+Einsätze: 160 | Tore: 50 | Vorlagen: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Jimmy Husband (England) - Everton FC
+Einsätze: 193 | Tore: 53 | Vorlagen: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Richarlison (Brazil) - Everton FC
+Einsätze: 152 | Tore: 53 | Vorlagen: 13
+
+9
+00:00:48,200 --> 00:00:54,800
+Trevor Steven (England) - Everton FC
+Einsätze: 278 | Tore: 56 | Vorlagen: 16
+
+10
+00:00:54,800 --> 00:01:01,400
+Mick Lyons (England) - Everton FC
+Einsätze: 453 | Tore: 56 | Vorlagen: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Dave Hickson (England) - Everton FC
+Einsätze: 149 | Tore: 57 | Vorlagen: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Leon Osman (England) - Everton FC
+Einsätze: 433 | Tore: 58 | Vorlagen: 36
+
+13
+00:01:14,600 --> 00:01:21,200
+Eddie Wainwright (England) - Everton FC
+Einsätze: 199 | Tore: 64
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy King (England) - Everton FC
+Einsätze: 242 | Tore: 66 | Vorlagen: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Jimmy Harris (England) - Everton FC
+Einsätze: 196 | Tore: 67 | Vorlagen: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Fred Pickering (England) - Everton FC
+Einsätze: 112 | Tore: 68
+
+17
+00:01:41,000 --> 00:01:47,600
+Tim Cahill (Australia) - Everton FC
+Einsätze: 278 | Tore: 68 | Vorlagen: 28
+
+18
+00:01:47,600 --> 00:01:54,200
+Dominic Calvert-Lewin (England) - Everton FC
+Einsätze: 269 | Tore: 71 | Vorlagen: 20
+
+19
+00:01:54,200 --> 00:02:00,800
+Duncan Ferguson (Scotland) - Everton FC
+Einsätze: 272 | Tore: 72 | Vorlagen: 12
+
+20
+00:02:00,800 --> 00:02:07,400
+Alan Ball (England) - Everton FC
+Einsätze: 246 | Tore: 77 | Vorlagen: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Derek Temple (England) - Everton FC
+Einsätze: 265 | Tore: 80 | Vorlagen: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Tony Cottee (England) - Everton FC
+Einsätze: 221 | Tore: 82 | Vorlagen: 6
+
+23
+00:02:20,600 --> 00:02:27,200
+Alex Young (Scotland) - Everton FC
+Einsätze: 265 | Tore: 84 | Vorlagen: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Romelu Lukaku (Belgium) - Everton FC
+Einsätze: 166 | Tore: 87 | Vorlagen: 27
+
+25
+00:02:33,800 --> 00:02:40,400
+Adrian Heath (England) - Everton FC
+Einsätze: 286 | Tore: 89 | Vorlagen: 23
+
+26
+00:02:40,400 --> 00:02:47,000
+Kevin Sheedy (Ireland) - Everton FC
+Einsätze: 345 | Tore: 91 | Vorlagen: 28
+
+27
+00:02:47,000 --> 00:02:53,600
+Roy Vernon (Wales) - Everton FC
+Einsätze: 191 | Tore: 106 | Vorlagen: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Joe Royle (England) - Everton FC
+Einsätze: 266 | Tore: 117 | Vorlagen: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Bob Latchford (England) - Everton FC
+Einsätze: 281 | Tore: 133 | Vorlagen: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Graeme Sharp (Scotland) - Everton FC
+Einsätze: 422 | Tore: 147 | Vorlagen: 24
+
+31
+00:03:13,400 --> 00:03:20,000
+Dixie Dean (England) - Everton FC
+Einsätze: 144 | Tore: 188
+

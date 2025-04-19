@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfB Stuttgart Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Serhou Guirassy (Guinea) - VfB Stuttgart
+Partidas: 58 | Gols: 44 | Assistências: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Guido Buchwald (Germany) - VfB Stuttgart
+Partidas: 387 | Gols: 45 | Assistências: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Erwin Läpple (Germany) - VfB Stuttgart
+Partidas: 193 | Gols: 47
+
+5
+00:00:21,800 --> 00:00:28,400
+Ionel Ganea (Romania) - VfB Stuttgart
+Partidas: 138 | Gols: 47 | Assistências: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Vedad Ibisevic (Bosnia-Herzegovina) - VfB Stuttgart
+Partidas: 111 | Gols: 47 | Assistências: 16
+
+7
+00:00:35,000 --> 00:00:41,600
+Horst Köppel (Germany) - VfB Stuttgart
+Partidas: 139 | Gols: 49 | Assistências: 10
+
+8
+00:00:41,600 --> 00:00:48,200
+Roland Wehrle (Germany) - VfB Stuttgart
+Partidas: 104 | Gols: 50
+
+9
+00:00:48,200 --> 00:00:54,800
+Christian Gentner (Germany) - VfB Stuttgart
+Partidas: 373 | Gols: 50 | Assistências: 45
+
+10
+00:00:54,800 --> 00:01:01,400
+Peter Reichert (Germany) - VfB Stuttgart
+Partidas: 160 | Gols: 50
+
+11
+00:01:01,400 --> 00:01:08,000
+Kevin Kuranyi (Germany) - VfB Stuttgart
+Partidas: 132 | Gols: 57 | Assistências: 26
+
+12
+00:01:08,000 --> 00:01:14,600
+Dieter Hoeneß (Germany) - VfB Stuttgart
+Partidas: 117 | Gols: 57 | Assistências: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Dieter Höller (Germany) - VfB Stuttgart
+Partidas: 139 | Gols: 58 | Assistências: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Gerhard Strohmaier (Germany) - VfB Stuttgart
+Partidas: 211 | Gols: 63
+
+15
+00:01:27,800 --> 00:01:34,400
+Walter Kelsch (Germany) - VfB Stuttgart
+Partidas: 251 | Gols: 65 | Assistências: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Martin Harnik (Austria) - VfB Stuttgart
+Partidas: 214 | Gols: 68 | Assistências: 35
+
+17
+00:01:41,000 --> 00:01:47,600
+Karl-Heinz Handschuh (Germany) - VfB Stuttgart
+Partidas: 209 | Gols: 72 | Assistências: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+Krasimir Balakov (Bulgaria) - VfB Stuttgart
+Partidas: 298 | Gols: 73 | Assistências: 65
+
+19
+00:01:54,200 --> 00:02:00,800
+Hansi Müller (Germany) - VfB Stuttgart
+Partidas: 224 | Gols: 81 | Assistências: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Rolf Geiger (Germany) - VfB Stuttgart
+Partidas: 198 | Gols: 84 | Assistências: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Fredi Bobic (Germany) - VfB Stuttgart
+Partidas: 182 | Gols: 86 | Assistências: 24
+
+22
+00:02:14,000 --> 00:02:20,600
+Jürgen Klinsmann (Germany) - VfB Stuttgart
+Partidas: 186 | Gols: 94 | Assistências: 11
+
+23
+00:02:20,600 --> 00:02:27,200
+Otto Baitinger (Germany) - VfB Stuttgart
+Partidas: 203 | Gols: 98
+
+24
+00:02:27,200 --> 00:02:33,800
+Robert Schlienz (Germany) - VfB Stuttgart
+Partidas: 397 | Gols: 102
+
+25
+00:02:33,800 --> 00:02:40,400
+Cacau (Germany) - VfB Stuttgart
+Partidas: 346 | Gols: 109 | Assistências: 44
+
+26
+00:02:40,400 --> 00:02:47,000
+Mario Gómez (Germany) - VfB Stuttgart
+Partidas: 230 | Gols: 110 | Assistências: 30
+
+27
+00:02:47,000 --> 00:02:53,600
+Erwin Waldner (Germany) - VfB Stuttgart
+Partidas: 307 | Gols: 116 | Assistências: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Fritz Walter (Germany) - VfB Stuttgart
+Partidas: 258 | Gols: 123 | Assistências: 33
+
+29
+00:03:00,200 --> 00:03:06,800
+Rolf Blessing (Germany) - VfB Stuttgart
+Partidas: 385 | Gols: 141
+
+30
+00:03:06,800 --> 00:03:13,400
+Hermann Ohlicher (Germany) - VfB Stuttgart
+Partidas: 459 | Gols: 157 | Assistências: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Karl Allgöwer (Germany) - VfB Stuttgart
+Partidas: 410 | Gols: 167 | Assistências: 18
+

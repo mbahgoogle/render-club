@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfL Wolfsburg Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Fredi Rotermund (Germany) - VfL Wolfsburg
+Presenze: 90 | Gol: 23
+
+3
+00:00:08,600 --> 00:00:15,200
+Diego (Brazil) - VfL Wolfsburg
+Presenze: 87 | Gol: 24 | Assist: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Zvjezdan Misimovic (Bosnia-Herzegovina) - VfL Wolfsburg
+Presenze: 92 | Gol: 25 | Assist: 48
+
+5
+00:00:21,800 --> 00:00:28,400
+Charles Akonnor (Ghana) - VfL Wolfsburg
+Presenze: 142 | Gol: 25 | Assist: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Jacek Frackiewicz (Poland) - VfL Wolfsburg
+Presenze: 108 | Gol: 31
+
+7
+00:00:35,000 --> 00:00:41,600
+Jonas Wind (Denmark) - VfL Wolfsburg
+Presenze: 106 | Gol: 33 | Assist: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Tomislav Maric (Croatia) - VfL Wolfsburg
+Presenze: 97 | Gol: 33 | Assist: 12
+
+9
+00:00:48,200 --> 00:00:54,800
+Ivica Olic (Croatia) - VfL Wolfsburg
+Presenze: 94 | Gol: 33 | Assist: 14
+
+10
+00:00:54,800 --> 00:01:01,400
+Jürgen Mosert (Germany) - VfL Wolfsburg
+Presenze: 75 | Gol: 35 | Assist: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Michael Geiger (Germany) - VfL Wolfsburg
+Presenze: 231 | Gol: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Peter Ament (Germany) - VfL Wolfsburg
+Presenze: 245 | Gol: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+Manfred Wuttich (Germany) - VfL Wolfsburg
+Presenze: 57 | Gol: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Martin Petrov (Bulgaria) - VfL Wolfsburg
+Presenze: 136 | Gol: 38 | Assist: 38
+
+15
+00:01:27,800 --> 00:01:34,400
+Roy Präger (Germany) - VfL Wolfsburg
+Presenze: 170 | Gol: 41 | Assist: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Wolf-Rüdiger Krause (Germany) - VfL Wolfsburg
+Presenze: 97 | Gol: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Wolfgang Wallek (Germany) - VfL Wolfsburg
+Presenze: 92 | Gol: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+Maximilian Arnold (Germany) - VfL Wolfsburg
+Presenze: 443 | Gol: 47 | Assist: 55
+
+19
+00:01:54,200 --> 00:02:00,800
+Bas Dost (Netherlands) - VfL Wolfsburg
+Presenze: 117 | Gol: 48 | Assist: 14
+
+20
+00:02:00,800 --> 00:02:07,400
+Andrzej Juskowiak (Poland) - VfL Wolfsburg
+Presenze: 131 | Gol: 49 | Assist: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Holger Fiebich (Germany) - VfL Wolfsburg
+Presenze: 228 | Gol: 63 | Assist: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Matthias Fiebich (Germany) - VfL Wolfsburg
+Presenze: 212 | Gol: 69
+
+23
+00:02:20,600 --> 00:02:27,200
+Hans Kircher (Germany) - VfL Wolfsburg
+Presenze: 86 | Gol: 70
+
+24
+00:02:27,200 --> 00:02:33,800
+Wout Weghorst (Netherlands) - VfL Wolfsburg
+Presenze: 144 | Gol: 70 | Assist: 22
+
+25
+00:02:33,800 --> 00:02:40,400
+Diego Klimowicz (Argentina) - VfL Wolfsburg
+Presenze: 173 | Gol: 71 | Assist: 23
+
+26
+00:02:40,400 --> 00:02:47,000
+Grafite (Brazil) - VfL Wolfsburg
+Presenze: 130 | Gol: 75 | Assist: 25
+
+27
+00:02:47,000 --> 00:02:53,600
+Wilfried Kemmer (Germany) - VfL Wolfsburg
+Presenze: 184 | Gol: 82 | Assist: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Edin Džeko (Bosnia-Herzegovina) - VfL Wolfsburg
+Presenze: 142 | Gol: 85 | Assist: 35
+
+29
+00:03:00,200 --> 00:03:06,800
+Siegfried Reich (Germany) - VfL Wolfsburg
+Presenze: 169 | Gol: 95
+
+30
+00:03:06,800 --> 00:03:13,400
+Frank Plagge (Germany) - VfL Wolfsburg
+Presenze: 189 | Gol: 111
+
+31
+00:03:13,400 --> 00:03:20,000
+Olaf Ansorge (Germany) - VfL Wolfsburg
+Presenze: 381 | Gol: 123
+

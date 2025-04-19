@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Holstein Kiel Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Rafael Kazior (Germany) - Holstein Kiel
+Apparitions: 172 | Buts: 33 | Passes décisives: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Pavel Dobry (Czech Republic) - Holstein Kiel
+Apparitions: 102 | Buts: 33
+
+4
+00:00:15,200 --> 00:00:21,800
+Kingsley Schindler (Ghana) - Holstein Kiel
+Apparitions: 101 | Buts: 34 | Passes décisives: 22
+
+5
+00:00:21,800 --> 00:00:28,400
+Jaroslaw Lindner (Poland) - Holstein Kiel
+Apparitions: 117 | Buts: 34 | Passes décisives: 20
+
+6
+00:00:28,400 --> 00:00:35,000
+Helmut Schweger (Germany) - Holstein Kiel
+Apparitions: 108 | Buts: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Janni Serra (Germany) - Holstein Kiel
+Apparitions: 91 | Buts: 35 | Passes décisives: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Steven Skrzybski (Germany) - Holstein Kiel
+Apparitions: 106 | Buts: 35 | Passes décisives: 13
+
+9
+00:00:48,200 --> 00:00:54,800
+Manfred Jochimiak (Germany) - Holstein Kiel
+Apparitions: 123 | Buts: 36 | Passes décisives: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Eggert Dolling (Germany) - Holstein Kiel
+Apparitions: 239 | Buts: 36 | Passes décisives: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Harry Witt (Germany) - Holstein Kiel
+Apparitions: 190 | Buts: 38
+
+12
+00:01:08,000 --> 00:01:14,600
+Diether Trede (Germany) - Holstein Kiel
+Apparitions: 160 | Buts: 38
+
+13
+00:01:14,600 --> 00:01:21,200
+Walter Hain (Germany) - Holstein Kiel
+Apparitions: 108 | Buts: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Tim Siedschlag (Germany) - Holstein Kiel
+Apparitions: 289 | Buts: 39 | Passes décisives: 40
+
+15
+00:01:27,800 --> 00:01:34,400
+Michael Holt (Germany) - Holstein Kiel
+Apparitions: 80 | Buts: 44 | Passes décisives: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Alexander Mühling (Germany) - Holstein Kiel
+Apparitions: 238 | Buts: 44 | Passes décisives: 31
+
+17
+00:01:41,000 --> 00:01:47,600
+Rainer Menzel (Germany) - Holstein Kiel
+Apparitions: 120 | Buts: 45 | Passes décisives: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Franz-Josef Hönig (Germany) - Holstein Kiel
+Apparitions: 88 | Buts: 45
+
+19
+00:01:54,200 --> 00:02:00,800
+Fiete Sykora (Germany) - Holstein Kiel
+Apparitions: 166 | Buts: 45 | Passes décisives: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Daniel Jurgeleit (Germany) - Holstein Kiel
+Apparitions: 110 | Buts: 47
+
+21
+00:02:07,400 --> 00:02:14,000
+Emil Maier (Germany) - Holstein Kiel
+Apparitions: 97 | Buts: 49
+
+22
+00:02:14,000 --> 00:02:20,600
+Hans-Peter Ehlers (Germany) - Holstein Kiel
+Apparitions: 372 | Buts: 49
+
+23
+00:02:20,600 --> 00:02:27,200
+Axel Möller (Germany) - Holstein Kiel
+Apparitions: 193 | Buts: 53
+
+24
+00:02:27,200 --> 00:02:33,800
+Horst Martinsen (Germany) - Holstein Kiel
+Apparitions: 105 | Buts: 54
+
+25
+00:02:33,800 --> 00:02:40,400
+André Bistram (Germany) - Holstein Kiel
+Apparitions: 142 | Buts: 66
+
+26
+00:02:40,400 --> 00:02:47,000
+Carsten Nemitz (Germany) - Holstein Kiel
+Apparitions: 125 | Buts: 71
+
+27
+00:02:47,000 --> 00:02:53,600
+Gerd Saborowski (Germany) - Holstein Kiel
+Apparitions: 92 | Buts: 74
+
+28
+00:02:53,600 --> 00:03:00,200
+Marc Heider (United States) - Holstein Kiel
+Apparitions: 241 | Buts: 85 | Passes décisives: 53
+
+29
+00:03:00,200 --> 00:03:06,800
+Dmitrijus Guscinas (Lithuania) - Holstein Kiel
+Apparitions: 217 | Buts: 87 | Passes décisives: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Alfred Bornemann (Germany) - Holstein Kiel
+Apparitions: 222 | Buts: 114
+
+31
+00:03:13,400 --> 00:03:20,000
+Gerd Koll (Germany) - Holstein Kiel
+Apparitions: 253 | Buts: 135
+

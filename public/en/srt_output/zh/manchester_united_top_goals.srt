@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Manchester United 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Sammy McIlroy (Northern Ireland) - Manchester United
+出场数: 373 | 进球: 61 | 助攻: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Norman Whiteside (Northern Ireland) - Manchester United
+出场数: 259 | 进球: 63 | 助攻: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Steve Coppell (England) - Manchester United
+出场数: 373 | 进球: 65 | 助攻: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Dwight Yorke (Trinidad and Tobago) - Manchester United
+出场数: 152 | 进球: 66 | 助攻: 32
+
+6
+00:00:28,400 --> 00:00:35,000
+Brian Kidd (England) - Manchester United
+出场数: 265 | 进球: 70 | 助攻: 13
+
+7
+00:00:35,000 --> 00:00:41,600
+Frank Stapleton (Ireland) - Manchester United
+出场数: 274 | 进球: 72 | 助攻: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Lou Macari (Scotland) - Manchester United
+出场数: 356 | 进球: 78
+
+9
+00:00:48,200 --> 00:00:54,800
+Éric Cantona (France) - Manchester United
+出场数: 185 | 进球: 82 | 助攻: 63
+
+10
+00:00:54,800 --> 00:01:01,400
+David Beckham (England) - Manchester United
+出场数: 394 | 进球: 85 | 助攻: 121
+
+11
+00:01:01,400 --> 00:01:08,000
+Anthony Martial (France) - Manchester United
+出场数: 317 | 进球: 90 | 助攻: 46
+
+12
+00:01:08,000 --> 00:01:14,600
+Bruno Fernandes (Portugal) - Manchester United
+出场数: 278 | 进球: 95 | 助攻: 82
+
+13
+00:01:14,600 --> 00:01:21,200
+Bryan Robson (England) - Manchester United
+出场数: 446 | 进球: 97 | 助攻: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy Cole (England) - Manchester United
+出场数: 275 | 进球: 121 | 助攻: 44
+
+15
+00:01:27,800 --> 00:01:34,400
+Brian McClair (Scotland) - Manchester United
+出场数: 466 | 进球: 121 | 助攻: 16
+
+16
+00:01:34,400 --> 00:01:41,000
+Ole Gunnar Solskjær (Norway) - Manchester United
+出场数: 366 | 进球: 126 | 助攻: 57
+
+17
+00:01:41,000 --> 00:01:47,600
+Tommy Taylor (England) - Manchester United
+出场数: 189 | 进球: 131 | 助攻: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Stan Pearson (England) - Manchester United
+出场数: 315 | 进球: 135 | 助攻: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Marcus Rashford (England) - Manchester United
+出场数: 426 | 进球: 138 | 助攻: 65
+
+20
+00:02:00,800 --> 00:02:07,400
+David Herd (Scotland) - Manchester United
+出场数: 261 | 进球: 144 | 助攻: 29
+
+21
+00:02:07,400 --> 00:02:14,000
+Cristiano Ronaldo (Portugal) - Manchester United
+出场数: 346 | 进球: 145 | 助攻: 64
+
+22
+00:02:14,000 --> 00:02:20,600
+Ruud van Nistelrooy (Netherlands) - Manchester United
+出场数: 219 | 进球: 150 | 助攻: 28
+
+23
+00:02:20,600 --> 00:02:27,200
+Paul Scholes (England) - Manchester United
+出场数: 716 | 进球: 155 | 助攻: 82
+
+24
+00:02:27,200 --> 00:02:33,800
+Mark Hughes (Wales) - Manchester United
+出场数: 459 | 进球: 161 | 助攻: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Ryan Giggs (Wales) - Manchester United
+出场数: 963 | 进球: 168 | 助攻: 265
+
+26
+00:02:40,400 --> 00:02:47,000
+Dennis Viollet (England) - Manchester United
+出场数: 284 | 进球: 173 | 助攻: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+George Best (Northern Ireland) - Manchester United
+出场数: 470 | 进球: 179 | 助攻: 33
+
+28
+00:02:53,600 --> 00:03:00,200
+Jack Rowley (England) - Manchester United
+出场数: 357 | 进球: 189 | 助攻: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Denis Law (Scotland) - Manchester United
+出场数: 405 | 进球: 237 | 助攻: 36
+
+30
+00:03:06,800 --> 00:03:13,400
+Sir Bobby Charlton (England) - Manchester United
+出场数: 746 | 进球: 245 | 助攻: 57
+
+31
+00:03:13,400 --> 00:03:20,000
+Wayne Rooney (England) - Manchester United
+出场数: 559 | 进球: 253 | 助攻: 139
+

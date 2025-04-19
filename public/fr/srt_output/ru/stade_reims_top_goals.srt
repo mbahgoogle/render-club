@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Reims Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Boulaye Dia (Senegal) - Stade Reims
+Матчи: 88 | Голы: 28 | Голевые передачи: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Djamel Tlemcani (Algeria) - Stade Reims
+Матчи: 63 | Голы: 28
+
+4
+00:00:15,200 --> 00:00:21,800
+Michel Hidalgo (France) - Stade Reims
+Матчи: 78 | Голы: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+Paul Sauvage (France) - Stade Reims
+Матчи: 121 | Голы: 29
+
+6
+00:00:28,400 --> 00:00:35,000
+André Petitfils (France) - Stade Reims
+Матчи: 127 | Голы: 30
+
+7
+00:00:35,000 --> 00:00:41,600
+Bernard Lech (France) - Stade Reims
+Матчи: 138 | Голы: 31
+
+8
+00:00:41,600 --> 00:00:48,200
+Pierre Bini (France) - Stade Reims
+Матчи: 96 | Голы: 31
+
+9
+00:00:48,200 --> 00:00:54,800
+Ivo Basay (Chile) - Stade Reims
+Матчи: 73 | Голы: 34
+
+10
+00:00:54,800 --> 00:01:01,400
+Michel Leblond (France) - Stade Reims
+Матчи: 325 | Голы: 35
+
+11
+00:01:01,400 --> 00:01:08,000
+Jean-François Charbonnier (France) - Stade Reims
+Матчи: 120 | Голы: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Jean Templin (France) - Stade Reims
+Матчи: 174 | Голы: 38
+
+13
+00:01:14,600 --> 00:01:21,200
+Armand Penverne (France) - Stade Reims
+Матчи: 377 | Голы: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Alain Richard (France) - Stade Reims
+Матчи: 206 | Голы: 40
+
+15
+00:01:27,800 --> 00:01:34,400
+Pierre Flamion (France) - Stade Reims
+Матчи: 102 | Голы: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Delio Onnis (Argentina) - Stade Reims
+Матчи: 76 | Голы: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Francis Méano (France) - Stade Reims
+Матчи: 118 | Голы: 52
+
+18
+00:01:47,600 --> 00:01:54,200
+Santiago Santamaría (Argentina) - Stade Reims
+Матчи: 170 | Голы: 52
+
+19
+00:01:54,200 --> 00:02:00,800
+Francois Calderaro (France) - Stade Reims
+Матчи: 147 | Голы: 58
+
+20
+00:02:00,800 --> 00:02:07,400
+Hassan Akesbi (Morocco) - Stade Reims
+Матчи: 94 | Голы: 60
+
+21
+00:02:07,400 --> 00:02:14,000
+Jean-Pierre Bertolino (France) - Stade Reims
+Матчи: 220 | Голы: 63
+
+22
+00:02:14,000 --> 00:02:20,600
+Pierre Sinibaldi (France) - Stade Reims
+Матчи: 135 | Голы: 72
+
+23
+00:02:20,600 --> 00:02:27,200
+Léon Glovacki (France) - Stade Reims
+Матчи: 220 | Голы: 85
+
+24
+00:02:27,200 --> 00:02:33,800
+Raymond Kopa (France) - Stade Reims
+Матчи: 400 | Голы: 89 | Голевые передачи: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Cédric Fauré (France) - Stade Reims
+Матчи: 212 | Голы: 90 | Голевые передачи: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Jean Vincent (France) - Stade Reims
+Матчи: 319 | Голы: 92
+
+27
+00:02:47,000 --> 00:02:53,600
+Bram Appel (Netherlands) - Stade Reims
+Матчи: 164 | Голы: 109
+
+28
+00:02:53,600 --> 00:03:00,200
+René Bliard (France) - Stade Reims
+Матчи: 182 | Голы: 117 | Голевые передачи: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Roger Piantoni (France) - Stade Reims
+Матчи: 198 | Голы: 132
+
+30
+00:03:06,800 --> 00:03:13,400
+Carlos Bianchi (Argentina) - Stade Reims
+Матчи: 162 | Голы: 139
+
+31
+00:03:13,400 --> 00:03:20,000
+Just Fontaine (France) - Stade Reims
+Матчи: 151 | Голы: 145 | Голевые передачи: 1
+

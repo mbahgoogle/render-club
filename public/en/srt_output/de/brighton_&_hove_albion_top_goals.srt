@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Brighton & Hove Albion Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Gerry Ryan (Ireland) - Brighton & Hove Albion
+Einsätze: 102 | Tore: 18
+
+3
+00:00:08,600 --> 00:00:15,200
+Gordon Smith (Scotland) - Brighton & Hove Albion
+Einsätze: 98 | Tore: 19 | Vorlagen: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Iñigo Calderón (Spain) - Brighton & Hove Albion
+Einsätze: 232 | Tore: 19 | Vorlagen: 14
+
+5
+00:00:21,800 --> 00:00:28,400
+Will Buckley (England) - Brighton & Hove Albion
+Einsätze: 109 | Tore: 19 | Vorlagen: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Sam Baldock (England) - Brighton & Hove Albion
+Einsätze: 94 | Tore: 20 | Vorlagen: 18
+
+7
+00:00:35,000 --> 00:00:41,600
+Alexis Mac Allister (Argentina) - Brighton & Hove Albion
+Einsätze: 112 | Tore: 20 | Vorlagen: 9
+
+8
+00:00:41,600 --> 00:00:48,200
+Jake Robinson (England) - Brighton & Hove Albion
+Einsätze: 144 | Tore: 20 | Vorlagen: 4
+
+9
+00:00:48,200 --> 00:00:54,800
+Kaoru Mitoma (Japan) - Brighton & Hove Albion
+Einsätze: 102 | Tore: 21 | Vorlagen: 15
+
+10
+00:00:54,800 --> 00:01:01,400
+Peter Ward (England) - Brighton & Hove Albion
+Einsätze: 75 | Tore: 22 | Vorlagen: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Dean Cox (England) - Brighton & Hove Albion
+Einsätze: 177 | Tore: 22 | Vorlagen: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Kazenga LuaLua (DR Congo) - Brighton & Hove Albion
+Einsätze: 183 | Tore: 22 | Vorlagen: 25
+
+13
+00:01:14,600 --> 00:01:21,200
+Andy Ritchie (England) - Brighton & Hove Albion
+Einsätze: 93 | Tore: 24
+
+14
+00:01:21,200 --> 00:01:27,800
+Craig Mackail-Smith (Scotland) - Brighton & Hove Albion
+Einsätze: 122 | Tore: 24 | Vorlagen: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Leandro Trossard (Belgium) - Brighton & Hove Albion
+Einsätze: 121 | Tore: 25 | Vorlagen: 13
+
+16
+00:01:34,400 --> 00:01:41,000
+Solly March (England) - Brighton & Hove Albion
+Einsätze: 292 | Tore: 26 | Vorlagen: 29
+
+17
+00:01:41,000 --> 00:01:47,600
+Dean Hammond (England) - Brighton & Hove Albion
+Einsätze: 193 | Tore: 26 | Vorlagen: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Neal Maupay (France) - Brighton & Hove Albion
+Einsätze: 109 | Tore: 27 | Vorlagen: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Anthony Knockaert (France) - Brighton & Hove Albion
+Einsätze: 139 | Tore: 27 | Vorlagen: 25
+
+20
+00:02:00,800 --> 00:02:07,400
+Leonardo Ulloa (Argentina) - Brighton & Hove Albion
+Einsätze: 70 | Tore: 28 | Vorlagen: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+João Pedro (Brazil) - Brighton & Hove Albion
+Einsätze: 67 | Tore: 28 | Vorlagen: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Lewis Dunk (England) - Brighton & Hove Albion
+Einsätze: 481 | Tore: 31 | Vorlagen: 15
+
+23
+00:02:20,600 --> 00:02:27,200
+Pascal Groß (Germany) - Brighton & Hove Albion
+Einsätze: 261 | Tore: 32 | Vorlagen: 52
+
+24
+00:02:27,200 --> 00:02:33,800
+Tomer Hemed (Israel) - Brighton & Hove Albion
+Einsätze: 108 | Tore: 33 | Vorlagen: 12
+
+25
+00:02:33,800 --> 00:02:40,400
+Danny Welbeck (England) - Brighton & Hove Albion
+Einsätze: 154 | Tore: 34 | Vorlagen: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Leon Knight (England) - Brighton & Hove Albion
+Einsätze: 114 | Tore: 34 | Vorlagen: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Michael Robinson (Ireland) - Brighton & Hove Albion
+Einsätze: 120 | Tore: 39 | Vorlagen: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Nicky Forster (England) - Brighton & Hove Albion
+Einsätze: 118 | Tore: 51 | Vorlagen: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Bobby Zamora (England) - Brighton & Hove Albion
+Einsätze: 108 | Tore: 51 | Vorlagen: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Ashley Barnes (England) - Brighton & Hove Albion
+Einsätze: 170 | Tore: 53 | Vorlagen: 22
+
+31
+00:03:13,400 --> 00:03:20,000
+Glenn Murray (England) - Brighton & Hove Albion
+Einsätze: 287 | Tore: 111 | Vorlagen: 20
+

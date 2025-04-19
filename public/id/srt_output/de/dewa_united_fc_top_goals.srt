@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Dewa United FC Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Suhandi (Indonesia) - Dewa United FC
+Einsätze: 23 | Tore: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Anwar Sani (Indonesia) - Dewa United FC
+Einsätze: 21 | Tore: 1 | Vorlagen: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Ade Suhendra (Indonesia) - Dewa United FC
+Einsätze: 2 | Tore: 1 | Vorlagen: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Muhammad Agus Salim (Indonesia) - Dewa United FC
+Einsätze: 5 | Tore: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Sugeng Efendi (Indonesia) - Dewa United FC
+Einsätze: 17 | Tore: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Aidil Bogel (Indonesia) - Dewa United FC
+Einsätze: 8 | Tore: 1 | Vorlagen: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Nasir (Indonesia) - Dewa United FC
+Einsätze: 15 | Tore: 1 | Vorlagen: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Erwin Gutawa (Indonesia) - Dewa United FC
+Einsätze: 8 | Tore: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Rafi Angga (Indonesia) - Dewa United FC
+Einsätze: 9 | Tore: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Ahmad Rusadi (Indonesia) - Dewa United FC
+Einsätze: 9 | Tore: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Rishadi Fauzi (Indonesia) - Dewa United FC
+Einsätze: 24 | Tore: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Gufroni Al Maruf (Indonesia) - Dewa United FC
+Einsätze: 20 | Tore: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Ardan Aras (Indonesia) - Dewa United FC
+Einsätze: 7 | Tore: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Natanael Siringoringo (Indonesia) - Dewa United FC
+Einsätze: 29 | Tore: 2 | Vorlagen: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Lucas Ramos (Brazil) - Dewa United FC
+Einsätze: 32 | Tore: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Alexis Messidoro (Argentina) - Dewa United FC
+Einsätze: 23 | Tore: 2 | Vorlagen: 6
+
+18
+00:01:47,600 --> 00:01:54,200
+OJ Porteria (Philippines) - Dewa United FC
+Einsätze: 10 | Tore: 3
+
+19
+00:01:54,200 --> 00:02:00,800
+Taisei Marukawa (Japan) - Dewa United FC
+Einsätze: 27 | Tore: 3 | Vorlagen: 7
+
+20
+00:02:00,800 --> 00:02:07,400
+Ahmad Nufiandani (Indonesia) - Dewa United FC
+Einsätze: 42 | Tore: 4 | Vorlagen: 11
+
+21
+00:02:07,400 --> 00:02:14,000
+Herman Dzumafo (Indonesia) - Dewa United FC
+Einsätze: 14 | Tore: 4 | Vorlagen: 3
+
+22
+00:02:14,000 --> 00:02:20,600
+Dimitrios Kolovos (Greece) - Dewa United FC
+Einsätze: 28 | Tore: 4 | Vorlagen: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Rangga Muslim (Indonesia) - Dewa United FC
+Einsätze: 67 | Tore: 4 | Vorlagen: 6
+
+24
+00:02:27,200 --> 00:02:33,800
+Ricky Kambuaya (Indonesia) - Dewa United FC
+Einsätze: 49 | Tore: 6 | Vorlagen: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Slamet Budiono (Indonesia) - Dewa United FC
+Einsätze: 12 | Tore: 6
+
+26
+00:02:40,400 --> 00:02:47,000
+Septian Bagaskara (Indonesia) - Dewa United FC
+Einsätze: 46 | Tore: 9 | Vorlagen: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Karim Rossi (Switzerland) - Dewa United FC
+Einsätze: 31 | Tore: 11 | Vorlagen: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+Majed Osman (Lebanon) - Dewa United FC
+Einsätze: 63 | Tore: 11 | Vorlagen: 10
+
+29
+00:03:00,200 --> 00:03:06,800
+Risto Mitrevski (North Macedonia) - Dewa United FC
+Einsätze: 91 | Tore: 12 | Vorlagen: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Egy Maulana Vikri (Indonesia) - Dewa United FC
+Einsätze: 64 | Tore: 20 | Vorlagen: 14
+
+31
+00:03:13,400 --> 00:03:20,000
+Alex (Brazil) - Dewa United FC
+Einsätze: 54 | Tore: 44 | Vorlagen: 9
+

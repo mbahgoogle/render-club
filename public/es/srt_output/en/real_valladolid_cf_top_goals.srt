@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Real Valladolid CF All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Fernando (Spain) - Real Valladolid CF
+Appearances: 64 | Goals: 22 | Assists: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Tini (Spain) - Real Valladolid CF
+Appearances: 156 | Goals: 22
+
+4
+00:00:15,200 --> 00:00:21,800
+Antonio Morro Mora (Spain) - Real Valladolid CF
+Appearances: 37 | Goals: 22
+
+5
+00:00:21,800 --> 00:00:28,400
+José Amavisca (Spain) - Real Valladolid CF
+Appearances: 76 | Goals: 22
+
+6
+00:00:28,400 --> 00:00:35,000
+Julián Vaquero del Caño (Spain) - Real Valladolid CF
+Appearances: 54 | Goals: 23 | Assists: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Pepe Moré (Spain) - Real Valladolid CF
+Appearances: 250 | Goals: 24
+
+8
+00:00:41,600 --> 00:00:48,200
+Gabi Moya (Spain) - Real Valladolid CF
+Appearances: 155 | Goals: 24 | Assists: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Manuel Peña (Spain) - Real Valladolid CF
+Appearances: 157 | Goals: 25
+
+10
+00:00:54,800 --> 00:01:01,400
+Juan Villar (Spain) - Real Valladolid CF
+Appearances: 72 | Goals: 25 | Assists: 10
+
+11
+00:01:01,400 --> 00:01:08,000
+Luis Minguela (Spain) - Real Valladolid CF
+Appearances: 364 | Goals: 25
+
+12
+00:01:08,000 --> 00:01:14,600
+Mami Quevedo (Spain) - Real Valladolid CF
+Appearances: 123 | Goals: 26 | Assists: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Nauzet Alemán (Spain) - Real Valladolid CF
+Appearances: 100 | Goals: 27 | Assists: 14
+
+14
+00:01:21,200 --> 00:01:27,800
+Óscar Plano (Spain) - Real Valladolid CF
+Appearances: 229 | Goals: 27 | Assists: 31
+
+15
+00:01:27,800 --> 00:01:34,400
+Rodilla (Spain) - Real Valladolid CF
+Appearances: 59 | Goals: 28
+
+16
+00:01:34,400 --> 00:01:41,000
+Jorge da Silva (Uruguay) - Real Valladolid CF
+Appearances: 74 | Goals: 29
+
+17
+00:01:41,000 --> 00:01:47,600
+Shon Weissman (Israel) - Real Valladolid CF
+Appearances: 92 | Goals: 30 | Assists: 6
+
+18
+00:01:47,600 --> 00:01:54,200
+Joseba Llorente (Spain) - Real Valladolid CF
+Appearances: 77 | Goals: 34 | Assists: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Manuel Badenes (Spain) - Real Valladolid CF
+Appearances: 59 | Goals: 36 | Assists: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Jaime Mata (Spain) - Real Valladolid CF
+Appearances: 76 | Goals: 41 | Assists: 9
+
+21
+00:02:07,400 --> 00:02:14,000
+Joaquín Murillo (Spain) - Real Valladolid CF
+Appearances: 82 | Goals: 43
+
+22
+00:02:14,000 --> 00:02:20,600
+Delio Morollón (Spain) - Real Valladolid CF
+Appearances: 117 | Goals: 45
+
+23
+00:02:20,600 --> 00:02:27,200
+Goyo Fonseca (Spain) - Real Valladolid CF
+Appearances: 185 | Goals: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Jesus Domingo (Spain) - Real Valladolid CF
+Appearances: 105 | Goals: 49
+
+25
+00:02:33,800 --> 00:02:40,400
+Jorge Alonso (Spain) - Real Valladolid CF
+Appearances: 232 | Goals: 51 | Assists: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Gerardo Coque (Spain) - Real Valladolid CF
+Appearances: 136 | Goals: 55 | Assists: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Alen Peternac (Croatia) - Real Valladolid CF
+Appearances: 166 | Goals: 58 | Assists: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Alberto López Moreno (Spain) - Real Valladolid CF
+Appearances: 267 | Goals: 60 | Assists: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Óscar González (Spain) - Real Valladolid CF
+Appearances: 284 | Goals: 70 | Assists: 39
+
+30
+00:03:06,800 --> 00:03:13,400
+Javi Guerra (Spain) - Real Valladolid CF
+Appearances: 155 | Goals: 73 | Assists: 11
+
+31
+00:03:13,400 --> 00:03:20,000
+Víctor Fernández (Spain) - Real Valladolid CF
+Appearances: 264 | Goals: 74 | Assists: 10
+

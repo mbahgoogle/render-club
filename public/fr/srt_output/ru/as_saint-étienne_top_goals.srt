@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AS Saint-Étienne Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Antoine Cuissard (France) - AS Saint-Étienne
+Матчи: 147 | Голы: 37
+
+3
+00:00:08,600 --> 00:00:15,200
+Alex Dias (Brazil) - AS Saint-Étienne
+Матчи: 91 | Голы: 37 | Голевые передачи: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Jacques Zimako (France) - AS Saint-Étienne
+Матчи: 152 | Голы: 38 | Голевые передачи: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Pascal Feindouno (Guinea) - AS Saint-Étienne
+Матчи: 150 | Голы: 38 | Голевые передачи: 19
+
+6
+00:00:28,400 --> 00:00:35,000
+Philippe Tibeuf (France) - AS Saint-Étienne
+Матчи: 128 | Голы: 39
+
+7
+00:00:35,000 --> 00:00:41,600
+Pierre-Emerick Aubameyang (Gabon) - AS Saint-Étienne
+Матчи: 97 | Голы: 41 | Голевые передачи: 18
+
+8
+00:00:41,600 --> 00:00:48,200
+René Ferrier (France) - AS Saint-Étienne
+Матчи: 283 | Голы: 41
+
+9
+00:00:48,200 --> 00:00:54,800
+René Domingo (France) - AS Saint-Étienne
+Матчи: 493 | Голы: 42
+
+10
+00:00:54,800 --> 00:01:01,400
+Étienne Mendy (France) - AS Saint-Étienne
+Матчи: 158 | Голы: 42 | Голевые передачи: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Bafétimbi Gomis (France) - AS Saint-Étienne
+Матчи: 165 | Голы: 49 | Голевые передачи: 14
+
+12
+00:01:08,000 --> 00:01:14,600
+Jean-François Larios (France) - AS Saint-Étienne
+Матчи: 216 | Голы: 49 | Голевые передачи: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Laurent Roussey (France) - AS Saint-Étienne
+Матчи: 145 | Голы: 50
+
+14
+00:01:21,200 --> 00:01:27,800
+André Guy (France) - AS Saint-Étienne
+Матчи: 77 | Голы: 52
+
+15
+00:01:27,800 --> 00:01:34,400
+Jacques Santini (France) - AS Saint-Étienne
+Матчи: 343 | Голы: 54
+
+16
+00:01:34,400 --> 00:01:41,000
+Kees Rijvers (Netherlands) - AS Saint-Étienne
+Матчи: 225 | Голы: 55
+
+17
+00:01:41,000 --> 00:01:47,600
+Dominique Rocheteau (France) - AS Saint-Étienne
+Матчи: 199 | Голы: 56
+
+18
+00:01:47,600 --> 00:01:54,200
+Ginès Liron (France) - AS Saint-Étienne
+Матчи: 113 | Голы: 58
+
+19
+00:01:54,200 --> 00:02:00,800
+Johnny Rep (Netherlands) - AS Saint-Étienne
+Матчи: 176 | Голы: 60 | Голевые передачи: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Romain Hamouma (France) - AS Saint-Étienne
+Матчи: 321 | Голы: 62 | Голевые передачи: 48
+
+21
+00:02:07,400 --> 00:02:14,000
+René Alpsteg (France) - AS Saint-Étienne
+Матчи: 209 | Голы: 62
+
+22
+00:02:14,000 --> 00:02:20,600
+Jacques Foix (France) - AS Saint-Étienne
+Матчи: 149 | Голы: 63
+
+23
+00:02:20,600 --> 00:02:27,200
+Georges Bereta (France) - AS Saint-Étienne
+Матчи: 358 | Голы: 71
+
+24
+00:02:27,200 --> 00:02:33,800
+Michel Platini (France) - AS Saint-Étienne
+Матчи: 145 | Голы: 83 | Голевые передачи: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Robert Herbin (France) - AS Saint-Étienne
+Матчи: 464 | Голы: 84
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrick Revelli (France) - AS Saint-Étienne
+Матчи: 303 | Голы: 87 | Голевые передачи: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Eugène Njo-Léa (Cameroon) - AS Saint-Étienne
+Матчи: 155 | Голы: 91
+
+28
+00:02:53,600 --> 00:03:00,200
+Jean-Michel Larqué (France) - AS Saint-Étienne
+Матчи: 416 | Голы: 105
+
+29
+00:03:00,200 --> 00:03:06,800
+Rachid Mekhloufi (Algeria) - AS Saint-Étienne
+Матчи: 314 | Голы: 137
+
+30
+00:03:06,800 --> 00:03:13,400
+Salif Keita (Mali) - AS Saint-Étienne
+Матчи: 189 | Голы: 142
+
+31
+00:03:13,400 --> 00:03:20,000
+Hervé Revelli (France) - AS Saint-Étienne
+Матчи: 414 | Голы: 220
+

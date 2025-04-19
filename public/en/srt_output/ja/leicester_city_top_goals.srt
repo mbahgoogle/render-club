@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Leicester City 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Tony Cottee (England) - Leicester City
+出場数: 100 | ゴール: 34
+
+3
+00:00:08,600 --> 00:00:15,200
+Ken Leek (Wales) - Leicester City
+出場数: 95 | ゴール: 34
+
+4
+00:00:15,200 --> 00:00:21,800
+Iain Hume (Canada) - Leicester City
+出場数: 132 | ゴール: 34 | アシスト: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Keith Weller (England) - Leicester City
+出場数: 266 | ゴール: 35
+
+6
+00:00:28,400 --> 00:00:35,000
+Derek Dougan (Northern Ireland) - Leicester City
+出場数: 72 | ゴール: 36
+
+7
+00:00:35,000 --> 00:00:41,600
+Howard Riley (England) - Leicester City
+出場数: 195 | ゴール: 36
+
+8
+00:00:41,600 --> 00:00:48,200
+Steve Lynex (England) - Leicester City
+出場数: 154 | ゴール: 39 | アシスト: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Lloyd Dyer (England) - Leicester City
+出場数: 265 | ゴール: 39 | アシスト: 30
+
+10
+00:00:54,800 --> 00:01:01,400
+Albert Cheesebrough (England) - Leicester City
+出場数: 126 | ゴール: 40 | アシスト: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Paul Dickov (Scotland) - Leicester City
+出場数: 125 | ゴール: 40 | アシスト: 4
+
+12
+00:01:08,000 --> 00:01:14,600
+Emile Heskey (England) - Leicester City
+出場数: 168 | ゴール: 41 | アシスト: 10
+
+13
+00:01:14,600 --> 00:01:21,200
+Arthur Chandler (England) - Leicester City
+出場数: 56 | ゴール: 43
+
+14
+00:01:21,200 --> 00:01:27,800
+Dave Gibson (Scotland) - Leicester City
+出場数: 291 | ゴール: 44 | アシスト: 4
+
+15
+00:01:27,800 --> 00:01:34,400
+Muzzy Izzet (Türkiye) - Leicester City
+出場数: 305 | ゴール: 45 | アシスト: 21
+
+16
+00:01:34,400 --> 00:01:41,000
+Harvey Barnes (England) - Leicester City
+出場数: 187 | ゴール: 45 | アシスト: 32
+
+17
+00:01:41,000 --> 00:01:47,600
+Riyad Mahrez (Algeria) - Leicester City
+出場数: 179 | ゴール: 48 | アシスト: 35
+
+18
+00:01:47,600 --> 00:01:54,200
+Jackie Sinclair (Scotland) - Leicester City
+出場数: 109 | ゴール: 51
+
+19
+00:01:54,200 --> 00:02:00,800
+James Maddison (England) - Leicester City
+出場数: 203 | ゴール: 55 | アシスト: 39
+
+20
+00:02:00,800 --> 00:02:07,400
+David Nugent (England) - Leicester City
+出場数: 180 | ゴール: 59 | アシスト: 28
+
+21
+00:02:07,400 --> 00:02:14,000
+Gary Lineker (England) - Leicester City
+出場数: 114 | ゴール: 61 | アシスト: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Kelechi Iheanacho (Nigeria) - Leicester City
+出場数: 232 | ゴール: 61 | アシスト: 34
+
+23
+00:02:20,600 --> 00:02:27,200
+Andy King (Wales) - Leicester City
+出場数: 379 | ゴール: 62 | アシスト: 24
+
+24
+00:02:27,200 --> 00:02:33,800
+Matty Fryatt (England) - Leicester City
+出場数: 189 | ゴール: 62 | アシスト: 12
+
+25
+00:02:33,800 --> 00:02:40,400
+Alan Smith (England) - Leicester City
+出場数: 171 | ゴール: 65 | アシスト: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Arthur Rowley (England) - Leicester City
+出場数: 86 | ゴール: 69 | アシスト: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Ken Keyworth (England) - Leicester City
+出場数: 188 | ゴール: 70 | アシスト: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Frank Worthington (England) - Leicester City
+出場数: 224 | ゴール: 75
+
+29
+00:03:00,200 --> 00:03:06,800
+Jimmy Walsh (Scotland) - Leicester City
+出場数: 181 | ゴール: 81
+
+30
+00:03:06,800 --> 00:03:13,400
+Mike Stringfellow (England) - Leicester City
+出場数: 317 | ゴール: 88 | アシスト: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Jamie Vardy (England) - Leicester City
+出場数: 493 | ゴール: 198 | アシスト: 69
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PERSIB Bandung सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Herman Abanda (Indonesia) - PERSIB Bandung
+प्रदर्शन: 60 | गोल: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Mohammed Rashid (Palestine) - PERSIB Bandung
+प्रदर्शन: 27 | गोल: 6 | असिस्ट: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Supardi (Indonesia) - PERSIB Bandung
+प्रदर्शन: 174 | गोल: 6 | असिस्ट: 10
+
+5
+00:00:21,800 --> 00:00:28,400
+Marcio Souza (Brazil) - PERSIB Bandung
+प्रदर्शन: 14 | गोल: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Ezra Walian (Indonesia) - PERSIB Bandung
+प्रदर्शन: 88 | गोल: 7 | असिस्ट: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Achmad Jufriyanto (Indonesia) - PERSIB Bandung
+प्रदर्शन: 142 | गोल: 8 | असिस्ट: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Erwin Ramdani (Indonesia) - PERSIB Bandung
+प्रदर्शन: 69 | गोल: 8 | असिस्ट: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Djibril Coulibaly (Mali) - PERSIB Bandung
+प्रदर्शन: 21 | गोल: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Airlangga Sucipto (Indonesia) - PERSIB Bandung
+प्रदर्शन: 58 | गोल: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Nick Kuipers (Netherlands) - PERSIB Bandung
+प्रदर्शन: 152 | गोल: 9 | असिस्ट: 6
+
+12
+00:01:08,000 --> 00:01:14,600
+Raphael Maitimo (Indonesia) - PERSIB Bandung
+प्रदर्शन: 28 | गोल: 9 | असिस्ट: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Vladimir Vujović (Montenegro) - PERSIB Bandung
+प्रदर्शन: 67 | गोल: 10 | असिस्ट: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Ghozali Siregar (Indonesia) - PERSIB Bandung
+प्रदर्शन: 64 | गोल: 11 | असिस्ट: 11
+
+15
+00:01:27,800 --> 00:01:34,400
+Miljan Radovic (Montenegro) - PERSIB Bandung
+प्रदर्शन: 32 | गोल: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Kenji Adachihara (Japan) - PERSIB Bandung
+प्रदर्शन: 32 | गोल: 11
+
+17
+00:01:41,000 --> 00:01:47,600
+Jonathan Bauman (Argentina) - PERSIB Bandung
+प्रदर्शन: 26 | गोल: 12 | असिस्ट: 8
+
+18
+00:01:47,600 --> 00:01:54,200
+Wander Luiz (Brazil) - PERSIB Bandung
+प्रदर्शन: 27 | गोल: 12 | असिस्ट: 4
+
+19
+00:01:54,200 --> 00:02:00,800
+Ferdinan Sinaga (Indonesia) - PERSIB Bandung
+प्रदर्शन: 30 | गोल: 13
+
+20
+00:02:00,800 --> 00:02:07,400
+Makan Konate (Mali) - PERSIB Bandung
+प्रदर्शन: 31 | गोल: 14
+
+21
+00:02:07,400 --> 00:02:14,000
+Muhammad Ridwan (Indonesia) - PERSIB Bandung
+प्रदर्शन: 55 | गोल: 14
+
+22
+00:02:14,000 --> 00:02:20,600
+Marc Klok (Indonesia) - PERSIB Bandung
+प्रदर्शन: 117 | गोल: 14 | असिस्ट: 21
+
+23
+00:02:20,600 --> 00:02:27,200
+Beckham Putra (Indonesia) - PERSIB Bandung
+प्रदर्शन: 129 | गोल: 14 | असिस्ट: 17
+
+24
+00:02:27,200 --> 00:02:33,800
+Tyronne (Spain) - PERSIB Bandung
+प्रदर्शन: 34 | गोल: 15 | असिस्ट: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Frets Butuan (Indonesia) - PERSIB Bandung
+प्रदर्शन: 109 | गोल: 16 | असिस्ट: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Atep Ahmad Rizal (Indonesia) - PERSIB Bandung
+प्रदर्शन: 152 | गोल: 19 | असिस्ट: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Febri Hariyadi (Indonesia) - PERSIB Bandung
+प्रदर्शन: 152 | गोल: 19 | असिस्ट: 20
+
+28
+00:02:53,600 --> 00:03:00,200
+Sergio van Dijk (Netherlands) - PERSIB Bandung
+प्रदर्शन: 38 | गोल: 20 | असिस्ट: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Ciro Alves (Brazil) - PERSIB Bandung
+प्रदर्शन: 103 | गोल: 35 | असिस्ट: 32
+
+30
+00:03:06,800 --> 00:03:13,400
+Ezechiel Ndouasel (Chad) - PERSIB Bandung
+प्रदर्शन: 70 | गोल: 40 | असिस्ट: 20
+
+31
+00:03:13,400 --> 00:03:20,000
+David da Silva (Brazil) - PERSIB Bandung
+प्रदर्शन: 111 | गोल: 73 | असिस्ट: 18
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Barcelona 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Ángel Arocha (Spain) - FC Barcelona
+출전: 92 | 골: 81
+
+3
+00:00:08,600 --> 00:00:15,200
+Sándor Kocsis (Hungary) - FC Barcelona
+출전: 126 | 골: 82 | 도움: 7
+
+4
+00:00:15,200 --> 00:00:21,800
+Xavi (Spain) - FC Barcelona
+출전: 767 | 골: 85 | 도움: 184
+
+5
+00:00:21,800 --> 00:00:28,400
+Julio Salinas (Spain) - FC Barcelona
+출전: 215 | 골: 85 | 도움: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Josep Samitier (Spain) - FC Barcelona
+출전: 103 | 골: 86
+
+7
+00:00:35,000 --> 00:00:41,600
+Ronald Koeman (Netherlands) - FC Barcelona
+출전: 264 | 골: 88 | 도움: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Bernd Schuster (Germany) - FC Barcelona
+출전: 241 | 골: 89 | 도움: 10
+
+9
+00:00:48,200 --> 00:00:54,800
+Justo Tejada (Spain) - FC Barcelona
+출전: 194 | 골: 92 | 도움: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+José Mari Bakero (Spain) - FC Barcelona
+출전: 347 | 골: 94 | 도움: 13
+
+11
+00:01:01,400 --> 00:01:08,000
+Ronaldinho (Brazil) - FC Barcelona
+출전: 207 | 골: 94 | 도움: 69
+
+12
+00:01:08,000 --> 00:01:14,600
+Robert Lewandowski (Poland) - FC Barcelona
+출전: 138 | 골: 97 | 도움: 20
+
+13
+00:01:14,600 --> 00:01:21,200
+Pedro (Spain) - FC Barcelona
+출전: 321 | 골: 99 | 도움: 61
+
+14
+00:01:21,200 --> 00:01:27,800
+Juan Manuel Asensi (Spain) - FC Barcelona
+출전: 396 | 골: 101 | 도움: 9
+
+15
+00:01:27,800 --> 00:01:34,400
+Neymar (Brazil) - FC Barcelona
+출전: 186 | 골: 105 | 도움: 76
+
+16
+00:01:34,400 --> 00:01:41,000
+Evaristo de Macedo (Brazil) - FC Barcelona
+출전: 151 | 골: 105 | 도움: 8
+
+17
+00:01:41,000 --> 00:01:47,600
+Eulogio Martínez (Spain) - FC Barcelona
+출전: 162 | 골: 105 | 도움: 11
+
+18
+00:01:47,600 --> 00:01:54,200
+José Zaldúa (Spain) - FC Barcelona
+출전: 215 | 골: 106
+
+19
+00:01:54,200 --> 00:02:00,800
+Luis Enrique (Spain) - FC Barcelona
+출전: 300 | 골: 108 | 도움: 40
+
+20
+00:02:00,800 --> 00:02:07,400
+Estanislao Basora (Spain) - FC Barcelona
+출전: 296 | 골: 110 | 도움: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Hristo Stoichkov (Bulgaria) - FC Barcelona
+출전: 255 | 골: 117 | 도움: 29
+
+22
+00:02:14,000 --> 00:02:20,600
+Josep Escolà (Spain) - FC Barcelona
+출전: 191 | 골: 120
+
+23
+00:02:20,600 --> 00:02:27,200
+Patrick Kluivert (Netherlands) - FC Barcelona
+출전: 257 | 골: 122 | 도움: 60
+
+24
+00:02:27,200 --> 00:02:33,800
+Carles Rexach (Spain) - FC Barcelona
+출전: 449 | 골: 122 | 도움: 22
+
+25
+00:02:33,800 --> 00:02:40,400
+Mariano Martín (Spain) - FC Barcelona
+출전: 144 | 골: 129
+
+26
+00:02:40,400 --> 00:02:47,000
+Rivaldo (Brazil) - FC Barcelona
+출전: 235 | 골: 130 | 도움: 46
+
+27
+00:02:47,000 --> 00:02:53,600
+Samuel Eto'o (Cameroon) - FC Barcelona
+출전: 199 | 골: 130 | 도움: 34
+
+28
+00:02:53,600 --> 00:03:00,200
+László Kubala (Hungary) - FC Barcelona
+출전: 254 | 골: 193 | 도움: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Luis Suárez (Uruguay) - FC Barcelona
+출전: 283 | 골: 195 | 도움: 113
+
+30
+00:03:06,800 --> 00:03:13,400
+César Rodríguez (Spain) - FC Barcelona
+출전: 344 | 골: 226 | 도움: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Lionel Messi (Argentina) - FC Barcelona
+출전: 778 | 골: 672 | 도움: 303
+

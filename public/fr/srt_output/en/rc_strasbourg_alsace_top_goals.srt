@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RC Strasbourg Alsace All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Teddy Bertin (France) - RC Strasbourg Alsace
+Appearances: 180 | Goals: 29 | Assists: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Antoine Hertrich (France) - RC Strasbourg Alsace
+Appearances: 109 | Goals: 30
+
+4
+00:00:15,200 --> 00:00:21,800
+Vicky Peretz (Israel) - RC Strasbourg Alsace
+Appearances: 81 | Goals: 32 | Assists: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Dimitri Liénard (France) - RC Strasbourg Alsace
+Appearances: 328 | Goals: 33 | Assists: 44
+
+6
+00:00:28,400 --> 00:00:35,000
+Gérald Baticle (France) - RC Strasbourg Alsace
+Appearances: 137 | Goals: 34 | Assists: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Antoine Groschulski (Poland) - RC Strasbourg Alsace
+Appearances: 60 | Goals: 34
+
+8
+00:00:41,600 --> 00:00:48,200
+Jérémy Blayac (France) - RC Strasbourg Alsace
+Appearances: 110 | Goals: 35 | Assists: 8
+
+9
+00:00:48,200 --> 00:00:54,800
+Robert Szczepaniak (France) - RC Strasbourg Alsace
+Appearances: 156 | Goals: 39
+
+10
+00:00:54,800 --> 00:01:01,400
+Oscar Heisserer (France) - RC Strasbourg Alsace
+Appearances: 138 | Goals: 40 | Assists: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Habib Diallo (Senegal) - RC Strasbourg Alsace
+Appearances: 103 | Goals: 41 | Assists: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Roland Wagner (France) - RC Strasbourg Alsace
+Appearances: 183 | Goals: 43 | Assists: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Kévin Gameiro (France) - RC Strasbourg Alsace
+Appearances: 170 | Goals: 43 | Assists: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Marc Keller (France) - RC Strasbourg Alsace
+Appearances: 180 | Goals: 44 | Assists: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Marc Molitor (France) - RC Strasbourg Alsace
+Appearances: 97 | Goals: 46 | Assists: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Danijel Ljuboja (Serbia) - RC Strasbourg Alsace
+Appearances: 138 | Goals: 46 | Assists: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+David Zitelli (France) - RC Strasbourg Alsace
+Appearances: 157 | Goals: 48 | Assists: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Fritz Keller (France) - RC Strasbourg Alsace
+Appearances: 122 | Goals: 49
+
+19
+00:01:54,200 --> 00:02:00,800
+Peter Reichert (Germany) - RC Strasbourg Alsace
+Appearances: 112 | Goals: 50 | Assists: 5
+
+20
+00:02:00,800 --> 00:02:07,400
+Ludovic Ajorque (France) - RC Strasbourg Alsace
+Appearances: 151 | Goals: 51 | Assists: 19
+
+21
+00:02:07,400 --> 00:02:14,000
+Frank Leboeuf (France) - RC Strasbourg Alsace
+Appearances: 223 | Goals: 55 | Assists: 9
+
+22
+00:02:14,000 --> 00:02:20,600
+Edmond Haan (France) - RC Strasbourg Alsace
+Appearances: 258 | Goals: 59
+
+23
+00:02:20,600 --> 00:02:27,200
+José Farias (Argentina) - RC Strasbourg Alsace
+Appearances: 163 | Goals: 61
+
+24
+00:02:27,200 --> 00:02:33,800
+Philippe Piat (France) - RC Strasbourg Alsace
+Appearances: 161 | Goals: 61
+
+25
+00:02:33,800 --> 00:02:40,400
+Ernst Stojaspal (Austria) - RC Strasbourg Alsace
+Appearances: 110 | Goals: 64
+
+26
+00:02:40,400 --> 00:02:47,000
+Casimir Koza (France) - RC Strasbourg Alsace
+Appearances: 136 | Goals: 74
+
+27
+00:02:47,000 --> 00:02:53,600
+Francis Piasecki (France) - RC Strasbourg Alsace
+Appearances: 339 | Goals: 78 | Assists: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Gérard Hausser (France) - RC Strasbourg Alsace
+Appearances: 282 | Goals: 79
+
+29
+00:03:00,200 --> 00:03:06,800
+Didier Monczuk (France) - RC Strasbourg Alsace
+Appearances: 117 | Goals: 85
+
+30
+00:03:06,800 --> 00:03:13,400
+Albert Gemmrich (France) - RC Strasbourg Alsace
+Appearances: 232 | Goals: 91
+
+31
+00:03:13,400 --> 00:03:20,000
+Oskar Rohr (Germany) - RC Strasbourg Alsace
+Appearances: 134 | Goals: 120
+

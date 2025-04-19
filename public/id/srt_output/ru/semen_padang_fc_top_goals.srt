@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Semen Padang FC Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Victor Juffo (Brazil) - Semen Padang FC
+Матчи: 3 | Голы: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Dedy Gusmawan (Indonesia) - Semen Padang FC
+Матчи: 39 | Голы: 2 | Голевые передачи: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Mariando Uropmabin (Indonesia) - Semen Padang FC
+Матчи: 13 | Голы: 2 | Голевые передачи: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Muhammad Rifqi (Indonesia) - Semen Padang FC
+Матчи: 30 | Голы: 2 | Голевые передачи: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Riko Simanjuntak (Indonesia) - Semen Padang FC
+Матчи: 44 | Голы: 2 | Голевые передачи: 6
+
+7
+00:00:35,000 --> 00:00:41,600
+Tin Martic (Croatia) - Semen Padang FC
+Матчи: 25 | Голы: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Serdhy Ephyfano (Indonesia) - Semen Padang FC
+Матчи: 8 | Голы: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Firman Juliansyah (Indonesia) - Semen Padang FC
+Матчи: 47 | Голы: 3 | Голевые передачи: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Hendra Bayauw (Indonesia) - Semen Padang FC
+Матчи: 30 | Голы: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Gala Pagamo (Indonesia) - Semen Padang FC
+Матчи: 16 | Голы: 3 | Голевые передачи: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Agung Prasetyo (Indonesia) - Semen Padang FC
+Матчи: 53 | Голы: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Flávio Beck Junior (Brazil) - Semen Padang FC
+Матчи: 17 | Голы: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Cornelius Stewart (St. Vincent & Grenadinen) - Semen Padang FC
+Матчи: 27 | Голы: 4 | Голевые передачи: 4
+
+15
+00:01:27,800 --> 00:01:34,400
+Silvio Escobar (Indonesia) - Semen Padang FC
+Матчи: 6 | Голы: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Vivi Asrizal (Indonesia) - Semen Padang FC
+Матчи: 29 | Голы: 5 | Голевые передачи: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Tambun Naibaho (Indonesia) - Semen Padang FC
+Матчи: 27 | Голы: 5
+
+18
+00:01:47,600 --> 00:01:54,200
+Bruno Gomes (Brazil) - Semen Padang FC
+Матчи: 10 | Голы: 6 | Голевые передачи: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Airlangga Sucipto (Indonesia) - Semen Padang FC
+Матчи: 25 | Голы: 6
+
+20
+00:02:00,800 --> 00:02:07,400
+Rosad Setiawan (Indonesia) - Semen Padang FC
+Матчи: 67 | Голы: 7 | Голевые передачи: 6
+
+21
+00:02:07,400 --> 00:02:14,000
+Karl Max Barthélémy (Chad) - Semen Padang FC
+Матчи: 25 | Голы: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Vanderlei (Brazil) - Semen Padang FC
+Матчи: 16 | Голы: 8 | Голевые передачи: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Osas Saha (Indonesia) - Semen Padang FC
+Матчи: 15 | Голы: 8
+
+24
+00:02:27,200 --> 00:02:33,800
+Ahmad Ihwan (Indonesia) - Semen Padang FC
+Матчи: 18 | Голы: 8 | Голевые передачи: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Edward Wilson (Liberia) - Semen Padang FC
+Матчи: 8 | Голы: 10 | Голевые передачи: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Marcel Sacramento (Brazil) - Semen Padang FC
+Матчи: 36 | Голы: 10 | Голевые передачи: 11
+
+27
+00:02:47,000 --> 00:02:53,600
+Esteban Vizcarra (Indonesia) - Semen Padang FC
+Матчи: 32 | Голы: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Irsyad Maulana (Indonesia) - Semen Padang FC
+Матчи: 72 | Голы: 14 | Голевые передачи: 8
+
+29
+00:03:00,200 --> 00:03:06,800
+Nur Iskandar (Indonesia) - Semen Padang FC
+Матчи: 42 | Голы: 15 | Голевые передачи: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Kenneth Ngwoke (Nigeria) - Semen Padang FC
+Матчи: 28 | Голы: 17
+
+31
+00:03:13,400 --> 00:03:20,000
+Vendry Mofu (Indonesia) - Semen Padang FC
+Матчи: 71 | Голы: 19 | Голевые передачи: 4
+

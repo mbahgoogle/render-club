@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Liverpool FC Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Ian Callaghan (England) - Liverpool FC
+Partidos: 846 | Goles: 67 | Asistencias: 87
+
+3
+00:00:08,600 --> 00:00:15,200
+Daniel Sturridge (England) - Liverpool FC
+Partidos: 160 | Goles: 68 | Asistencias: 20
+
+4
+00:00:15,200 --> 00:00:21,800
+Dick Forshaw (England) - Liverpool FC
+Partidos: 136 | Goles: 69 | Asistencias: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Harry Chambers (England) - Liverpool FC
+Partidos: 171 | Goles: 69
+
+6
+00:00:28,400 --> 00:00:35,000
+Ray Kennedy (England) - Liverpool FC
+Partidos: 390 | Goles: 71 | Asistencias: 58
+
+7
+00:00:35,000 --> 00:00:41,600
+Dirk Kuyt (Netherlands) - Liverpool FC
+Partidos: 285 | Goles: 71 | Asistencias: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+Jimmy Melia (England) - Liverpool FC
+Partidos: 260 | Goles: 73 | Asistencias: 28
+
+9
+00:00:48,200 --> 00:00:54,800
+Ronnie Whelan (Ireland) - Liverpool FC
+Partidos: 484 | Goles: 73 | Asistencias: 50
+
+10
+00:00:54,800 --> 00:01:01,400
+Steve Heighway (Ireland) - Liverpool FC
+Partidos: 471 | Goles: 76 | Asistencias: 67
+
+11
+00:01:01,400 --> 00:01:08,000
+Albert Stubbins (England) - Liverpool FC
+Partidos: 169 | Goles: 76 | Asistencias: 13
+
+12
+00:01:08,000 --> 00:01:14,600
+David Johnson (England) - Liverpool FC
+Partidos: 213 | Goles: 78 | Asistencias: 31
+
+13
+00:01:14,600 --> 00:01:21,200
+Fernando Torres (Spain) - Liverpool FC
+Partidos: 142 | Goles: 81 | Asistencias: 19
+
+14
+00:01:21,200 --> 00:01:27,800
+Terry McDermott (England) - Liverpool FC
+Partidos: 329 | Goles: 81 | Asistencias: 59
+
+15
+00:01:27,800 --> 00:01:34,400
+Luis Suárez (Uruguay) - Liverpool FC
+Partidos: 133 | Goles: 82 | Asistencias: 31
+
+16
+00:01:34,400 --> 00:01:41,000
+Jack Balmer (England) - Liverpool FC
+Partidos: 268 | Goles: 94 | Asistencias: 12
+
+17
+00:01:41,000 --> 00:01:47,600
+John Toshack (Wales) - Liverpool FC
+Partidos: 247 | Goles: 96 | Asistencias: 54
+
+18
+00:01:47,600 --> 00:01:54,200
+Kevin Keegan (England) - Liverpool FC
+Partidos: 321 | Goles: 100 | Asistencias: 88
+
+19
+00:01:54,200 --> 00:02:00,800
+John Barnes (England) - Liverpool FC
+Partidos: 406 | Goles: 107 | Asistencias: 91
+
+20
+00:02:00,800 --> 00:02:07,400
+Roberto Firmino (Brazil) - Liverpool FC
+Partidos: 362 | Goles: 111 | Asistencias: 75
+
+21
+00:02:07,400 --> 00:02:14,000
+Ian St. John (Scotland) - Liverpool FC
+Partidos: 421 | Goles: 117 | Asistencias: 73
+
+22
+00:02:14,000 --> 00:02:20,600
+Sadio Mané (Senegal) - Liverpool FC
+Partidos: 269 | Goles: 120 | Asistencias: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Michael Owen (England) - Liverpool FC
+Partidos: 297 | Goles: 158 | Asistencias: 51
+
+24
+00:02:27,200 --> 00:02:33,800
+Kenny Dalglish (Scotland) - Liverpool FC
+Partidos: 511 | Goles: 170 | Asistencias: 186
+
+25
+00:02:33,800 --> 00:02:40,400
+Gordon Hodgson (England) - Liverpool FC
+Partidos: 266 | Goles: 174 | Asistencias: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Robbie Fowler (England) - Liverpool FC
+Partidos: 369 | Goles: 183 | Asistencias: 50
+
+27
+00:02:47,000 --> 00:02:53,600
+Steven Gerrard (England) - Liverpool FC
+Partidos: 710 | Goles: 186 | Asistencias: 155
+
+28
+00:02:53,600 --> 00:03:00,200
+Billy Liddell (Scotland) - Liverpool FC
+Partidos: 492 | Goles: 203 | Asistencias: 76
+
+29
+00:03:00,200 --> 00:03:06,800
+Mohamed Salah (Egypt) - Liverpool FC
+Partidos: 393 | Goles: 243 | Asistencias: 110
+
+30
+00:03:06,800 --> 00:03:13,400
+Roger Hunt (England) - Liverpool FC
+Partidos: 466 | Goles: 274 | Asistencias: 41
+
+31
+00:03:13,400 --> 00:03:20,000
+Ian Rush (Wales) - Liverpool FC
+Partidos: 653 | Goles: 339 | Asistencias: 110
+

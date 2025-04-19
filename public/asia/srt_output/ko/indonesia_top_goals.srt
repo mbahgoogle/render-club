@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSSI 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Irfan Jaya (Indonesia) - PSSI
+출전: 22 | 골: 6 | 도움: no data
+
+3
+00:00:08,600 --> 00:00:15,200
+Ronny Pattinasarany (Indonesia) - PSSI
+출전: 31 | 골: 6 | 도움: no data
+
+4
+00:00:15,200 --> 00:00:21,800
+Robby Darwis (Indonesia) - PSSI
+출전: 53 | 골: 6 | 도움: no data
+
+5
+00:00:21,800 --> 00:00:28,400
+Zulham Zamrun (Indonesia) - PSSI
+출전: 31 | 골: 7 | 도움: no data
+
+6
+00:00:28,400 --> 00:00:35,000
+Aji Santoso (Indonesia) - PSSI
+출전: 41 | 골: 7 | 도움: no data
+
+7
+00:00:35,000 --> 00:00:41,600
+Egy Maulana Vikri (Indonesia) - PSSI
+출전: 27 | 골: 8 | 도움: no data
+
+8
+00:00:41,600 --> 00:00:48,200
+Ansyari Lubis (Indonesia) - PSSI
+출전: 30 | 골: 8 | 도움: no data
+
+9
+00:00:48,200 --> 00:00:54,800
+Elie Aiboy (Indonesia) - PSSI
+출전: 48 | 골: 8 | 도움: no data
+
+10
+00:00:54,800 --> 00:01:01,400
+Witan Sulaeman (Indonesia) - PSSI
+출전: 46 | 골: 9 | 도움: no data
+
+11
+00:01:01,400 --> 00:01:08,000
+Alberto Gonçalves da Costa (Indonesia) - PSSI
+출전: 12 | 골: 10 | 도움: no data
+
+12
+00:01:08,000 --> 00:01:14,600
+Andi Anwar Ramang (Indonesia) - PSSI
+출전: 18 | 골: 10 | 도움: no data
+
+13
+00:01:14,600 --> 00:01:21,200
+Irfan Bachdim (Indonesia) - PSSI
+출전: 40 | 골: 11 | 도움: no data
+
+14
+00:01:21,200 --> 00:01:27,800
+Evan Dimas (Indonesia) - PSSI
+출전: 43 | 골: 11 | 도움: no data
+
+15
+00:01:27,800 --> 00:01:34,400
+Bima Sakti (Indonesia) - PSSI
+출전: 58 | 골: 12 | 도움: no data
+
+16
+00:01:34,400 --> 00:01:41,000
+Ilham Jaya Kesuma (Indonesia) - PSSI
+출전: 18 | 골: 13 | 도움: no data
+
+17
+00:01:41,000 --> 00:01:47,600
+Cristian Gérard Alfaro Gonzáles (Indonesia) - PSSI
+출전: 32 | 골: 13 | 도움: no data
+
+18
+00:01:47,600 --> 00:01:54,200
+Fakhri Husaini (Indonesia) - PSSI
+출전: 42 | 골: 13 | 도움: no data
+
+19
+00:01:54,200 --> 00:02:00,800
+Uston Nawawi (Indonesia) - PSSI
+출전: 47 | 골: 13 | 도움: no data
+
+20
+00:02:00,800 --> 00:02:07,400
+Boaz Solossa (Indonesia) - PSSI
+출전: 48 | 골: 14 | 도움: no data
+
+21
+00:02:07,400 --> 00:02:14,000
+Widodo Cahyono Putro (Indonesia) - PSSI
+출전: 55 | 골: 14 | 도움: no data
+
+22
+00:02:14,000 --> 00:02:20,600
+Budi Sudarsono (Indonesia) - PSSI
+출전: 46 | 골: 16 | 도움: no data
+
+23
+00:02:20,600 --> 00:02:27,200
+Rochy Putiray (Indonesia) - PSSI
+출전: 41 | 골: 17 | 도움: no data
+
+24
+00:02:27,200 --> 00:02:33,800
+Jacob Sihasale (Indonesia) - PSSI
+출전: 70 | 골: 23 | 도움: no data
+
+25
+00:02:33,800 --> 00:02:40,400
+Risdianto (Indonesia) - PSSI
+출전: 59 | 골: 27 | 도움: no data
+
+26
+00:02:40,400 --> 00:02:47,000
+Kainun Waskito (Indonesia) - PSSI
+출전: 80 | 골: 31 | 도움: no data
+
+27
+00:02:47,000 --> 00:02:53,600
+Kurniawan Dwi Yulianto (Indonesia) - PSSI
+출전: 59 | 골: 33 | 도움: no data
+
+28
+00:02:53,600 --> 00:03:00,200
+Soetjipto Soentoro (Indonesia) - PSSI
+출전: 61 | 골: 37 | 도움: no data
+
+29
+00:03:00,200 --> 00:03:06,800
+Bambang Pamungkas (Indonesia) - PSSI
+출전: 87 | 골: 38 | 도움: no data
+
+30
+00:03:06,800 --> 00:03:13,400
+Iswadi Idris (Indonesia) - PSSI
+출전: 97 | 골: 55 | 도움: no data
+
+31
+00:03:13,400 --> 00:03:20,000
+Abdul Sulaiman Kadir (Indonesia) - PSSI
+출전: 111 | 골: 70 | 도움: no data
+

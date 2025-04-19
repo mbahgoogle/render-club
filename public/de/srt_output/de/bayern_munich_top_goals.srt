@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bayern Munich Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Michael Ballack (Germany) - Bayern Munich
+Einsätze: 157 | Tore: 62 | Vorlagen: 40
+
+3
+00:00:08,600 --> 00:00:15,200
+Michael Rummenigge (Germany) - Bayern Munich
+Einsätze: 205 | Tore: 66 | Vorlagen: 23
+
+4
+00:00:15,200 --> 00:00:21,800
+Bastian Schweinsteiger (Germany) - Bayern Munich
+Einsätze: 500 | Tore: 68 | Vorlagen: 98
+
+5
+00:00:21,800 --> 00:00:28,400
+Kingsley Coman (France) - Bayern Munich
+Einsätze: 328 | Tore: 69 | Vorlagen: 65
+
+6
+00:00:28,400 --> 00:00:35,000
+Alexander Zickler (Germany) - Bayern Munich
+Einsätze: 308 | Tore: 70 | Vorlagen: 29
+
+7
+00:00:35,000 --> 00:00:41,600
+Peter Grosser (Germany) - Bayern Munich
+Einsätze: 149 | Tore: 73
+
+8
+00:00:41,600 --> 00:00:48,200
+Klaus Augenthaler (Germany) - Bayern Munich
+Einsätze: 551 | Tore: 74 | Vorlagen: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Franz Beckenbauer (Germany) - Bayern Munich
+Einsätze: 584 | Tore: 75 | Vorlagen: 75
+
+10
+00:00:54,800 --> 00:01:01,400
+Harry Kane (England) - Bayern Munich
+Einsätze: 83 | Tore: 77 | Vorlagen: 24
+
+11
+00:01:01,400 --> 00:01:08,000
+Carsten Jancker (Germany) - Bayern Munich
+Einsätze: 225 | Tore: 79 | Vorlagen: 40
+
+12
+00:01:08,000 --> 00:01:14,600
+Serge Gnabry (Germany) - Bayern Munich
+Einsätze: 271 | Tore: 91 | Vorlagen: 51
+
+13
+00:01:14,600 --> 00:01:21,200
+Franz Roth (Germany) - Bayern Munich
+Einsätze: 440 | Tore: 95 | Vorlagen: 32
+
+14
+00:01:21,200 --> 00:01:27,800
+Lothar Matthäus (Germany) - Bayern Munich
+Einsätze: 410 | Tore: 100 | Vorlagen: 51
+
+15
+00:01:27,800 --> 00:01:34,400
+Roy Makaay (Netherlands) - Bayern Munich
+Einsätze: 183 | Tore: 103 | Vorlagen: 35
+
+16
+00:01:34,400 --> 00:01:41,000
+Paul Breitner (Germany) - Bayern Munich
+Einsätze: 352 | Tore: 110 | Vorlagen: 41
+
+17
+00:01:41,000 --> 00:01:47,600
+Uli Hoeneß (Germany) - Bayern Munich
+Einsätze: 341 | Tore: 112 | Vorlagen: 61
+
+18
+00:01:47,600 --> 00:01:54,200
+Mario Gómez (Germany) - Bayern Munich
+Einsätze: 174 | Tore: 113 | Vorlagen: 26
+
+19
+00:01:54,200 --> 00:02:00,800
+Mehmet Scholl (Germany) - Bayern Munich
+Einsätze: 469 | Tore: 117 | Vorlagen: 106
+
+20
+00:02:00,800 --> 00:02:07,400
+Franck Ribéry (France) - Bayern Munich
+Einsätze: 425 | Tore: 124 | Vorlagen: 182
+
+21
+00:02:07,400 --> 00:02:14,000
+Claudio Pizarro (Peru) - Bayern Munich
+Einsätze: 327 | Tore: 125 | Vorlagen: 53
+
+22
+00:02:14,000 --> 00:02:20,600
+Giovane Élber (Brazil) - Bayern Munich
+Einsätze: 266 | Tore: 139 | Vorlagen: 57
+
+23
+00:02:20,600 --> 00:02:27,200
+Dieter Brenninger (Germany) - Bayern Munich
+Einsätze: 360 | Tore: 141 | Vorlagen: 46
+
+24
+00:02:27,200 --> 00:02:33,800
+Arjen Robben (Netherlands) - Bayern Munich
+Einsätze: 309 | Tore: 144 | Vorlagen: 100
+
+25
+00:02:33,800 --> 00:02:40,400
+Dieter Hoeneß (Germany) - Bayern Munich
+Einsätze: 302 | Tore: 145 | Vorlagen: 14
+
+26
+00:02:40,400 --> 00:02:47,000
+Roland Wohlfarth (Germany) - Bayern Munich
+Einsätze: 332 | Tore: 156 | Vorlagen: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Karl-Heinz Rummenigge (Germany) - Bayern Munich
+Einsätze: 422 | Tore: 217 | Vorlagen: 69
+
+28
+00:02:53,600 --> 00:03:00,200
+Rainer Ohlhauser (Germany) - Bayern Munich
+Einsätze: 360 | Tore: 229 | Vorlagen: 24
+
+29
+00:03:00,200 --> 00:03:06,800
+Thomas Müller (Germany) - Bayern Munich
+Einsätze: 742 | Tore: 247 | Vorlagen: 273
+
+30
+00:03:06,800 --> 00:03:13,400
+Robert Lewandowski (Poland) - Bayern Munich
+Einsätze: 375 | Tore: 344 | Vorlagen: 73
+
+31
+00:03:13,400 --> 00:03:20,000
+Gerd Müller (Germany) - Bayern Munich
+Einsätze: 613 | Tore: 570 | Vorlagen: 103
+

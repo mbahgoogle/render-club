@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bologna FC 1909 All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Loris Pradella (Italy) - Bologna FC 1909
+Appearances: 125 | Goals: 37 | Assists: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Kennet Andersson (Sweden) - Bologna FC 1909
+Appearances: 140 | Goals: 38 | Assists: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Carlo Nervo (Italy) - Bologna FC 1909
+Appearances: 411 | Goals: 41 | Assists: 22
+
+5
+00:00:21,800 --> 00:00:28,400
+Raffaele Sansone (Italy) - Bologna FC 1909
+Appearances: 314 | Goals: 44 | Assists: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Antonio Busini (Italy) - Bologna FC 1909
+Appearances: 97 | Goals: 45 | Assists: 0
+
+7
+00:00:35,000 --> 00:00:41,600
+Massimo Marazzina (Italy) - Bologna FC 1909
+Appearances: 126 | Goals: 48 | Assists: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Alberto Pozzi (Italy) - Bologna FC 1909
+Appearances: 188 | Goals: 48 | Assists: 0
+
+9
+00:00:48,200 --> 00:00:54,800
+István Mike (Hungary) - Bologna FC 1909
+Appearances: 116 | Goals: 51 | Assists: 0
+
+10
+00:00:54,800 --> 00:01:01,400
+Bernardo Perin (Italy) - Bologna FC 1909
+Appearances: 174 | Goals: 52 | Assists: 0
+
+11
+00:01:01,400 --> 00:01:08,000
+Lorenzo Marronaro (Italy) - Bologna FC 1909
+Appearances: 219 | Goals: 52 | Assists: 4
+
+12
+00:01:08,000 --> 00:01:14,600
+Giacomo Bulgarelli (Italy) - Bologna FC 1909
+Appearances: 470 | Goals: 53 | Assists: 7
+
+13
+00:01:14,600 --> 00:01:21,200
+Helmut Haller (Germany) - Bologna FC 1909
+Appearances: 208 | Goals: 57 | Assists: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Francesco Fedullo (Italy) - Bologna FC 1909
+Appearances: 275 | Goals: 60 | Assists: 0
+
+15
+00:01:27,800 --> 00:01:34,400
+Marco Di Vaio (Italy) - Bologna FC 1909
+Appearances: 148 | Goals: 66 | Assists: 15
+
+16
+00:01:34,400 --> 00:01:41,000
+Riccardo Orsolini (Italy) - Bologna FC 1909
+Appearances: 245 | Goals: 66 | Assists: 31
+
+17
+00:01:41,000 --> 00:01:47,600
+Amedeo Biavati (Italy) - Bologna FC 1909
+Appearances: 266 | Goals: 68 | Assists: 0
+
+18
+00:01:47,600 --> 00:01:54,200
+Marino Perani (Italy) - Bologna FC 1909
+Appearances: 397 | Goals: 76 | Assists: 4
+
+19
+00:01:54,200 --> 00:02:00,800
+Claudio Bellucci (Italy) - Bologna FC 1909
+Appearances: 209 | Goals: 77 | Assists: 17
+
+20
+00:02:00,800 --> 00:02:07,400
+Gino Cappello (Italy) - Bologna FC 1909
+Appearances: 245 | Goals: 80 | Assists: 5
+
+21
+00:02:07,400 --> 00:02:14,000
+Giuseppe Signori (Italy) - Bologna FC 1909
+Appearances: 177 | Goals: 84 | Assists: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Cesarino Cervellati (Italy) - Bologna FC 1909
+Appearances: 317 | Goals: 88 | Assists: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Ettore Puricelli (Italy) - Bologna FC 1909
+Appearances: 145 | Goals: 92 | Assists: 0
+
+24
+00:02:27,200 --> 00:02:33,800
+Giuseppe Della Valle (Italy) - Bologna FC 1909
+Appearances: 193 | Goals: 95 | Assists: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Bruno Maini (Italy) - Bologna FC 1909
+Appearances: 317 | Goals: 102 | Assists: 0
+
+26
+00:02:40,400 --> 00:02:47,000
+Harald Nielsen (Denmark) - Bologna FC 1909
+Appearances: 179 | Goals: 103 | Assists: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Gino Pivatelli (Italy) - Bologna FC 1909
+Appearances: 205 | Goals: 108 | Assists: 0
+
+28
+00:02:53,600 --> 00:03:00,200
+Giuseppe Savoldi (Italy) - Bologna FC 1909
+Appearances: 299 | Goals: 130 | Assists: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Ezio Pascutti (Italy) - Bologna FC 1909
+Appearances: 331 | Goals: 144 | Assists: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Carlo Reguzzoni (Italy) - Bologna FC 1909
+Appearances: 412 | Goals: 159 | Assists: 0
+
+31
+00:03:13,400 --> 00:03:20,000
+Angelo Schiavio (Italy) - Bologna FC 1909
+Appearances: 361 | Goals: 252 | Assists: 1
+

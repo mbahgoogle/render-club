@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bayer 04 Leverkusen Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Dieter Herzog (Germany) - Bayer 04 Leverkusen
+Penampilan: 212 | Gol: 36 | Asis: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Andriy Voronin (Ukraine) - Bayer 04 Leverkusen
+Penampilan: 119 | Gol: 37 | Asis: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Matthias Brücken (Germany) - Bayer 04 Leverkusen
+Penampilan: 97 | Gol: 38
+
+5
+00:00:21,800 --> 00:00:28,400
+Patrick Helmes (Germany) - Bayer 04 Leverkusen
+Penampilan: 72 | Gol: 38 | Asis: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Javier Hernández Balcázar (Mexico) - Bayer 04 Leverkusen
+Penampilan: 76 | Gol: 39 | Asis: 9
+
+7
+00:00:35,000 --> 00:00:41,600
+Leon Bailey (Jamaica) - Bayer 04 Leverkusen
+Penampilan: 156 | Gol: 39 | Asis: 23
+
+8
+00:00:41,600 --> 00:00:48,200
+Peter Szech (Germany) - Bayer 04 Leverkusen
+Penampilan: 138 | Gol: 39
+
+9
+00:00:48,200 --> 00:00:54,800
+Julian Brandt (Germany) - Bayer 04 Leverkusen
+Penampilan: 215 | Gol: 42 | Asis: 52
+
+10
+00:00:54,800 --> 00:01:01,400
+Michael Ballack (Germany) - Bayer 04 Leverkusen
+Penampilan: 155 | Gol: 42 | Asis: 28
+
+11
+00:01:01,400 --> 00:01:08,000
+Kai Havertz (Germany) - Bayer 04 Leverkusen
+Penampilan: 150 | Gol: 46 | Asis: 31
+
+12
+00:01:08,000 --> 00:01:14,600
+Hans-Otto Peters (Germany) - Bayer 04 Leverkusen
+Penampilan: 95 | Gol: 48
+
+13
+00:01:14,600 --> 00:01:21,200
+Simon Rolfes (Germany) - Bayer 04 Leverkusen
+Penampilan: 377 | Gol: 49 | Asis: 36
+
+14
+00:01:21,200 --> 00:01:27,800
+Moussa Diaby (France) - Bayer 04 Leverkusen
+Penampilan: 172 | Gol: 49 | Asis: 46
+
+15
+00:01:27,800 --> 00:01:34,400
+Kevin Volland (Germany) - Bayer 04 Leverkusen
+Penampilan: 148 | Gol: 50 | Asis: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Arne Økland (Norway) - Bayer 04 Leverkusen
+Penampilan: 114 | Gol: 51 | Asis: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Bernd Schneider (Germany) - Bayer 04 Leverkusen
+Penampilan: 366 | Gol: 52 | Asis: 81
+
+18
+00:01:47,600 --> 00:01:54,200
+Andreas Thom (Germany) - Bayer 04 Leverkusen
+Penampilan: 204 | Gol: 55 | Asis: 49
+
+19
+00:01:54,200 --> 00:02:00,800
+Oliver Neuville (Germany) - Bayer 04 Leverkusen
+Penampilan: 227 | Gol: 56 | Asis: 41
+
+20
+00:02:00,800 --> 00:02:07,400
+Florian Wirtz (Germany) - Bayer 04 Leverkusen
+Penampilan: 191 | Gol: 56 | Asis: 63
+
+21
+00:02:07,400 --> 00:02:14,000
+Karim Bellarabi (Germany) - Bayer 04 Leverkusen
+Penampilan: 290 | Gol: 57 | Asis: 63
+
+22
+00:02:14,000 --> 00:02:20,600
+Lucas Alario (Argentina) - Bayer 04 Leverkusen
+Penampilan: 164 | Gol: 58 | Asis: 16
+
+23
+00:02:20,600 --> 00:02:27,200
+Fredi Hennecken (Germany) - Bayer 04 Leverkusen
+Penampilan: 189 | Gol: 60
+
+24
+00:02:27,200 --> 00:02:33,800
+Bum-kun Cha (Korea, South) - Bayer 04 Leverkusen
+Penampilan: 215 | Gol: 63 | Asis: 5
+
+25
+00:02:33,800 --> 00:02:40,400
+Paulo Sérgio (Brazil) - Bayer 04 Leverkusen
+Penampilan: 150 | Gol: 64 | Asis: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrik Schick (Czech Republic) - Bayer 04 Leverkusen
+Penampilan: 161 | Gol: 77 | Asis: 12
+
+27
+00:02:47,000 --> 00:02:53,600
+Christian Schreier (Germany) - Bayer 04 Leverkusen
+Penampilan: 244 | Gol: 83 | Asis: 8
+
+28
+00:02:53,600 --> 00:03:00,200
+Herbert Waas (Germany) - Bayer 04 Leverkusen
+Penampilan: 246 | Gol: 87 | Asis: 8
+
+29
+00:03:00,200 --> 00:03:06,800
+Dimitar Berbatov (Bulgaria) - Bayer 04 Leverkusen
+Penampilan: 202 | Gol: 91 | Asis: 34
+
+30
+00:03:06,800 --> 00:03:13,400
+Stefan Kießling (Germany) - Bayer 04 Leverkusen
+Penampilan: 444 | Gol: 162 | Asis: 76
+
+31
+00:03:13,400 --> 00:03:20,000
+Ulf Kirsten (Germany) - Bayer 04 Leverkusen
+Penampilan: 448 | Gol: 240 | Asis: 51
+

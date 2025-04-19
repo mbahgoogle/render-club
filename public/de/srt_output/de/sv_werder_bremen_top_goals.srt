@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+SV Werder Bremen Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Torsten Frings (Germany) - SV Werder Bremen
+Einsätze: 449 | Tore: 52 | Vorlagen: 62
+
+3
+00:00:08,600 --> 00:00:15,200
+Markus Rosenberg (Sweden) - SV Werder Bremen
+Einsätze: 165 | Tore: 53 | Vorlagen: 27
+
+4
+00:00:15,200 --> 00:00:21,800
+Marvin Ducksch (Germany) - SV Werder Bremen
+Einsätze: 127 | Tore: 53 | Vorlagen: 38
+
+5
+00:00:21,800 --> 00:00:28,400
+Diego (Brazil) - SV Werder Bremen
+Einsätze: 132 | Tore: 54 | Vorlagen: 42
+
+6
+00:00:28,400 --> 00:00:35,000
+Karl-Heinz Riedle (Germany) - SV Werder Bremen
+Einsätze: 126 | Tore: 59 | Vorlagen: 14
+
+7
+00:00:35,000 --> 00:00:41,600
+Benno Möhlmann (Germany) - SV Werder Bremen
+Einsätze: 340 | Tore: 61 | Vorlagen: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Miroslav Klose (Germany) - SV Werder Bremen
+Einsätze: 132 | Tore: 63 | Vorlagen: 47
+
+9
+00:00:48,200 --> 00:00:54,800
+Hugo Almeida (Portugal) - SV Werder Bremen
+Einsätze: 177 | Tore: 63 | Vorlagen: 26
+
+10
+00:00:54,800 --> 00:01:01,400
+Werner Weist (Germany) - SV Werder Bremen
+Einsätze: 166 | Tore: 65 | Vorlagen: 9
+
+11
+00:01:01,400 --> 00:01:08,000
+Hans Hagenacker (Germany) - SV Werder Bremen
+Einsätze: 275 | Tore: 65
+
+12
+00:01:08,000 --> 00:01:14,600
+Jürgen Röber (Germany) - SV Werder Bremen
+Einsätze: 216 | Tore: 68 | Vorlagen: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Günter Wilmovius (Germany) - SV Werder Bremen
+Einsätze: 179 | Tore: 70
+
+14
+00:01:21,200 --> 00:01:27,800
+Gerhard Zebrowski (Germany) - SV Werder Bremen
+Einsätze: 250 | Tore: 72 | Vorlagen: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Andreas Herzog (Austria) - SV Werder Bremen
+Einsätze: 307 | Tore: 72 | Vorlagen: 86
+
+16
+00:01:34,400 --> 00:01:41,000
+Horst-Dieter Höttges (Germany) - SV Werder Bremen
+Einsätze: 483 | Tore: 74 | Vorlagen: 20
+
+17
+00:01:41,000 --> 00:01:47,600
+Horst Gernhardt (Germany) - SV Werder Bremen
+Einsätze: 134 | Tore: 75
+
+18
+00:01:47,600 --> 00:01:54,200
+Ivan Klasnic (Croatia) - SV Werder Bremen
+Einsätze: 205 | Tore: 77 | Vorlagen: 44
+
+19
+00:01:54,200 --> 00:02:00,800
+Klaus Hänel (Germany) - SV Werder Bremen
+Einsätze: 255 | Tore: 87 | Vorlagen: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Werner Görts (Germany) - SV Werder Bremen
+Einsätze: 425 | Tore: 92 | Vorlagen: 27
+
+21
+00:02:07,400 --> 00:02:14,000
+Wynton Rufer (New Zealand) - SV Werder Bremen
+Einsätze: 242 | Tore: 104 | Vorlagen: 33
+
+22
+00:02:14,000 --> 00:02:20,600
+Aílton (Brazil) - SV Werder Bremen
+Einsätze: 214 | Tore: 106 | Vorlagen: 42
+
+23
+00:02:20,600 --> 00:02:27,200
+Norbert Meier (Germany) - SV Werder Bremen
+Einsätze: 372 | Tore: 113 | Vorlagen: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Uwe Reinders (Germany) - SV Werder Bremen
+Einsätze: 308 | Tore: 118 | Vorlagen: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Rudi Völler (Germany) - SV Werder Bremen
+Einsätze: 174 | Tore: 119 | Vorlagen: 6
+
+26
+00:02:40,400 --> 00:02:47,000
+Marco Bode (Germany) - SV Werder Bremen
+Einsätze: 495 | Tore: 134 | Vorlagen: 66
+
+27
+00:02:47,000 --> 00:02:53,600
+Karl-Heinz Preuße (Germany) - SV Werder Bremen
+Einsätze: 200 | Tore: 138
+
+28
+00:02:53,600 --> 00:03:00,200
+Frank Neubarth (Germany) - SV Werder Bremen
+Einsätze: 421 | Tore: 141 | Vorlagen: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Willi Schröder (Germany) - SV Werder Bremen
+Einsätze: 239 | Tore: 146
+
+30
+00:03:06,800 --> 00:03:13,400
+Claudio Pizarro (Peru) - SV Werder Bremen
+Einsätze: 320 | Tore: 153 | Vorlagen: 53
+
+31
+00:03:13,400 --> 00:03:20,000
+Arnold Schütz (Germany) - SV Werder Bremen
+Einsätze: 540 | Tore: 200 | Vorlagen: 13
+

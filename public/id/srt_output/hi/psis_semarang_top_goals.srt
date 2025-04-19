@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSIS Semarang सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Vitinho (Brazil) - PSIS Semarang
+प्रदर्शन: 25 | गोल: 2 | असिस्ट: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Rizky Dwi (Indonesia) - PSIS Semarang
+प्रदर्शन: 11 | गोल: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Boubakary Diarra (France) - PSIS Semarang
+प्रदर्शन: 55 | गोल: 2 | असिस्ट: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Evandro Brandão (Angola) - PSIS Semarang
+प्रदर्शन: 8 | गोल: 2 | असिस्ट: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Pratama Arhan (Indonesia) - PSIS Semarang
+प्रदर्शन: 13 | गोल: 2 | असिस्ट: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Rachmad Hidayat (Indonesia) - PSIS Semarang
+प्रदर्शन: 19 | गोल: 2 | असिस्ट: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Silvio Escobar (Indonesia) - PSIS Semarang
+प्रदर्शन: 15 | गोल: 2 | असिस्ट: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Heru Setyawan (Indonesia) - PSIS Semarang
+प्रदर्शन: 17 | गोल: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Eka Febri Setiawan (Indonesia) - PSIS Semarang
+प्रदर्शन: 46 | गोल: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Ridho Syuhada (Indonesia) - PSIS Semarang
+प्रदर्शन: 51 | गोल: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Fandi Utomo (Indonesia) - PSIS Semarang
+प्रदर्शन: 30 | गोल: 4 | असिस्ट: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Abdallah Sudi (Burundi) - PSIS Semarang
+प्रदर्शन: 11 | गोल: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Wawan Febrianto (Indonesia) - PSIS Semarang
+प्रदर्शन: 42 | गोल: 4 | असिस्ट: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Lucão (Brazil) - PSIS Semarang
+प्रदर्शन: 32 | गोल: 4 | असिस्ट: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Komarodin (Indonesia) - PSIS Semarang
+प्रदर्शन: 88 | गोल: 5 | असिस्ट: 6
+
+17
+00:01:41,000 --> 00:01:47,600
+Tri Setiawan (Indonesia) - PSIS Semarang
+प्रदर्शन: 40 | गोल: 5 | असिस्ट: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Claudir (Brazil) - PSIS Semarang
+प्रदर्शन: 17 | गोल: 5 | असिस्ट: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Ibrahim Conteh (Sierra Leone) - PSIS Semarang
+प्रदर्शन: 32 | गोल: 5 | असिस्ट: 5
+
+20
+00:02:00,800 --> 00:02:07,400
+Alfeandra Dewangga (Indonesia) - PSIS Semarang
+प्रदर्शन: 100 | गोल: 6 | असिस्ट: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Bayu Nugroho (Indonesia) - PSIS Semarang
+प्रदर्शन: 65 | गोल: 8 | असिस्ट: 6
+
+22
+00:02:14,000 --> 00:02:20,600
+Fredyan Wahyu (Indonesia) - PSIS Semarang
+प्रदर्शन: 113 | गोल: 8 | असिस्ट: 13
+
+23
+00:02:20,600 --> 00:02:27,200
+Riyan Ardiansyah (Indonesia) - PSIS Semarang
+प्रदर्शन: 113 | गोल: 12 | असिस्ट: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Taisei Marukawa (Japan) - PSIS Semarang
+प्रदर्शन: 70 | गोल: 12 | असिस्ट: 20
+
+25
+00:02:33,800 --> 00:02:40,400
+Paulo Gali (Timor-Leste) - PSIS Semarang
+प्रदर्शन: 57 | गोल: 12 | असिस्ट: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Wallace (Brazil) - PSIS Semarang
+प्रदर्शन: 65 | गोल: 13
+
+27
+00:02:47,000 --> 00:02:53,600
+Jonathan Cantillana (Palestine) - PSIS Semarang
+प्रदर्शन: 64 | गोल: 17 | असिस्ट: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Carlos Fortes (Cape Verde) - PSIS Semarang
+प्रदर्शन: 43 | गोल: 18 | असिस्ट: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+David Maulana (Indonesia) - PSIS Semarang
+प्रदर्शन: 132 | गोल: 19 | असिस्ट: 17
+
+30
+00:03:06,800 --> 00:03:13,400
+Bruno Silva (Brazil) - PSIS Semarang
+प्रदर्शन: 59 | गोल: 26 | असिस्ट: 14
+
+31
+00:03:13,400 --> 00:03:20,000
+Hari Nur (Indonesia) - PSIS Semarang
+प्रदर्शन: 131 | गोल: 29 | असिस्ट: 17
+

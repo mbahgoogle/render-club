@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSBS Biak Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Arjuna Agung (Indonesia) - PSBS Biak
+Presenze: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Anthonius Kipin (Indonesia) - PSBS Biak
+Presenze: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Muhammad Tahir (Indonesia) - PSBS Biak
+Presenze: 40 | Gol: 1 | Assist: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Fabiano Beltrame (Indonesia) - PSBS Biak
+Presenze: 36 | Gol: 1 | Assist: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Marten Raweyai (Indonesia) - PSBS Biak
+Presenze: 5 | Gol: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Marckho Merauje (Indonesia) - PSBS Biak
+Presenze: 23 | Gol: 1 | Assist: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Takuya Matsunaga (Japan) - PSBS Biak
+Presenze: 23 | Gol: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Armando Oropa (Indonesia) - PSBS Biak
+Presenze: 20 | Gol: 1 | Assist: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Otávio Dutra (Indonesia) - PSBS Biak
+Presenze: 10 | Gol: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Hermansyah Muchlis (Indonesia) - PSBS Biak
+Presenze: 6 | Gol: 1 | Assist: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Febrianto Uopmabin (Indonesia) - PSBS Biak
+Presenze: 47 | Gol: 1 | Assist: 7
+
+13
+00:01:14,600 --> 00:01:21,200
+Ariel Nahuelpán (Argentina) - PSBS Biak
+Presenze: 8 | Gol: 1 | Assist: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Melcior Majefat (Indonesia) - PSBS Biak
+Presenze: 16 | Gol: 1 | Assist: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Wawan Samma (Indonesia) - PSBS Biak
+Presenze: 8 | Gol: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Melvis Uaga (Indonesia) - PSBS Biak
+Presenze: 14 | Gol: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Rudy Kurni (Indonesia) - PSBS Biak
+Presenze: 5 | Gol: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Yano Putra (Indonesia) - PSBS Biak
+Presenze: 8 | Gol: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Charles Rumbino (Indonesia) - PSBS Biak
+Presenze: 14 | Gol: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Gustavo Suebu (Indonesia) - PSBS Biak
+Presenze: 7 | Gol: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Adrian Msen (Indonesia) - PSBS Biak
+Presenze: 23 | Gol: 2 | Assist: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Osas Saha (Indonesia) - PSBS Biak
+Presenze: 12 | Gol: 2 | Assist: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Jeam Kelly Sroyer (Indonesia) - PSBS Biak
+Presenze: 37 | Gol: 3 | Assist: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Julián Velázquez (Argentina) - PSBS Biak
+Presenze: 23 | Gol: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Toumahuw Ronald (Indonesia) - PSBS Biak
+Presenze: 12 | Gol: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Ananias Fingkreuw (Indonesia) - PSBS Biak
+Presenze: 12 | Gol: 5 | Assist: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Williams Lugo (Venezuela) - PSBS Biak
+Presenze: 24 | Gol: 5 | Assist: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Abel Argañaraz (Argentina) - PSBS Biak
+Presenze: 26 | Gol: 7 | Assist: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Mamadou Barry (Indonesia) - PSBS Biak
+Presenze: 19 | Gol: 8
+
+30
+00:03:06,800 --> 00:03:13,400
+Beto (Indonesia) - PSBS Biak
+Presenze: 39 | Gol: 11 | Assist: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Alexsandro (Brazil) - PSBS Biak
+Presenze: 46 | Gol: 28 | Assist: 5
+

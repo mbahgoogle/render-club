@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Everton FC 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+David Unsworth (England) - Everton FC
+出場数: 346 | ゴール: 40 | アシスト: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Bobby Collins (Scotland) - Everton FC
+出場数: 137 | ゴール: 43
+
+4
+00:00:15,200 --> 00:00:21,800
+Johnny Morrissey (England) - Everton FC
+出場数: 306 | ゴール: 49 | アシスト: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Tommy Eglington (Ireland) - Everton FC
+出場数: 315 | ゴール: 50 | アシスト: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Kevin Campbell (England) - Everton FC
+出場数: 160 | ゴール: 50 | アシスト: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Jimmy Husband (England) - Everton FC
+出場数: 193 | ゴール: 53 | アシスト: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Richarlison (Brazil) - Everton FC
+出場数: 152 | ゴール: 53 | アシスト: 13
+
+9
+00:00:48,200 --> 00:00:54,800
+Trevor Steven (England) - Everton FC
+出場数: 278 | ゴール: 56 | アシスト: 16
+
+10
+00:00:54,800 --> 00:01:01,400
+Mick Lyons (England) - Everton FC
+出場数: 453 | ゴール: 56 | アシスト: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Dave Hickson (England) - Everton FC
+出場数: 149 | ゴール: 57 | アシスト: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Leon Osman (England) - Everton FC
+出場数: 433 | ゴール: 58 | アシスト: 36
+
+13
+00:01:14,600 --> 00:01:21,200
+Eddie Wainwright (England) - Everton FC
+出場数: 199 | ゴール: 64
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy King (England) - Everton FC
+出場数: 242 | ゴール: 66 | アシスト: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Jimmy Harris (England) - Everton FC
+出場数: 196 | ゴール: 67 | アシスト: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Fred Pickering (England) - Everton FC
+出場数: 112 | ゴール: 68
+
+17
+00:01:41,000 --> 00:01:47,600
+Tim Cahill (Australia) - Everton FC
+出場数: 278 | ゴール: 68 | アシスト: 28
+
+18
+00:01:47,600 --> 00:01:54,200
+Dominic Calvert-Lewin (England) - Everton FC
+出場数: 269 | ゴール: 71 | アシスト: 20
+
+19
+00:01:54,200 --> 00:02:00,800
+Duncan Ferguson (Scotland) - Everton FC
+出場数: 272 | ゴール: 72 | アシスト: 12
+
+20
+00:02:00,800 --> 00:02:07,400
+Alan Ball (England) - Everton FC
+出場数: 246 | ゴール: 77 | アシスト: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Derek Temple (England) - Everton FC
+出場数: 265 | ゴール: 80 | アシスト: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Tony Cottee (England) - Everton FC
+出場数: 221 | ゴール: 82 | アシスト: 6
+
+23
+00:02:20,600 --> 00:02:27,200
+Alex Young (Scotland) - Everton FC
+出場数: 265 | ゴール: 84 | アシスト: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Romelu Lukaku (Belgium) - Everton FC
+出場数: 166 | ゴール: 87 | アシスト: 27
+
+25
+00:02:33,800 --> 00:02:40,400
+Adrian Heath (England) - Everton FC
+出場数: 286 | ゴール: 89 | アシスト: 23
+
+26
+00:02:40,400 --> 00:02:47,000
+Kevin Sheedy (Ireland) - Everton FC
+出場数: 345 | ゴール: 91 | アシスト: 28
+
+27
+00:02:47,000 --> 00:02:53,600
+Roy Vernon (Wales) - Everton FC
+出場数: 191 | ゴール: 106 | アシスト: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Joe Royle (England) - Everton FC
+出場数: 266 | ゴール: 117 | アシスト: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Bob Latchford (England) - Everton FC
+出場数: 281 | ゴール: 133 | アシスト: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Graeme Sharp (Scotland) - Everton FC
+出場数: 422 | ゴール: 147 | アシスト: 24
+
+31
+00:03:13,400 --> 00:03:20,000
+Dixie Dean (England) - Everton FC
+出場数: 144 | ゴール: 188
+

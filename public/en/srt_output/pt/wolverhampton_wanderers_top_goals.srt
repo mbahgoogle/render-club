@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Wolverhampton Wanderers Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Peter Knowles (England) - Wolverhampton Wanderers
+Partidas: 127 | Gols: 35 | Assistências: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Andy Gray (Scotland) - Wolverhampton Wanderers
+Partidas: 120 | Gols: 35 | Assistências: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Nouha Dicko (Mali) - Wolverhampton Wanderers
+Partidas: 108 | Gols: 35 | Assistências: 16
+
+5
+00:00:21,800 --> 00:00:28,400
+Ron Flowers (England) - Wolverhampton Wanderers
+Partidas: 450 | Gols: 35 | Assistências: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Bakary Sako (Mali) - Wolverhampton Wanderers
+Partidas: 124 | Gols: 38 | Assistências: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Sammy Smyth (Northern Ireland) - Wolverhampton Wanderers
+Partidas: 106 | Gols: 38 | Assistências: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Ray Crawford (England) - Wolverhampton Wanderers
+Partidas: 58 | Gols: 39
+
+9
+00:00:48,200 --> 00:00:54,800
+Hugh Curran (Scotland) - Wolverhampton Wanderers
+Partidas: 87 | Gols: 40 | Assistências: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Jim McCalliog (Scotland) - Wolverhampton Wanderers
+Partidas: 183 | Gols: 41 | Assistências: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+David Edwards (Wales) - Wolverhampton Wanderers
+Partidas: 307 | Gols: 44 | Assistências: 16
+
+12
+00:01:08,000 --> 00:01:14,600
+Diogo Jota (Portugal) - Wolverhampton Wanderers
+Partidas: 131 | Gols: 44 | Assistências: 19
+
+13
+00:01:14,600 --> 00:01:21,200
+Ted Farmer (England) - Wolverhampton Wanderers
+Partidas: 60 | Gols: 44 | Assistências: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Terry Wharton (England) - Wolverhampton Wanderers
+Partidas: 158 | Gols: 51
+
+15
+00:01:27,800 --> 00:01:34,400
+Bobby Mason (England) - Wolverhampton Wanderers
+Partidas: 172 | Gols: 55 | Assistências: 5
+
+16
+00:01:34,400 --> 00:01:41,000
+Dennis Westcott (England) - Wolverhampton Wanderers
+Partidas: 63 | Gols: 55
+
+17
+00:01:41,000 --> 00:01:47,600
+Raúl Jiménez (Mexico) - Wolverhampton Wanderers
+Partidas: 166 | Gols: 57 | Assistências: 23
+
+18
+00:01:47,600 --> 00:01:54,200
+Kenny Miller (Scotland) - Wolverhampton Wanderers
+Partidas: 185 | Gols: 61 | Assistências: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Sylvan Ebanks-Blake (England) - Wolverhampton Wanderers
+Partidas: 193 | Gols: 62 | Assistências: 19
+
+20
+00:02:00,800 --> 00:02:07,400
+Norman Deeley (England) - Wolverhampton Wanderers
+Partidas: 235 | Gols: 76 | Assistências: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Kenny Hibbitt (England) - Wolverhampton Wanderers
+Partidas: 456 | Gols: 82
+
+22
+00:02:14,000 --> 00:02:20,600
+Jesse Pye (England) - Wolverhampton Wanderers
+Partidas: 197 | Gols: 91
+
+23
+00:02:20,600 --> 00:02:27,200
+Derek Dougan (Northern Ireland) - Wolverhampton Wanderers
+Partidas: 277 | Gols: 100 | Assistências: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Jimmy Mullen (England) - Wolverhampton Wanderers
+Partidas: 460 | Gols: 105 | Assistências: 10
+
+25
+00:02:33,800 --> 00:02:40,400
+Dennis Wilshaw (England) - Wolverhampton Wanderers
+Partidas: 213 | Gols: 105 | Assistências: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Roy Swinbourne (England) - Wolverhampton Wanderers
+Partidas: 218 | Gols: 112
+
+27
+00:02:47,000 --> 00:02:53,600
+Peter Broadbent (England) - Wolverhampton Wanderers
+Partidas: 487 | Gols: 143 | Assistências: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+John Richards (England) - Wolverhampton Wanderers
+Partidas: 410 | Gols: 153 | Assistências: 2
+
+29
+00:03:00,200 --> 00:03:06,800
+Johnny Hancocks (England) - Wolverhampton Wanderers
+Partidas: 359 | Gols: 159 | Assistências: 1
+
+30
+00:03:06,800 --> 00:03:13,400
+Jimmy Murray (England) - Wolverhampton Wanderers
+Partidas: 296 | Gols: 166 | Assistências: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Steve Bull (England) - Wolverhampton Wanderers
+Partidas: 279 | Gols: 183 | Assistências: 1
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Arsenal FC Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Ronnie Rooke (England) - Arsenal FC
+Partidos: 93 | Goles: 70
+
+3
+00:00:08,600 --> 00:00:15,200
+Alexandre Lacazette (France) - Arsenal FC
+Partidos: 206 | Goles: 71 | Asistencias: 32
+
+4
+00:00:15,200 --> 00:00:21,800
+Freddie Ljungberg (Sweden) - Arsenal FC
+Partidos: 328 | Goles: 72 | Asistencias: 40
+
+5
+00:00:21,800 --> 00:00:28,400
+George Graham (Scotland) - Arsenal FC
+Partidos: 278 | Goles: 73 | Asistencias: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Geoff Strong (England) - Arsenal FC
+Partidos: 133 | Goles: 75 | Asistencias: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Alexis Sánchez (Chile) - Arsenal FC
+Partidos: 166 | Goles: 80 | Asistencias: 44
+
+8
+00:00:41,600 --> 00:00:48,200
+Cliff Holton (England) - Arsenal FC
+Partidos: 205 | Goles: 84
+
+9
+00:00:48,200 --> 00:00:54,800
+Robert Pirès (France) - Arsenal FC
+Partidos: 284 | Goles: 84 | Asistencias: 63
+
+10
+00:00:54,800 --> 00:01:01,400
+Alan Sunderland (England) - Arsenal FC
+Partidos: 270 | Goles: 88 | Asistencias: 20
+
+11
+00:01:01,400 --> 00:01:08,000
+Joe Hulme (England) - Arsenal FC
+Partidos: 208 | Goles: 90 | Asistencias: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Don Roper (England) - Arsenal FC
+Partidos: 308 | Goles: 91
+
+13
+00:01:14,600 --> 00:01:21,200
+Pierre-Emerick Aubameyang (Gabon) - Arsenal FC
+Partidos: 163 | Goles: 92 | Asistencias: 20
+
+14
+00:01:21,200 --> 00:01:27,800
+Jack Lambert (England) - Arsenal FC
+Partidos: 110 | Goles: 97
+
+15
+00:01:27,800 --> 00:01:34,400
+Joe Baker (England) - Arsenal FC
+Partidos: 150 | Goles: 99
+
+16
+00:01:34,400 --> 00:01:41,000
+David Herd (Scotland) - Arsenal FC
+Partidos: 169 | Goles: 99 | Asistencias: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Paul Merson (England) - Arsenal FC
+Partidos: 423 | Goles: 99 | Asistencias: 51
+
+18
+00:01:47,600 --> 00:01:54,200
+Reg Lewis (England) - Arsenal FC
+Partidos: 153 | Goles: 102
+
+19
+00:01:54,200 --> 00:02:00,800
+David Jack (England) - Arsenal FC
+Partidos: 146 | Goles: 103
+
+20
+00:02:00,800 --> 00:02:07,400
+Olivier Giroud (France) - Arsenal FC
+Partidos: 253 | Goles: 105 | Asistencias: 37
+
+21
+00:02:07,400 --> 00:02:14,000
+Frank Stapleton (Ireland) - Arsenal FC
+Partidos: 293 | Goles: 106 | Asistencias: 21
+
+22
+00:02:14,000 --> 00:02:20,600
+Theo Walcott (England) - Arsenal FC
+Partidos: 397 | Goles: 108 | Asistencias: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Alan Smith (England) - Arsenal FC
+Partidos: 341 | Goles: 113 | Asistencias: 22
+
+24
+00:02:27,200 --> 00:02:33,800
+Ted Drake (England) - Arsenal FC
+Partidos: 110 | Goles: 113
+
+25
+00:02:33,800 --> 00:02:40,400
+Dennis Bergkamp (Netherlands) - Arsenal FC
+Partidos: 422 | Goles: 120 | Asistencias: 116
+
+26
+00:02:40,400 --> 00:02:47,000
+Doug Lishman (England) - Arsenal FC
+Partidos: 235 | Goles: 128
+
+27
+00:02:47,000 --> 00:02:53,600
+John Radford (England) - Arsenal FC
+Partidos: 445 | Goles: 132 | Asistencias: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Robin van Persie (Netherlands) - Arsenal FC
+Partidos: 278 | Goles: 132 | Asistencias: 55
+
+29
+00:03:00,200 --> 00:03:06,800
+Cliff Bastin (England) - Arsenal FC
+Partidos: 266 | Goles: 151
+
+30
+00:03:06,800 --> 00:03:13,400
+Ian Wright (England) - Arsenal FC
+Partidos: 288 | Goles: 185 | Asistencias: 31
+
+31
+00:03:13,400 --> 00:03:20,000
+Thierry Henry (France) - Arsenal FC
+Partidos: 377 | Goles: 228 | Asistencias: 96
+

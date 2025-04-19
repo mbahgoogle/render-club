@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Nantes 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Jorge Burruchaga (Argentina) - FC Nantes
+出场数: 162 | 进球: 30 | 助攻: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Jocelyn Gourvennec (France) - FC Nantes
+出场数: 109 | 进球: 31 | 助攻: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Patrice Rio (France) - FC Nantes
+出场数: 537 | 进球: 33
+
+5
+00:00:21,800 --> 00:00:28,400
+Reynald Pedros (France) - FC Nantes
+出场数: 184 | 进球: 34 | 助攻: 28
+
+6
+00:00:28,400 --> 00:00:35,000
+Olivier Monterrubio (France) - FC Nantes
+出场数: 118 | 进球: 34 | 助攻: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Moses Simon (Nigeria) - FC Nantes
+出场数: 195 | 进球: 36 | 助攻: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+Thierno Youm (Senegal) - FC Nantes
+出场数: 135 | 进球: 37 | 助攻: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Ángel Marcos (Argentina) - FC Nantes
+出场数: 99 | 进球: 39
+
+10
+00:00:54,800 --> 00:01:01,400
+Christophe Robert (France) - FC Nantes
+出场数: 215 | 进球: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Oscar Muller (Argentina) - FC Nantes
+出场数: 243 | 进球: 40 | 助攻: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Marama Vahirua (Tahiti) - FC Nantes
+出场数: 147 | 进球: 41 | 助攻: 5
+
+13
+00:01:14,600 --> 00:01:21,200
+Ludovic Blas (France) - FC Nantes
+出场数: 159 | 进球: 45 | 助攻: 18
+
+14
+00:01:21,200 --> 00:01:27,800
+Emiliano Sala (Argentina) - FC Nantes
+出场数: 133 | 进球: 48 | 助攻: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Patrice Loko (France) - FC Nantes
+出场数: 206 | 进球: 48 | 助攻: 10
+
+16
+00:01:34,400 --> 00:01:41,000
+Erich Maas (Germany) - FC Nantes
+出场数: 180 | 进球: 48
+
+17
+00:01:41,000 --> 00:01:47,600
+Viorel Moldovan (Romania) - FC Nantes
+出场数: 94 | 进球: 50 | 助攻: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Frédéric Da Rocha (France) - FC Nantes
+出场数: 508 | 进球: 57 | 助攻: 19
+
+19
+00:01:54,200 --> 00:02:00,800
+Filip Djordjevic (Serbia) - FC Nantes
+出场数: 198 | 进球: 69 | 助攻: 21
+
+20
+00:02:00,800 --> 00:02:07,400
+José Touré (France) - FC Nantes
+出场数: 207 | 进球: 73 | 助攻: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Bruno Baronchelli (France) - FC Nantes
+出场数: 391 | 进球: 81
+
+22
+00:02:14,000 --> 00:02:20,600
+Nicolas Ouédec (France) - FC Nantes
+出场数: 186 | 进球: 83 | 助攻: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+Japhet N'Doram (Chad) - FC Nantes
+出场数: 228 | 进球: 87 | 助攻: 11
+
+24
+00:02:27,200 --> 00:02:33,800
+Henri Michel (France) - FC Nantes
+出场数: 640 | 进球: 95
+
+25
+00:02:33,800 --> 00:02:40,400
+Jacky Simon (France) - FC Nantes
+出场数: 183 | 进球: 96
+
+26
+00:02:40,400 --> 00:02:47,000
+Éric Pécout (France) - FC Nantes
+出场数: 204 | 进球: 100
+
+27
+00:02:47,000 --> 00:02:53,600
+Gilles Rampillon (France) - FC Nantes
+出场数: 417 | 进球: 111
+
+28
+00:02:53,600 --> 00:03:00,200
+Vahid Halilhodzic (Bosnia-Herzegovina) - FC Nantes
+出场数: 192 | 进球: 112
+
+29
+00:03:00,200 --> 00:03:06,800
+Loïc Amisse (France) - FC Nantes
+出场数: 602 | 进球: 112
+
+30
+00:03:06,800 --> 00:03:13,400
+Bernard Blanchet (France) - FC Nantes
+出场数: 432 | 进球: 122
+
+31
+00:03:13,400 --> 00:03:20,000
+Philippe Gondet (France) - FC Nantes
+出场数: 235 | 进球: 127
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Tottenham Hotspur Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Tommy Harmer (England) - Tottenham Hotspur
+Partidos: 219 | Goles: 51 | Asistencias: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Dave Mackay (Scotland) - Tottenham Hotspur
+Partidos: 320 | Goles: 52 | Asistencias: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Sonny Walters (England) - Tottenham Hotspur
+Partidos: 169 | Goles: 54
+
+5
+00:00:21,800 --> 00:00:28,400
+Les Bennett (England) - Tottenham Hotspur
+Partidos: 141 | Goles: 55
+
+6
+00:00:28,400 --> 00:00:35,000
+Terry Dyson (England) - Tottenham Hotspur
+Partidos: 208 | Goles: 56 | Asistencias: 28
+
+7
+00:00:35,000 --> 00:00:41,600
+George Robb (England) - Tottenham Hotspur
+Partidos: 193 | Goles: 57 | Asistencias: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Chris Armstrong (England) - Tottenham Hotspur
+Partidos: 173 | Goles: 62 | Asistencias: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Les Allen (England) - Tottenham Hotspur
+Partidos: 137 | Goles: 63 | Asistencias: 38
+
+10
+00:00:54,800 --> 00:01:01,400
+Dele Alli (England) - Tottenham Hotspur
+Partidos: 269 | Goles: 67 | Asistencias: 55
+
+11
+00:01:01,400 --> 00:01:08,000
+Christian Eriksen (Denmark) - Tottenham Hotspur
+Partidos: 305 | Goles: 69 | Asistencias: 88
+
+12
+00:01:08,000 --> 00:01:14,600
+Terry Medwin (Wales) - Tottenham Hotspur
+Partidos: 213 | Goles: 70 | Asistencias: 13
+
+13
+00:01:14,600 --> 00:01:21,200
+Garth Crooks (England) - Tottenham Hotspur
+Partidos: 174 | Goles: 70 | Asistencias: 12
+
+14
+00:01:21,200 --> 00:01:27,800
+Martin Peters (England) - Tottenham Hotspur
+Partidos: 249 | Goles: 71 | Asistencias: 3
+
+15
+00:01:27,800 --> 00:01:34,400
+Gareth Bale (Wales) - Tottenham Hotspur
+Partidos: 237 | Goles: 71 | Asistencias: 53
+
+16
+00:01:34,400 --> 00:01:41,000
+Steve Archibald (Scotland) - Tottenham Hotspur
+Partidos: 184 | Goles: 75 | Asistencias: 15
+
+17
+00:01:41,000 --> 00:01:47,600
+Len Duquemin (Guernsey) - Tottenham Hotspur
+Partidos: 182 | Goles: 76
+
+18
+00:01:47,600 --> 00:01:54,200
+Gary Lineker (England) - Tottenham Hotspur
+Partidos: 139 | Goles: 80 | Asistencias: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Clive Allen (England) - Tottenham Hotspur
+Partidos: 133 | Goles: 82 | Asistencias: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Mark Falco (England) - Tottenham Hotspur
+Partidos: 224 | Goles: 89 | Asistencias: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Glenn Hoddle (England) - Tottenham Hotspur
+Partidos: 435 | Goles: 96 | Asistencias: 50
+
+22
+00:02:14,000 --> 00:02:20,600
+Robbie Keane (Ireland) - Tottenham Hotspur
+Partidos: 306 | Goles: 122 | Asistencias: 39
+
+23
+00:02:20,600 --> 00:02:27,200
+Teddy Sheringham (England) - Tottenham Hotspur
+Partidos: 277 | Goles: 125 | Asistencias: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Alan Gilzean (Scotland) - Tottenham Hotspur
+Partidos: 424 | Goles: 128 | Asistencias: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Jermain Defoe (England) - Tottenham Hotspur
+Partidos: 363 | Goles: 143 | Asistencias: 29
+
+26
+00:02:40,400 --> 00:02:47,000
+Cliff Jones (Wales) - Tottenham Hotspur
+Partidos: 377 | Goles: 159 | Asistencias: 36
+
+27
+00:02:47,000 --> 00:02:53,600
+Martin Chivers (England) - Tottenham Hotspur
+Partidos: 349 | Goles: 167 | Asistencias: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Heung-min Son (Korea, South) - Tottenham Hotspur
+Partidos: 449 | Goles: 173 | Asistencias: 96
+
+29
+00:03:00,200 --> 00:03:06,800
+Bobby Smith (England) - Tottenham Hotspur
+Partidos: 316 | Goles: 211 | Asistencias: 31
+
+30
+00:03:06,800 --> 00:03:13,400
+Jimmy Greaves (England) - Tottenham Hotspur
+Partidos: 376 | Goles: 266 | Asistencias: 45
+
+31
+00:03:13,400 --> 00:03:20,000
+Harry Kane (England) - Tottenham Hotspur
+Partidos: 435 | Goles: 280 | Asistencias: 61
+

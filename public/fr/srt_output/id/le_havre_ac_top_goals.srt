@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Le Havre AC Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Jean-Philippe Mateta (France) - Le Havre AC
+Penampilan: 38 | Gol: 20
+
+3
+00:00:08,600 --> 00:00:15,200
+Amadou Alassane (France) - Le Havre AC
+Penampilan: 81 | Gol: 20 | Asis: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Alessandro Frigerio (Switzerland) - Le Havre AC
+Penampilan: 32 | Gol: 21
+
+5
+00:00:21,800 --> 00:00:28,400
+Brice Jovial (Guadeloupe) - Le Havre AC
+Penampilan: 50 | Gol: 23 | Asis: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Ryan Mendes (Cape Verde) - Le Havre AC
+Penampilan: 94 | Gol: 24 | Asis: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Eduardo Di Loreto (Argentina) - Le Havre AC
+Penampilan: 46 | Gol: 25
+
+8
+00:00:41,600 --> 00:00:48,200
+Philippe Jacquet (France) - Le Havre AC
+Penampilan: 98 | Gol: 25
+
+9
+00:00:48,200 --> 00:00:54,800
+Hocine Bouchache (Algeria) - Le Havre AC
+Penampilan: 54 | Gol: 27
+
+10
+00:00:54,800 --> 00:01:01,400
+Ignace Valorisek (France) - Le Havre AC
+Penampilan: 138 | Gol: 27
+
+11
+00:01:01,400 --> 00:01:08,000
+Tino Kadewere (Zimbabwe) - Le Havre AC
+Penampilan: 51 | Gol: 27 | Asis: 9
+
+12
+00:01:08,000 --> 00:01:14,600
+Mickaël Le Bihan (France) - Le Havre AC
+Penampilan: 73 | Gol: 27 | Asis: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Jean-Pascal Fontaine (Réunion) - Le Havre AC
+Penampilan: 383 | Gol: 28 | Asis: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Thomas Deniaud (France) - Le Havre AC
+Penampilan: 104 | Gol: 28
+
+15
+00:01:27,800 --> 00:01:34,400
+Walid Mesloub (Algeria) - Le Havre AC
+Penampilan: 172 | Gol: 29 | Asis: 25
+
+16
+00:01:34,400 --> 00:01:41,000
+Pascal Pain (France) - Le Havre AC
+Penampilan: 153 | Gol: 31
+
+17
+00:01:41,000 --> 00:01:47,600
+Jamal Thiaré (Senegal) - Le Havre AC
+Penampilan: 129 | Gol: 31 | Asis: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Bruno Roux (France) - Le Havre AC
+Penampilan: 118 | Gol: 31
+
+19
+00:01:54,200 --> 00:02:00,800
+Yvon Douis (France) - Le Havre AC
+Penampilan: 81 | Gol: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Kandia Traoré (Cote d'Ivoire) - Le Havre AC
+Penampilan: 80 | Gol: 33
+
+21
+00:02:07,400 --> 00:02:14,000
+Robert Llorens (France) - Le Havre AC
+Penampilan: 168 | Gol: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Guillaume Hoarau (France) - Le Havre AC
+Penampilan: 93 | Gol: 38
+
+23
+00:02:20,600 --> 00:02:27,200
+Yohann Rivière (France) - Le Havre AC
+Penampilan: 117 | Gol: 38 | Asis: 9
+
+24
+00:02:27,200 --> 00:02:33,800
+Zarko Olarevic (Serbia) - Le Havre AC
+Penampilan: 76 | Gol: 46
+
+25
+00:02:33,800 --> 00:02:40,400
+Alexandre Bonnet (France) - Le Havre AC
+Penampilan: 470 | Gol: 51 | Asis: 49
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrick Martet (France) - Le Havre AC
+Penampilan: 124 | Gol: 63
+
+27
+00:02:47,000 --> 00:02:53,600
+Joël Tiéhi (Cote d'Ivoire) - Le Havre AC
+Penampilan: 172 | Gol: 63 | Asis: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Philippe Prieur (France) - Le Havre AC
+Penampilan: 176 | Gol: 64
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean Saunier (France) - Le Havre AC
+Penampilan: 107 | Gol: 68
+
+30
+00:03:06,800 --> 00:03:13,400
+Alain Caveglia (France) - Le Havre AC
+Penampilan: 163 | Gol: 71 | Asis: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Jean-Michel Lesage (France) - Le Havre AC
+Penampilan: 354 | Gol: 82 | Asis: 8
+

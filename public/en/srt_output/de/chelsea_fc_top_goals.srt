@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Chelsea FC Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Fernando Torres (Spain) - Chelsea FC
+Einsätze: 172 | Tore: 45 | Vorlagen: 29
+
+3
+00:00:08,600 --> 00:00:15,200
+Kevin Wilson (Northern Ireland) - Chelsea FC
+Einsätze: 172 | Tore: 47 | Vorlagen: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Gustavo Poyet (Uruguay) - Chelsea FC
+Einsätze: 144 | Tore: 49 | Vorlagen: 16
+
+5
+00:00:21,800 --> 00:00:28,400
+Tore André Flo (Norway) - Chelsea FC
+Einsätze: 163 | Tore: 50 | Vorlagen: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Frank Blunstone (England) - Chelsea FC
+Einsätze: 343 | Tore: 53 | Vorlagen: 6
+
+7
+00:00:35,000 --> 00:00:41,600
+Ian Hutchinson (England) - Chelsea FC
+Einsätze: 125 | Tore: 54
+
+8
+00:00:41,600 --> 00:00:48,200
+Peter Brabrook (England) - Chelsea FC
+Einsätze: 270 | Tore: 57 | Vorlagen: 7
+
+9
+00:00:48,200 --> 00:00:54,800
+Diego Costa (Spain) - Chelsea FC
+Einsätze: 120 | Tore: 59 | Vorlagen: 21
+
+10
+00:00:54,800 --> 00:01:01,400
+Gordon Durie (Scotland) - Chelsea FC
+Einsätze: 139 | Tore: 59 | Vorlagen: 9
+
+11
+00:01:01,400 --> 00:01:08,000
+Nicolas Anelka (France) - Chelsea FC
+Einsätze: 184 | Tore: 59 | Vorlagen: 26
+
+12
+00:01:08,000 --> 00:01:14,600
+Salomon Kalou (Cote d'Ivoire) - Chelsea FC
+Einsätze: 254 | Tore: 60 | Vorlagen: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+John Hollins (England) - Chelsea FC
+Einsätze: 560 | Tore: 62 | Vorlagen: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Willian (Brazil) - Chelsea FC
+Einsätze: 339 | Tore: 63 | Vorlagen: 57
+
+15
+00:01:27,800 --> 00:01:34,400
+Johnny McNichol (Scotland) - Chelsea FC
+Einsätze: 198 | Tore: 63
+
+16
+00:01:34,400 --> 00:01:41,000
+John Terry (England) - Chelsea FC
+Einsätze: 717 | Tore: 67 | Vorlagen: 27
+
+17
+00:01:41,000 --> 00:01:47,600
+Ron Tindall (England) - Chelsea FC
+Einsätze: 172 | Tore: 68
+
+18
+00:01:47,600 --> 00:01:54,200
+Dennis Wise (England) - Chelsea FC
+Einsätze: 440 | Tore: 73 | Vorlagen: 46
+
+19
+00:01:54,200 --> 00:02:00,800
+Eidur Gudjohnsen (Iceland) - Chelsea FC
+Einsätze: 263 | Tore: 78 | Vorlagen: 41
+
+20
+00:02:00,800 --> 00:02:07,400
+Gianfranco Zola (Italy) - Chelsea FC
+Einsätze: 312 | Tore: 80 | Vorlagen: 42
+
+21
+00:02:07,400 --> 00:02:14,000
+Jimmy Floyd Hasselbaink (Netherlands) - Chelsea FC
+Einsätze: 177 | Tore: 87 | Vorlagen: 36
+
+22
+00:02:14,000 --> 00:02:20,600
+Barry Bridges (England) - Chelsea FC
+Einsätze: 201 | Tore: 88 | Vorlagen: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Tommy Baldwin (England) - Chelsea FC
+Einsätze: 231 | Tore: 91 | Vorlagen: 4
+
+24
+00:02:27,200 --> 00:02:33,800
+Eden Hazard (Belgium) - Chelsea FC
+Einsätze: 352 | Tore: 110 | Vorlagen: 85
+
+25
+00:02:33,800 --> 00:02:40,400
+Jimmy Greaves (England) - Chelsea FC
+Einsätze: 168 | Tore: 132 | Vorlagen: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Peter Osgood (England) - Chelsea FC
+Einsätze: 369 | Tore: 140 | Vorlagen: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Roy Bentley (England) - Chelsea FC
+Einsätze: 352 | Tore: 144
+
+28
+00:02:53,600 --> 00:03:00,200
+Kerry Dixon (England) - Chelsea FC
+Einsätze: 363 | Tore: 157 | Vorlagen: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Didier Drogba (Cote d'Ivoire) - Chelsea FC
+Einsätze: 381 | Tore: 164 | Vorlagen: 77
+
+30
+00:03:06,800 --> 00:03:13,400
+Bobby Tambling (England) - Chelsea FC
+Einsätze: 362 | Tore: 194 | Vorlagen: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Frank Lampard (England) - Chelsea FC
+Einsätze: 648 | Tore: 211 | Vorlagen: 147
+

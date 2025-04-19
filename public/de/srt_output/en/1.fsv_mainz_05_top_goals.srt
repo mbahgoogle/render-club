@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+1.FSV Mainz 05 All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Ádám Szalai (Hungary) - 1.FSV Mainz 05
+Appearances: 146 | Goals: 28 | Assists: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Aristide Bancé (Burkina Faso) - 1.FSV Mainz 05
+Appearances: 67 | Goals: 28 | Assists: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Fabrizio Hayer (Germany) - 1.FSV Mainz 05
+Appearances: 182 | Goals: 28 | Assists: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Wolfgang Elze (Germany) - 1.FSV Mainz 05
+Appearances: 50 | Goals: 29
+
+6
+00:00:28,400 --> 00:00:35,000
+Shinji Okazaki (Japan) - 1.FSV Mainz 05
+Appearances: 70 | Goals: 29 | Assists: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Jürgen Kramny (Germany) - 1.FSV Mainz 05
+Appearances: 229 | Goals: 30 | Assists: 25
+
+8
+00:00:41,600 --> 00:00:48,200
+Mohamed Zidan (Egypt) - 1.FSV Mainz 05
+Appearances: 57 | Goals: 30 | Assists: 6
+
+9
+00:00:48,200 --> 00:00:54,800
+Thomas Ziemer (Germany) - 1.FSV Mainz 05
+Appearances: 104 | Goals: 30 | Assists: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Andriy Voronin (Ukraine) - 1.FSV Mainz 05
+Appearances: 79 | Goals: 30 | Assists: 12
+
+11
+00:01:01,400 --> 00:01:08,000
+Gerd Klier (Germany) - 1.FSV Mainz 05
+Appearances: 84 | Goals: 30 | Assists: 4
+
+12
+00:01:08,000 --> 00:01:14,600
+Werner Sommer (Germany) - 1.FSV Mainz 05
+Appearances: 184 | Goals: 31
+
+13
+00:01:14,600 --> 00:01:21,200
+Armin Maier (Germany) - 1.FSV Mainz 05
+Appearances: 92 | Goals: 31
+
+14
+00:01:21,200 --> 00:01:27,800
+Michael Schuhmacher (Germany) - 1.FSV Mainz 05
+Appearances: 320 | Goals: 32 | Assists: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Yunus Mallı (Türkiye) - 1.FSV Mainz 05
+Appearances: 146 | Goals: 32 | Assists: 23
+
+16
+00:01:34,400 --> 00:01:41,000
+Josef Meinhardt (Germany) - 1.FSV Mainz 05
+Appearances: 146 | Goals: 32
+
+17
+00:01:41,000 --> 00:01:47,600
+Abderrahim Ouakili (Morocco) - 1.FSV Mainz 05
+Appearances: 121 | Goals: 33 | Assists: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+Robin Quaison (Sweden) - 1.FSV Mainz 05
+Appearances: 130 | Goals: 34 | Assists: 12
+
+19
+00:01:54,200 --> 00:02:00,800
+Benjamin Auer (Germany) - 1.FSV Mainz 05
+Appearances: 128 | Goals: 34 | Assists: 16
+
+20
+00:02:00,800 --> 00:02:07,400
+Karim Onisiwo (Austria) - 1.FSV Mainz 05
+Appearances: 233 | Goals: 35 | Assists: 32
+
+21
+00:02:07,400 --> 00:02:14,000
+Lothar Buchmann (Germany) - 1.FSV Mainz 05
+Appearances: 106 | Goals: 36
+
+22
+00:02:14,000 --> 00:02:20,600
+Vincenz Fuchs (Germany) - 1.FSV Mainz 05
+Appearances: 91 | Goals: 37 | Assists: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Jonathan Burkardt (Germany) - 1.FSV Mainz 05
+Appearances: 138 | Goals: 42 | Assists: 14
+
+24
+00:02:27,200 --> 00:02:33,800
+Bernhard Christ (Germany) - 1.FSV Mainz 05
+Appearances: 188 | Goals: 44 | Assists: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Michael Müller (Germany) - 1.FSV Mainz 05
+Appearances: 352 | Goals: 44 | Assists: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Karl-Heinz Wettig (Germany) - 1.FSV Mainz 05
+Appearances: 127 | Goals: 50 | Assists: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Jürgen Klopp (Germany) - 1.FSV Mainz 05
+Appearances: 340 | Goals: 56 | Assists: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Norbert Hönnscheidt (Germany) - 1.FSV Mainz 05
+Appearances: 147 | Goals: 56 | Assists: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Sven Demandt (Germany) - 1.FSV Mainz 05
+Appearances: 188 | Goals: 57 | Assists: 15
+
+30
+00:03:06,800 --> 00:03:13,400
+Michael Thurk (Germany) - 1.FSV Mainz 05
+Appearances: 202 | Goals: 64 | Assists: 29
+
+31
+00:03:13,400 --> 00:03:20,000
+Karl-Heinz Mähn (Germany) - 1.FSV Mainz 05
+Appearances: 203 | Goals: 85 | Assists: 4
+

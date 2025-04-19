@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Manchester City सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Nicolas Anelka (France) - Manchester City
+प्रदर्शन: 103 | गोल: 45 | असिस्ट: 8
+
+3
+00:00:08,600 --> 00:00:15,200
+Shaun Wright-Phillips (England) - Manchester City
+प्रदर्शन: 274 | गोल: 48 | असिस्ट: 30
+
+4
+00:00:15,200 --> 00:00:21,800
+Bobby Johnstone (Scotland) - Manchester City
+प्रदर्शन: 133 | गोल: 49 | असिस्ट: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Johnny Hart (England) - Manchester City
+प्रदर्शन: 147 | गोल: 53
+
+6
+00:00:28,400 --> 00:00:35,000
+Brian Kidd (England) - Manchester City
+प्रदर्शन: 122 | गोल: 54
+
+7
+00:00:35,000 --> 00:00:41,600
+İlkay Gündoğan (Germany) - Manchester City
+प्रदर्शन: 345 | गोल: 62 | असिस्ट: 39
+
+8
+00:00:41,600 --> 00:00:48,200
+Billy McAdams (Northern Ireland) - Manchester City
+प्रदर्शन: 130 | गोल: 63
+
+9
+00:00:48,200 --> 00:00:54,800
+Uwe Rösler (Germany) - Manchester City
+प्रदर्शन: 177 | गोल: 64 | असिस्ट: 9
+
+10
+00:00:54,800 --> 00:01:01,400
+Roy Clarke (Wales) - Manchester City
+प्रदर्शन: 325 | गोल: 67
+
+11
+00:01:01,400 --> 00:01:08,000
+Bernardo Silva (Portugal) - Manchester City
+प्रदर्शन: 395 | गोल: 69 | असिस्ट: 69
+
+12
+00:01:08,000 --> 00:01:14,600
+Edin Džeko (Bosnia-Herzegovina) - Manchester City
+प्रदर्शन: 189 | गोल: 72 | असिस्ट: 26
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Tevez (Argentina) - Manchester City
+प्रदर्शन: 148 | गोल: 73 | असिस्ट: 32
+
+14
+00:01:21,200 --> 00:01:27,800
+Neil Young (England) - Manchester City
+प्रदर्शन: 288 | गोल: 74 | असिस्ट: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+David Silva (Spain) - Manchester City
+प्रदर्शन: 436 | गोल: 77 | असिस्ट: 129
+
+16
+00:01:34,400 --> 00:01:41,000
+Colin Barlow (England) - Manchester City
+प्रदर्शन: 181 | गोल: 77 | असिस्ट: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Niall Quinn (Ireland) - Manchester City
+प्रदर्शन: 242 | गोल: 77 | असिस्ट: 22
+
+18
+00:01:47,600 --> 00:01:54,200
+Riyad Mahrez (Algeria) - Manchester City
+प्रदर्शन: 236 | गोल: 78 | असिस्ट: 56
+
+19
+00:01:54,200 --> 00:02:00,800
+Yaya Touré (Cote d'Ivoire) - Manchester City
+प्रदर्शन: 316 | गोल: 80 | असिस्ट: 45
+
+20
+00:02:00,800 --> 00:02:07,400
+David White (England) - Manchester City
+प्रदर्शन: 272 | गोल: 82 | असिस्ट: 11
+
+21
+00:02:07,400 --> 00:02:14,000
+Gabriel Jesus (Brazil) - Manchester City
+प्रदर्शन: 236 | गोल: 95 | असिस्ट: 45
+
+22
+00:02:14,000 --> 00:02:20,600
+Phil Foden (England) - Manchester City
+प्रदर्शन: 309 | गोल: 97 | असिस्ट: 60
+
+23
+00:02:20,600 --> 00:02:27,200
+Dennis Tueart (England) - Manchester City
+प्रदर्शन: 261 | गोल: 101
+
+24
+00:02:27,200 --> 00:02:33,800
+Shaun Goater (Bermuda) - Manchester City
+प्रदर्शन: 209 | गोल: 102 | असिस्ट: 26
+
+25
+00:02:33,800 --> 00:02:40,400
+Kevin De Bruyne (Belgium) - Manchester City
+प्रदर्शन: 413 | गोल: 106 | असिस्ट: 174
+
+26
+00:02:40,400 --> 00:02:47,000
+Erling Haaland (Norway) - Manchester City
+प्रदर्शन: 138 | गोल: 120 | असिस्ट: 18
+
+27
+00:02:47,000 --> 00:02:53,600
+Raheem Sterling (England) - Manchester City
+प्रदर्शन: 339 | गोल: 131 | असिस्ट: 73
+
+28
+00:02:53,600 --> 00:03:00,200
+Colin Bell (England) - Manchester City
+प्रदर्शन: 456 | गोल: 137 | असिस्ट: 4
+
+29
+00:03:00,200 --> 00:03:06,800
+Francis Lee (England) - Manchester City
+प्रदर्शन: 307 | गोल: 138 | असिस्ट: 14
+
+30
+00:03:06,800 --> 00:03:13,400
+Joe Hayes (England) - Manchester City
+प्रदर्शन: 338 | गोल: 146 | असिस्ट: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Sergio Agüero (Argentina) - Manchester City
+प्रदर्शन: 390 | गोल: 260 | असिस्ट: 64
+

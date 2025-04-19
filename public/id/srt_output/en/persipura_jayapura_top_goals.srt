@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persipura Jayapura All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Reno Salampessy (Indonesia) - Persipura Jayapura
+Appearances: 10 | Goals: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Ricardo Salampessy (Indonesia) - Persipura Jayapura
+Appearances: 174 | Goals: 5 | Assists: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Enzo Célestine (France) - Persipura Jayapura
+Appearances: 18 | Goals: 5 | Assists: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Marinus Wanewar (Indonesia) - Persipura Jayapura
+Appearances: 62 | Goals: 6 | Assists: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Osvaldo Haay (Indonesia) - Persipura Jayapura
+Appearances: 24 | Goals: 6 | Assists: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Gerald Pangkali (Indonesia) - Persipura Jayapura
+Appearances: 99 | Goals: 7 | Assists: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Elisa Basna (Indonesia) - Persipura Jayapura
+Appearances: 87 | Goals: 7 | Assists: 6
+
+9
+00:00:48,200 --> 00:00:54,800
+Arody Uopdana (Indonesia) - Persipura Jayapura
+Appearances: 23 | Goals: 7 | Assists: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Marcel Sacramento (Brazil) - Persipura Jayapura
+Appearances: 16 | Goals: 7 | Assists: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Friska Womsiwor (Indonesia) - Persipura Jayapura
+Appearances: 58 | Goals: 8 | Assists: 10
+
+12
+00:01:08,000 --> 00:01:14,600
+Yevgen Bokhashvili (Ukraine) - Persipura Jayapura
+Appearances: 26 | Goals: 8 | Assists: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Yustinus Pae (Indonesia) - Persipura Jayapura
+Appearances: 259 | Goals: 9 | Assists: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Ricky Kayame (Indonesia) - Persipura Jayapura
+Appearances: 54 | Goals: 9 | Assists: 4
+
+15
+00:01:27,800 --> 00:01:34,400
+Robertino Pugliara (Argentina) - Persipura Jayapura
+Appearances: 24 | Goals: 9 | Assists: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Todd Ferre (Indonesia) - Persipura Jayapura
+Appearances: 58 | Goals: 10 | Assists: 10
+
+17
+00:01:41,000 --> 00:01:47,600
+Otávio Dutra (Indonesia) - Persipura Jayapura
+Appearances: 31 | Goals: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Imanuel Wanggai (Indonesia) - Persipura Jayapura
+Appearances: 149 | Goals: 11 | Assists: 6
+
+19
+00:01:54,200 --> 00:02:00,800
+Hilton Moreira (Indonesia) - Persipura Jayapura
+Appearances: 29 | Goals: 11 | Assists: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Patrich Wanggai (Indonesia) - Persipura Jayapura
+Appearances: 29 | Goals: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Gunansar Mandowen (Indonesia) - Persipura Jayapura
+Appearances: 94 | Goals: 12 | Assists: 20
+
+22
+00:02:14,000 --> 00:02:20,600
+Lukas Mandowen (Indonesia) - Persipura Jayapura
+Appearances: 80 | Goals: 13 | Assists: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Bio Paulin (Indonesia) - Persipura Jayapura
+Appearances: 112 | Goals: 15 | Assists: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Zah Rahan Krangar (Liberia) - Persipura Jayapura
+Appearances: 60 | Goals: 16
+
+25
+00:02:33,800 --> 00:02:40,400
+Addison (Brazil) - Persipura Jayapura
+Appearances: 46 | Goals: 20 | Assists: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Titus Bonai (Indonesia) - Persipura Jayapura
+Appearances: 66 | Goals: 22 | Assists: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Beto (Indonesia) - Persipura Jayapura
+Appearances: 39 | Goals: 24
+
+28
+00:02:53,600 --> 00:03:00,200
+Ian Kabes (Indonesia) - Persipura Jayapura
+Appearances: 256 | Goals: 27 | Assists: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Yohanes Pahabol (Indonesia) - Persipura Jayapura
+Appearances: 135 | Goals: 30 | Assists: 16
+
+30
+00:03:06,800 --> 00:03:13,400
+Ramai Rumakiek (Indonesia) - Persipura Jayapura
+Appearances: 53 | Goals: 37 | Assists: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Boaz Solossa (Indonesia) - Persipura Jayapura
+Appearances: 209 | Goals: 98 | Assists: 32
+

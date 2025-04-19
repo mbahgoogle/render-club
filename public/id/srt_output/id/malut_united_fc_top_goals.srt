@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:02,000
+Malut United FC Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Ahmad Baasith (Indonesia) - Malut United FC
+Penampilan: 21 | Gol: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Finky Pasamba (Indonesia) - Malut United FC
+Penampilan: 23 | Gol: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Darel Valentino (Indonesia) - Malut United FC
+Penampilan: 6 | Gol: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Flabio Soares (Indonesia) - Malut United FC
+Penampilan: 6 | Gol: 1 | Asis: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Eduardus (Indonesia) - Malut United FC
+Penampilan: 1 | Gol: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Feri Saragih (Indonesia) - Malut United FC
+Penampilan: 5 | Gol: 1 | Asis: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Ichlasul Qadri (Indonesia) - Malut United FC
+Penampilan: 2 | Gol: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Firman Ramadhan (Indonesia) - Malut United FC
+Penampilan: 15 | Gol: 1 | Asis: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Cássio Scheid (Brazil) - Malut United FC
+Penampilan: 14 | Gol: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Andreas Ado (Indonesia) - Malut United FC
+Penampilan: 1 | Gol: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Joko Supriyanto (Indonesia) - Malut United FC
+Penampilan: 2 | Gol: 1 | Asis: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Victor Mansaray (United States) - Malut United FC
+Penampilan: 14 | Gol: 1 | Asis: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Tatsuro Nagamatsu (Japan) - Malut United FC
+Penampilan: 10 | Gol: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Adam Malik (Indonesia) - Malut United FC
+Penampilan: 6 | Gol: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Rifal Lastori (Indonesia) - Malut United FC
+Penampilan: 32 | Gol: 2 | Asis: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Adriano Castanheira (Portugal) - Malut United FC
+Penampilan: 26 | Gol: 2 | Asis: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Frets Butuan (Indonesia) - Malut United FC
+Penampilan: 33 | Gol: 2 | Asis: 4
+
+19
+00:01:54,200 --> 00:02:00,800
+Husnuzhon (Indonesia) - Malut United FC
+Penampilan: 4 | Gol: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Dave Mustaine (Indonesia) - Malut United FC
+Penampilan: 13 | Gol: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Junior Brandão (Brazil) - Malut United FC
+Penampilan: 9 | Gol: 2 | Asis: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Ilham Armaiyn (Indonesia) - Malut United FC
+Penampilan: 20 | Gol: 3 | Asis: 3
+
+23
+00:02:20,600 --> 00:02:27,200
+Indra Setiawan (Indonesia) - Malut United FC
+Penampilan: 6 | Gol: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Wawan Febrianto (Indonesia) - Malut United FC
+Penampilan: 15 | Gol: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Hari Nur (Indonesia) - Malut United FC
+Penampilan: 27 | Gol: 3 | Asis: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Yance Sayuri (Indonesia) - Malut United FC
+Penampilan: 25 | Gol: 4 | Asis: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Jorge Correa (Argentina) - Malut United FC
+Penampilan: 17 | Gol: 4 | Asis: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Yakob Sayuri (Indonesia) - Malut United FC
+Penampilan: 21 | Gol: 6 | Asis: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+Diego Martínez (Paraguay) - Malut United FC
+Penampilan: 22 | Gol: 8
+
+30
+00:03:06,800 --> 00:03:13,400
+Wilkson (Brazil) - Malut United FC
+Penampilan: 16 | Gol: 9 | Asis: 1

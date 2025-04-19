@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Angers SCO Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Albert Poli (Italy) - Angers SCO
+Presenze: 280 | Gol: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Karl Toko Ekambi (Cameroon) - Angers SCO
+Presenze: 72 | Gol: 25 | Assist: 11
+
+4
+00:00:15,200 --> 00:00:21,800
+Joël Pillard (France) - Angers SCO
+Presenze: 68 | Gol: 26
+
+5
+00:00:21,800 --> 00:00:28,400
+Jean-Paul Gaidoz (France) - Angers SCO
+Presenze: 105 | Gol: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Paul Alo'o Efoulou (Cameroon) - Angers SCO
+Presenze: 74 | Gol: 27 | Assist: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Alphonse Le Gall (France) - Angers SCO
+Presenze: 213 | Gol: 28
+
+8
+00:00:41,600 --> 00:00:48,200
+Jean-Pierre Thomas (France) - Angers SCO
+Presenze: 66 | Gol: 28
+
+9
+00:00:48,200 --> 00:00:54,800
+Stéphane Bahoken (Cameroon) - Angers SCO
+Presenze: 120 | Gol: 28 | Assist: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+Charles Diers (France) - Angers SCO
+Presenze: 268 | Gol: 30 | Assist: 20
+
+11
+00:01:01,400 --> 00:01:08,000
+Thomas Mangani (France) - Angers SCO
+Presenze: 257 | Gol: 30 | Assist: 29
+
+12
+00:01:08,000 --> 00:01:14,600
+Gaëtan Charbonnier (France) - Angers SCO
+Presenze: 107 | Gol: 31 | Assist: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Vladimir Kovacevic (Serbia) - Angers SCO
+Presenze: 75 | Gol: 33
+
+14
+00:01:21,200 --> 00:01:27,800
+Yvan Roy (France) - Angers SCO
+Presenze: 136 | Gol: 33
+
+15
+00:01:27,800 --> 00:01:34,400
+Marcel Loncle (France) - Angers SCO
+Presenze: 150 | Gol: 35
+
+16
+00:01:34,400 --> 00:01:41,000
+Jean Deloffre (France) - Angers SCO
+Presenze: 123 | Gol: 37
+
+17
+00:01:41,000 --> 00:01:47,600
+Claude Dubaële (France) - Angers SCO
+Presenze: 112 | Gol: 37
+
+18
+00:01:47,600 --> 00:01:54,200
+Fabrice Do Marcolino (Gabon) - Angers SCO
+Presenze: 108 | Gol: 37 | Assist: 3
+
+19
+00:01:54,200 --> 00:02:00,800
+Cédric Daury (France) - Angers SCO
+Presenze: 142 | Gol: 37 | Assist: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Robert Lamartine (France) - Angers SCO
+Presenze: 105 | Gol: 38
+
+21
+00:02:07,400 --> 00:02:14,000
+Jean-Pierre Dogliani (France) - Angers SCO
+Presenze: 152 | Gol: 39
+
+22
+00:02:14,000 --> 00:02:20,600
+Michel Margottin (France) - Angers SCO
+Presenze: 91 | Gol: 41
+
+23
+00:02:20,600 --> 00:02:27,200
+Patrice Sauvaget (France) - Angers SCO
+Presenze: 139 | Gol: 42
+
+24
+00:02:27,200 --> 00:02:33,800
+Claudiu Keerü (Romania) - Angers SCO
+Presenze: 127 | Gol: 42 | Assist: 18
+
+25
+00:02:33,800 --> 00:02:40,400
+Bosko Antic (Serbia) - Angers SCO
+Presenze: 116 | Gol: 46
+
+26
+00:02:40,400 --> 00:02:47,000
+Ignace Wognin (Cote d'Ivoire) - Angers SCO
+Presenze: 141 | Gol: 59
+
+27
+00:02:47,000 --> 00:02:53,600
+Michel Stievenard (France) - Angers SCO
+Presenze: 272 | Gol: 70
+
+28
+00:02:53,600 --> 00:03:00,200
+Éric Edwige (France) - Angers SCO
+Presenze: 297 | Gol: 70
+
+29
+00:03:00,200 --> 00:03:06,800
+Marc Berdoll (France) - Angers SCO
+Presenze: 203 | Gol: 87
+
+30
+00:03:06,800 --> 00:03:13,400
+Christophe Lagrange (France) - Angers SCO
+Presenze: 203 | Gol: 93 | Assist: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Stéphane Bruey (France) - Angers SCO
+Presenze: 285 | Gol: 107
+

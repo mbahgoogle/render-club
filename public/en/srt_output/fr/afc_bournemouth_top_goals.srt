@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AFC Bournemouth Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Garreth O'Connor (Ireland) - AFC Bournemouth
+Apparitions: 160 | Buts: 17 | Passes décisives: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Arnaut Danjuma (Netherlands) - AFC Bournemouth
+Apparitions: 52 | Buts: 17 | Passes décisives: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Charlie Daniels (England) - AFC Bournemouth
+Apparitions: 265 | Buts: 17 | Passes décisives: 26
+
+5
+00:00:21,800 --> 00:00:28,400
+Antoine Semenyo (Ghana) - AFC Bournemouth
+Apparitions: 81 | Buts: 18 | Passes décisives: 8
+
+6
+00:00:28,400 --> 00:00:35,000
+Josh McQuoid (Northern Ireland) - AFC Bournemouth
+Apparitions: 123 | Buts: 18 | Passes décisives: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Carl Fletcher (Wales) - AFC Bournemouth
+Apparitions: 172 | Buts: 20
+
+8
+00:00:41,600 --> 00:00:48,200
+Steve Cook (England) - AFC Bournemouth
+Apparitions: 387 | Buts: 21 | Passes décisives: 11
+
+9
+00:00:48,200 --> 00:00:54,800
+Dan Gosling (England) - AFC Bournemouth
+Apparitions: 192 | Buts: 22 | Passes décisives: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+David Brooks (Wales) - AFC Bournemouth
+Apparitions: 141 | Buts: 22 | Passes décisives: 17
+
+11
+00:01:01,400 --> 00:01:08,000
+Justin Kluivert (Netherlands) - AFC Bournemouth
+Apparitions: 69 | Buts: 22 | Passes décisives: 10
+
+12
+00:01:08,000 --> 00:01:14,600
+Jermain Defoe (England) - AFC Bournemouth
+Apparitions: 64 | Buts: 23 | Passes décisives: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Ryan Fraser (Scotland) - AFC Bournemouth
+Apparitions: 208 | Buts: 24 | Passes décisives: 30
+
+14
+00:01:21,200 --> 00:01:27,800
+Yann Kermorgant (France) - AFC Bournemouth
+Apparitions: 69 | Buts: 27 | Passes décisives: 14
+
+15
+00:01:27,800 --> 00:01:34,400
+Danny Hollands (England) - AFC Bournemouth
+Apparitions: 219 | Buts: 28 | Passes décisives: 6
+
+16
+00:01:34,400 --> 00:01:41,000
+Harry Arter (Ireland) - AFC Bournemouth
+Apparitions: 256 | Buts: 29 | Passes décisives: 20
+
+17
+00:01:41,000 --> 00:01:47,600
+Warren Feeney (Northern Ireland) - AFC Bournemouth
+Apparitions: 101 | Buts: 30
+
+18
+00:01:47,600 --> 00:01:54,200
+Wade Elliott (England) - AFC Bournemouth
+Apparitions: 202 | Buts: 30 | Passes décisives: 14
+
+19
+00:01:54,200 --> 00:02:00,800
+Matt Ritchie (Scotland) - AFC Bournemouth
+Apparitions: 142 | Buts: 31 | Passes décisives: 29
+
+20
+00:02:00,800 --> 00:02:07,400
+Philip Billing (Denmark) - AFC Bournemouth
+Apparitions: 201 | Buts: 31 | Passes décisives: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Mark Stein (England) - AFC Bournemouth
+Apparitions: 106 | Buts: 35
+
+22
+00:02:14,000 --> 00:02:20,600
+Lewis Grabban (Jamaica) - AFC Bournemouth
+Apparitions: 115 | Buts: 36 | Passes décisives: 14
+
+23
+00:02:20,600 --> 00:02:27,200
+Stephen Robinson (Northern Ireland) - AFC Bournemouth
+Apparitions: 166 | Buts: 37
+
+24
+00:02:27,200 --> 00:02:33,800
+Junior Stanislas (England) - AFC Bournemouth
+Apparitions: 179 | Buts: 37 | Passes décisives: 24
+
+25
+00:02:33,800 --> 00:02:40,400
+Joshua King (Norway) - AFC Bournemouth
+Apparitions: 184 | Buts: 53 | Passes décisives: 18
+
+26
+00:02:40,400 --> 00:02:47,000
+Marc Pugh (England) - AFC Bournemouth
+Apparitions: 312 | Buts: 56 | Passes décisives: 50
+
+27
+00:02:47,000 --> 00:02:53,600
+Callum Wilson (England) - AFC Bournemouth
+Apparitions: 187 | Buts: 67 | Passes décisives: 26
+
+28
+00:02:53,600 --> 00:03:00,200
+Dominic Solanke (England) - AFC Bournemouth
+Apparitions: 216 | Buts: 77 | Passes décisives: 29
+
+29
+00:03:00,200 --> 00:03:06,800
+Steve Fletcher (England) - AFC Bournemouth
+Apparitions: 526 | Buts: 92 | Passes décisives: 26
+
+30
+00:03:06,800 --> 00:03:13,400
+James Hayter (England) - AFC Bournemouth
+Apparitions: 343 | Buts: 93 | Passes décisives: 10
+
+31
+00:03:13,400 --> 00:03:20,000
+Brett Pitman (Jersey) - AFC Bournemouth
+Apparitions: 302 | Buts: 102 | Passes décisives: 18
+

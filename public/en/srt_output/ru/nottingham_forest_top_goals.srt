@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Nottingham Forest Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Ian Woan (England) - Nottingham Forest
+Матчи: 248 | Голы: 38 | Голевые передачи: 27
+
+3
+00:00:08,600 --> 00:00:15,200
+Stan Collymore (England) - Nottingham Forest
+Матчи: 57 | Голы: 38 | Голевые передачи: 7
+
+4
+00:00:15,200 --> 00:00:21,800
+Kris Commons (Scotland) - Nottingham Forest
+Матчи: 157 | Голы: 38 | Голевые передачи: 23
+
+5
+00:00:21,800 --> 00:00:28,400
+Ian Wallace (Scotland) - Nottingham Forest
+Матчи: 154 | Голы: 38 | Голевые передачи: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Colin Booth (England) - Nottingham Forest
+Матчи: 90 | Голы: 39 | Голевые передачи: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Martin O'Neill (Northern Ireland) - Nottingham Forest
+Матчи: 209 | Голы: 40 | Голевые передачи: 16
+
+8
+00:00:41,600 --> 00:00:48,200
+Nathan Tyson (England) - Nottingham Forest
+Матчи: 209 | Голы: 40 | Голевые передачи: 19
+
+9
+00:00:48,200 --> 00:00:54,800
+Andy Reid (Ireland) - Nottingham Forest
+Матчи: 288 | Голы: 41 | Голевые передачи: 49
+
+10
+00:00:54,800 --> 00:01:01,400
+Geoff Vowden (England) - Nottingham Forest
+Матчи: 100 | Голы: 42 | Голевые передачи: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Robert Earnshaw (Wales) - Nottingham Forest
+Матчи: 110 | Голы: 43 | Голевые передачи: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Dexter Blackstock (Antigua and Barbuda) - Nottingham Forest
+Матчи: 187 | Голы: 44 | Голевые передачи: 23
+
+13
+00:01:14,600 --> 00:01:21,200
+Lewis McGugan (England) - Nottingham Forest
+Матчи: 229 | Голы: 44 | Голевые передачи: 27
+
+14
+00:01:21,200 --> 00:01:27,800
+Joe Baker (England) - Nottingham Forest
+Матчи: 127 | Голы: 45 | Голевые передачи: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Tony Woodcock (England) - Nottingham Forest
+Матчи: 139 | Голы: 46 | Голевые передачи: 34
+
+16
+00:01:34,400 --> 00:01:41,000
+Frank Wignall (England) - Nottingham Forest
+Матчи: 167 | Голы: 48 | Голевые передачи: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+David Johnson (Jamaica) - Nottingham Forest
+Матчи: 163 | Голы: 48 | Голевые передачи: 7
+
+18
+00:01:47,600 --> 00:01:54,200
+Marlon Harewood (England) - Nottingham Forest
+Матчи: 204 | Голы: 54 | Голевые передачи: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+John Quigley (Scotland) - Nottingham Forest
+Матчи: 252 | Голы: 54 | Голевые передачи: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Neil Webb (England) - Nottingham Forest
+Матчи: 195 | Голы: 55 | Голевые передачи: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Lewis Grabban (Jamaica) - Nottingham Forest
+Матчи: 149 | Голы: 56 | Голевые передачи: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Tommy Wilson (England) - Nottingham Forest
+Матчи: 123 | Голы: 56
+
+23
+00:02:20,600 --> 00:02:27,200
+Peter Davenport (England) - Nottingham Forest
+Матчи: 136 | Голы: 57
+
+24
+00:02:27,200 --> 00:02:33,800
+Ian Bowyer (England) - Nottingham Forest
+Матчи: 397 | Голы: 59 | Голевые передачи: 9
+
+25
+00:02:33,800 --> 00:02:40,400
+Steve Hodge (England) - Nottingham Forest
+Матчи: 255 | Голы: 63 | Голевые передачи: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Colin Addison (England) - Nottingham Forest
+Матчи: 169 | Голы: 65
+
+27
+00:02:47,000 --> 00:02:53,600
+John Robertson (Scotland) - Nottingham Forest
+Матчи: 350 | Голы: 71 | Голевые передачи: 36
+
+28
+00:02:53,600 --> 00:03:00,200
+Stuart Pearce (England) - Nottingham Forest
+Матчи: 464 | Голы: 75 | Голевые передачи: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Garry Birtles (England) - Nottingham Forest
+Матчи: 266 | Голы: 89 | Голевые передачи: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Ian Storey-Moore (England) - Nottingham Forest
+Матчи: 251 | Голы: 113 | Голевые передачи: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Nigel Clough (England) - Nottingham Forest
+Матчи: 385 | Голы: 124 | Голевые передачи: 10
+

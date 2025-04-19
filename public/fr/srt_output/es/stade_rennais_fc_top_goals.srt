@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Rennais FC Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Marco Grassi (Switzerland) - Stade Rennais FC
+Partidos: 60 | Goles: 28 | Asistencias: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+John Utaka (Nigeria) - Stade Rennais FC
+Partidos: 75 | Goles: 28 | Asistencias: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Pokou (Cote d'Ivoire) - Stade Rennais FC
+Partidos: 56 | Goles: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+M'Baye Niang (Senegal) - Stade Rennais FC
+Partidos: 92 | Goles: 30 | Asistencias: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Stéphane Guivarc'h (France) - Stade Rennais FC
+Partidos: 45 | Goles: 30
+
+7
+00:00:35,000 --> 00:00:41,600
+Amine Gouiri (Algeria) - Stade Rennais FC
+Partidos: 103 | Goles: 31 | Asistencias: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Robert Rico (France) - Stade Rennais FC
+Partidos: 165 | Goles: 36
+
+9
+00:00:48,200 --> 00:00:54,800
+Arnaud Kalimuendo (France) - Stade Rennais FC
+Partidos: 105 | Goles: 36 | Asistencias: 9
+
+10
+00:00:54,800 --> 00:01:01,400
+Adrien Hunou (France) - Stade Rennais FC
+Partidos: 160 | Goles: 36 | Asistencias: 5
+
+11
+00:01:01,400 --> 00:01:08,000
+Shabani Nonda (DR Congo) - Stade Rennais FC
+Partidos: 77 | Goles: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+Marcel Loncle (France) - Stade Rennais FC
+Partidos: 155 | Goles: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+Claude Dubaële (France) - Stade Rennais FC
+Partidos: 101 | Goles: 37
+
+14
+00:01:21,200 --> 00:01:27,800
+Olivier Monterrubio (France) - Stade Rennais FC
+Partidos: 216 | Goles: 41 | Asistencias: 33
+
+15
+00:01:27,800 --> 00:01:34,400
+Farès Bousdira (France) - Stade Rennais FC
+Partidos: 121 | Goles: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Laurent Delamontagne (France) - Stade Rennais FC
+Partidos: 213 | Goles: 42
+
+17
+00:01:41,000 --> 00:01:47,600
+Jimmy Briand (France) - Stade Rennais FC
+Partidos: 212 | Goles: 43 | Asistencias: 27
+
+18
+00:01:47,600 --> 00:01:54,200
+Jocelyn Gourvennec (France) - Stade Rennais FC
+Partidos: 179 | Goles: 43 | Asistencias: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Silvester Takac (Serbia) - Stade Rennais FC
+Partidos: 94 | Goles: 44
+
+20
+00:02:00,800 --> 00:02:07,400
+Sylvain Wiltord (France) - Stade Rennais FC
+Partidos: 178 | Goles: 45 | Asistencias: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Hervé Guermeur (France) - Stade Rennais FC
+Partidos: 204 | Goles: 46 | Asistencias: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Erik-Jan van den Boogaard (Netherlands) - Stade Rennais FC
+Partidos: 93 | Goles: 49
+
+23
+00:02:20,600 --> 00:02:27,200
+Mario Relmy (France) - Stade Rennais FC
+Partidos: 130 | Goles: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Martin Terrier (France) - Stade Rennais FC
+Partidos: 141 | Goles: 51 | Asistencias: 24
+
+25
+00:02:33,800 --> 00:02:40,400
+Alex Frei (Switzerland) - Stade Rennais FC
+Partidos: 117 | Goles: 52 | Asistencias: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Serge Lenoir (France) - Stade Rennais FC
+Partidos: 132 | Goles: 55
+
+27
+00:02:47,000 --> 00:02:53,600
+Benjamin Bourigeaud (France) - Stade Rennais FC
+Partidos: 311 | Goles: 66 | Asistencias: 66
+
+28
+00:02:53,600 --> 00:03:00,200
+Khennane Mahi (Algeria) - Stade Rennais FC
+Partidos: 179 | Goles: 70
+
+29
+00:03:00,200 --> 00:03:06,800
+Giovanni Pellegrini (France) - Stade Rennais FC
+Partidos: 176 | Goles: 78
+
+30
+00:03:06,800 --> 00:03:13,400
+Jean Grumellon (France) - Stade Rennais FC
+Partidos: 134 | Goles: 92
+
+31
+00:03:13,400 --> 00:03:20,000
+Daniel Rodighiero (France) - Stade Rennais FC
+Partidos: 228 | Goles: 125
+

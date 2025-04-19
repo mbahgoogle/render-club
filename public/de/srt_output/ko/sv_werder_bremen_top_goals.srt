@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+SV Werder Bremen 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Torsten Frings (Germany) - SV Werder Bremen
+출전: 449 | 골: 52 | 도움: 62
+
+3
+00:00:08,600 --> 00:00:15,200
+Markus Rosenberg (Sweden) - SV Werder Bremen
+출전: 165 | 골: 53 | 도움: 27
+
+4
+00:00:15,200 --> 00:00:21,800
+Marvin Ducksch (Germany) - SV Werder Bremen
+출전: 127 | 골: 53 | 도움: 38
+
+5
+00:00:21,800 --> 00:00:28,400
+Diego (Brazil) - SV Werder Bremen
+출전: 132 | 골: 54 | 도움: 42
+
+6
+00:00:28,400 --> 00:00:35,000
+Karl-Heinz Riedle (Germany) - SV Werder Bremen
+출전: 126 | 골: 59 | 도움: 14
+
+7
+00:00:35,000 --> 00:00:41,600
+Benno Möhlmann (Germany) - SV Werder Bremen
+출전: 340 | 골: 61 | 도움: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Miroslav Klose (Germany) - SV Werder Bremen
+출전: 132 | 골: 63 | 도움: 47
+
+9
+00:00:48,200 --> 00:00:54,800
+Hugo Almeida (Portugal) - SV Werder Bremen
+출전: 177 | 골: 63 | 도움: 26
+
+10
+00:00:54,800 --> 00:01:01,400
+Werner Weist (Germany) - SV Werder Bremen
+출전: 166 | 골: 65 | 도움: 9
+
+11
+00:01:01,400 --> 00:01:08,000
+Hans Hagenacker (Germany) - SV Werder Bremen
+출전: 275 | 골: 65
+
+12
+00:01:08,000 --> 00:01:14,600
+Jürgen Röber (Germany) - SV Werder Bremen
+출전: 216 | 골: 68 | 도움: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Günter Wilmovius (Germany) - SV Werder Bremen
+출전: 179 | 골: 70
+
+14
+00:01:21,200 --> 00:01:27,800
+Gerhard Zebrowski (Germany) - SV Werder Bremen
+출전: 250 | 골: 72 | 도움: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Andreas Herzog (Austria) - SV Werder Bremen
+출전: 307 | 골: 72 | 도움: 86
+
+16
+00:01:34,400 --> 00:01:41,000
+Horst-Dieter Höttges (Germany) - SV Werder Bremen
+출전: 483 | 골: 74 | 도움: 20
+
+17
+00:01:41,000 --> 00:01:47,600
+Horst Gernhardt (Germany) - SV Werder Bremen
+출전: 134 | 골: 75
+
+18
+00:01:47,600 --> 00:01:54,200
+Ivan Klasnic (Croatia) - SV Werder Bremen
+출전: 205 | 골: 77 | 도움: 44
+
+19
+00:01:54,200 --> 00:02:00,800
+Klaus Hänel (Germany) - SV Werder Bremen
+출전: 255 | 골: 87 | 도움: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Werner Görts (Germany) - SV Werder Bremen
+출전: 425 | 골: 92 | 도움: 27
+
+21
+00:02:07,400 --> 00:02:14,000
+Wynton Rufer (New Zealand) - SV Werder Bremen
+출전: 242 | 골: 104 | 도움: 33
+
+22
+00:02:14,000 --> 00:02:20,600
+Aílton (Brazil) - SV Werder Bremen
+출전: 214 | 골: 106 | 도움: 42
+
+23
+00:02:20,600 --> 00:02:27,200
+Norbert Meier (Germany) - SV Werder Bremen
+출전: 372 | 골: 113 | 도움: 16
+
+24
+00:02:27,200 --> 00:02:33,800
+Uwe Reinders (Germany) - SV Werder Bremen
+출전: 308 | 골: 118 | 도움: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Rudi Völler (Germany) - SV Werder Bremen
+출전: 174 | 골: 119 | 도움: 6
+
+26
+00:02:40,400 --> 00:02:47,000
+Marco Bode (Germany) - SV Werder Bremen
+출전: 495 | 골: 134 | 도움: 66
+
+27
+00:02:47,000 --> 00:02:53,600
+Karl-Heinz Preuße (Germany) - SV Werder Bremen
+출전: 200 | 골: 138
+
+28
+00:02:53,600 --> 00:03:00,200
+Frank Neubarth (Germany) - SV Werder Bremen
+출전: 421 | 골: 141 | 도움: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Willi Schröder (Germany) - SV Werder Bremen
+출전: 239 | 골: 146
+
+30
+00:03:06,800 --> 00:03:13,400
+Claudio Pizarro (Peru) - SV Werder Bremen
+출전: 320 | 골: 153 | 도움: 53
+
+31
+00:03:13,400 --> 00:03:20,000
+Arnold Schütz (Germany) - SV Werder Bremen
+출전: 540 | 골: 200 | 도움: 13
+

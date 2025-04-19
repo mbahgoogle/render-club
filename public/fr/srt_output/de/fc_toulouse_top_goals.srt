@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Toulouse Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Rafael Ratão (Brazil) - FC Toulouse
+Einsätze: 64 | Tore: 19 | Vorlagen: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Laurent Sachy (France) - FC Toulouse
+Einsätze: 90 | Tore: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Batlles (France) - FC Toulouse
+Einsätze: 264 | Tore: 19 | Vorlagen: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Jean-François Domergue (France) - FC Toulouse
+Einsätze: 124 | Tore: 20
+
+6
+00:00:28,400 --> 00:00:35,000
+Gérard Soler (France) - FC Toulouse
+Einsätze: 64 | Tore: 20
+
+7
+00:00:35,000 --> 00:00:41,600
+Vladimir Petrovic (Croatia) - FC Toulouse
+Einsätze: 65 | Tore: 22
+
+8
+00:00:41,600 --> 00:00:48,200
+Bernard Ferrer (France) - FC Toulouse
+Einsätze: 76 | Tore: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Daniel Moreira (France) - FC Toulouse
+Einsätze: 71 | Tore: 23 | Vorlagen: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+Jean-Marc Ferratge (France) - FC Toulouse
+Einsätze: 139 | Tore: 23
+
+11
+00:01:01,400 --> 00:01:08,000
+Johan Elmander (Sweden) - FC Toulouse
+Einsätze: 73 | Tore: 23 | Vorlagen: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Branco van den Boomen (Netherlands) - FC Toulouse
+Einsätze: 121 | Tore: 23 | Vorlagen: 45
+
+13
+00:01:14,600 --> 00:01:21,200
+Moussa Sissoko (France) - FC Toulouse
+Einsätze: 220 | Tore: 24 | Vorlagen: 15
+
+14
+00:01:21,200 --> 00:01:27,800
+Thierry Moreau (France) - FC Toulouse
+Einsätze: 241 | Tore: 25 | Vorlagen: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Zakaria Aboukhlal (Morocco) - FC Toulouse
+Einsätze: 80 | Tore: 25 | Vorlagen: 7
+
+16
+00:01:34,400 --> 00:01:41,000
+Achille Emaná (Cameroon) - FC Toulouse
+Einsätze: 220 | Tore: 27 | Vorlagen: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Max Gradel (Cote d'Ivoire) - FC Toulouse
+Einsätze: 96 | Tore: 28 | Vorlagen: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Anthony Bancarel (France) - FC Toulouse
+Einsätze: 132 | Tore: 30 | Vorlagen: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Michel Pavon (France) - FC Toulouse
+Einsätze: 214 | Tore: 31 | Vorlagen: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Jean-Philippe Durand (France) - FC Toulouse
+Einsätze: 223 | Tore: 33
+
+21
+00:02:07,400 --> 00:02:14,000
+Cédric Fauré (France) - FC Toulouse
+Einsätze: 78 | Tore: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Thijs Dallinga (Netherlands) - FC Toulouse
+Einsätze: 86 | Tore: 37 | Vorlagen: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+Rhys Healey (England) - FC Toulouse
+Einsätze: 77 | Tore: 39 | Vorlagen: 7
+
+24
+00:02:27,200 --> 00:02:33,800
+Martin Braithwaite (Denmark) - FC Toulouse
+Einsätze: 149 | Tore: 40 | Vorlagen: 15
+
+25
+00:02:33,800 --> 00:02:40,400
+André-Pierre Gignac (France) - FC Toulouse
+Einsätze: 119 | Tore: 42 | Vorlagen: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Gérald Passi (France) - FC Toulouse
+Einsätze: 163 | Tore: 47
+
+27
+00:02:47,000 --> 00:02:53,600
+Francois Calderaro (France) - FC Toulouse
+Einsätze: 97 | Tore: 49
+
+28
+00:02:53,600 --> 00:03:00,200
+Robert Pintenat (France) - FC Toulouse
+Einsätze: 100 | Tore: 57
+
+29
+00:03:00,200 --> 00:03:06,800
+Yannick Stopyra (France) - FC Toulouse
+Einsätze: 172 | Tore: 59
+
+30
+00:03:06,800 --> 00:03:13,400
+Alberto Márcico (Argentina) - FC Toulouse
+Einsätze: 248 | Tore: 67 | Vorlagen: 3
+
+31
+00:03:13,400 --> 00:03:20,000
+Wissam Ben Yedder (France) - FC Toulouse
+Einsätze: 174 | Tore: 71 | Vorlagen: 21
+

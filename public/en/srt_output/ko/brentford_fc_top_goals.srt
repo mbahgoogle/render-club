@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Brentford FC 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Jonathan Douglas (Ireland) - Brentford FC
+출전: 187 | 골: 17 | 도움: 11
+
+3
+00:00:08,600 --> 00:00:15,200
+Ben Burgess (Ireland) - Brentford FC
+출전: 45 | 골: 17
+
+4
+00:00:15,200 --> 00:00:21,800
+Marcus Forss (Finland) - Brentford FC
+출전: 74 | 골: 19 | 도움: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Isaiah Rankin (England) - Brentford FC
+출전: 94 | 골: 19 | 도움: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Andre Gray (Jamaica) - Brentford FC
+출전: 52 | 골: 20 | 도움: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Robert Taylor (England) - Brentford FC
+출전: 69 | 골: 21
+
+8
+00:00:41,600 --> 00:00:48,200
+Glenn Poole (England) - Brentford FC
+출전: 78 | 골: 21 | 도움: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Scott Hogan (Ireland) - Brentford FC
+출전: 36 | 골: 21 | 도움: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Jay Tabb (Ireland) - Brentford FC
+출전: 147 | 골: 22 | 도움: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Josh Dasilva (England) - Brentford FC
+출전: 157 | 골: 22 | 도움: 12
+
+12
+00:01:08,000 --> 00:01:14,600
+Jota Peleteiro (Spain) - Brentford FC
+출전: 78 | 골: 23 | 도움: 11
+
+13
+00:01:14,600 --> 00:01:21,200
+Marcello Trotta (Italy) - Brentford FC
+출전: 69 | 골: 23 | 도움: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy Scott (England) - Brentford FC
+출전: 92 | 골: 25
+
+15
+00:01:27,800 --> 00:01:34,400
+Alan Judge (Ireland) - Brentford FC
+출전: 140 | 골: 26 | 도움: 31
+
+16
+00:01:34,400 --> 00:01:41,000
+Gary Alexander (England) - Brentford FC
+출전: 77 | 골: 26 | 도움: 5
+
+17
+00:01:41,000 --> 00:01:47,600
+Paul Evans (Wales) - Brentford FC
+출전: 125 | 골: 28
+
+18
+00:01:47,600 --> 00:01:54,200
+Stephen Hunt (Ireland) - Brentford FC
+출전: 149 | 골: 28
+
+19
+00:01:54,200 --> 00:02:00,800
+Saïd Benrahma (Algeria) - Brentford FC
+출전: 94 | 골: 30 | 도움: 26
+
+20
+00:02:00,800 --> 00:02:07,400
+Sam Saunders (England) - Brentford FC
+출전: 206 | 골: 30 | 도움: 32
+
+21
+00:02:07,400 --> 00:02:14,000
+Sergi Canós (Spain) - Brentford FC
+출전: 249 | 골: 36 | 도움: 32
+
+22
+00:02:14,000 --> 00:02:20,600
+Lasse Vibe (Denmark) - Brentford FC
+출전: 97 | 골: 37 | 도움: 13
+
+23
+00:02:20,600 --> 00:02:27,200
+Kevin O'Connor (Ireland) - Brentford FC
+출전: 481 | 골: 41 | 도움: 6
+
+24
+00:02:27,200 --> 00:02:33,800
+Yoane Wissa (DR Congo) - Brentford FC
+출전: 141 | 골: 44 | 도움: 10
+
+25
+00:02:33,800 --> 00:02:40,400
+Charlie MacDonald (England) - Brentford FC
+출전: 127 | 골: 45 | 도움: 19
+
+26
+00:02:40,400 --> 00:02:47,000
+Ollie Watkins (England) - Brentford FC
+출전: 143 | 골: 49 | 도움: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Neal Maupay (France) - Brentford FC
+출전: 126 | 골: 49 | 도움: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Clayton Donaldson (Jamaica) - Brentford FC
+출전: 155 | 골: 53 | 도움: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Lloyd Owusu (Ghana) - Brentford FC
+출전: 181 | 골: 59 | 도움: 5
+
+30
+00:03:06,800 --> 00:03:13,400
+Bryan Mbeumo (Cameroon) - Brentford FC
+출전: 234 | 골: 66 | 도움: 47
+
+31
+00:03:13,400 --> 00:03:20,000
+Ivan Toney (England) - Brentford FC
+출전: 141 | 골: 72 | 도움: 23
+

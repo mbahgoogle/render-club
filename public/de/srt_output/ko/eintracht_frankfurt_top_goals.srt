@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Eintracht Frankfurt 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Bruno Pezzey (Austria) - Eintracht Frankfurt
+출전: 181 | 골: 38 | 도움: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Jörn Andersen (Norway) - Eintracht Frankfurt
+출전: 115 | 골: 38 | 도움: 11
+
+4
+00:00:15,200 --> 00:00:21,800
+Manfred Binz (Germany) - Eintracht Frankfurt
+출전: 411 | 골: 38 | 도움: 20
+
+5
+00:00:21,800 --> 00:00:28,400
+Daichi Kamada (Japan) - Eintracht Frankfurt
+출전: 179 | 골: 40 | 도움: 33
+
+6
+00:00:28,400 --> 00:00:35,000
+Luka Jović (Serbia) - Eintracht Frankfurt
+출전: 93 | 골: 40 | 도움: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Andreas Möller (Germany) - Eintracht Frankfurt
+출전: 137 | 골: 41 | 도움: 18
+
+8
+00:00:41,600 --> 00:00:48,200
+Erich Bäumler (Germany) - Eintracht Frankfurt
+출전: 115 | 골: 43
+
+9
+00:00:48,200 --> 00:00:54,800
+Wolfgang Kraus (Germany) - Eintracht Frankfurt
+출전: 233 | 골: 45 | 도움: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+André Silva (Portugal) - Eintracht Frankfurt
+출전: 71 | 골: 45 | 도움: 15
+
+11
+00:01:01,400 --> 00:01:08,000
+Hubert Schieth (Germany) - Eintracht Frankfurt
+출전: 107 | 골: 46
+
+12
+00:01:08,000 --> 00:01:14,600
+Uwe Bein (Germany) - Eintracht Frankfurt
+출전: 182 | 골: 47 | 도움: 64
+
+13
+00:01:14,600 --> 00:01:21,200
+Willi Kraus (Germany) - Eintracht Frankfurt
+출전: 120 | 골: 49
+
+14
+00:01:21,200 --> 00:01:27,800
+Ioannis Amanatidis (Greece) - Eintracht Frankfurt
+출전: 158 | 골: 49 | 도움: 16
+
+15
+00:01:27,800 --> 00:01:34,400
+Karl-Heinz Körbel (Germany) - Eintracht Frankfurt
+출전: 731 | 골: 51 | 도움: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Hans Weilbächer (Germany) - Eintracht Frankfurt
+출전: 271 | 골: 53 | 도움: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Bum-kun Cha (Korea, South) - Eintracht Frankfurt
+출전: 156 | 골: 58 | 도움: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Eckehard Feigenspan (Germany) - Eintracht Frankfurt
+출전: 87 | 골: 66 | 도움: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Dieter Lindner (Germany) - Eintracht Frankfurt
+출전: 395 | 골: 66 | 도움: 12
+
+20
+00:02:00,800 --> 00:02:07,400
+Rüdiger Wenzel (Germany) - Eintracht Frankfurt
+출전: 166 | 골: 68
+
+21
+00:02:07,400 --> 00:02:14,000
+Lothar Schämer (Germany) - Eintracht Frankfurt
+출전: 359 | 골: 74 | 도움: 15
+
+22
+00:02:14,000 --> 00:02:20,600
+Richard Kreß (Germany) - Eintracht Frankfurt
+출전: 325 | 골: 80 | 도움: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+Wolfgang Solz (Germany) - Eintracht Frankfurt
+출전: 223 | 골: 81 | 도움: 18
+
+24
+00:02:27,200 --> 00:02:33,800
+Anthony Yeboah (Ghana) - Eintracht Frankfurt
+출전: 156 | 골: 89 | 도움: 29
+
+25
+00:02:33,800 --> 00:02:40,400
+Wilhelm Huberts (Austria) - Eintracht Frankfurt
+출전: 261 | 골: 89 | 도움: 29
+
+26
+00:02:40,400 --> 00:02:47,000
+Erwin Stein (Germany) - Eintracht Frankfurt
+출전: 180 | 골: 111 | 도움: 7
+
+27
+00:02:47,000 --> 00:02:53,600
+Alfred Pfaff (Germany) - Eintracht Frankfurt
+출전: 323 | 골: 111 | 도움: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Alexander Meier (Germany) - Eintracht Frankfurt
+출전: 379 | 골: 137 | 도움: 55
+
+29
+00:03:00,200 --> 00:03:06,800
+Jürgen Grabowski (Germany) - Eintracht Frankfurt
+출전: 545 | 골: 147 | 도움: 76
+
+30
+00:03:06,800 --> 00:03:13,400
+Bernd Nickel (Germany) - Eintracht Frankfurt
+출전: 534 | 골: 178 | 도움: 37
+
+31
+00:03:13,400 --> 00:03:20,000
+Bernd Hölzenbein (Germany) - Eintracht Frankfurt
+출전: 524 | 골: 212 | 도움: 39
+

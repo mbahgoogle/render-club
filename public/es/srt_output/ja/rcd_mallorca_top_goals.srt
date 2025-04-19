@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RCD Mallorca 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Manuel Haro (Spain) - RCD Mallorca
+出場数: 58 | ゴール: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Emilio Nsue (Equatorial Guinea) - RCD Mallorca
+出場数: 154 | ゴール: 16 | アシスト: 12
+
+4
+00:00:15,200 --> 00:00:21,800
+Antonio Raíllo (Spain) - RCD Mallorca
+出場数: 284 | ゴール: 17 | アシスト: 8
+
+5
+00:00:21,800 --> 00:00:28,400
+Leo Biagini (Argentina) - RCD Mallorca
+出場数: 94 | ゴール: 17
+
+6
+00:00:28,400 --> 00:00:35,000
+Walter Pandiani (Uruguay) - RCD Mallorca
+出場数: 40 | ゴール: 18 | アシスト: 8
+
+7
+00:00:35,000 --> 00:00:41,600
+Ante Budimir (Croatia) - RCD Mallorca
+出場数: 57 | ゴール: 19 | アシスト: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Dani García (Spain) - RCD Mallorca
+出場数: 49 | ゴール: 19
+
+9
+00:00:48,200 --> 00:00:54,800
+Alejandro Alfaro (Spain) - RCD Mallorca
+出場数: 105 | ゴール: 19 | アシスト: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Brandon Thomas (Spain) - RCD Mallorca
+出場数: 78 | ゴール: 21 | アシスト: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Jovan Stankovic (Serbia) - RCD Mallorca
+出場数: 170 | ゴール: 22 | アシスト: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Diego Tristán (Spain) - RCD Mallorca
+出場数: 62 | ゴール: 23 | アシスト: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Tomer Hemed (Israel) - RCD Mallorca
+出場数: 97 | ゴール: 23 | アシスト: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Enrique Magdaleno (Spain) - RCD Mallorca
+出場数: 74 | ゴール: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Aritz Aduriz (Spain) - RCD Mallorca
+出場数: 78 | ゴール: 24 | アシスト: 10
+
+16
+00:01:34,400 --> 00:01:41,000
+Albert Luque (Spain) - RCD Mallorca
+出場数: 88 | ゴール: 24 | アシスト: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Salva Sevilla (Spain) - RCD Mallorca
+出場数: 186 | ゴール: 25 | アシスト: 21
+
+18
+00:01:47,600 --> 00:01:54,200
+Carlitos (Spain) - RCD Mallorca
+出場数: 152 | ゴール: 26 | アシスト: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Chory Castro (Uruguay) - RCD Mallorca
+出場数: 148 | ゴール: 27 | アシスト: 26
+
+20
+00:02:00,800 --> 00:02:07,400
+Pierre Webó (Cameroon) - RCD Mallorca
+出場数: 121 | ゴール: 28 | アシスト: 15
+
+21
+00:02:07,400 --> 00:02:14,000
+Goran Milojevic (Serbia) - RCD Mallorca
+出場数: 69 | ゴール: 28
+
+22
+00:02:14,000 --> 00:02:20,600
+Miguel Ángel Nadal (Spain) - RCD Mallorca
+出場数: 305 | ゴール: 29 | アシスト: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Ariel Ibagaza (Argentina) - RCD Mallorca
+出場数: 245 | ゴール: 30 | アシスト: 33
+
+24
+00:02:27,200 --> 00:02:33,800
+Dani Rodríguez (Spain) - RCD Mallorca
+出場数: 272 | ゴール: 32 | アシスト: 38
+
+25
+00:02:33,800 --> 00:02:40,400
+Dani Güiza (Spain) - RCD Mallorca
+出場数: 50 | ゴール: 32 | アシスト: 8
+
+26
+00:02:40,400 --> 00:02:47,000
+Vedat Muriqi (Kosovo) - RCD Mallorca
+出場数: 112 | ゴール: 35 | アシスト: 11
+
+27
+00:02:47,000 --> 00:02:53,600
+Lago Júnior (Cote d'Ivoire) - RCD Mallorca
+出場数: 206 | ゴール: 36 | アシスト: 13
+
+28
+00:02:53,600 --> 00:03:00,200
+Víctor Casadesús (Spain) - RCD Mallorca
+出場数: 236 | ゴール: 46 | アシスト: 23
+
+29
+00:03:00,200 --> 00:03:06,800
+Juan Arango (Venezuela) - RCD Mallorca
+出場数: 195 | ゴール: 49 | アシスト: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Abdón Prats (Spain) - RCD Mallorca
+出場数: 263 | ゴール: 55 | アシスト: 11
+
+31
+00:03:13,400 --> 00:03:20,000
+Samuel Eto'o (Cameroon) - RCD Mallorca
+出場数: 162 | ゴール: 70 | アシスト: 19
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Chelsea FC सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Fernando Torres (Spain) - Chelsea FC
+प्रदर्शन: 172 | गोल: 45 | असिस्ट: 29
+
+3
+00:00:08,600 --> 00:00:15,200
+Kevin Wilson (Northern Ireland) - Chelsea FC
+प्रदर्शन: 172 | गोल: 47 | असिस्ट: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Gustavo Poyet (Uruguay) - Chelsea FC
+प्रदर्शन: 144 | गोल: 49 | असिस्ट: 16
+
+5
+00:00:21,800 --> 00:00:28,400
+Tore André Flo (Norway) - Chelsea FC
+प्रदर्शन: 163 | गोल: 50 | असिस्ट: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Frank Blunstone (England) - Chelsea FC
+प्रदर्शन: 343 | गोल: 53 | असिस्ट: 6
+
+7
+00:00:35,000 --> 00:00:41,600
+Ian Hutchinson (England) - Chelsea FC
+प्रदर्शन: 125 | गोल: 54
+
+8
+00:00:41,600 --> 00:00:48,200
+Peter Brabrook (England) - Chelsea FC
+प्रदर्शन: 270 | गोल: 57 | असिस्ट: 7
+
+9
+00:00:48,200 --> 00:00:54,800
+Diego Costa (Spain) - Chelsea FC
+प्रदर्शन: 120 | गोल: 59 | असिस्ट: 21
+
+10
+00:00:54,800 --> 00:01:01,400
+Gordon Durie (Scotland) - Chelsea FC
+प्रदर्शन: 139 | गोल: 59 | असिस्ट: 9
+
+11
+00:01:01,400 --> 00:01:08,000
+Nicolas Anelka (France) - Chelsea FC
+प्रदर्शन: 184 | गोल: 59 | असिस्ट: 26
+
+12
+00:01:08,000 --> 00:01:14,600
+Salomon Kalou (Cote d'Ivoire) - Chelsea FC
+प्रदर्शन: 254 | गोल: 60 | असिस्ट: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+John Hollins (England) - Chelsea FC
+प्रदर्शन: 560 | गोल: 62 | असिस्ट: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Willian (Brazil) - Chelsea FC
+प्रदर्शन: 339 | गोल: 63 | असिस्ट: 57
+
+15
+00:01:27,800 --> 00:01:34,400
+Johnny McNichol (Scotland) - Chelsea FC
+प्रदर्शन: 198 | गोल: 63
+
+16
+00:01:34,400 --> 00:01:41,000
+John Terry (England) - Chelsea FC
+प्रदर्शन: 717 | गोल: 67 | असिस्ट: 27
+
+17
+00:01:41,000 --> 00:01:47,600
+Ron Tindall (England) - Chelsea FC
+प्रदर्शन: 172 | गोल: 68
+
+18
+00:01:47,600 --> 00:01:54,200
+Dennis Wise (England) - Chelsea FC
+प्रदर्शन: 440 | गोल: 73 | असिस्ट: 46
+
+19
+00:01:54,200 --> 00:02:00,800
+Eidur Gudjohnsen (Iceland) - Chelsea FC
+प्रदर्शन: 263 | गोल: 78 | असिस्ट: 41
+
+20
+00:02:00,800 --> 00:02:07,400
+Gianfranco Zola (Italy) - Chelsea FC
+प्रदर्शन: 312 | गोल: 80 | असिस्ट: 42
+
+21
+00:02:07,400 --> 00:02:14,000
+Jimmy Floyd Hasselbaink (Netherlands) - Chelsea FC
+प्रदर्शन: 177 | गोल: 87 | असिस्ट: 36
+
+22
+00:02:14,000 --> 00:02:20,600
+Barry Bridges (England) - Chelsea FC
+प्रदर्शन: 201 | गोल: 88 | असिस्ट: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Tommy Baldwin (England) - Chelsea FC
+प्रदर्शन: 231 | गोल: 91 | असिस्ट: 4
+
+24
+00:02:27,200 --> 00:02:33,800
+Eden Hazard (Belgium) - Chelsea FC
+प्रदर्शन: 352 | गोल: 110 | असिस्ट: 85
+
+25
+00:02:33,800 --> 00:02:40,400
+Jimmy Greaves (England) - Chelsea FC
+प्रदर्शन: 168 | गोल: 132 | असिस्ट: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Peter Osgood (England) - Chelsea FC
+प्रदर्शन: 369 | गोल: 140 | असिस्ट: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Roy Bentley (England) - Chelsea FC
+प्रदर्शन: 352 | गोल: 144
+
+28
+00:02:53,600 --> 00:03:00,200
+Kerry Dixon (England) - Chelsea FC
+प्रदर्शन: 363 | गोल: 157 | असिस्ट: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Didier Drogba (Cote d'Ivoire) - Chelsea FC
+प्रदर्शन: 381 | गोल: 164 | असिस्ट: 77
+
+30
+00:03:06,800 --> 00:03:13,400
+Bobby Tambling (England) - Chelsea FC
+प्रदर्शन: 362 | गोल: 194 | असिस्ट: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Frank Lampard (England) - Chelsea FC
+प्रदर्शन: 648 | गोल: 211 | असिस्ट: 147
+

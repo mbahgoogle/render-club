@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Sevilla FC Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Miguel Torrontegui (Spain) - Sevilla FC
+Partidas: 101 | Gols: 41
+
+3
+00:00:08,600 --> 00:00:15,200
+Pablo Sarabia (Spain) - Sevilla FC
+Partidas: 151 | Gols: 43 | Assistências: 38
+
+4
+00:00:15,200 --> 00:00:21,800
+Pepillo García (Spain) - Sevilla FC
+Partidas: 107 | Gols: 43 | Assistências: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Lucas Ocampos (Argentina) - Sevilla FC
+Partidas: 208 | Gols: 44 | Assistências: 22
+
+6
+00:00:28,400 --> 00:00:35,000
+Raimundo Blanco (Spain) - Sevilla FC
+Partidas: 72 | Gols: 45
+
+7
+00:00:35,000 --> 00:00:41,600
+Enrique Montero (Spain) - Sevilla FC
+Partidas: 269 | Gols: 45
+
+8
+00:00:41,600 --> 00:00:48,200
+Ramón (Spain) - Sevilla FC
+Partidas: 230 | Gols: 46
+
+9
+00:00:48,200 --> 00:00:54,800
+Vasilios Tsiartas (Greece) - Sevilla FC
+Partidas: 149 | Gols: 47 | Assistências: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+Loren (Spain) - Sevilla FC
+Partidas: 105 | Gols: 48
+
+11
+00:01:01,400 --> 00:01:08,000
+Pepillo (Spain) - Sevilla FC
+Partidas: 97 | Gols: 49
+
+12
+00:01:08,000 --> 00:01:14,600
+Carlos Bacca (Colombia) - Sevilla FC
+Partidas: 108 | Gols: 49 | Assistências: 22
+
+13
+00:01:14,600 --> 00:01:21,200
+Júlio Baptista (Brazil) - Sevilla FC
+Partidas: 84 | Gols: 50 | Assistências: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Ivan Rakitic (Croatia) - Sevilla FC
+Partidas: 323 | Gols: 51 | Assistências: 63
+
+15
+00:01:27,800 --> 00:01:34,400
+Antoniet Ivorra (Spain) - Sevilla FC
+Partidas: 141 | Gols: 52
+
+16
+00:01:34,400 --> 00:01:41,000
+José Campos (Spain) - Sevilla FC
+Partidas: 140 | Gols: 54
+
+17
+00:01:41,000 --> 00:01:47,600
+Héctor Scotta (Argentina) - Sevilla FC
+Partidas: 105 | Gols: 56
+
+18
+00:01:47,600 --> 00:01:54,200
+José Herrera (Spain) - Sevilla FC
+Partidas: 127 | Gols: 57
+
+19
+00:01:54,200 --> 00:02:00,800
+Toni Polster (Austria) - Sevilla FC
+Partidas: 114 | Gols: 57
+
+20
+00:02:00,800 --> 00:02:07,400
+José Dieguez (Argentina) - Sevilla FC
+Partidas: 213 | Gols: 60
+
+21
+00:02:07,400 --> 00:02:14,000
+Kévin Gameiro (France) - Sevilla FC
+Partidas: 145 | Gols: 67 | Assistências: 17
+
+22
+00:02:14,000 --> 00:02:20,600
+Doménech (Spain) - Sevilla FC
+Partidas: 241 | Gols: 69 | Assistências: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Wissam Ben Yedder (France) - Sevilla FC
+Partidas: 138 | Gols: 70 | Assistências: 22
+
+24
+00:02:27,200 --> 00:02:33,800
+Youssef En-Nesyri (Morocco) - Sevilla FC
+Partidas: 196 | Gols: 73 | Assistências: 6
+
+25
+00:02:33,800 --> 00:02:40,400
+Álvaro Negredo (Spain) - Sevilla FC
+Partidas: 180 | Gols: 85 | Assistências: 27
+
+26
+00:02:40,400 --> 00:02:47,000
+Davor Suker (Croatia) - Sevilla FC
+Partidas: 171 | Gols: 89 | Assistências: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Luís Fabiano (Brazil) - Sevilla FC
+Partidas: 230 | Gols: 105 | Assistências: 19
+
+28
+00:02:53,600 --> 00:03:00,200
+Guillermo Campanal (Spain) - Sevilla FC
+Partidas: 170 | Gols: 112
+
+29
+00:03:00,200 --> 00:03:06,800
+Frédéric Kanouté (Mali) - Sevilla FC
+Partidas: 289 | Gols: 136 | Assistências: 25
+
+30
+00:03:06,800 --> 00:03:13,400
+Juan Araujo (Spain) - Sevilla FC
+Partidas: 215 | Gols: 144 | Assistências: 3
+
+31
+00:03:13,400 --> 00:03:20,000
+Juan Arza (Spain) - Sevilla FC
+Partidas: 370 | Gols: 186
+

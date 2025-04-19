@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSM Makassar Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Daisuke Sakai (Japan) - PSM Makassar
+Presenze: 27 | Gol: 4 | Assist: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Saldi (Indonesia) - PSM Makassar
+Presenze: 44 | Gol: 4 | Assist: 5
+
+4
+00:00:15,200 --> 00:00:21,800
+Titus Bonai (Indonesia) - PSM Makassar
+Presenze: 22 | Gol: 4 | Assist: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Giancarlo (Brazil) - PSM Makassar
+Presenze: 7 | Gol: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Sandro (Hongkong) - PSM Makassar
+Presenze: 11 | Gol: 4 | Assist: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Ponaryo Astaman (Indonesia) - PSM Makassar
+Presenze: 13 | Gol: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Aaron Evans (Australia) - PSM Makassar
+Presenze: 47 | Gol: 5 | Assist: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Anco Jansen (Netherlands) - PSM Makassar
+Presenze: 20 | Gol: 5 | Assist: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Hamka Hamzah (Indonesia) - PSM Makassar
+Presenze: 30 | Gol: 5 | Assist: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Rizky Eka Pratama (Indonesia) - PSM Makassar
+Presenze: 166 | Gol: 5 | Assist: 15
+
+12
+00:01:08,000 --> 00:01:14,600
+Aloísio Neto (Brazil) - PSM Makassar
+Presenze: 34 | Gol: 5 | Assist: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Amido Baldé (Guinea-Bissau) - PSM Makassar
+Presenze: 14 | Gol: 6 | Assist: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Yance Sayuri (Indonesia) - PSM Makassar
+Presenze: 94 | Gol: 7 | Assist: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Rasyid Bakri (Indonesia) - PSM Makassar
+Presenze: 169 | Gol: 8 | Assist: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Reinaldo (Brazil) - PSM Makassar
+Presenze: 17 | Gol: 9 | Assist: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Adilson Silva (Portugal) - PSM Makassar
+Presenze: 54 | Gol: 11 | Assist: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Eero Markkanen (Finland) - PSM Makassar
+Presenze: 21 | Gol: 11 | Assist: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Ramadhan Sananta (Indonesia) - PSM Makassar
+Presenze: 28 | Gol: 11 | Assist: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Guy Junior (Indonesia) - PSM Makassar
+Presenze: 54 | Gol: 13 | Assist: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Everton (Brazil) - PSM Makassar
+Presenze: 61 | Gol: 14 | Assist: 8
+
+22
+00:02:14,000 --> 00:02:20,600
+Nermin Haljeta (Slovenia) - PSM Makassar
+Presenze: 31 | Gol: 14 | Assist: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Yuran Fernandes (Cape Verde) - PSM Makassar
+Presenze: 102 | Gol: 15 | Assist: 8
+
+24
+00:02:27,200 --> 00:02:33,800
+Rizky Pellu (Indonesia) - PSM Makassar
+Presenze: 121 | Gol: 16 | Assist: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Marc Klok (Indonesia) - PSM Makassar
+Presenze: 102 | Gol: 17 | Assist: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Rahmat (Indonesia) - PSM Makassar
+Presenze: 124 | Gol: 22 | Assist: 15
+
+27
+00:02:47,000 --> 00:02:53,600
+Kenzo Nambu (Japan) - PSM Makassar
+Presenze: 74 | Gol: 23 | Assist: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Yakob Sayuri (Indonesia) - PSM Makassar
+Presenze: 105 | Gol: 25 | Assist: 16
+
+29
+00:03:00,200 --> 00:03:06,800
+Zulham Zamrun (Indonesia) - PSM Makassar
+Presenze: 75 | Gol: 25 | Assist: 10
+
+30
+00:03:06,800 --> 00:03:13,400
+Wiljan Pluim (Netherlands) - PSM Makassar
+Presenze: 178 | Gol: 47 | Assist: 51
+
+31
+00:03:13,400 --> 00:03:20,000
+Ferdinan Sinaga (Indonesia) - PSM Makassar
+Presenze: 126 | Gol: 47 | Assist: 9
+

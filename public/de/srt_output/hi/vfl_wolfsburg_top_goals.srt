@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfL Wolfsburg सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Fredi Rotermund (Germany) - VfL Wolfsburg
+प्रदर्शन: 90 | गोल: 23
+
+3
+00:00:08,600 --> 00:00:15,200
+Diego (Brazil) - VfL Wolfsburg
+प्रदर्शन: 87 | गोल: 24 | असिस्ट: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Zvjezdan Misimovic (Bosnia-Herzegovina) - VfL Wolfsburg
+प्रदर्शन: 92 | गोल: 25 | असिस्ट: 48
+
+5
+00:00:21,800 --> 00:00:28,400
+Charles Akonnor (Ghana) - VfL Wolfsburg
+प्रदर्शन: 142 | गोल: 25 | असिस्ट: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Jacek Frackiewicz (Poland) - VfL Wolfsburg
+प्रदर्शन: 108 | गोल: 31
+
+7
+00:00:35,000 --> 00:00:41,600
+Jonas Wind (Denmark) - VfL Wolfsburg
+प्रदर्शन: 106 | गोल: 33 | असिस्ट: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Tomislav Maric (Croatia) - VfL Wolfsburg
+प्रदर्शन: 97 | गोल: 33 | असिस्ट: 12
+
+9
+00:00:48,200 --> 00:00:54,800
+Ivica Olic (Croatia) - VfL Wolfsburg
+प्रदर्शन: 94 | गोल: 33 | असिस्ट: 14
+
+10
+00:00:54,800 --> 00:01:01,400
+Jürgen Mosert (Germany) - VfL Wolfsburg
+प्रदर्शन: 75 | गोल: 35 | असिस्ट: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Michael Geiger (Germany) - VfL Wolfsburg
+प्रदर्शन: 231 | गोल: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Peter Ament (Germany) - VfL Wolfsburg
+प्रदर्शन: 245 | गोल: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+Manfred Wuttich (Germany) - VfL Wolfsburg
+प्रदर्शन: 57 | गोल: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Martin Petrov (Bulgaria) - VfL Wolfsburg
+प्रदर्शन: 136 | गोल: 38 | असिस्ट: 38
+
+15
+00:01:27,800 --> 00:01:34,400
+Roy Präger (Germany) - VfL Wolfsburg
+प्रदर्शन: 170 | गोल: 41 | असिस्ट: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Wolf-Rüdiger Krause (Germany) - VfL Wolfsburg
+प्रदर्शन: 97 | गोल: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Wolfgang Wallek (Germany) - VfL Wolfsburg
+प्रदर्शन: 92 | गोल: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+Maximilian Arnold (Germany) - VfL Wolfsburg
+प्रदर्शन: 443 | गोल: 47 | असिस्ट: 55
+
+19
+00:01:54,200 --> 00:02:00,800
+Bas Dost (Netherlands) - VfL Wolfsburg
+प्रदर्शन: 117 | गोल: 48 | असिस्ट: 14
+
+20
+00:02:00,800 --> 00:02:07,400
+Andrzej Juskowiak (Poland) - VfL Wolfsburg
+प्रदर्शन: 131 | गोल: 49 | असिस्ट: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Holger Fiebich (Germany) - VfL Wolfsburg
+प्रदर्शन: 228 | गोल: 63 | असिस्ट: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Matthias Fiebich (Germany) - VfL Wolfsburg
+प्रदर्शन: 212 | गोल: 69
+
+23
+00:02:20,600 --> 00:02:27,200
+Hans Kircher (Germany) - VfL Wolfsburg
+प्रदर्शन: 86 | गोल: 70
+
+24
+00:02:27,200 --> 00:02:33,800
+Wout Weghorst (Netherlands) - VfL Wolfsburg
+प्रदर्शन: 144 | गोल: 70 | असिस्ट: 22
+
+25
+00:02:33,800 --> 00:02:40,400
+Diego Klimowicz (Argentina) - VfL Wolfsburg
+प्रदर्शन: 173 | गोल: 71 | असिस्ट: 23
+
+26
+00:02:40,400 --> 00:02:47,000
+Grafite (Brazil) - VfL Wolfsburg
+प्रदर्शन: 130 | गोल: 75 | असिस्ट: 25
+
+27
+00:02:47,000 --> 00:02:53,600
+Wilfried Kemmer (Germany) - VfL Wolfsburg
+प्रदर्शन: 184 | गोल: 82 | असिस्ट: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Edin Džeko (Bosnia-Herzegovina) - VfL Wolfsburg
+प्रदर्शन: 142 | गोल: 85 | असिस्ट: 35
+
+29
+00:03:00,200 --> 00:03:06,800
+Siegfried Reich (Germany) - VfL Wolfsburg
+प्रदर्शन: 169 | गोल: 95
+
+30
+00:03:06,800 --> 00:03:13,400
+Frank Plagge (Germany) - VfL Wolfsburg
+प्रदर्शन: 189 | गोल: 111
+
+31
+00:03:13,400 --> 00:03:20,000
+Olaf Ansorge (Germany) - VfL Wolfsburg
+प्रदर्शन: 381 | गोल: 123
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Chelsea FC Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Fernando Torres (Spain) - Chelsea FC
+Apparitions: 172 | Buts: 45 | Passes décisives: 29
+
+3
+00:00:08,600 --> 00:00:15,200
+Kevin Wilson (Northern Ireland) - Chelsea FC
+Apparitions: 172 | Buts: 47 | Passes décisives: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Gustavo Poyet (Uruguay) - Chelsea FC
+Apparitions: 144 | Buts: 49 | Passes décisives: 16
+
+5
+00:00:21,800 --> 00:00:28,400
+Tore André Flo (Norway) - Chelsea FC
+Apparitions: 163 | Buts: 50 | Passes décisives: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Frank Blunstone (England) - Chelsea FC
+Apparitions: 343 | Buts: 53 | Passes décisives: 6
+
+7
+00:00:35,000 --> 00:00:41,600
+Ian Hutchinson (England) - Chelsea FC
+Apparitions: 125 | Buts: 54
+
+8
+00:00:41,600 --> 00:00:48,200
+Peter Brabrook (England) - Chelsea FC
+Apparitions: 270 | Buts: 57 | Passes décisives: 7
+
+9
+00:00:48,200 --> 00:00:54,800
+Diego Costa (Spain) - Chelsea FC
+Apparitions: 120 | Buts: 59 | Passes décisives: 21
+
+10
+00:00:54,800 --> 00:01:01,400
+Gordon Durie (Scotland) - Chelsea FC
+Apparitions: 139 | Buts: 59 | Passes décisives: 9
+
+11
+00:01:01,400 --> 00:01:08,000
+Nicolas Anelka (France) - Chelsea FC
+Apparitions: 184 | Buts: 59 | Passes décisives: 26
+
+12
+00:01:08,000 --> 00:01:14,600
+Salomon Kalou (Cote d'Ivoire) - Chelsea FC
+Apparitions: 254 | Buts: 60 | Passes décisives: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+John Hollins (England) - Chelsea FC
+Apparitions: 560 | Buts: 62 | Passes décisives: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Willian (Brazil) - Chelsea FC
+Apparitions: 339 | Buts: 63 | Passes décisives: 57
+
+15
+00:01:27,800 --> 00:01:34,400
+Johnny McNichol (Scotland) - Chelsea FC
+Apparitions: 198 | Buts: 63
+
+16
+00:01:34,400 --> 00:01:41,000
+John Terry (England) - Chelsea FC
+Apparitions: 717 | Buts: 67 | Passes décisives: 27
+
+17
+00:01:41,000 --> 00:01:47,600
+Ron Tindall (England) - Chelsea FC
+Apparitions: 172 | Buts: 68
+
+18
+00:01:47,600 --> 00:01:54,200
+Dennis Wise (England) - Chelsea FC
+Apparitions: 440 | Buts: 73 | Passes décisives: 46
+
+19
+00:01:54,200 --> 00:02:00,800
+Eidur Gudjohnsen (Iceland) - Chelsea FC
+Apparitions: 263 | Buts: 78 | Passes décisives: 41
+
+20
+00:02:00,800 --> 00:02:07,400
+Gianfranco Zola (Italy) - Chelsea FC
+Apparitions: 312 | Buts: 80 | Passes décisives: 42
+
+21
+00:02:07,400 --> 00:02:14,000
+Jimmy Floyd Hasselbaink (Netherlands) - Chelsea FC
+Apparitions: 177 | Buts: 87 | Passes décisives: 36
+
+22
+00:02:14,000 --> 00:02:20,600
+Barry Bridges (England) - Chelsea FC
+Apparitions: 201 | Buts: 88 | Passes décisives: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Tommy Baldwin (England) - Chelsea FC
+Apparitions: 231 | Buts: 91 | Passes décisives: 4
+
+24
+00:02:27,200 --> 00:02:33,800
+Eden Hazard (Belgium) - Chelsea FC
+Apparitions: 352 | Buts: 110 | Passes décisives: 85
+
+25
+00:02:33,800 --> 00:02:40,400
+Jimmy Greaves (England) - Chelsea FC
+Apparitions: 168 | Buts: 132 | Passes décisives: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Peter Osgood (England) - Chelsea FC
+Apparitions: 369 | Buts: 140 | Passes décisives: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Roy Bentley (England) - Chelsea FC
+Apparitions: 352 | Buts: 144
+
+28
+00:02:53,600 --> 00:03:00,200
+Kerry Dixon (England) - Chelsea FC
+Apparitions: 363 | Buts: 157 | Passes décisives: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Didier Drogba (Cote d'Ivoire) - Chelsea FC
+Apparitions: 381 | Buts: 164 | Passes décisives: 77
+
+30
+00:03:06,800 --> 00:03:13,400
+Bobby Tambling (England) - Chelsea FC
+Apparitions: 362 | Buts: 194 | Passes décisives: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Frank Lampard (England) - Chelsea FC
+Apparitions: 648 | Buts: 211 | Passes décisives: 147
+

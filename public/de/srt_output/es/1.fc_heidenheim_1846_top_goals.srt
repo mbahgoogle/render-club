@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+1.FC Heidenheim 1846 Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Tobias Mohr (Germany) - 1.FC Heidenheim 1846
+Partidos: 78 | Goles: 11 | Asistencias: 17
+
+3
+00:00:08,600 --> 00:00:15,200
+Christian Essig (Germany) - 1.FC Heidenheim 1846
+Partidos: 82 | Goles: 11 | Asistencias: 10
+
+4
+00:00:15,200 --> 00:00:21,800
+Arne Feick (Germany) - 1.FC Heidenheim 1846
+Partidos: 127 | Goles: 12 | Asistencias: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Marvin Pieringer (Germany) - 1.FC Heidenheim 1846
+Partidos: 64 | Goles: 13 | Asistencias: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Richard Weil (Germany) - 1.FC Heidenheim 1846
+Partidos: 98 | Goles: 13 | Asistencias: 22
+
+7
+00:00:35,000 --> 00:00:41,600
+Michael Thurk (Germany) - 1.FC Heidenheim 1846
+Partidos: 71 | Goles: 14 | Asistencias: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Christian Gmünder (Germany) - 1.FC Heidenheim 1846
+Partidos: 81 | Goles: 14 | Asistencias: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+John Verhoek (Netherlands) - 1.FC Heidenheim 1846
+Partidos: 57 | Goles: 16 | Asistencias: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Smail Morabit (France) - 1.FC Heidenheim 1846
+Partidos: 94 | Goles: 17 | Asistencias: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Stefan Schimmer (Germany) - 1.FC Heidenheim 1846
+Partidos: 149 | Goles: 17 | Asistencias: 12
+
+12
+00:01:08,000 --> 00:01:14,600
+Christian Kühlwetter (Germany) - 1.FC Heidenheim 1846
+Partidos: 93 | Goles: 18 | Asistencias: 11
+
+13
+00:01:14,600 --> 00:01:21,200
+Patrick Mainka (Germany) - 1.FC Heidenheim 1846
+Partidos: 248 | Goles: 19 | Asistencias: 7
+
+14
+00:01:21,200 --> 00:01:27,800
+Frank Schmidt (Germany) - 1.FC Heidenheim 1846
+Partidos: 88 | Goles: 19
+
+15
+00:01:27,800 --> 00:01:34,400
+Ertac Seskir (Türkiye) - 1.FC Heidenheim 1846
+Partidos: 138 | Goles: 19 | Asistencias: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Niklas Beste (Germany) - 1.FC Heidenheim 1846
+Partidos: 68 | Goles: 20 | Asistencias: 28
+
+17
+00:01:41,000 --> 00:01:47,600
+Nikola Dovedan (Austria) - 1.FC Heidenheim 1846
+Partidos: 85 | Goles: 20 | Asistencias: 12
+
+18
+00:01:47,600 --> 00:01:54,200
+Robert Glatzel (Germany) - 1.FC Heidenheim 1846
+Partidos: 61 | Goles: 24 | Asistencias: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Bastian Heidenfelder (Germany) - 1.FC Heidenheim 1846
+Partidos: 119 | Goles: 24 | Asistencias: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Alper Bagceci (Germany) - 1.FC Heidenheim 1846
+Partidos: 269 | Goles: 26 | Asistencias: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Denis Thomalla (Germany) - 1.FC Heidenheim 1846
+Partidos: 211 | Goles: 30 | Asistencias: 21
+
+22
+00:02:14,000 --> 00:02:20,600
+Florian Niederlechner (Germany) - 1.FC Heidenheim 1846
+Partidos: 84 | Goles: 30 | Asistencias: 14
+
+23
+00:02:20,600 --> 00:02:27,200
+Robert Leipertz (Germany) - 1.FC Heidenheim 1846
+Partidos: 167 | Goles: 37 | Asistencias: 26
+
+24
+00:02:27,200 --> 00:02:33,800
+Tim Göhlert (Germany) - 1.FC Heidenheim 1846
+Partidos: 310 | Goles: 37 | Asistencias: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Dieter Jarosch (Germany) - 1.FC Heidenheim 1846
+Partidos: 116 | Goles: 40 | Asistencias: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Dinko Radojevic (Croatia) - 1.FC Heidenheim 1846
+Partidos: 88 | Goles: 41
+
+27
+00:02:47,000 --> 00:02:53,600
+Alexander Raaf (Germany) - 1.FC Heidenheim 1846
+Partidos: 118 | Goles: 41
+
+28
+00:02:53,600 --> 00:03:00,200
+Patrick Mayer (Germany) - 1.FC Heidenheim 1846
+Partidos: 111 | Goles: 42 | Asistencias: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Andreas Spann (Germany) - 1.FC Heidenheim 1846
+Partidos: 141 | Goles: 43 | Asistencias: 22
+
+30
+00:03:06,800 --> 00:03:13,400
+Tim Kleindienst (Germany) - 1.FC Heidenheim 1846
+Partidos: 172 | Goles: 83 | Asistencias: 23
+
+31
+00:03:13,400 --> 00:03:20,000
+Marc Schnatterer (Germany) - 1.FC Heidenheim 1846
+Partidos: 461 | Goles: 124 | Asistencias: 128
+

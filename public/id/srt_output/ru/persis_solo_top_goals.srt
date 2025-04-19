@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PERSIS Solo Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Alfath Faathier (Indonesia) - PERSIS Solo
+Матчи: 34 | Голы: 1 | Голевые передачи: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Fransiskus Alesandro (Indonesia) - PERSIS Solo
+Матчи: 11 | Голы: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Cleylton (Brazil) - PERSIS Solo
+Матчи: 7 | Голы: 1 | Голевые передачи: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Sunarto (Indonesia) - PERSIS Solo
+Матчи: 1 | Голы: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Sho Yamamoto (Japan) - PERSIS Solo
+Матчи: 45 | Голы: 2 | Голевые передачи: 8
+
+7
+00:00:35,000 --> 00:00:41,600
+Jaime (Brazil) - PERSIS Solo
+Матчи: 54 | Голы: 2 | Голевые передачи: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Zanadin Fariz (Indonesia) - PERSIS Solo
+Матчи: 36 | Голы: 2 | Голевые передачи: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Muhammad Isa (Indonesia) - PERSIS Solo
+Матчи: 6 | Голы: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Iman Budi (Indonesia) - PERSIS Solo
+Матчи: 8 | Голы: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Jhon Cley (Brazil) - PERSIS Solo
+Матчи: 9 | Голы: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Karim Rossi (Switzerland) - PERSIS Solo
+Матчи: 24 | Голы: 2 | Голевые передачи: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Miftahul Hamdi (Indonesia) - PERSIS Solo
+Матчи: 15 | Голы: 2 | Голевые передачи: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Ricardo Lima (Brazil) - PERSIS Solo
+Матчи: 12 | Голы: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Eky Taufik (Indonesia) - PERSIS Solo
+Матчи: 86 | Голы: 3 | Голевые передачи: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Sutanto Tan (Indonesia) - PERSIS Solo
+Матчи: 78 | Голы: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Lautaro Belleggia (Argentina) - PERSIS Solo
+Матчи: 10 | Голы: 3 | Голевые передачи: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Irfan Jauhari (Indonesia) - PERSIS Solo
+Матчи: 63 | Голы: 4 | Голевые передачи: 4
+
+19
+00:01:54,200 --> 00:02:00,800
+Fabiano Beltrame (Indonesia) - PERSIS Solo
+Матчи: 35 | Голы: 4 | Голевые передачи: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Rivaldi Bawuo (Indonesia) - PERSIS Solo
+Матчи: 12 | Голы: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Irfan Bachdim (Indonesia) - PERSIS Solo
+Матчи: 27 | Голы: 4 | Голевые передачи: 4
+
+22
+00:02:14,000 --> 00:02:20,600
+Ferdinan Sinaga (Indonesia) - PERSIS Solo
+Матчи: 41 | Голы: 5 | Голевые передачи: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Samsul Arif (Indonesia) - PERSIS Solo
+Матчи: 33 | Голы: 5 | Голевые передачи: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Althaf Alrizky (Indonesia) - PERSIS Solo
+Матчи: 74 | Голы: 5 | Голевые передачи: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Roni (Spain) - PERSIS Solo
+Матчи: 33 | Голы: 7 | Голевые передачи: 8
+
+26
+00:02:40,400 --> 00:02:47,000
+Ryo Matsumura (Japan) - PERSIS Solo
+Матчи: 28 | Голы: 11 | Голевые передачи: 6
+
+27
+00:02:47,000 --> 00:02:53,600
+Beto Gonçalves (Indonesia) - PERSIS Solo
+Матчи: 14 | Голы: 11 | Голевые передачи: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Alexis Messidoro (Argentina) - PERSIS Solo
+Матчи: 67 | Голы: 14 | Голевые передачи: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Ramadhan Sananta (Indonesia) - PERSIS Solo
+Матчи: 51 | Голы: 15 | Голевые передачи: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Fernando Rodríguez (Spain) - PERSIS Solo
+Матчи: 40 | Голы: 17 | Голевые передачи: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Moussa Sidibé (Mali) - PERSIS Solo
+Матчи: 54 | Голы: 19 | Голевые передачи: 9
+

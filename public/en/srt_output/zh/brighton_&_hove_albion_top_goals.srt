@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Brighton & Hove Albion 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Gerry Ryan (Ireland) - Brighton & Hove Albion
+出场数: 102 | 进球: 18
+
+3
+00:00:08,600 --> 00:00:15,200
+Gordon Smith (Scotland) - Brighton & Hove Albion
+出场数: 98 | 进球: 19 | 助攻: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Iñigo Calderón (Spain) - Brighton & Hove Albion
+出场数: 232 | 进球: 19 | 助攻: 14
+
+5
+00:00:21,800 --> 00:00:28,400
+Will Buckley (England) - Brighton & Hove Albion
+出场数: 109 | 进球: 19 | 助攻: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Sam Baldock (England) - Brighton & Hove Albion
+出场数: 94 | 进球: 20 | 助攻: 18
+
+7
+00:00:35,000 --> 00:00:41,600
+Alexis Mac Allister (Argentina) - Brighton & Hove Albion
+出场数: 112 | 进球: 20 | 助攻: 9
+
+8
+00:00:41,600 --> 00:00:48,200
+Jake Robinson (England) - Brighton & Hove Albion
+出场数: 144 | 进球: 20 | 助攻: 4
+
+9
+00:00:48,200 --> 00:00:54,800
+Kaoru Mitoma (Japan) - Brighton & Hove Albion
+出场数: 102 | 进球: 21 | 助攻: 15
+
+10
+00:00:54,800 --> 00:01:01,400
+Peter Ward (England) - Brighton & Hove Albion
+出场数: 75 | 进球: 22 | 助攻: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Dean Cox (England) - Brighton & Hove Albion
+出场数: 177 | 进球: 22 | 助攻: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Kazenga LuaLua (DR Congo) - Brighton & Hove Albion
+出场数: 183 | 进球: 22 | 助攻: 25
+
+13
+00:01:14,600 --> 00:01:21,200
+Andy Ritchie (England) - Brighton & Hove Albion
+出场数: 93 | 进球: 24
+
+14
+00:01:21,200 --> 00:01:27,800
+Craig Mackail-Smith (Scotland) - Brighton & Hove Albion
+出场数: 122 | 进球: 24 | 助攻: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Leandro Trossard (Belgium) - Brighton & Hove Albion
+出场数: 121 | 进球: 25 | 助攻: 13
+
+16
+00:01:34,400 --> 00:01:41,000
+Solly March (England) - Brighton & Hove Albion
+出场数: 292 | 进球: 26 | 助攻: 29
+
+17
+00:01:41,000 --> 00:01:47,600
+Dean Hammond (England) - Brighton & Hove Albion
+出场数: 193 | 进球: 26 | 助攻: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Neal Maupay (France) - Brighton & Hove Albion
+出场数: 109 | 进球: 27 | 助攻: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Anthony Knockaert (France) - Brighton & Hove Albion
+出场数: 139 | 进球: 27 | 助攻: 25
+
+20
+00:02:00,800 --> 00:02:07,400
+Leonardo Ulloa (Argentina) - Brighton & Hove Albion
+出场数: 70 | 进球: 28 | 助攻: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+João Pedro (Brazil) - Brighton & Hove Albion
+出场数: 67 | 进球: 28 | 助攻: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Lewis Dunk (England) - Brighton & Hove Albion
+出场数: 481 | 进球: 31 | 助攻: 15
+
+23
+00:02:20,600 --> 00:02:27,200
+Pascal Groß (Germany) - Brighton & Hove Albion
+出场数: 261 | 进球: 32 | 助攻: 52
+
+24
+00:02:27,200 --> 00:02:33,800
+Tomer Hemed (Israel) - Brighton & Hove Albion
+出场数: 108 | 进球: 33 | 助攻: 12
+
+25
+00:02:33,800 --> 00:02:40,400
+Danny Welbeck (England) - Brighton & Hove Albion
+出场数: 154 | 进球: 34 | 助攻: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Leon Knight (England) - Brighton & Hove Albion
+出场数: 114 | 进球: 34 | 助攻: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Michael Robinson (Ireland) - Brighton & Hove Albion
+出场数: 120 | 进球: 39 | 助攻: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Nicky Forster (England) - Brighton & Hove Albion
+出场数: 118 | 进球: 51 | 助攻: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Bobby Zamora (England) - Brighton & Hove Albion
+出场数: 108 | 进球: 51 | 助攻: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Ashley Barnes (England) - Brighton & Hove Albion
+出场数: 170 | 进球: 53 | 助攻: 22
+
+31
+00:03:13,400 --> 00:03:20,000
+Glenn Murray (England) - Brighton & Hove Albion
+出场数: 287 | 进球: 111 | 助攻: 20
+

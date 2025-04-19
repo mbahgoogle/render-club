@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Manchester City 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Nicolas Anelka (France) - Manchester City
+出場数: 103 | ゴール: 45 | アシスト: 8
+
+3
+00:00:08,600 --> 00:00:15,200
+Shaun Wright-Phillips (England) - Manchester City
+出場数: 274 | ゴール: 48 | アシスト: 30
+
+4
+00:00:15,200 --> 00:00:21,800
+Bobby Johnstone (Scotland) - Manchester City
+出場数: 133 | ゴール: 49 | アシスト: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Johnny Hart (England) - Manchester City
+出場数: 147 | ゴール: 53
+
+6
+00:00:28,400 --> 00:00:35,000
+Brian Kidd (England) - Manchester City
+出場数: 122 | ゴール: 54
+
+7
+00:00:35,000 --> 00:00:41,600
+İlkay Gündoğan (Germany) - Manchester City
+出場数: 345 | ゴール: 62 | アシスト: 39
+
+8
+00:00:41,600 --> 00:00:48,200
+Billy McAdams (Northern Ireland) - Manchester City
+出場数: 130 | ゴール: 63
+
+9
+00:00:48,200 --> 00:00:54,800
+Uwe Rösler (Germany) - Manchester City
+出場数: 177 | ゴール: 64 | アシスト: 9
+
+10
+00:00:54,800 --> 00:01:01,400
+Roy Clarke (Wales) - Manchester City
+出場数: 325 | ゴール: 67
+
+11
+00:01:01,400 --> 00:01:08,000
+Bernardo Silva (Portugal) - Manchester City
+出場数: 395 | ゴール: 69 | アシスト: 69
+
+12
+00:01:08,000 --> 00:01:14,600
+Edin Džeko (Bosnia-Herzegovina) - Manchester City
+出場数: 189 | ゴール: 72 | アシスト: 26
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Tevez (Argentina) - Manchester City
+出場数: 148 | ゴール: 73 | アシスト: 32
+
+14
+00:01:21,200 --> 00:01:27,800
+Neil Young (England) - Manchester City
+出場数: 288 | ゴール: 74 | アシスト: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+David Silva (Spain) - Manchester City
+出場数: 436 | ゴール: 77 | アシスト: 129
+
+16
+00:01:34,400 --> 00:01:41,000
+Colin Barlow (England) - Manchester City
+出場数: 181 | ゴール: 77 | アシスト: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Niall Quinn (Ireland) - Manchester City
+出場数: 242 | ゴール: 77 | アシスト: 22
+
+18
+00:01:47,600 --> 00:01:54,200
+Riyad Mahrez (Algeria) - Manchester City
+出場数: 236 | ゴール: 78 | アシスト: 56
+
+19
+00:01:54,200 --> 00:02:00,800
+Yaya Touré (Cote d'Ivoire) - Manchester City
+出場数: 316 | ゴール: 80 | アシスト: 45
+
+20
+00:02:00,800 --> 00:02:07,400
+David White (England) - Manchester City
+出場数: 272 | ゴール: 82 | アシスト: 11
+
+21
+00:02:07,400 --> 00:02:14,000
+Gabriel Jesus (Brazil) - Manchester City
+出場数: 236 | ゴール: 95 | アシスト: 45
+
+22
+00:02:14,000 --> 00:02:20,600
+Phil Foden (England) - Manchester City
+出場数: 309 | ゴール: 97 | アシスト: 60
+
+23
+00:02:20,600 --> 00:02:27,200
+Dennis Tueart (England) - Manchester City
+出場数: 261 | ゴール: 101
+
+24
+00:02:27,200 --> 00:02:33,800
+Shaun Goater (Bermuda) - Manchester City
+出場数: 209 | ゴール: 102 | アシスト: 26
+
+25
+00:02:33,800 --> 00:02:40,400
+Kevin De Bruyne (Belgium) - Manchester City
+出場数: 413 | ゴール: 106 | アシスト: 174
+
+26
+00:02:40,400 --> 00:02:47,000
+Erling Haaland (Norway) - Manchester City
+出場数: 138 | ゴール: 120 | アシスト: 18
+
+27
+00:02:47,000 --> 00:02:53,600
+Raheem Sterling (England) - Manchester City
+出場数: 339 | ゴール: 131 | アシスト: 73
+
+28
+00:02:53,600 --> 00:03:00,200
+Colin Bell (England) - Manchester City
+出場数: 456 | ゴール: 137 | アシスト: 4
+
+29
+00:03:00,200 --> 00:03:06,800
+Francis Lee (England) - Manchester City
+出場数: 307 | ゴール: 138 | アシスト: 14
+
+30
+00:03:06,800 --> 00:03:13,400
+Joe Hayes (England) - Manchester City
+出場数: 338 | ゴール: 146 | アシスト: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Sergio Agüero (Argentina) - Manchester City
+出場数: 390 | ゴール: 260 | アシスト: 64
+

@@ -1,0 +1,149 @@
+1
+00:00:00,000 --> 00:00:02,000
+Madura United FC Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Youssef Ezzejjari (Spain) - Madura United FC
+Apparitions: 11 | Buts: 4 | Passes décisives: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Beto (Brazil) - Madura United FC
+Apparitions: 17 | Buts: 4 | Passes décisives: 3
+
+4
+00:00:15,200 --> 00:00:21,800
+Beto (Brazil) - Madura United FC
+Apparitions: 17 | Buts: 4 | Passes décisives: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Maxuel Cássio (Brazil) - Madura United FC
+Apparitions: 21 | Buts: 4 | Passes décisives: 3
+
+6
+00:00:28,400 --> 00:00:35,000
+Fachruddin Aryanto (Indonesia) - Madura United FC
+Apparitions: 145 | Buts: 4 | Passes décisives: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Andi Irfan (Indonesia) - Madura United FC
+Apparitions: 26 | Buts: 4 | Passes décisives: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Andik Vermansyah (Indonesia) - Madura United FC
+Apparitions: 32 | Buts: 4 | Passes décisives: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Renan Silva (Brazil) - Madura United FC
+Apparitions: 12 | Buts: 4
+
+10
+00:00:54,800 --> 00:01:01,400
+David Laly (Indonesia) - Madura United FC
+Apparitions: 61 | Buts: 5 | Passes décisives: 6
+
+11
+00:01:01,400 --> 00:01:08,000
+Dane Milovanovic (Australia) - Madura United FC
+Apparitions: 24 | Buts: 5 | Passes décisives: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Dalberto (Brazil) - Madura United FC
+Apparitions: 17 | Buts: 6 | Passes décisives: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Engelberd Sani (Indonesia) - Madura United FC
+Apparitions: 79 | Buts: 6 | Passes décisives: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Mamadou Samassa (Mali) - Madura United FC
+Apparitions: 13 | Buts: 6 | Passes décisives: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Jaime (Brazil) - Madura United FC
+Apparitions: 76 | Buts: 6 | Passes décisives: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Rafael Silva (Brazil) - Madura United FC
+Apparitions: 12 | Buts: 6
+
+17
+00:01:41,000 --> 00:01:47,600
+Zah Rahan Krangar (Liberia) - Madura United FC
+Apparitions: 39 | Buts: 6 | Passes décisives: 12
+
+18
+00:01:47,600 --> 00:01:54,200
+Junior Brandão (Brazil) - Madura United FC
+Apparitions: 20 | Buts: 9 | Passes décisives: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Francisco Rivera (Mexico) - Madura United FC
+Apparitions: 36 | Buts: 9 | Passes décisives: 18
+
+20
+00:02:00,800 --> 00:02:07,400
+Pablo Rodríguez (Spain) - Madura United FC
+Apparitions: 10 | Buts: 9 | Passes décisives: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Bayu Gatra (Indonesia) - Madura United FC
+Apparitions: 153 | Buts: 12 | Passes décisives: 23
+
+22
+00:02:14,000 --> 00:02:20,600
+Fabiano Beltrame (Indonesia) - Madura United FC
+Apparitions: 72 | Buts: 12
+
+23
+00:02:20,600 --> 00:02:27,200
+Peter Odemwingie (Nigeria) - Madura United FC
+Apparitions: 23 | Buts: 15 | Passes décisives: 8
+
+24
+00:02:27,200 --> 00:02:33,800
+Malik Risaldi (Indonesia) - Madura United FC
+Apparitions: 66 | Buts: 16 | Passes décisives: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Aleksandar Rakic (Serbia) - Madura United FC
+Apparitions: 41 | Buts: 20 | Passes décisives: 10
+
+26
+00:02:40,400 --> 00:02:47,000
+Slamet Nurcahyono (Indonesia) - Madura United FC
+Apparitions: 174 | Buts: 21 | Passes décisives: 20
+
+27
+00:02:47,000 --> 00:02:53,600
+Greg Nwokolo (Indonesia) - Madura United FC
+Apparitions: 89 | Buts: 25 | Passes décisives: 20
+
+28
+00:02:53,600 --> 00:03:00,200
+Jajá (Brazil) - Madura United FC
+Apparitions: 103 | Buts: 25 | Passes décisives: 14
+
+29
+00:03:00,200 --> 00:03:06,800
+Lulinha (Brazil) - Madura United FC
+Apparitions: 83 | Buts: 30 | Passes décisives: 12
+
+30
+00:03:06,800 --> 00:03:13,400
+Beto (Indonesia) - Madura United FC
+Apparitions: 105 | Buts: 47 | Passes décisives: 18
+

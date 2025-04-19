@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+1.FC Union Berlin Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+André Sirocks (Germany) - 1.FC Union Berlin
+Partidos: 122 | Goles: 21
+
+3
+00:00:08,600 --> 00:00:15,200
+Steffen Baumgart (Germany) - 1.FC Union Berlin
+Partidos: 68 | Goles: 22 | Asistencias: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Ralf Sträßer (Germany) - 1.FC Union Berlin
+Partidos: 51 | Goles: 22
+
+5
+00:00:21,800 --> 00:00:28,400
+Sheraldo Becker (Suriname) - 1.FC Union Berlin
+Partidos: 140 | Goles: 24 | Asistencias: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Horst Schiller (Germany) - 1.FC Union Berlin
+Partidos: 100 | Goles: 24
+
+7
+00:00:35,000 --> 00:00:41,600
+Sreto Ristic (Serbia) - 1.FC Union Berlin
+Partidos: 93 | Goles: 24 | Asistencias: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Taiwo Awoniyi (Nigeria) - 1.FC Union Berlin
+Partidos: 65 | Goles: 25 | Asistencias: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Simon Terodde (Germany) - 1.FC Union Berlin
+Partidos: 93 | Goles: 25 | Asistencias: 13
+
+10
+00:00:54,800 --> 00:01:01,400
+Horst Assmy (Germany) - 1.FC Union Berlin
+Partidos: 33 | Goles: 25
+
+11
+00:01:01,400 --> 00:01:08,000
+Sebastian Andersson (Sweden) - 1.FC Union Berlin
+Partidos: 74 | Goles: 26 | Asistencias: 10
+
+12
+00:01:08,000 --> 00:01:14,600
+Harun Isa (Albania) - 1.FC Union Berlin
+Partidos: 74 | Goles: 26 | Asistencias: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Jens Henschel (Germany) - 1.FC Union Berlin
+Partidos: 75 | Goles: 27
+
+14
+00:01:21,200 --> 00:01:27,800
+Jens Härtel (Germany) - 1.FC Union Berlin
+Partidos: 165 | Goles: 27
+
+15
+00:01:27,800 --> 00:01:34,400
+Thoralf Bennert (Germany) - 1.FC Union Berlin
+Partidos: 117 | Goles: 28
+
+16
+00:01:34,400 --> 00:01:41,000
+Rene Adamczewski (Germany) - 1.FC Union Berlin
+Partidos: 116 | Goles: 29
+
+17
+00:01:41,000 --> 00:01:47,600
+Steven Skrzybski (Germany) - 1.FC Union Berlin
+Partidos: 143 | Goles: 30 | Asistencias: 18
+
+18
+00:01:47,600 --> 00:01:54,200
+Thorsten Boer (Germany) - 1.FC Union Berlin
+Partidos: 106 | Goles: 32
+
+19
+00:01:54,200 --> 00:02:00,800
+Olaf Seier (Germany) - 1.FC Union Berlin
+Partidos: 173 | Goles: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Damir Kreilach (Croatia) - 1.FC Union Berlin
+Partidos: 157 | Goles: 33 | Asistencias: 18
+
+21
+00:02:07,400 --> 00:02:14,000
+Matthias Zimmerling (Germany) - 1.FC Union Berlin
+Partidos: 92 | Goles: 37
+
+22
+00:02:14,000 --> 00:02:20,600
+Steffen Menze (Germany) - 1.FC Union Berlin
+Partidos: 163 | Goles: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Günther Wirth (Germany) - 1.FC Union Berlin
+Partidos: 84 | Goles: 42
+
+24
+00:02:27,200 --> 00:02:33,800
+Goran Markov (North Macedonia) - 1.FC Union Berlin
+Partidos: 70 | Goles: 44
+
+25
+00:02:33,800 --> 00:02:40,400
+Nico Patschinski (Germany) - 1.FC Union Berlin
+Partidos: 140 | Goles: 44 | Asistencias: 5
+
+26
+00:02:40,400 --> 00:02:47,000
+Sebastian Polter (Germany) - 1.FC Union Berlin
+Partidos: 104 | Goles: 46 | Asistencias: 16
+
+27
+00:02:47,000 --> 00:02:53,600
+Daniel Teixeira (Brazil) - 1.FC Union Berlin
+Partidos: 68 | Goles: 47 | Asistencias: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Sergej Barbarez (Bosnia-Herzegovina) - 1.FC Union Berlin
+Partidos: 92 | Goles: 48
+
+29
+00:03:00,200 --> 00:03:06,800
+Torsten Mattuschka (Germany) - 1.FC Union Berlin
+Partidos: 281 | Goles: 61 | Asistencias: 64
+
+30
+00:03:06,800 --> 00:03:13,400
+Karim Benyamina (Algeria) - 1.FC Union Berlin
+Partidos: 192 | Goles: 62 | Asistencias: 15
+
+31
+00:03:13,400 --> 00:03:20,000
+Jacek Mencel (Poland) - 1.FC Union Berlin
+Partidos: 118 | Goles: 66
+

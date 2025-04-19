@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persipura Jayapura 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Reno Salampessy (Indonesia) - Persipura Jayapura
+출전: 10 | 골: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Ricardo Salampessy (Indonesia) - Persipura Jayapura
+출전: 174 | 골: 5 | 도움: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Enzo Célestine (France) - Persipura Jayapura
+출전: 18 | 골: 5 | 도움: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Marinus Wanewar (Indonesia) - Persipura Jayapura
+출전: 62 | 골: 6 | 도움: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Osvaldo Haay (Indonesia) - Persipura Jayapura
+출전: 24 | 골: 6 | 도움: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Gerald Pangkali (Indonesia) - Persipura Jayapura
+출전: 99 | 골: 7 | 도움: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Elisa Basna (Indonesia) - Persipura Jayapura
+출전: 87 | 골: 7 | 도움: 6
+
+9
+00:00:48,200 --> 00:00:54,800
+Arody Uopdana (Indonesia) - Persipura Jayapura
+출전: 23 | 골: 7 | 도움: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Marcel Sacramento (Brazil) - Persipura Jayapura
+출전: 16 | 골: 7 | 도움: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Friska Womsiwor (Indonesia) - Persipura Jayapura
+출전: 58 | 골: 8 | 도움: 10
+
+12
+00:01:08,000 --> 00:01:14,600
+Yevgen Bokhashvili (Ukraine) - Persipura Jayapura
+출전: 26 | 골: 8 | 도움: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Yustinus Pae (Indonesia) - Persipura Jayapura
+출전: 259 | 골: 9 | 도움: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Ricky Kayame (Indonesia) - Persipura Jayapura
+출전: 54 | 골: 9 | 도움: 4
+
+15
+00:01:27,800 --> 00:01:34,400
+Robertino Pugliara (Argentina) - Persipura Jayapura
+출전: 24 | 골: 9 | 도움: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Todd Ferre (Indonesia) - Persipura Jayapura
+출전: 58 | 골: 10 | 도움: 10
+
+17
+00:01:41,000 --> 00:01:47,600
+Otávio Dutra (Indonesia) - Persipura Jayapura
+출전: 31 | 골: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Imanuel Wanggai (Indonesia) - Persipura Jayapura
+출전: 149 | 골: 11 | 도움: 6
+
+19
+00:01:54,200 --> 00:02:00,800
+Hilton Moreira (Indonesia) - Persipura Jayapura
+출전: 29 | 골: 11 | 도움: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Patrich Wanggai (Indonesia) - Persipura Jayapura
+출전: 29 | 골: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Gunansar Mandowen (Indonesia) - Persipura Jayapura
+출전: 94 | 골: 12 | 도움: 20
+
+22
+00:02:14,000 --> 00:02:20,600
+Lukas Mandowen (Indonesia) - Persipura Jayapura
+출전: 80 | 골: 13 | 도움: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Bio Paulin (Indonesia) - Persipura Jayapura
+출전: 112 | 골: 15 | 도움: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Zah Rahan Krangar (Liberia) - Persipura Jayapura
+출전: 60 | 골: 16
+
+25
+00:02:33,800 --> 00:02:40,400
+Addison (Brazil) - Persipura Jayapura
+출전: 46 | 골: 20 | 도움: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Titus Bonai (Indonesia) - Persipura Jayapura
+출전: 66 | 골: 22 | 도움: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Beto (Indonesia) - Persipura Jayapura
+출전: 39 | 골: 24
+
+28
+00:02:53,600 --> 00:03:00,200
+Ian Kabes (Indonesia) - Persipura Jayapura
+출전: 256 | 골: 27 | 도움: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Yohanes Pahabol (Indonesia) - Persipura Jayapura
+출전: 135 | 골: 30 | 도움: 16
+
+30
+00:03:06,800 --> 00:03:13,400
+Ramai Rumakiek (Indonesia) - Persipura Jayapura
+출전: 53 | 골: 37 | 도움: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Boaz Solossa (Indonesia) - Persipura Jayapura
+출전: 209 | 골: 98 | 도움: 32
+

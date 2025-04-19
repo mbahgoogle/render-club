@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Everton FC Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+David Unsworth (England) - Everton FC
+Partidos: 346 | Goles: 40 | Asistencias: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Bobby Collins (Scotland) - Everton FC
+Partidos: 137 | Goles: 43
+
+4
+00:00:15,200 --> 00:00:21,800
+Johnny Morrissey (England) - Everton FC
+Partidos: 306 | Goles: 49 | Asistencias: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Tommy Eglington (Ireland) - Everton FC
+Partidos: 315 | Goles: 50 | Asistencias: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Kevin Campbell (England) - Everton FC
+Partidos: 160 | Goles: 50 | Asistencias: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Jimmy Husband (England) - Everton FC
+Partidos: 193 | Goles: 53 | Asistencias: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Richarlison (Brazil) - Everton FC
+Partidos: 152 | Goles: 53 | Asistencias: 13
+
+9
+00:00:48,200 --> 00:00:54,800
+Trevor Steven (England) - Everton FC
+Partidos: 278 | Goles: 56 | Asistencias: 16
+
+10
+00:00:54,800 --> 00:01:01,400
+Mick Lyons (England) - Everton FC
+Partidos: 453 | Goles: 56 | Asistencias: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Dave Hickson (England) - Everton FC
+Partidos: 149 | Goles: 57 | Asistencias: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Leon Osman (England) - Everton FC
+Partidos: 433 | Goles: 58 | Asistencias: 36
+
+13
+00:01:14,600 --> 00:01:21,200
+Eddie Wainwright (England) - Everton FC
+Partidos: 199 | Goles: 64
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy King (England) - Everton FC
+Partidos: 242 | Goles: 66 | Asistencias: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Jimmy Harris (England) - Everton FC
+Partidos: 196 | Goles: 67 | Asistencias: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Fred Pickering (England) - Everton FC
+Partidos: 112 | Goles: 68
+
+17
+00:01:41,000 --> 00:01:47,600
+Tim Cahill (Australia) - Everton FC
+Partidos: 278 | Goles: 68 | Asistencias: 28
+
+18
+00:01:47,600 --> 00:01:54,200
+Dominic Calvert-Lewin (England) - Everton FC
+Partidos: 269 | Goles: 71 | Asistencias: 20
+
+19
+00:01:54,200 --> 00:02:00,800
+Duncan Ferguson (Scotland) - Everton FC
+Partidos: 272 | Goles: 72 | Asistencias: 12
+
+20
+00:02:00,800 --> 00:02:07,400
+Alan Ball (England) - Everton FC
+Partidos: 246 | Goles: 77 | Asistencias: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Derek Temple (England) - Everton FC
+Partidos: 265 | Goles: 80 | Asistencias: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Tony Cottee (England) - Everton FC
+Partidos: 221 | Goles: 82 | Asistencias: 6
+
+23
+00:02:20,600 --> 00:02:27,200
+Alex Young (Scotland) - Everton FC
+Partidos: 265 | Goles: 84 | Asistencias: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Romelu Lukaku (Belgium) - Everton FC
+Partidos: 166 | Goles: 87 | Asistencias: 27
+
+25
+00:02:33,800 --> 00:02:40,400
+Adrian Heath (England) - Everton FC
+Partidos: 286 | Goles: 89 | Asistencias: 23
+
+26
+00:02:40,400 --> 00:02:47,000
+Kevin Sheedy (Ireland) - Everton FC
+Partidos: 345 | Goles: 91 | Asistencias: 28
+
+27
+00:02:47,000 --> 00:02:53,600
+Roy Vernon (Wales) - Everton FC
+Partidos: 191 | Goles: 106 | Asistencias: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Joe Royle (England) - Everton FC
+Partidos: 266 | Goles: 117 | Asistencias: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Bob Latchford (England) - Everton FC
+Partidos: 281 | Goles: 133 | Asistencias: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Graeme Sharp (Scotland) - Everton FC
+Partidos: 422 | Goles: 147 | Asistencias: 24
+
+31
+00:03:13,400 --> 00:03:20,000
+Dixie Dean (England) - Everton FC
+Partidos: 144 | Goles: 188
+

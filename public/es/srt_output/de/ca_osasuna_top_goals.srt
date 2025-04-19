@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+CA Osasuna Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Francisco Javier Bayona (Spain) - CA Osasuna
+Einsätze: 148 | Tore: 21
+
+3
+00:00:08,600 --> 00:00:15,200
+Kike Sola (Spain) - CA Osasuna
+Einsätze: 98 | Tore: 21 | Vorlagen: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+José Luis Areta (Spain) - CA Osasuna
+Einsätze: 89 | Tore: 21 | Vorlagen: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Raúl García (Spain) - CA Osasuna
+Einsätze: 126 | Tore: 21 | Vorlagen: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Hormaeche (Spain) - CA Osasuna
+Einsätze: 61 | Tore: 21
+
+7
+00:00:35,000 --> 00:00:41,600
+Savo Miloševic (Serbia) - CA Osasuna
+Einsätze: 103 | Tore: 22 | Vorlagen: 7
+
+8
+00:00:41,600 --> 00:00:48,200
+Jon Andoni Goikoetxea (Spain) - CA Osasuna
+Einsätze: 112 | Tore: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Eugenio Bustingorri (Spain) - CA Osasuna
+Einsätze: 343 | Tore: 23 | Vorlagen: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Valdo (Cape Verde) - CA Osasuna
+Einsätze: 141 | Tore: 23 | Vorlagen: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Adolfo Marañón (Spain) - CA Osasuna
+Einsätze: 91 | Tore: 25
+
+12
+00:01:08,000 --> 00:01:14,600
+Julián Vergara (Spain) - CA Osasuna
+Einsätze: 27 | Tore: 25
+
+13
+00:01:14,600 --> 00:01:21,200
+Pierre Webó (Cameroon) - CA Osasuna
+Einsätze: 137 | Tore: 26 | Vorlagen: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Nino (Spain) - CA Osasuna
+Einsätze: 147 | Tore: 27 | Vorlagen: 20
+
+15
+00:01:27,800 --> 00:01:34,400
+Rubén García (Spain) - CA Osasuna
+Einsätze: 250 | Tore: 27 | Vorlagen: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Patxi Puñal (Spain) - CA Osasuna
+Einsätze: 477 | Tore: 28 | Vorlagen: 32
+
+17
+00:01:41,000 --> 00:01:47,600
+Chimy Ávila (Argentina) - CA Osasuna
+Einsätze: 123 | Tore: 29 | Vorlagen: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Miguel Sola (Spain) - CA Osasuna
+Einsätze: 207 | Tore: 30
+
+19
+00:01:54,200 --> 00:02:00,800
+Patxi Rípodas (Spain) - CA Osasuna
+Einsätze: 237 | Tore: 31
+
+20
+00:02:00,800 --> 00:02:07,400
+Iván Rosado (Spain) - CA Osasuna
+Einsätze: 137 | Tore: 31 | Vorlagen: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Walter Pandiani (Uruguay) - CA Osasuna
+Einsätze: 103 | Tore: 31 | Vorlagen: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Javad Nekounam (Iran) - CA Osasuna
+Einsätze: 198 | Tore: 31 | Vorlagen: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+John Aloisi (Australia) - CA Osasuna
+Einsätze: 128 | Tore: 32 | Vorlagen: 10
+
+24
+00:02:27,200 --> 00:02:33,800
+José Manuel Echeverria (Spain) - CA Osasuna
+Einsätze: 189 | Tore: 38 | Vorlagen: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Patxi Iriguibel (Spain) - CA Osasuna
+Einsätze: 110 | Tore: 38 | Vorlagen: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Enrique Martín (Spain) - CA Osasuna
+Einsätze: 244 | Tore: 38 | Vorlagen: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Cuco Ziganda (Spain) - CA Osasuna
+Einsätze: 160 | Tore: 44
+
+28
+00:02:53,600 --> 00:03:00,200
+Jan Urban (Poland) - CA Osasuna
+Einsätze: 167 | Tore: 47 | Vorlagen: 2
+
+29
+00:03:00,200 --> 00:03:06,800
+Roberto Torres (Spain) - CA Osasuna
+Einsätze: 353 | Tore: 60 | Vorlagen: 55
+
+30
+00:03:06,800 --> 00:03:13,400
+Ante Budimir (Croatia) - CA Osasuna
+Einsätze: 170 | Tore: 65 | Vorlagen: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Sabino (Spain) - CA Osasuna
+Einsätze: 142 | Tore: 65
+

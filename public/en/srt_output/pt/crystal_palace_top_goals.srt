@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Crystal Palace Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Scott Dann (England) - Crystal Palace
+Partidas: 181 | Gols: 16 | Assistências: 7
+
+3
+00:00:08,600 --> 00:00:15,200
+Mikael Forssell (Finland) - Crystal Palace
+Partidas: 58 | Gols: 17 | Assistências: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Shefki Kuqi (Finland) - Crystal Palace
+Partidas: 83 | Gols: 18 | Assistências: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Geoff Thomas (England) - Crystal Palace
+Partidas: 155 | Gols: 18 | Assistências: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+John Salako (England) - Crystal Palace
+Partidas: 146 | Gols: 18 | Assistências: 9
+
+7
+00:00:35,000 --> 00:00:41,600
+James McArthur (Scotland) - Crystal Palace
+Partidas: 253 | Gols: 19 | Assistências: 21
+
+8
+00:00:41,600 --> 00:00:48,200
+Jeffrey Schlupp (Ghana) - Crystal Palace
+Partidas: 247 | Gols: 19 | Assistências: 15
+
+9
+00:00:48,200 --> 00:00:54,800
+Ben Watson (England) - Crystal Palace
+Partidas: 189 | Gols: 20 | Assistências: 16
+
+10
+00:00:54,800 --> 00:01:01,400
+David Hopkin (Scotland) - Crystal Palace
+Partidas: 85 | Gols: 20
+
+11
+00:01:01,400 --> 00:01:08,000
+Hayden Mullins (England) - Crystal Palace
+Partidas: 251 | Gols: 20
+
+12
+00:01:08,000 --> 00:01:14,600
+Neil Danns (Guyana) - Crystal Palace
+Partidas: 114 | Gols: 21 | Assistências: 8
+
+13
+00:01:14,600 --> 00:01:21,200
+Odsonne Edouard (France) - Crystal Palace
+Partidas: 103 | Gols: 21 | Assistências: 5
+
+14
+00:01:21,200 --> 00:01:27,800
+Jordan Ayew (Ghana) - Crystal Palace
+Partidas: 212 | Gols: 23 | Assistências: 21
+
+15
+00:01:27,800 --> 00:01:34,400
+Dwight Gayle (England) - Crystal Palace
+Partidas: 74 | Gols: 25 | Assistências: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Gerry Queen (Scotland) - Crystal Palace
+Partidas: 113 | Gols: 27
+
+17
+00:01:41,000 --> 00:01:47,600
+Neil Shipperley (England) - Crystal Palace
+Partidas: 114 | Gols: 28 | Assistências: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Luka Milivojevic (Serbia) - Crystal Palace
+Partidas: 198 | Gols: 29 | Assistências: 6
+
+19
+00:01:54,200 --> 00:02:00,800
+Chris Armstrong (England) - Crystal Palace
+Partidas: 87 | Gols: 31 | Assistências: 6
+
+20
+00:02:00,800 --> 00:02:07,400
+Eberechi Eze (England) - Crystal Palace
+Partidas: 156 | Gols: 32 | Assistências: 26
+
+21
+00:02:07,400 --> 00:02:14,000
+Bruce Dyer (England) - Crystal Palace
+Partidas: 108 | Gols: 32 | Assistências: 3
+
+22
+00:02:14,000 --> 00:02:20,600
+Ian Wright (England) - Crystal Palace
+Partidas: 93 | Gols: 35 | Assistências: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Christian Benteke (Belgium) - Crystal Palace
+Partidas: 177 | Gols: 37 | Assistências: 11
+
+24
+00:02:27,200 --> 00:02:33,800
+Darren Ambrose (England) - Crystal Palace
+Partidas: 124 | Gols: 37 | Assistências: 23
+
+25
+00:02:33,800 --> 00:02:40,400
+Mark Bright (England) - Crystal Palace
+Partidas: 138 | Gols: 43 | Assistências: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Jean-Philippe Mateta (France) - Crystal Palace
+Partidas: 141 | Gols: 44 | Assistências: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+Glenn Murray (England) - Crystal Palace
+Partidas: 126 | Gols: 47 | Assistências: 15
+
+28
+00:02:53,600 --> 00:03:00,200
+Andy Johnson (England) - Crystal Palace
+Partidas: 158 | Gols: 83 | Assistências: 7
+
+29
+00:03:00,200 --> 00:03:06,800
+Dougie Freedman (Scotland) - Crystal Palace
+Partidas: 320 | Gols: 88 | Assistências: 6
+
+30
+00:03:06,800 --> 00:03:13,400
+Wilfried Zaha (Cote d'Ivoire) - Crystal Palace
+Partidas: 458 | Gols: 90 | Assistências: 52
+
+31
+00:03:13,400 --> 00:03:20,000
+Clinton Morrison (Ireland) - Crystal Palace
+Partidas: 310 | Gols: 110 | Assistências: 7
+

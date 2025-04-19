@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Juventus FC All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Carl Aage Praest (Denmark) - Juventus FC
+Appearances: 240 | Goals: 55 | Assists: 10
+
+3
+00:00:08,600 --> 00:00:15,200
+Dušan Vlahović (Serbia) - Juventus FC
+Appearances: 134 | Goals: 55 | Assists: 11
+
+4
+00:00:15,200 --> 00:00:21,800
+Vittorio Sentimenti (Italy) - Juventus FC
+Appearances: 196 | Goals: 57 | Assists: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Gino Stacchini (Italy) - Juventus FC
+Appearances: 285 | Goals: 59 | Assists: 0
+
+6
+00:00:28,400 --> 00:00:35,000
+Giampaolo Menichelli (Italy) - Juventus FC
+Appearances: 194 | Goals: 59 | Assists: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Álvaro Morata (Spain) - Juventus FC
+Appearances: 185 | Goals: 59 | Assists: 39
+
+8
+00:00:41,600 --> 00:00:48,200
+Bruno Nicolè (Italy) - Juventus FC
+Appearances: 174 | Goals: 63 | Assists: 0
+
+9
+00:00:48,200 --> 00:00:54,800
+Pavel Nedved (Czech Republic) - Juventus FC
+Appearances: 327 | Goals: 65 | Assists: 77
+
+10
+00:00:54,800 --> 00:01:01,400
+Gonzalo Higuaín (Argentina) - Juventus FC
+Appearances: 149 | Goals: 66 | Assists: 19
+
+11
+00:01:01,400 --> 00:01:08,000
+Fabrizio Ravanelli (Italy) - Juventus FC
+Appearances: 160 | Goals: 69 | Assists: 26
+
+12
+00:01:08,000 --> 00:01:14,600
+Franco Causio (Italy) - Juventus FC
+Appearances: 446 | Goals: 72 | Assists: 14
+
+13
+00:01:14,600 --> 00:01:21,200
+Ermes Muccinelli (Italy) - Juventus FC
+Appearances: 251 | Goals: 73 | Assists: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Giovanni Ferrari (Italy) - Juventus FC
+Appearances: 193 | Goals: 78 | Assists: 0
+
+15
+00:01:27,800 --> 00:01:34,400
+Raimundo Orsi (Argentina) - Juventus FC
+Appearances: 194 | Goals: 85 | Assists: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Filippo Inzaghi (Italy) - Juventus FC
+Appearances: 165 | Goals: 89 | Assists: 21
+
+17
+00:01:41,000 --> 00:01:47,600
+Guglielmo Gabetto (Italy) - Juventus FC
+Appearances: 193 | Goals: 100 | Assists: 0
+
+18
+00:01:47,600 --> 00:01:54,200
+Cristiano Ronaldo (Portugal) - Juventus FC
+Appearances: 134 | Goals: 101 | Assists: 22
+
+19
+00:01:54,200 --> 00:02:00,800
+Michel Platini (France) - Juventus FC
+Appearances: 223 | Goals: 104 | Assists: 49
+
+20
+00:02:00,800 --> 00:02:07,400
+John Charles (Wales) - Juventus FC
+Appearances: 182 | Goals: 105 | Assists: 0
+
+21
+00:02:07,400 --> 00:02:14,000
+Paulo Dybala (Argentina) - Juventus FC
+Appearances: 293 | Goals: 115 | Assists: 48
+
+22
+00:02:14,000 --> 00:02:20,600
+Roberto Baggio (Italy) - Juventus FC
+Appearances: 200 | Goals: 115 | Assists: 49
+
+23
+00:02:20,600 --> 00:02:27,200
+Federico Munerati (Italy) - Juventus FC
+Appearances: 255 | Goals: 118 | Assists: 0
+
+24
+00:02:27,200 --> 00:02:33,800
+John Hansen (Denmark) - Juventus FC
+Appearances: 193 | Goals: 126 | Assists: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Pietro Anastasi (Italy) - Juventus FC
+Appearances: 308 | Goals: 130 | Assists: 5
+
+26
+00:02:40,400 --> 00:02:47,000
+Felice Borel (Italy) - Juventus FC
+Appearances: 287 | Goals: 154 | Assists: 0
+
+27
+00:02:47,000 --> 00:02:53,600
+Omar Sívori (Italy) - Juventus FC
+Appearances: 254 | Goals: 165 | Assists: 0
+
+28
+00:02:53,600 --> 00:03:00,200
+David Trezeguet (France) - Juventus FC
+Appearances: 320 | Goals: 171 | Assists: 38
+
+29
+00:03:00,200 --> 00:03:06,800
+Roberto Bettega (Italy) - Juventus FC
+Appearances: 482 | Goals: 179 | Assists: 10
+
+30
+00:03:06,800 --> 00:03:13,400
+Giampiero Boniperti (Italy) - Juventus FC
+Appearances: 465 | Goals: 185 | Assists: 11
+
+31
+00:03:13,400 --> 00:03:20,000
+Alessandro Del Piero (Italy) - Juventus FC
+Appearances: 705 | Goals: 290 | Assists: 172
+

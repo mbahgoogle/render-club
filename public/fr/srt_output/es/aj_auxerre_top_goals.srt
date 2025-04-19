@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AJ Auxerre Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+William Prunier (France) - AJ Auxerre
+Partidos: 256 | Goles: 25
+
+3
+00:00:08,600 --> 00:00:15,200
+Gaëtan Perrin (France) - AJ Auxerre
+Partidos: 148 | Goles: 26 | Asistencias: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Bernard Ferrer (France) - AJ Auxerre
+Partidos: 127 | Goles: 27 | Asistencias: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Rémy Dugimont (France) - AJ Auxerre
+Partidos: 137 | Goles: 28 | Asistencias: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Moussa Saïb (Algeria) - AJ Auxerre
+Partidos: 192 | Goles: 28 | Asistencias: 15
+
+7
+00:00:35,000 --> 00:00:41,600
+Dennis Oliech (Kenya) - AJ Auxerre
+Partidos: 200 | Goles: 28 | Asistencias: 24
+
+8
+00:00:41,600 --> 00:00:48,200
+Gauthier Hein (France) - AJ Auxerre
+Partidos: 152 | Goles: 29 | Asistencias: 20
+
+9
+00:00:48,200 --> 00:00:54,800
+Éric Cantona (France) - AJ Auxerre
+Partidos: 94 | Goles: 29
+
+10
+00:00:54,800 --> 00:01:01,400
+Benjani (Zimbabwe) - AJ Auxerre
+Partidos: 110 | Goles: 29 | Asistencias: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Enzo Scifo (Belgium) - AJ Auxerre
+Partidos: 81 | Goles: 30 | Asistencias: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Gaëtan Courtet (France) - AJ Auxerre
+Partidos: 84 | Goles: 31 | Asistencias: 21
+
+13
+00:01:14,600 --> 00:01:21,200
+Yann Lachuer (France) - AJ Auxerre
+Partidos: 256 | Goles: 31 | Asistencias: 14
+
+14
+00:01:21,200 --> 00:01:27,800
+Steve Marlet (France) - AJ Auxerre
+Partidos: 135 | Goles: 33 | Asistencias: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+Bonaventure Kalou (Cote d'Ivoire) - AJ Auxerre
+Partidos: 92 | Goles: 34 | Asistencias: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Daniel Dutuel (France) - AJ Auxerre
+Partidos: 258 | Goles: 34 | Asistencias: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Luigi Pieroni (Belgium) - AJ Auxerre
+Partidos: 113 | Goles: 36 | Asistencias: 7
+
+18
+00:01:47,600 --> 00:01:54,200
+Olivier Kapo (France) - AJ Auxerre
+Partidos: 204 | Goles: 36 | Asistencias: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Kálmán Kovács (Hungary) - AJ Auxerre
+Partidos: 100 | Goles: 42 | Asistencias: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Corentin Martins (France) - AJ Auxerre
+Partidos: 207 | Goles: 45 | Asistencias: 16
+
+21
+00:02:07,400 --> 00:02:14,000
+Bernard Diomède (France) - AJ Auxerre
+Partidos: 224 | Goles: 46 | Asistencias: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Gérald Baticle (France) - AJ Auxerre
+Partidos: 176 | Goles: 47 | Asistencias: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Jean-Marc Ferreri (France) - AJ Auxerre
+Partidos: 244 | Goles: 54 | Asistencias: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Lilian Laslandes (France) - AJ Auxerre
+Partidos: 161 | Goles: 55 | Asistencias: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Ireneusz Jeleń (Poland) - AJ Auxerre
+Partidos: 164 | Goles: 59 | Asistencias: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrice Garande (France) - AJ Auxerre
+Partidos: 162 | Goles: 61
+
+27
+00:02:47,000 --> 00:02:53,600
+Pascal Vahirua (France) - AJ Auxerre
+Partidos: 347 | Goles: 69 | Asistencias: 18
+
+28
+00:02:53,600 --> 00:03:00,200
+Christophe Cocard (France) - AJ Auxerre
+Partidos: 322 | Goles: 72 | Asistencias: 13
+
+29
+00:03:00,200 --> 00:03:06,800
+Stéphane Guivarc'h (France) - AJ Auxerre
+Partidos: 152 | Goles: 80 | Asistencias: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Djibril Cissé (France) - AJ Auxerre
+Partidos: 169 | Goles: 90 | Asistencias: 5
+
+31
+00:03:13,400 --> 00:03:20,000
+Andrzej Szarmach (Poland) - AJ Auxerre
+Partidos: 158 | Goles: 100
+

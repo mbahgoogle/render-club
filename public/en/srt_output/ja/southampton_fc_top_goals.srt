@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Southampton FC 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Nathan Redmond (England) - Southampton FC
+出場数: 232 | ゴール: 30 | アシスト: 27
+
+3
+00:00:08,600 --> 00:00:15,200
+Egil Østenstad (Norway) - Southampton FC
+出場数: 108 | ゴール: 32 | アシスト: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Iain Dowie (Northern Ireland) - Southampton FC
+出場数: 138 | ゴール: 32 | アシスト: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Adam Armstrong (England) - Southampton FC
+出場数: 142 | ゴール: 32 | アシスト: 18
+
+6
+00:00:28,400 --> 00:00:35,000
+Graham Baker (England) - Southampton FC
+出場数: 180 | ゴール: 33 | アシスト: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Martin Chivers (England) - Southampton FC
+出場数: 79 | ゴール: 33
+
+8
+00:00:41,600 --> 00:00:48,200
+Grzegorz Rasiak (Poland) - Southampton FC
+出場数: 87 | ゴール: 33 | アシスト: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Nick Holmes (England) - Southampton FC
+出場数: 367 | ゴール: 35 | アシスト: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Jay Rodríguez (England) - Southampton FC
+出場数: 126 | ゴール: 35 | アシスト: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Colin Clarke (Northern Ireland) - Southampton FC
+出場数: 88 | ゴール: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+Glenn Cockerill (England) - Southampton FC
+出場数: 331 | ゴール: 37 | アシスト: 5
+
+13
+00:01:14,600 --> 00:01:21,200
+Shane Long (Ireland) - Southampton FC
+出場数: 245 | ゴール: 37 | アシスト: 23
+
+14
+00:01:21,200 --> 00:01:27,800
+Alan Shearer (England) - Southampton FC
+出場数: 150 | ゴール: 38 | アシスト: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Phil Boyer (England) - Southampton FC
+出場数: 114 | ゴール: 39 | アシスト: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Kevin Keegan (England) - Southampton FC
+出場数: 78 | ゴール: 43 | アシスト: 13
+
+17
+00:01:41,000 --> 00:01:47,600
+Marians Pahars (Latvia) - Southampton FC
+出場数: 155 | ゴール: 45 | アシスト: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Danny Ings (England) - Southampton FC
+出場数: 100 | ゴール: 46 | アシスト: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Ché Adams (Scotland) - Southampton FC
+出場数: 191 | ゴール: 48 | アシスト: 20
+
+20
+00:02:00,800 --> 00:02:07,400
+Terry Paine (England) - Southampton FC
+出場数: 378 | ゴール: 51 | アシスト: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Rod Wallace (England) - Southampton FC
+出場数: 152 | ゴール: 53 | アシスト: 3
+
+22
+00:02:14,000 --> 00:02:20,600
+James Ward-Prowse (England) - Southampton FC
+出場数: 410 | ゴール: 55 | アシスト: 52
+
+23
+00:02:20,600 --> 00:02:27,200
+Adam Lallana (England) - Southampton FC
+出場数: 283 | ゴール: 60 | アシスト: 47
+
+24
+00:02:27,200 --> 00:02:33,800
+David Armstrong (England) - Southampton FC
+出場数: 242 | ゴール: 61 | アシスト: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Danny Wallace (England) - Southampton FC
+出場数: 284 | ゴール: 65 | アシスト: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+James Beattie (England) - Southampton FC
+出場数: 232 | ゴール: 76 | アシスト: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Steve Moran (England) - Southampton FC
+出場数: 203 | ゴール: 87 | アシスト: 4
+
+28
+00:02:53,600 --> 00:03:00,200
+Rickie Lambert (England) - Southampton FC
+出場数: 235 | ゴール: 117 | アシスト: 58
+
+29
+00:03:00,200 --> 00:03:06,800
+Ron Davies (Wales) - Southampton FC
+出場数: 259 | ゴール: 144 | アシスト: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Mick Channon (England) - Southampton FC
+出場数: 440 | ゴール: 148 | アシスト: 20
+
+31
+00:03:13,400 --> 00:03:20,000
+Matt Le Tissier (England) - Southampton FC
+出場数: 518 | ゴール: 195 | アシスト: 58
+

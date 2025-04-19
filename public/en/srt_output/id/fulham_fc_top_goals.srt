@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Fulham FC Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Tom Cairney (Scotland) - Fulham FC
+Penampilan: 348 | Gol: 46 | Asis: 36
+
+3
+00:00:08,600 --> 00:00:15,200
+Tim Coleman (England) - Fulham FC
+Penampilan: 99 | Gol: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Herbert Pearce (England) - Fulham FC
+Penampilan: 96 | Gol: 50
+
+5
+00:00:21,800 --> 00:00:28,400
+Gary Brazil (England) - Fulham FC
+Penampilan: 204 | Gol: 51 | Asis: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Jimmy Hill (England) - Fulham FC
+Penampilan: 298 | Gol: 52 | Asis: 41
+
+7
+00:00:35,000 --> 00:00:41,600
+Fred Harrison (England) - Fulham FC
+Penampilan: 132 | Gol: 54
+
+8
+00:00:41,600 --> 00:00:48,200
+Luís Boa Morte (Portugal) - Fulham FC
+Penampilan: 250 | Gol: 54 | Asis: 27
+
+9
+00:00:48,200 --> 00:00:54,800
+Roy Dwight (England) - Fulham FC
+Penampilan: 80 | Gol: 57 | Asis: 14
+
+10
+00:00:54,800 --> 00:01:01,400
+Allan Clarke (England) - Fulham FC
+Penampilan: 100 | Gol: 57 | Asis: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Barry Hayles (Jamaica) - Fulham FC
+Penampilan: 215 | Gol: 57 | Asis: 25
+
+12
+00:01:08,000 --> 00:01:14,600
+Bob Thomas (England) - Fulham FC
+Penampilan: 174 | Gol: 58 | Asis: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Clint Dempsey (United States) - Fulham FC
+Penampilan: 232 | Gol: 60 | Asis: 19
+
+14
+00:01:21,200 --> 00:01:27,800
+John Mitchell (England) - Fulham FC
+Penampilan: 195 | Gol: 60 | Asis: 9
+
+15
+00:01:27,800 --> 00:01:34,400
+Johnny Arnold (England) - Fulham FC
+Penampilan: 211 | Gol: 62 | Asis: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Louis Saha (France) - Fulham FC
+Penampilan: 141 | Gol: 63 | Asis: 9
+
+17
+00:01:41,000 --> 00:01:47,600
+Tosh Chamberlain (England) - Fulham FC
+Penampilan: 204 | Gol: 64 | Asis: 37
+
+18
+00:01:47,600 --> 00:01:54,200
+Dean Coney (England) - Fulham FC
+Penampilan: 249 | Gol: 73 | Asis: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Jimmy Conway (Ireland) - Fulham FC
+Penampilan: 360 | Gol: 76 | Asis: 26
+
+20
+00:02:00,800 --> 00:02:07,400
+Ronnie Rooke (England) - Fulham FC
+Penampilan: 108 | Gol: 77 | Asis: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Sir Bobby Robson (England) - Fulham FC
+Penampilan: 370 | Gol: 80 | Asis: 18
+
+22
+00:02:14,000 --> 00:02:20,600
+Jim Hammond (England) - Fulham FC
+Penampilan: 220 | Gol: 80 | Asis: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Les Barrett (England) - Fulham FC
+Penampilan: 491 | Gol: 90 | Asis: 37
+
+24
+00:02:27,200 --> 00:02:33,800
+Maurice Cook (England) - Fulham FC
+Penampilan: 248 | Gol: 96 | Asis: 12
+
+25
+00:02:33,800 --> 00:02:40,400
+Steve Earle (England) - Fulham FC
+Penampilan: 327 | Gol: 108 | Asis: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Aleksandar Mitrović (Serbia) - Fulham FC
+Penampilan: 206 | Gol: 111 | Asis: 21
+
+27
+00:02:47,000 --> 00:02:53,600
+Arthur Stevens (England) - Fulham FC
+Penampilan: 411 | Gol: 123 | Asis: 68
+
+28
+00:02:53,600 --> 00:03:00,200
+Graham Leggat (Scotland) - Fulham FC
+Penampilan: 280 | Gol: 135 | Asis: 20
+
+29
+00:03:00,200 --> 00:03:06,800
+Bedford Jezzard (England) - Fulham FC
+Penampilan: 305 | Gol: 154 | Asis: 34
+
+30
+00:03:06,800 --> 00:03:13,400
+Johnny Haynes (England) - Fulham FC
+Penampilan: 658 | Gol: 156 | Asis: 142
+
+31
+00:03:13,400 --> 00:03:20,000
+Gordon Davies (Wales) - Fulham FC
+Penampilan: 454 | Gol: 178 | Asis: 33
+

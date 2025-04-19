@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Manchester United Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Sammy McIlroy (Northern Ireland) - Manchester United
+Partidos: 373 | Goles: 61 | Asistencias: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Norman Whiteside (Northern Ireland) - Manchester United
+Partidos: 259 | Goles: 63 | Asistencias: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Steve Coppell (England) - Manchester United
+Partidos: 373 | Goles: 65 | Asistencias: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Dwight Yorke (Trinidad and Tobago) - Manchester United
+Partidos: 152 | Goles: 66 | Asistencias: 32
+
+6
+00:00:28,400 --> 00:00:35,000
+Brian Kidd (England) - Manchester United
+Partidos: 265 | Goles: 70 | Asistencias: 13
+
+7
+00:00:35,000 --> 00:00:41,600
+Frank Stapleton (Ireland) - Manchester United
+Partidos: 274 | Goles: 72 | Asistencias: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Lou Macari (Scotland) - Manchester United
+Partidos: 356 | Goles: 78
+
+9
+00:00:48,200 --> 00:00:54,800
+Éric Cantona (France) - Manchester United
+Partidos: 185 | Goles: 82 | Asistencias: 63
+
+10
+00:00:54,800 --> 00:01:01,400
+David Beckham (England) - Manchester United
+Partidos: 394 | Goles: 85 | Asistencias: 121
+
+11
+00:01:01,400 --> 00:01:08,000
+Anthony Martial (France) - Manchester United
+Partidos: 317 | Goles: 90 | Asistencias: 46
+
+12
+00:01:08,000 --> 00:01:14,600
+Bruno Fernandes (Portugal) - Manchester United
+Partidos: 278 | Goles: 95 | Asistencias: 82
+
+13
+00:01:14,600 --> 00:01:21,200
+Bryan Robson (England) - Manchester United
+Partidos: 446 | Goles: 97 | Asistencias: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy Cole (England) - Manchester United
+Partidos: 275 | Goles: 121 | Asistencias: 44
+
+15
+00:01:27,800 --> 00:01:34,400
+Brian McClair (Scotland) - Manchester United
+Partidos: 466 | Goles: 121 | Asistencias: 16
+
+16
+00:01:34,400 --> 00:01:41,000
+Ole Gunnar Solskjær (Norway) - Manchester United
+Partidos: 366 | Goles: 126 | Asistencias: 57
+
+17
+00:01:41,000 --> 00:01:47,600
+Tommy Taylor (England) - Manchester United
+Partidos: 189 | Goles: 131 | Asistencias: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Stan Pearson (England) - Manchester United
+Partidos: 315 | Goles: 135 | Asistencias: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Marcus Rashford (England) - Manchester United
+Partidos: 426 | Goles: 138 | Asistencias: 65
+
+20
+00:02:00,800 --> 00:02:07,400
+David Herd (Scotland) - Manchester United
+Partidos: 261 | Goles: 144 | Asistencias: 29
+
+21
+00:02:07,400 --> 00:02:14,000
+Cristiano Ronaldo (Portugal) - Manchester United
+Partidos: 346 | Goles: 145 | Asistencias: 64
+
+22
+00:02:14,000 --> 00:02:20,600
+Ruud van Nistelrooy (Netherlands) - Manchester United
+Partidos: 219 | Goles: 150 | Asistencias: 28
+
+23
+00:02:20,600 --> 00:02:27,200
+Paul Scholes (England) - Manchester United
+Partidos: 716 | Goles: 155 | Asistencias: 82
+
+24
+00:02:27,200 --> 00:02:33,800
+Mark Hughes (Wales) - Manchester United
+Partidos: 459 | Goles: 161 | Asistencias: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Ryan Giggs (Wales) - Manchester United
+Partidos: 963 | Goles: 168 | Asistencias: 265
+
+26
+00:02:40,400 --> 00:02:47,000
+Dennis Viollet (England) - Manchester United
+Partidos: 284 | Goles: 173 | Asistencias: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+George Best (Northern Ireland) - Manchester United
+Partidos: 470 | Goles: 179 | Asistencias: 33
+
+28
+00:02:53,600 --> 00:03:00,200
+Jack Rowley (England) - Manchester United
+Partidos: 357 | Goles: 189 | Asistencias: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Denis Law (Scotland) - Manchester United
+Partidos: 405 | Goles: 237 | Asistencias: 36
+
+30
+00:03:06,800 --> 00:03:13,400
+Sir Bobby Charlton (England) - Manchester United
+Partidos: 746 | Goles: 245 | Asistencias: 57
+
+31
+00:03:13,400 --> 00:03:20,000
+Wayne Rooney (England) - Manchester United
+Partidos: 559 | Goles: 253 | Asistencias: 139
+

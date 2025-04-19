@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+CD Leganés 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Javi Vicente (Spain) - CD Leganés
+出場数: 72 | ゴール: 11
+
+3
+00:00:08,600 --> 00:00:15,200
+Víctor Fernández (Spain) - CD Leganés
+出場数: 31 | ゴール: 11
+
+4
+00:00:15,200 --> 00:00:21,800
+Juan Cruz (Spain) - CD Leganés
+出場数: 49 | ゴール: 11 | アシスト: 6
+
+5
+00:00:21,800 --> 00:00:28,400
+Rubén Navarro (Spain) - CD Leganés
+出場数: 32 | ゴール: 12
+
+6
+00:00:28,400 --> 00:00:35,000
+Sergio González (Spain) - CD Leganés
+出場数: 158 | ゴール: 12 | アシスト: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Gerardo Berodia (Spain) - CD Leganés
+出場数: 34 | ゴール: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Martín Mantovani (Argentina) - CD Leganés
+出場数: 168 | ゴール: 12 | アシスト: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Catanha (Spain) - CD Leganés
+出場数: 31 | ゴール: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Martin Braithwaite (Denmark) - CD Leganés
+出場数: 48 | ゴール: 13 | アシスト: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Nacho Aznar (Spain) - CD Leganés
+出場数: 77 | ゴール: 14
+
+12
+00:01:08,000 --> 00:01:14,600
+Fernando Velasco (Spain) - CD Leganés
+出場数: 70 | ゴール: 14 | アシスト: 7
+
+13
+00:01:14,600 --> 00:01:21,200
+Borja Lázaro (Spain) - CD Leganés
+出場数: 51 | ゴール: 14 | アシスト: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Óscar Rodríguez (Spain) - CD Leganés
+出場数: 89 | ゴール: 14 | アシスト: 11
+
+15
+00:01:27,800 --> 00:01:34,400
+Youssef En-Nesyri (Morocco) - CD Leganés
+出場数: 53 | ゴール: 15 | アシスト: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Tonino (Spain) - CD Leganés
+出場数: 76 | ゴール: 15
+
+17
+00:01:41,000 --> 00:01:47,600
+Juan Muñoz (Spain) - CD Leganés
+出場数: 90 | ゴール: 16 | アシスト: 5
+
+18
+00:01:47,600 --> 00:01:54,200
+Diego García (Spain) - CD Leganés
+出場数: 75 | ゴール: 16 | アシスト: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Gabriel Pires (Brazil) - CD Leganés
+出場数: 111 | ゴール: 19 | アシスト: 8
+
+20
+00:02:00,800 --> 00:02:07,400
+Dani Raba (Spain) - CD Leganés
+出場数: 91 | ゴール: 19 | アシスト: 13
+
+21
+00:02:07,400 --> 00:02:14,000
+Miguel Ángel (Spain) - CD Leganés
+出場数: 82 | ゴール: 19
+
+22
+00:02:14,000 --> 00:02:20,600
+Carlos Álvarez (Spain) - CD Leganés
+出場数: 52 | ゴール: 19 | アシスト: 3
+
+23
+00:02:20,600 --> 00:02:27,200
+Aníbal Zurdo (Mexico) - CD Leganés
+出場数: 65 | ゴール: 20
+
+24
+00:02:27,200 --> 00:02:33,800
+Miguel de la Fuente (Spain) - CD Leganés
+出場数: 96 | ゴール: 21 | アシスト: 6
+
+25
+00:02:33,800 --> 00:02:40,400
+Dioni (Spain) - CD Leganés
+出場数: 43 | ゴール: 21 | アシスト: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+José Manuel Arnáiz (Spain) - CD Leganés
+出場数: 134 | ゴール: 22 | アシスト: 5
+
+27
+00:02:47,000 --> 00:02:53,600
+Mikel Arruabarrena (Spain) - CD Leganés
+出場数: 36 | ゴール: 22
+
+28
+00:02:53,600 --> 00:03:00,200
+Carlos Martínez (Spain) - CD Leganés
+出場数: 155 | ゴール: 22 | アシスト: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+Javi Eraso (Spain) - CD Leganés
+出場数: 215 | ゴール: 22 | アシスト: 16
+
+30
+00:03:06,800 --> 00:03:13,400
+Alexander Szymanowski (Argentina) - CD Leganés
+出場数: 90 | ゴール: 23 | アシスト: 15
+
+31
+00:03:13,400 --> 00:03:20,000
+Joaquín Álvarez (Spain) - CD Leganés
+出場数: 104 | ゴール: 39
+

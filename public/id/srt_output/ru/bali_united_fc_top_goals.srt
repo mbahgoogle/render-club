@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bali United FC Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Made Andhika (Indonesia) - Bali United FC
+Матчи: 176 | Голы: 3 | Голевые передачи: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Made Wirahadi (Indonesia) - Bali United FC
+Матчи: 13 | Голы: 3 | Голевые передачи: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Martinus Novianto (Indonesia) - Bali United FC
+Матчи: 14 | Голы: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Mitsuru Maruoka (Japan) - Bali United FC
+Матчи: 24 | Голы: 3 | Голевые передачи: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Jajang Mulyana (Indonesia) - Bali United FC
+Матчи: 48 | Голы: 3 | Голевые передачи: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Nyoman Sukarja (Indonesia) - Bali United FC
+Матчи: 34 | Голы: 3
+
+8
+00:00:41,600 --> 00:00:48,200
+Mohammed Rashid (Palestine) - Bali United FC
+Матчи: 39 | Голы: 4 | Голевые передачи: 6
+
+9
+00:00:48,200 --> 00:00:54,800
+Elias Dolah (Thailand) - Bali United FC
+Матчи: 66 | Голы: 4 | Голевые передачи: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Made Tito (Indonesia) - Bali United FC
+Матчи: 33 | Голы: 4 | Голевые передачи: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Novri Setiawan (Indonesia) - Bali United FC
+Матчи: 82 | Голы: 4 | Голевые передачи: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Ricky Fajrin (Indonesia) - Bali United FC
+Матчи: 232 | Голы: 5 | Голевые передачи: 20
+
+13
+00:01:14,600 --> 00:01:21,200
+Everton (Brazil) - Bali United FC
+Матчи: 25 | Голы: 5 | Голевые передачи: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Boris Kopitovic (Montenegro) - Bali United FC
+Матчи: 9 | Голы: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+Lerby (Indonesia) - Bali United FC
+Матчи: 47 | Голы: 6
+
+16
+00:01:34,400 --> 00:01:41,000
+Nick van der Velden (Netherlands) - Bali United FC
+Матчи: 58 | Голы: 7 | Голевые передачи: 15
+
+17
+00:01:41,000 --> 00:01:47,600
+Rahmat Arjuna (Indonesia) - Bali United FC
+Матчи: 62 | Голы: 7 | Голевые передачи: 5
+
+18
+00:01:47,600 --> 00:01:54,200
+Marcos Flores (Argentina) - Bali United FC
+Матчи: 26 | Голы: 8 | Голевые передачи: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Yabes Roni (Indonesia) - Bali United FC
+Матчи: 164 | Голы: 9 | Голевые передачи: 12
+
+20
+00:02:00,800 --> 00:02:07,400
+Willian Pacheco (Brazil) - Bali United FC
+Матчи: 94 | Голы: 11 | Голевые передачи: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Irfan Jaya (Indonesia) - Bali United FC
+Матчи: 99 | Голы: 15 | Голевые передачи: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Jefferson (Brazil) - Bali United FC
+Матчи: 35 | Голы: 15 | Голевые передачи: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Irfan Bachdim (Indonesia) - Bali United FC
+Матчи: 81 | Голы: 15 | Голевые передачи: 12
+
+24
+00:02:27,200 --> 00:02:33,800
+Éber Bessa (Brazil) - Bali United FC
+Матчи: 105 | Голы: 16 | Голевые передачи: 29
+
+25
+00:02:33,800 --> 00:02:40,400
+Fadil Sausu (Indonesia) - Bali United FC
+Матчи: 167 | Голы: 16 | Голевые передачи: 31
+
+26
+00:02:40,400 --> 00:02:47,000
+Rahmat (Indonesia) - Bali United FC
+Матчи: 129 | Голы: 26 | Голевые передачи: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+Stefano Lilipaly (Indonesia) - Bali United FC
+Матчи: 120 | Голы: 32 | Голевые передачи: 25
+
+28
+00:02:53,600 --> 00:03:00,200
+Melvin Platje (Netherlands) - Bali United FC
+Матчи: 70 | Голы: 35 | Голевые передачи: 15
+
+29
+00:03:00,200 --> 00:03:06,800
+Sylvano Comvalius (Netherlands) - Bali United FC
+Матчи: 34 | Голы: 37 | Голевые передачи: 11
+
+30
+00:03:06,800 --> 00:03:13,400
+Privat Mbarga (Cambodia) - Bali United FC
+Матчи: 127 | Голы: 40 | Голевые передачи: 32
+
+31
+00:03:13,400 --> 00:03:20,000
+Ilija Spasojević (Indonesia) - Bali United FC
+Матчи: 188 | Голы: 88 | Голевые передачи: 15
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RB Leipzig 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Timo Röttger (Germany) - RB Leipzig
+출전: 89 | 골: 10 | 도움: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Bastian Schulz (Germany) - RB Leipzig
+출전: 64 | 골: 11 | 도움: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Christian Reimann (Germany) - RB Leipzig
+출전: 30 | 골: 11 | 도움: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Angeliño (Spain) - RB Leipzig
+출전: 100 | 골: 11 | 도움: 29
+
+6
+00:00:28,400 --> 00:00:35,000
+Lars Müller (Germany) - RB Leipzig
+출전: 62 | 골: 13 | 도움: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Thiago Rockenbach (Brazil) - RB Leipzig
+출전: 85 | 골: 14 | 도움: 30
+
+8
+00:00:41,600 --> 00:00:48,200
+Jochen Höfler (Germany) - RB Leipzig
+출전: 30 | 골: 14 | 도움: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Lukas Klostermann (Germany) - RB Leipzig
+출전: 320 | 골: 14 | 도움: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Davie Selke (Germany) - RB Leipzig
+출전: 53 | 골: 14 | 도움: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Konrad Laimer (Austria) - RB Leipzig
+출전: 190 | 골: 15 | 도움: 19
+
+12
+00:01:08,000 --> 00:01:14,600
+Amadou Haidara (Mali) - RB Leipzig
+출전: 217 | 골: 15 | 도움: 10
+
+13
+00:01:14,600 --> 00:01:21,200
+Marcel Halstenberg (Germany) - RB Leipzig
+출전: 240 | 골: 16 | 도움: 27
+
+14
+00:01:21,200 --> 00:01:27,800
+Naby Keïta (Guinea) - RB Leipzig
+출전: 71 | 골: 17 | 도움: 14
+
+15
+00:01:27,800 --> 00:01:34,400
+Xavi Simons (Netherlands) - RB Leipzig
+출전: 70 | 골: 18 | 도움: 20
+
+16
+00:01:34,400 --> 00:01:41,000
+Nico Frommer (Germany) - RB Leipzig
+출전: 42 | 골: 19 | 도움: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Dominik Szoboszlai (Hungary) - RB Leipzig
+출전: 91 | 골: 20 | 도움: 22
+
+18
+00:01:47,600 --> 00:01:54,200
+Jean-Kévin Augustin (France) - RB Leipzig
+출전: 67 | 골: 20 | 도움: 8
+
+19
+00:01:54,200 --> 00:02:00,800
+André Silva (Portugal) - RB Leipzig
+출전: 110 | 골: 27 | 도움: 20
+
+20
+00:02:00,800 --> 00:02:07,400
+Stefan Kutschke (Germany) - RB Leipzig
+출전: 86 | 골: 27 | 도움: 17
+
+21
+00:02:07,400 --> 00:02:14,000
+Dani Olmo (Spain) - RB Leipzig
+출전: 148 | 골: 29 | 도움: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Willi Orbán (Hungary) - RB Leipzig
+출전: 347 | 골: 33 | 도움: 10
+
+23
+00:02:20,600 --> 00:02:27,200
+Dominik Kaiser (Germany) - RB Leipzig
+출전: 167 | 골: 34 | 도움: 35
+
+24
+00:02:27,200 --> 00:02:33,800
+Benjamin Sesko (Slovenia) - RB Leipzig
+출전: 80 | 골: 36 | 도움: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Loïs Openda (Belgium) - RB Leipzig
+출전: 83 | 골: 40 | 도움: 16
+
+26
+00:02:40,400 --> 00:02:47,000
+Marcel Sabitzer (Austria) - RB Leipzig
+출전: 229 | 골: 52 | 도움: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Christopher Nkunku (France) - RB Leipzig
+출전: 172 | 골: 70 | 도움: 47
+
+28
+00:02:53,600 --> 00:03:00,200
+Emil Forsberg (Sweden) - RB Leipzig
+출전: 325 | 골: 71 | 도움: 68
+
+29
+00:03:00,200 --> 00:03:06,800
+Daniel Frahn (Germany) - RB Leipzig
+출전: 154 | 골: 87 | 도움: 34
+
+30
+00:03:06,800 --> 00:03:13,400
+Yussuf Poulsen (Denmark) - RB Leipzig
+출전: 419 | 골: 93 | 도움: 60
+
+31
+00:03:13,400 --> 00:03:20,000
+Timo Werner (Germany) - RB Leipzig
+출전: 213 | 골: 113 | 도움: 47
+

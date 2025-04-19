@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Manchester City 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Nicolas Anelka (France) - Manchester City
+出场数: 103 | 进球: 45 | 助攻: 8
+
+3
+00:00:08,600 --> 00:00:15,200
+Shaun Wright-Phillips (England) - Manchester City
+出场数: 274 | 进球: 48 | 助攻: 30
+
+4
+00:00:15,200 --> 00:00:21,800
+Bobby Johnstone (Scotland) - Manchester City
+出场数: 133 | 进球: 49 | 助攻: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Johnny Hart (England) - Manchester City
+出场数: 147 | 进球: 53
+
+6
+00:00:28,400 --> 00:00:35,000
+Brian Kidd (England) - Manchester City
+出场数: 122 | 进球: 54
+
+7
+00:00:35,000 --> 00:00:41,600
+İlkay Gündoğan (Germany) - Manchester City
+出场数: 345 | 进球: 62 | 助攻: 39
+
+8
+00:00:41,600 --> 00:00:48,200
+Billy McAdams (Northern Ireland) - Manchester City
+出场数: 130 | 进球: 63
+
+9
+00:00:48,200 --> 00:00:54,800
+Uwe Rösler (Germany) - Manchester City
+出场数: 177 | 进球: 64 | 助攻: 9
+
+10
+00:00:54,800 --> 00:01:01,400
+Roy Clarke (Wales) - Manchester City
+出场数: 325 | 进球: 67
+
+11
+00:01:01,400 --> 00:01:08,000
+Bernardo Silva (Portugal) - Manchester City
+出场数: 395 | 进球: 69 | 助攻: 69
+
+12
+00:01:08,000 --> 00:01:14,600
+Edin Džeko (Bosnia-Herzegovina) - Manchester City
+出场数: 189 | 进球: 72 | 助攻: 26
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Tevez (Argentina) - Manchester City
+出场数: 148 | 进球: 73 | 助攻: 32
+
+14
+00:01:21,200 --> 00:01:27,800
+Neil Young (England) - Manchester City
+出场数: 288 | 进球: 74 | 助攻: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+David Silva (Spain) - Manchester City
+出场数: 436 | 进球: 77 | 助攻: 129
+
+16
+00:01:34,400 --> 00:01:41,000
+Colin Barlow (England) - Manchester City
+出场数: 181 | 进球: 77 | 助攻: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Niall Quinn (Ireland) - Manchester City
+出场数: 242 | 进球: 77 | 助攻: 22
+
+18
+00:01:47,600 --> 00:01:54,200
+Riyad Mahrez (Algeria) - Manchester City
+出场数: 236 | 进球: 78 | 助攻: 56
+
+19
+00:01:54,200 --> 00:02:00,800
+Yaya Touré (Cote d'Ivoire) - Manchester City
+出场数: 316 | 进球: 80 | 助攻: 45
+
+20
+00:02:00,800 --> 00:02:07,400
+David White (England) - Manchester City
+出场数: 272 | 进球: 82 | 助攻: 11
+
+21
+00:02:07,400 --> 00:02:14,000
+Gabriel Jesus (Brazil) - Manchester City
+出场数: 236 | 进球: 95 | 助攻: 45
+
+22
+00:02:14,000 --> 00:02:20,600
+Phil Foden (England) - Manchester City
+出场数: 309 | 进球: 97 | 助攻: 60
+
+23
+00:02:20,600 --> 00:02:27,200
+Dennis Tueart (England) - Manchester City
+出场数: 261 | 进球: 101
+
+24
+00:02:27,200 --> 00:02:33,800
+Shaun Goater (Bermuda) - Manchester City
+出场数: 209 | 进球: 102 | 助攻: 26
+
+25
+00:02:33,800 --> 00:02:40,400
+Kevin De Bruyne (Belgium) - Manchester City
+出场数: 413 | 进球: 106 | 助攻: 174
+
+26
+00:02:40,400 --> 00:02:47,000
+Erling Haaland (Norway) - Manchester City
+出场数: 138 | 进球: 120 | 助攻: 18
+
+27
+00:02:47,000 --> 00:02:53,600
+Raheem Sterling (England) - Manchester City
+出场数: 339 | 进球: 131 | 助攻: 73
+
+28
+00:02:53,600 --> 00:03:00,200
+Colin Bell (England) - Manchester City
+出场数: 456 | 进球: 137 | 助攻: 4
+
+29
+00:03:00,200 --> 00:03:06,800
+Francis Lee (England) - Manchester City
+出场数: 307 | 进球: 138 | 助攻: 14
+
+30
+00:03:06,800 --> 00:03:13,400
+Joe Hayes (England) - Manchester City
+出场数: 338 | 进球: 146 | 助攻: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Sergio Agüero (Argentina) - Manchester City
+出场数: 390 | 进球: 260 | 助攻: 64
+

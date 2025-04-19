@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSMS Medan सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+José Valencia (Colombia) - PSMS Medan
+प्रदर्शन: 5 | गोल: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Alexandros Tanidis (Greece) - PSMS Medan
+प्रदर्शन: 15 | गोल: 2 | असिस्ट: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Fiwi Dwipan (Indonesia) - PSMS Medan
+प्रदर्शन: 12 | गोल: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Ari Supriatna (Indonesia) - PSMS Medan
+प्रदर्शन: 16 | गोल: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Matheus Souza (Brazil) - PSMS Medan
+प्रदर्शन: 6 | गोल: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Eki Saputra (Indonesia) - PSMS Medan
+प्रदर्शन: 7 | गोल: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Denny Rumba (Indonesia) - PSMS Medan
+प्रदर्शन: 19 | गोल: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Fardan Harahap (Indonesia) - PSMS Medan
+प्रदर्शन: 16 | गोल: 3 | असिस्ट: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Ikhsan Chan (Indonesia) - PSMS Medan
+प्रदर्शन: 39 | गोल: 3 | असिस्ट: 5
+
+11
+00:01:01,400 --> 00:01:08,000
+Reinaldo Lobo (Brazil) - PSMS Medan
+प्रदर्शन: 29 | गोल: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Ichsan Pratama (Indonesia) - PSMS Medan
+प्रदर्शन: 35 | गोल: 3 | असिस्ट: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Rafi Angga (Indonesia) - PSMS Medan
+प्रदर्शन: 10 | गोल: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Antoni Nugroho (Indonesia) - PSMS Medan
+प्रदर्शन: 28 | गोल: 3 | असिस्ट: 3
+
+15
+00:01:27,800 --> 00:01:34,400
+Wahyu Illahi (Indonesia) - PSMS Medan
+प्रदर्शन: 28 | गोल: 3 | असिस्ट: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Nastja Ceh (Slovenia) - PSMS Medan
+प्रदर्शन: 14 | गोल: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Kisito Wilfried Yessoh (Cote d'Ivoire) - PSMS Medan
+प्रदर्शन: 16 | गोल: 3 | असिस्ट: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Aidun Utami (Indonesia) - PSMS Medan
+प्रदर्शन: 22 | गोल: 3 | असिस्ट: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Ahmad Ihwan (Indonesia) - PSMS Medan
+प्रदर्शन: 4 | गोल: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Zulkarnain (Indonesia) - PSMS Medan
+प्रदर्शन: 27 | गोल: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Luis Alejandro Peña Sanhueza (Chile) - PSMS Medan
+प्रदर्शन: 15 | गोल: 4
+
+22
+00:02:14,000 --> 00:02:20,600
+Felipe Martins (Brazil) - PSMS Medan
+प्रदर्शन: 16 | गोल: 4 | असिस्ट: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Legimin Raharjo (Indonesia) - PSMS Medan
+प्रदर्शन: 41 | गोल: 5 | असिस्ट: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Suhandi (Indonesia) - PSMS Medan
+प्रदर्शन: 14 | गोल: 5 | असिस्ट: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Ilham Fathoni (Indonesia) - PSMS Medan
+प्रदर्शन: 19 | गोल: 6 | असिस्ट: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Frets Butuan (Indonesia) - PSMS Medan
+प्रदर्शन: 29 | गोल: 7 | असिस्ट: 8
+
+27
+00:02:47,000 --> 00:02:53,600
+Nico Malau (Indonesia) - PSMS Medan
+प्रदर्शन: 36 | गोल: 9
+
+28
+00:02:53,600 --> 00:03:00,200
+Shohei Matsunaga (Japan) - PSMS Medan
+प्रदर्शन: 15 | गोल: 10 | असिस्ट: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Juninho Cabral (Brazil) - PSMS Medan
+प्रदर्शन: 22 | गोल: 15 | असिस्ट: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Osas Saha (Indonesia) - PSMS Medan
+प्रदर्शन: 32 | गोल: 19
+
+31
+00:03:13,400 --> 00:03:20,000
+Rachmad Hidayat (Indonesia) - PSMS Medan
+प्रदर्शन: 61 | गोल: 21 | असिस्ट: 10
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+1.FC Heidenheim 1846 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Tobias Mohr (Germany) - 1.FC Heidenheim 1846
+출전: 78 | 골: 11 | 도움: 17
+
+3
+00:00:08,600 --> 00:00:15,200
+Christian Essig (Germany) - 1.FC Heidenheim 1846
+출전: 82 | 골: 11 | 도움: 10
+
+4
+00:00:15,200 --> 00:00:21,800
+Arne Feick (Germany) - 1.FC Heidenheim 1846
+출전: 127 | 골: 12 | 도움: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Marvin Pieringer (Germany) - 1.FC Heidenheim 1846
+출전: 64 | 골: 13 | 도움: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Richard Weil (Germany) - 1.FC Heidenheim 1846
+출전: 98 | 골: 13 | 도움: 22
+
+7
+00:00:35,000 --> 00:00:41,600
+Michael Thurk (Germany) - 1.FC Heidenheim 1846
+출전: 71 | 골: 14 | 도움: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Christian Gmünder (Germany) - 1.FC Heidenheim 1846
+출전: 81 | 골: 14 | 도움: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+John Verhoek (Netherlands) - 1.FC Heidenheim 1846
+출전: 57 | 골: 16 | 도움: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Smail Morabit (France) - 1.FC Heidenheim 1846
+출전: 94 | 골: 17 | 도움: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Stefan Schimmer (Germany) - 1.FC Heidenheim 1846
+출전: 149 | 골: 17 | 도움: 12
+
+12
+00:01:08,000 --> 00:01:14,600
+Christian Kühlwetter (Germany) - 1.FC Heidenheim 1846
+출전: 93 | 골: 18 | 도움: 11
+
+13
+00:01:14,600 --> 00:01:21,200
+Patrick Mainka (Germany) - 1.FC Heidenheim 1846
+출전: 248 | 골: 19 | 도움: 7
+
+14
+00:01:21,200 --> 00:01:27,800
+Frank Schmidt (Germany) - 1.FC Heidenheim 1846
+출전: 88 | 골: 19
+
+15
+00:01:27,800 --> 00:01:34,400
+Ertac Seskir (Türkiye) - 1.FC Heidenheim 1846
+출전: 138 | 골: 19 | 도움: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Niklas Beste (Germany) - 1.FC Heidenheim 1846
+출전: 68 | 골: 20 | 도움: 28
+
+17
+00:01:41,000 --> 00:01:47,600
+Nikola Dovedan (Austria) - 1.FC Heidenheim 1846
+출전: 85 | 골: 20 | 도움: 12
+
+18
+00:01:47,600 --> 00:01:54,200
+Robert Glatzel (Germany) - 1.FC Heidenheim 1846
+출전: 61 | 골: 24 | 도움: 10
+
+19
+00:01:54,200 --> 00:02:00,800
+Bastian Heidenfelder (Germany) - 1.FC Heidenheim 1846
+출전: 119 | 골: 24 | 도움: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Alper Bagceci (Germany) - 1.FC Heidenheim 1846
+출전: 269 | 골: 26 | 도움: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Denis Thomalla (Germany) - 1.FC Heidenheim 1846
+출전: 211 | 골: 30 | 도움: 21
+
+22
+00:02:14,000 --> 00:02:20,600
+Florian Niederlechner (Germany) - 1.FC Heidenheim 1846
+출전: 84 | 골: 30 | 도움: 14
+
+23
+00:02:20,600 --> 00:02:27,200
+Robert Leipertz (Germany) - 1.FC Heidenheim 1846
+출전: 167 | 골: 37 | 도움: 26
+
+24
+00:02:27,200 --> 00:02:33,800
+Tim Göhlert (Germany) - 1.FC Heidenheim 1846
+출전: 310 | 골: 37 | 도움: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Dieter Jarosch (Germany) - 1.FC Heidenheim 1846
+출전: 116 | 골: 40 | 도움: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Dinko Radojevic (Croatia) - 1.FC Heidenheim 1846
+출전: 88 | 골: 41
+
+27
+00:02:47,000 --> 00:02:53,600
+Alexander Raaf (Germany) - 1.FC Heidenheim 1846
+출전: 118 | 골: 41
+
+28
+00:02:53,600 --> 00:03:00,200
+Patrick Mayer (Germany) - 1.FC Heidenheim 1846
+출전: 111 | 골: 42 | 도움: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Andreas Spann (Germany) - 1.FC Heidenheim 1846
+출전: 141 | 골: 43 | 도움: 22
+
+30
+00:03:06,800 --> 00:03:13,400
+Tim Kleindienst (Germany) - 1.FC Heidenheim 1846
+출전: 172 | 골: 83 | 도움: 23
+
+31
+00:03:13,400 --> 00:03:20,000
+Marc Schnatterer (Germany) - 1.FC Heidenheim 1846
+출전: 461 | 골: 124 | 도움: 128
+

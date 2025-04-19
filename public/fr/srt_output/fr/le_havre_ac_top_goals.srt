@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Le Havre AC Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Jean-Philippe Mateta (France) - Le Havre AC
+Apparitions: 38 | Buts: 20
+
+3
+00:00:08,600 --> 00:00:15,200
+Amadou Alassane (France) - Le Havre AC
+Apparitions: 81 | Buts: 20 | Passes décisives: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Alessandro Frigerio (Switzerland) - Le Havre AC
+Apparitions: 32 | Buts: 21
+
+5
+00:00:21,800 --> 00:00:28,400
+Brice Jovial (Guadeloupe) - Le Havre AC
+Apparitions: 50 | Buts: 23 | Passes décisives: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Ryan Mendes (Cape Verde) - Le Havre AC
+Apparitions: 94 | Buts: 24 | Passes décisives: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Eduardo Di Loreto (Argentina) - Le Havre AC
+Apparitions: 46 | Buts: 25
+
+8
+00:00:41,600 --> 00:00:48,200
+Philippe Jacquet (France) - Le Havre AC
+Apparitions: 98 | Buts: 25
+
+9
+00:00:48,200 --> 00:00:54,800
+Hocine Bouchache (Algeria) - Le Havre AC
+Apparitions: 54 | Buts: 27
+
+10
+00:00:54,800 --> 00:01:01,400
+Ignace Valorisek (France) - Le Havre AC
+Apparitions: 138 | Buts: 27
+
+11
+00:01:01,400 --> 00:01:08,000
+Tino Kadewere (Zimbabwe) - Le Havre AC
+Apparitions: 51 | Buts: 27 | Passes décisives: 9
+
+12
+00:01:08,000 --> 00:01:14,600
+Mickaël Le Bihan (France) - Le Havre AC
+Apparitions: 73 | Buts: 27 | Passes décisives: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Jean-Pascal Fontaine (Réunion) - Le Havre AC
+Apparitions: 383 | Buts: 28 | Passes décisives: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Thomas Deniaud (France) - Le Havre AC
+Apparitions: 104 | Buts: 28
+
+15
+00:01:27,800 --> 00:01:34,400
+Walid Mesloub (Algeria) - Le Havre AC
+Apparitions: 172 | Buts: 29 | Passes décisives: 25
+
+16
+00:01:34,400 --> 00:01:41,000
+Pascal Pain (France) - Le Havre AC
+Apparitions: 153 | Buts: 31
+
+17
+00:01:41,000 --> 00:01:47,600
+Jamal Thiaré (Senegal) - Le Havre AC
+Apparitions: 129 | Buts: 31 | Passes décisives: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Bruno Roux (France) - Le Havre AC
+Apparitions: 118 | Buts: 31
+
+19
+00:01:54,200 --> 00:02:00,800
+Yvon Douis (France) - Le Havre AC
+Apparitions: 81 | Buts: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Kandia Traoré (Cote d'Ivoire) - Le Havre AC
+Apparitions: 80 | Buts: 33
+
+21
+00:02:07,400 --> 00:02:14,000
+Robert Llorens (France) - Le Havre AC
+Apparitions: 168 | Buts: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Guillaume Hoarau (France) - Le Havre AC
+Apparitions: 93 | Buts: 38
+
+23
+00:02:20,600 --> 00:02:27,200
+Yohann Rivière (France) - Le Havre AC
+Apparitions: 117 | Buts: 38 | Passes décisives: 9
+
+24
+00:02:27,200 --> 00:02:33,800
+Zarko Olarevic (Serbia) - Le Havre AC
+Apparitions: 76 | Buts: 46
+
+25
+00:02:33,800 --> 00:02:40,400
+Alexandre Bonnet (France) - Le Havre AC
+Apparitions: 470 | Buts: 51 | Passes décisives: 49
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrick Martet (France) - Le Havre AC
+Apparitions: 124 | Buts: 63
+
+27
+00:02:47,000 --> 00:02:53,600
+Joël Tiéhi (Cote d'Ivoire) - Le Havre AC
+Apparitions: 172 | Buts: 63 | Passes décisives: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Philippe Prieur (France) - Le Havre AC
+Apparitions: 176 | Buts: 64
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean Saunier (France) - Le Havre AC
+Apparitions: 107 | Buts: 68
+
+30
+00:03:06,800 --> 00:03:13,400
+Alain Caveglia (France) - Le Havre AC
+Apparitions: 163 | Buts: 71 | Passes décisives: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Jean-Michel Lesage (France) - Le Havre AC
+Apparitions: 354 | Buts: 82 | Passes décisives: 8
+

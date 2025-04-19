@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSSI Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Irfan Jaya (Indonesia) - PSSI
+Apparitions: 22 | Buts: 6 | Passes décisives: no data
+
+3
+00:00:08,600 --> 00:00:15,200
+Ronny Pattinasarany (Indonesia) - PSSI
+Apparitions: 31 | Buts: 6 | Passes décisives: no data
+
+4
+00:00:15,200 --> 00:00:21,800
+Robby Darwis (Indonesia) - PSSI
+Apparitions: 53 | Buts: 6 | Passes décisives: no data
+
+5
+00:00:21,800 --> 00:00:28,400
+Zulham Zamrun (Indonesia) - PSSI
+Apparitions: 31 | Buts: 7 | Passes décisives: no data
+
+6
+00:00:28,400 --> 00:00:35,000
+Aji Santoso (Indonesia) - PSSI
+Apparitions: 41 | Buts: 7 | Passes décisives: no data
+
+7
+00:00:35,000 --> 00:00:41,600
+Egy Maulana Vikri (Indonesia) - PSSI
+Apparitions: 27 | Buts: 8 | Passes décisives: no data
+
+8
+00:00:41,600 --> 00:00:48,200
+Ansyari Lubis (Indonesia) - PSSI
+Apparitions: 30 | Buts: 8 | Passes décisives: no data
+
+9
+00:00:48,200 --> 00:00:54,800
+Elie Aiboy (Indonesia) - PSSI
+Apparitions: 48 | Buts: 8 | Passes décisives: no data
+
+10
+00:00:54,800 --> 00:01:01,400
+Witan Sulaeman (Indonesia) - PSSI
+Apparitions: 46 | Buts: 9 | Passes décisives: no data
+
+11
+00:01:01,400 --> 00:01:08,000
+Alberto Gonçalves da Costa (Indonesia) - PSSI
+Apparitions: 12 | Buts: 10 | Passes décisives: no data
+
+12
+00:01:08,000 --> 00:01:14,600
+Andi Anwar Ramang (Indonesia) - PSSI
+Apparitions: 18 | Buts: 10 | Passes décisives: no data
+
+13
+00:01:14,600 --> 00:01:21,200
+Irfan Bachdim (Indonesia) - PSSI
+Apparitions: 40 | Buts: 11 | Passes décisives: no data
+
+14
+00:01:21,200 --> 00:01:27,800
+Evan Dimas (Indonesia) - PSSI
+Apparitions: 43 | Buts: 11 | Passes décisives: no data
+
+15
+00:01:27,800 --> 00:01:34,400
+Bima Sakti (Indonesia) - PSSI
+Apparitions: 58 | Buts: 12 | Passes décisives: no data
+
+16
+00:01:34,400 --> 00:01:41,000
+Ilham Jaya Kesuma (Indonesia) - PSSI
+Apparitions: 18 | Buts: 13 | Passes décisives: no data
+
+17
+00:01:41,000 --> 00:01:47,600
+Cristian Gérard Alfaro Gonzáles (Indonesia) - PSSI
+Apparitions: 32 | Buts: 13 | Passes décisives: no data
+
+18
+00:01:47,600 --> 00:01:54,200
+Fakhri Husaini (Indonesia) - PSSI
+Apparitions: 42 | Buts: 13 | Passes décisives: no data
+
+19
+00:01:54,200 --> 00:02:00,800
+Uston Nawawi (Indonesia) - PSSI
+Apparitions: 47 | Buts: 13 | Passes décisives: no data
+
+20
+00:02:00,800 --> 00:02:07,400
+Boaz Solossa (Indonesia) - PSSI
+Apparitions: 48 | Buts: 14 | Passes décisives: no data
+
+21
+00:02:07,400 --> 00:02:14,000
+Widodo Cahyono Putro (Indonesia) - PSSI
+Apparitions: 55 | Buts: 14 | Passes décisives: no data
+
+22
+00:02:14,000 --> 00:02:20,600
+Budi Sudarsono (Indonesia) - PSSI
+Apparitions: 46 | Buts: 16 | Passes décisives: no data
+
+23
+00:02:20,600 --> 00:02:27,200
+Rochy Putiray (Indonesia) - PSSI
+Apparitions: 41 | Buts: 17 | Passes décisives: no data
+
+24
+00:02:27,200 --> 00:02:33,800
+Jacob Sihasale (Indonesia) - PSSI
+Apparitions: 70 | Buts: 23 | Passes décisives: no data
+
+25
+00:02:33,800 --> 00:02:40,400
+Risdianto (Indonesia) - PSSI
+Apparitions: 59 | Buts: 27 | Passes décisives: no data
+
+26
+00:02:40,400 --> 00:02:47,000
+Kainun Waskito (Indonesia) - PSSI
+Apparitions: 80 | Buts: 31 | Passes décisives: no data
+
+27
+00:02:47,000 --> 00:02:53,600
+Kurniawan Dwi Yulianto (Indonesia) - PSSI
+Apparitions: 59 | Buts: 33 | Passes décisives: no data
+
+28
+00:02:53,600 --> 00:03:00,200
+Soetjipto Soentoro (Indonesia) - PSSI
+Apparitions: 61 | Buts: 37 | Passes décisives: no data
+
+29
+00:03:00,200 --> 00:03:06,800
+Bambang Pamungkas (Indonesia) - PSSI
+Apparitions: 87 | Buts: 38 | Passes décisives: no data
+
+30
+00:03:06,800 --> 00:03:13,400
+Iswadi Idris (Indonesia) - PSSI
+Apparitions: 97 | Buts: 55 | Passes décisives: no data
+
+31
+00:03:13,400 --> 00:03:20,000
+Abdul Sulaiman Kadir (Indonesia) - PSSI
+Apparitions: 111 | Buts: 70 | Passes décisives: no data
+

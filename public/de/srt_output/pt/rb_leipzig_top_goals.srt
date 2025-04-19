@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RB Leipzig Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Timo Röttger (Germany) - RB Leipzig
+Partidas: 89 | Gols: 10 | Assistências: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Bastian Schulz (Germany) - RB Leipzig
+Partidas: 64 | Gols: 11 | Assistências: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Christian Reimann (Germany) - RB Leipzig
+Partidas: 30 | Gols: 11 | Assistências: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Angeliño (Spain) - RB Leipzig
+Partidas: 100 | Gols: 11 | Assistências: 29
+
+6
+00:00:28,400 --> 00:00:35,000
+Lars Müller (Germany) - RB Leipzig
+Partidas: 62 | Gols: 13 | Assistências: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Thiago Rockenbach (Brazil) - RB Leipzig
+Partidas: 85 | Gols: 14 | Assistências: 30
+
+8
+00:00:41,600 --> 00:00:48,200
+Jochen Höfler (Germany) - RB Leipzig
+Partidas: 30 | Gols: 14 | Assistências: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Lukas Klostermann (Germany) - RB Leipzig
+Partidas: 320 | Gols: 14 | Assistências: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Davie Selke (Germany) - RB Leipzig
+Partidas: 53 | Gols: 14 | Assistências: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Konrad Laimer (Austria) - RB Leipzig
+Partidas: 190 | Gols: 15 | Assistências: 19
+
+12
+00:01:08,000 --> 00:01:14,600
+Amadou Haidara (Mali) - RB Leipzig
+Partidas: 217 | Gols: 15 | Assistências: 10
+
+13
+00:01:14,600 --> 00:01:21,200
+Marcel Halstenberg (Germany) - RB Leipzig
+Partidas: 240 | Gols: 16 | Assistências: 27
+
+14
+00:01:21,200 --> 00:01:27,800
+Naby Keïta (Guinea) - RB Leipzig
+Partidas: 71 | Gols: 17 | Assistências: 14
+
+15
+00:01:27,800 --> 00:01:34,400
+Xavi Simons (Netherlands) - RB Leipzig
+Partidas: 70 | Gols: 18 | Assistências: 20
+
+16
+00:01:34,400 --> 00:01:41,000
+Nico Frommer (Germany) - RB Leipzig
+Partidas: 42 | Gols: 19 | Assistências: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Dominik Szoboszlai (Hungary) - RB Leipzig
+Partidas: 91 | Gols: 20 | Assistências: 22
+
+18
+00:01:47,600 --> 00:01:54,200
+Jean-Kévin Augustin (France) - RB Leipzig
+Partidas: 67 | Gols: 20 | Assistências: 8
+
+19
+00:01:54,200 --> 00:02:00,800
+André Silva (Portugal) - RB Leipzig
+Partidas: 110 | Gols: 27 | Assistências: 20
+
+20
+00:02:00,800 --> 00:02:07,400
+Stefan Kutschke (Germany) - RB Leipzig
+Partidas: 86 | Gols: 27 | Assistências: 17
+
+21
+00:02:07,400 --> 00:02:14,000
+Dani Olmo (Spain) - RB Leipzig
+Partidas: 148 | Gols: 29 | Assistências: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Willi Orbán (Hungary) - RB Leipzig
+Partidas: 347 | Gols: 33 | Assistências: 10
+
+23
+00:02:20,600 --> 00:02:27,200
+Dominik Kaiser (Germany) - RB Leipzig
+Partidas: 167 | Gols: 34 | Assistências: 35
+
+24
+00:02:27,200 --> 00:02:33,800
+Benjamin Sesko (Slovenia) - RB Leipzig
+Partidas: 80 | Gols: 36 | Assistências: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Loïs Openda (Belgium) - RB Leipzig
+Partidas: 83 | Gols: 40 | Assistências: 16
+
+26
+00:02:40,400 --> 00:02:47,000
+Marcel Sabitzer (Austria) - RB Leipzig
+Partidas: 229 | Gols: 52 | Assistências: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Christopher Nkunku (France) - RB Leipzig
+Partidas: 172 | Gols: 70 | Assistências: 47
+
+28
+00:02:53,600 --> 00:03:00,200
+Emil Forsberg (Sweden) - RB Leipzig
+Partidas: 325 | Gols: 71 | Assistências: 68
+
+29
+00:03:00,200 --> 00:03:06,800
+Daniel Frahn (Germany) - RB Leipzig
+Partidas: 154 | Gols: 87 | Assistências: 34
+
+30
+00:03:06,800 --> 00:03:13,400
+Yussuf Poulsen (Denmark) - RB Leipzig
+Partidas: 419 | Gols: 93 | Assistências: 60
+
+31
+00:03:13,400 --> 00:03:20,000
+Timo Werner (Germany) - RB Leipzig
+Partidas: 213 | Gols: 113 | Assistências: 47
+

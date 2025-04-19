@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RC Strasbourg Alsace Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Teddy Bertin (France) - RC Strasbourg Alsace
+Матчи: 180 | Голы: 29 | Голевые передачи: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Antoine Hertrich (France) - RC Strasbourg Alsace
+Матчи: 109 | Голы: 30
+
+4
+00:00:15,200 --> 00:00:21,800
+Vicky Peretz (Israel) - RC Strasbourg Alsace
+Матчи: 81 | Голы: 32 | Голевые передачи: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Dimitri Liénard (France) - RC Strasbourg Alsace
+Матчи: 328 | Голы: 33 | Голевые передачи: 44
+
+6
+00:00:28,400 --> 00:00:35,000
+Gérald Baticle (France) - RC Strasbourg Alsace
+Матчи: 137 | Голы: 34 | Голевые передачи: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Antoine Groschulski (Poland) - RC Strasbourg Alsace
+Матчи: 60 | Голы: 34
+
+8
+00:00:41,600 --> 00:00:48,200
+Jérémy Blayac (France) - RC Strasbourg Alsace
+Матчи: 110 | Голы: 35 | Голевые передачи: 8
+
+9
+00:00:48,200 --> 00:00:54,800
+Robert Szczepaniak (France) - RC Strasbourg Alsace
+Матчи: 156 | Голы: 39
+
+10
+00:00:54,800 --> 00:01:01,400
+Oscar Heisserer (France) - RC Strasbourg Alsace
+Матчи: 138 | Голы: 40 | Голевые передачи: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Habib Diallo (Senegal) - RC Strasbourg Alsace
+Матчи: 103 | Голы: 41 | Голевые передачи: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Roland Wagner (France) - RC Strasbourg Alsace
+Матчи: 183 | Голы: 43 | Голевые передачи: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Kévin Gameiro (France) - RC Strasbourg Alsace
+Матчи: 170 | Голы: 43 | Голевые передачи: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Marc Keller (France) - RC Strasbourg Alsace
+Матчи: 180 | Голы: 44 | Голевые передачи: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Marc Molitor (France) - RC Strasbourg Alsace
+Матчи: 97 | Голы: 46 | Голевые передачи: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Danijel Ljuboja (Serbia) - RC Strasbourg Alsace
+Матчи: 138 | Голы: 46 | Голевые передачи: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+David Zitelli (France) - RC Strasbourg Alsace
+Матчи: 157 | Голы: 48 | Голевые передачи: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Fritz Keller (France) - RC Strasbourg Alsace
+Матчи: 122 | Голы: 49
+
+19
+00:01:54,200 --> 00:02:00,800
+Peter Reichert (Germany) - RC Strasbourg Alsace
+Матчи: 112 | Голы: 50 | Голевые передачи: 5
+
+20
+00:02:00,800 --> 00:02:07,400
+Ludovic Ajorque (France) - RC Strasbourg Alsace
+Матчи: 151 | Голы: 51 | Голевые передачи: 19
+
+21
+00:02:07,400 --> 00:02:14,000
+Frank Leboeuf (France) - RC Strasbourg Alsace
+Матчи: 223 | Голы: 55 | Голевые передачи: 9
+
+22
+00:02:14,000 --> 00:02:20,600
+Edmond Haan (France) - RC Strasbourg Alsace
+Матчи: 258 | Голы: 59
+
+23
+00:02:20,600 --> 00:02:27,200
+José Farias (Argentina) - RC Strasbourg Alsace
+Матчи: 163 | Голы: 61
+
+24
+00:02:27,200 --> 00:02:33,800
+Philippe Piat (France) - RC Strasbourg Alsace
+Матчи: 161 | Голы: 61
+
+25
+00:02:33,800 --> 00:02:40,400
+Ernst Stojaspal (Austria) - RC Strasbourg Alsace
+Матчи: 110 | Голы: 64
+
+26
+00:02:40,400 --> 00:02:47,000
+Casimir Koza (France) - RC Strasbourg Alsace
+Матчи: 136 | Голы: 74
+
+27
+00:02:47,000 --> 00:02:53,600
+Francis Piasecki (France) - RC Strasbourg Alsace
+Матчи: 339 | Голы: 78 | Голевые передачи: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Gérard Hausser (France) - RC Strasbourg Alsace
+Матчи: 282 | Голы: 79
+
+29
+00:03:00,200 --> 00:03:06,800
+Didier Monczuk (France) - RC Strasbourg Alsace
+Матчи: 117 | Голы: 85
+
+30
+00:03:06,800 --> 00:03:13,400
+Albert Gemmrich (France) - RC Strasbourg Alsace
+Матчи: 232 | Голы: 91
+
+31
+00:03:13,400 --> 00:03:20,000
+Oskar Rohr (Germany) - RC Strasbourg Alsace
+Матчи: 134 | Голы: 120
+

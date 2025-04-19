@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+no data 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Harry Souttar (Australia) - no data
+出場数: 36 | ゴール: 11 | アシスト: no data
+
+3
+00:00:08,600 --> 00:00:15,200
+Mark Viduka (Australia) - no data
+出場数: 43 | ゴール: 11 | アシスト: no data
+
+4
+00:00:15,200 --> 00:00:21,800
+Dave Harding (Australia) - no data
+出場数: 45 | ゴール: 11 | アシスト: no data
+
+5
+00:00:21,800 --> 00:00:28,400
+Jackson Irvine (Australia) - no data
+出場数: 76 | ゴール: 11 | アシスト: no data
+
+6
+00:00:28,400 --> 00:00:35,000
+Mitchell Duke (Australia) - no data
+出場数: 45 | ゴール: 12 | アシスト: no data
+
+7
+00:00:35,000 --> 00:00:41,600
+Scott Chipperfield (Australia) - no data
+出場数: 68 | ゴール: 12 | アシスト: no data
+
+8
+00:00:41,600 --> 00:00:48,200
+Jack Hughes (Australia) - no data
+出場数: 9 | ゴール: 13 | アシスト: no data
+
+9
+00:00:48,200 --> 00:00:54,800
+Paul Trimboli (Australia) - no data
+出場数: 40 | ゴール: 13 | アシスト: no data
+
+10
+00:00:54,800 --> 00:01:01,400
+Mark Bresciano (Australia) - no data
+出場数: 84 | ゴール: 13 | アシスト: no data
+
+11
+00:01:01,400 --> 00:01:08,000
+Frank Parsons (Australia) - no data
+出場数: 5 | ゴール: 14 | アシスト: no data
+
+12
+00:01:08,000 --> 00:01:14,600
+Judy Masters (Australia) - no data
+出場数: 10 | ゴール: 14 | アシスト: no data
+
+13
+00:01:14,600 --> 00:01:21,200
+Frank Farina (Australia) - no data
+出場数: 67 | ゴール: 14 | アシスト: no data
+
+14
+00:01:21,200 --> 00:01:27,800
+Mathew Leckie (Australia) - no data
+出場数: 79 | ゴール: 14 | アシスト: no data
+
+15
+00:01:27,800 --> 00:01:34,400
+Eddie Krncevic (Australia) - no data
+出場数: 35 | ゴール: 17 | アシスト: no data
+
+16
+00:01:34,400 --> 00:01:41,000
+Ray Baartz (Australia) - no data
+出場数: 46 | ゴール: 17 | アシスト: no data
+
+17
+00:01:41,000 --> 00:01:47,600
+Harry Kewell (Australia) - no data
+出場数: 58 | ゴール: 17 | アシスト: no data
+
+18
+00:01:47,600 --> 00:01:54,200
+Aurelio Vidmar (Australia) - no data
+出場数: 53 | ゴール: 18 | アシスト: no data
+
+19
+00:01:54,200 --> 00:02:00,800
+Graham Arnold (Australia) - no data
+出場数: 56 | ゴール: 19 | アシスト: no data
+
+20
+00:02:00,800 --> 00:02:07,400
+Joshua Kennedy (Australia) - no data
+出場数: 36 | ゴール: 20 | アシスト: no data
+
+21
+00:02:07,400 --> 00:02:14,000
+Gary Cole (Australia) - no data
+出場数: 40 | ゴール: 20 | アシスト: no data
+
+22
+00:02:14,000 --> 00:02:20,600
+Mile Jedinak (Australia) - no data
+出場数: 79 | ゴール: 20 | アシスト: no data
+
+23
+00:02:20,600 --> 00:02:27,200
+Brett Emerton (Australia) - no data
+出場数: 95 | ゴール: 20 | アシスト: no data
+
+24
+00:02:27,200 --> 00:02:33,800
+David Zdrilic (Australia) - no data
+出場数: 31 | ゴール: 21 | アシスト: no data
+
+25
+00:02:33,800 --> 00:02:40,400
+John Kosmina (Australia) - no data
+出場数: 60 | ゴール: 25 | アシスト: no data
+
+26
+00:02:40,400 --> 00:02:47,000
+Attila Abonyi (Australia) - no data
+出場数: 60 | ゴール: 25 | アシスト: no data
+
+27
+00:02:47,000 --> 00:02:53,600
+John Aloisi (Australia) - no data
+出場数: 55 | ゴール: 27 | アシスト: no data
+
+28
+00:02:53,600 --> 00:03:00,200
+Archie Thompson (Australia) - no data
+出場数: 54 | ゴール: 28 | アシスト: no data
+
+29
+00:03:00,200 --> 00:03:06,800
+George Smith (Australia) - no data
+出場数: 13 | ゴール: 29 | アシスト: no data
+
+30
+00:03:06,800 --> 00:03:13,400
+Damian Mori (Australia) - no data
+出場数: 45 | ゴール: 29 | アシスト: no data
+
+31
+00:03:13,400 --> 00:03:20,000
+Tim Cahill (Australia) - no data
+出場数: 108 | ゴール: 50 | アシスト: no data
+

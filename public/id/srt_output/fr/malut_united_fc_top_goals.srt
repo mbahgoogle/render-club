@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Malut United FC Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Anis Mujiono (Indonesia) - Malut United FC
+Apparitions: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Ahmad Baasith (Indonesia) - Malut United FC
+Apparitions: 21 | Buts: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Finky Pasamba (Indonesia) - Malut United FC
+Apparitions: 23 | Buts: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Darel Valentino (Indonesia) - Malut United FC
+Apparitions: 6 | Buts: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Flabio Soares (Indonesia) - Malut United FC
+Apparitions: 6 | Buts: 1 | Passes décisives: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Eduardus (Indonesia) - Malut United FC
+Apparitions: 1 | Buts: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Feri Saragih (Indonesia) - Malut United FC
+Apparitions: 5 | Buts: 1 | Passes décisives: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Ichlasul Qadri (Indonesia) - Malut United FC
+Apparitions: 2 | Buts: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Firman Ramadhan (Indonesia) - Malut United FC
+Apparitions: 15 | Buts: 1 | Passes décisives: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Cássio Scheid (Brazil) - Malut United FC
+Apparitions: 14 | Buts: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Andreas Ado (Indonesia) - Malut United FC
+Apparitions: 1 | Buts: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Joko Supriyanto (Indonesia) - Malut United FC
+Apparitions: 2 | Buts: 1 | Passes décisives: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Victor Mansaray (United States) - Malut United FC
+Apparitions: 14 | Buts: 1 | Passes décisives: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Tatsuro Nagamatsu (Japan) - Malut United FC
+Apparitions: 10 | Buts: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Adam Malik (Indonesia) - Malut United FC
+Apparitions: 6 | Buts: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Rifal Lastori (Indonesia) - Malut United FC
+Apparitions: 32 | Buts: 2 | Passes décisives: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Adriano Castanheira (Portugal) - Malut United FC
+Apparitions: 26 | Buts: 2 | Passes décisives: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Frets Butuan (Indonesia) - Malut United FC
+Apparitions: 33 | Buts: 2 | Passes décisives: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Husnuzhon (Indonesia) - Malut United FC
+Apparitions: 4 | Buts: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Dave Mustaine (Indonesia) - Malut United FC
+Apparitions: 13 | Buts: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Junior Brandão (Brazil) - Malut United FC
+Apparitions: 9 | Buts: 2 | Passes décisives: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Ilham Armaiyn (Indonesia) - Malut United FC
+Apparitions: 20 | Buts: 3 | Passes décisives: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Indra Setiawan (Indonesia) - Malut United FC
+Apparitions: 6 | Buts: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Wawan Febrianto (Indonesia) - Malut United FC
+Apparitions: 15 | Buts: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Hari Nur (Indonesia) - Malut United FC
+Apparitions: 27 | Buts: 3 | Passes décisives: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Yance Sayuri (Indonesia) - Malut United FC
+Apparitions: 25 | Buts: 4 | Passes décisives: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Jorge Correa (Argentina) - Malut United FC
+Apparitions: 17 | Buts: 4 | Passes décisives: 2
+
+29
+00:03:00,200 --> 00:03:06,800
+Yakob Sayuri (Indonesia) - Malut United FC
+Apparitions: 21 | Buts: 6 | Passes décisives: 6
+
+30
+00:03:06,800 --> 00:03:13,400
+Diego Martínez (Paraguay) - Malut United FC
+Apparitions: 22 | Buts: 8
+
+31
+00:03:13,400 --> 00:03:20,000
+Wilkson (Brazil) - Malut United FC
+Apparitions: 16 | Buts: 9 | Passes décisives: 1
+

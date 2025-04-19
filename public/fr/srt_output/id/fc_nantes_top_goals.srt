@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Nantes Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Jorge Burruchaga (Argentina) - FC Nantes
+Penampilan: 162 | Gol: 30 | Asis: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Jocelyn Gourvennec (France) - FC Nantes
+Penampilan: 109 | Gol: 31 | Asis: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Patrice Rio (France) - FC Nantes
+Penampilan: 537 | Gol: 33
+
+5
+00:00:21,800 --> 00:00:28,400
+Reynald Pedros (France) - FC Nantes
+Penampilan: 184 | Gol: 34 | Asis: 28
+
+6
+00:00:28,400 --> 00:00:35,000
+Olivier Monterrubio (France) - FC Nantes
+Penampilan: 118 | Gol: 34 | Asis: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Moses Simon (Nigeria) - FC Nantes
+Penampilan: 195 | Gol: 36 | Asis: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+Thierno Youm (Senegal) - FC Nantes
+Penampilan: 135 | Gol: 37 | Asis: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Ángel Marcos (Argentina) - FC Nantes
+Penampilan: 99 | Gol: 39
+
+10
+00:00:54,800 --> 00:01:01,400
+Christophe Robert (France) - FC Nantes
+Penampilan: 215 | Gol: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Oscar Muller (Argentina) - FC Nantes
+Penampilan: 243 | Gol: 40 | Asis: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Marama Vahirua (Tahiti) - FC Nantes
+Penampilan: 147 | Gol: 41 | Asis: 5
+
+13
+00:01:14,600 --> 00:01:21,200
+Ludovic Blas (France) - FC Nantes
+Penampilan: 159 | Gol: 45 | Asis: 18
+
+14
+00:01:21,200 --> 00:01:27,800
+Emiliano Sala (Argentina) - FC Nantes
+Penampilan: 133 | Gol: 48 | Asis: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Patrice Loko (France) - FC Nantes
+Penampilan: 206 | Gol: 48 | Asis: 10
+
+16
+00:01:34,400 --> 00:01:41,000
+Erich Maas (Germany) - FC Nantes
+Penampilan: 180 | Gol: 48
+
+17
+00:01:41,000 --> 00:01:47,600
+Viorel Moldovan (Romania) - FC Nantes
+Penampilan: 94 | Gol: 50 | Asis: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Frédéric Da Rocha (France) - FC Nantes
+Penampilan: 508 | Gol: 57 | Asis: 19
+
+19
+00:01:54,200 --> 00:02:00,800
+Filip Djordjevic (Serbia) - FC Nantes
+Penampilan: 198 | Gol: 69 | Asis: 21
+
+20
+00:02:00,800 --> 00:02:07,400
+José Touré (France) - FC Nantes
+Penampilan: 207 | Gol: 73 | Asis: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Bruno Baronchelli (France) - FC Nantes
+Penampilan: 391 | Gol: 81
+
+22
+00:02:14,000 --> 00:02:20,600
+Nicolas Ouédec (France) - FC Nantes
+Penampilan: 186 | Gol: 83 | Asis: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+Japhet N'Doram (Chad) - FC Nantes
+Penampilan: 228 | Gol: 87 | Asis: 11
+
+24
+00:02:27,200 --> 00:02:33,800
+Henri Michel (France) - FC Nantes
+Penampilan: 640 | Gol: 95
+
+25
+00:02:33,800 --> 00:02:40,400
+Jacky Simon (France) - FC Nantes
+Penampilan: 183 | Gol: 96
+
+26
+00:02:40,400 --> 00:02:47,000
+Éric Pécout (France) - FC Nantes
+Penampilan: 204 | Gol: 100
+
+27
+00:02:47,000 --> 00:02:53,600
+Gilles Rampillon (France) - FC Nantes
+Penampilan: 417 | Gol: 111
+
+28
+00:02:53,600 --> 00:03:00,200
+Vahid Halilhodzic (Bosnia-Herzegovina) - FC Nantes
+Penampilan: 192 | Gol: 112
+
+29
+00:03:00,200 --> 00:03:06,800
+Loïc Amisse (France) - FC Nantes
+Penampilan: 602 | Gol: 112
+
+30
+00:03:06,800 --> 00:03:13,400
+Bernard Blanchet (France) - FC Nantes
+Penampilan: 432 | Gol: 122
+
+31
+00:03:13,400 --> 00:03:20,000
+Philippe Gondet (France) - FC Nantes
+Penampilan: 235 | Gol: 127
+

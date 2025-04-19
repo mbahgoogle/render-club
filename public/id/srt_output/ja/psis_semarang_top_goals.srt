@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSIS Semarang 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Vitinho (Brazil) - PSIS Semarang
+出場数: 25 | ゴール: 2 | アシスト: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Rizky Dwi (Indonesia) - PSIS Semarang
+出場数: 11 | ゴール: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Boubakary Diarra (France) - PSIS Semarang
+出場数: 55 | ゴール: 2 | アシスト: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Evandro Brandão (Angola) - PSIS Semarang
+出場数: 8 | ゴール: 2 | アシスト: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Pratama Arhan (Indonesia) - PSIS Semarang
+出場数: 13 | ゴール: 2 | アシスト: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Rachmad Hidayat (Indonesia) - PSIS Semarang
+出場数: 19 | ゴール: 2 | アシスト: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Silvio Escobar (Indonesia) - PSIS Semarang
+出場数: 15 | ゴール: 2 | アシスト: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Heru Setyawan (Indonesia) - PSIS Semarang
+出場数: 17 | ゴール: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Eka Febri Setiawan (Indonesia) - PSIS Semarang
+出場数: 46 | ゴール: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Ridho Syuhada (Indonesia) - PSIS Semarang
+出場数: 51 | ゴール: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Fandi Utomo (Indonesia) - PSIS Semarang
+出場数: 30 | ゴール: 4 | アシスト: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Abdallah Sudi (Burundi) - PSIS Semarang
+出場数: 11 | ゴール: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Wawan Febrianto (Indonesia) - PSIS Semarang
+出場数: 42 | ゴール: 4 | アシスト: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Lucão (Brazil) - PSIS Semarang
+出場数: 32 | ゴール: 4 | アシスト: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Komarodin (Indonesia) - PSIS Semarang
+出場数: 88 | ゴール: 5 | アシスト: 6
+
+17
+00:01:41,000 --> 00:01:47,600
+Tri Setiawan (Indonesia) - PSIS Semarang
+出場数: 40 | ゴール: 5 | アシスト: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Claudir (Brazil) - PSIS Semarang
+出場数: 17 | ゴール: 5 | アシスト: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Ibrahim Conteh (Sierra Leone) - PSIS Semarang
+出場数: 32 | ゴール: 5 | アシスト: 5
+
+20
+00:02:00,800 --> 00:02:07,400
+Alfeandra Dewangga (Indonesia) - PSIS Semarang
+出場数: 100 | ゴール: 6 | アシスト: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Bayu Nugroho (Indonesia) - PSIS Semarang
+出場数: 65 | ゴール: 8 | アシスト: 6
+
+22
+00:02:14,000 --> 00:02:20,600
+Fredyan Wahyu (Indonesia) - PSIS Semarang
+出場数: 113 | ゴール: 8 | アシスト: 13
+
+23
+00:02:20,600 --> 00:02:27,200
+Riyan Ardiansyah (Indonesia) - PSIS Semarang
+出場数: 113 | ゴール: 12 | アシスト: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Taisei Marukawa (Japan) - PSIS Semarang
+出場数: 70 | ゴール: 12 | アシスト: 20
+
+25
+00:02:33,800 --> 00:02:40,400
+Paulo Gali (Timor-Leste) - PSIS Semarang
+出場数: 57 | ゴール: 12 | アシスト: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Wallace (Brazil) - PSIS Semarang
+出場数: 65 | ゴール: 13
+
+27
+00:02:47,000 --> 00:02:53,600
+Jonathan Cantillana (Palestine) - PSIS Semarang
+出場数: 64 | ゴール: 17 | アシスト: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Carlos Fortes (Cape Verde) - PSIS Semarang
+出場数: 43 | ゴール: 18 | アシスト: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+David Maulana (Indonesia) - PSIS Semarang
+出場数: 132 | ゴール: 19 | アシスト: 17
+
+30
+00:03:06,800 --> 00:03:13,400
+Bruno Silva (Brazil) - PSIS Semarang
+出場数: 59 | ゴール: 26 | アシスト: 14
+
+31
+00:03:13,400 --> 00:03:20,000
+Hari Nur (Indonesia) - PSIS Semarang
+出場数: 131 | ゴール: 29 | アシスト: 17
+

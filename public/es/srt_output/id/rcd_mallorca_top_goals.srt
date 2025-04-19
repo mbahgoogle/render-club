@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RCD Mallorca Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Manuel Haro (Spain) - RCD Mallorca
+Penampilan: 58 | Gol: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Emilio Nsue (Equatorial Guinea) - RCD Mallorca
+Penampilan: 154 | Gol: 16 | Asis: 12
+
+4
+00:00:15,200 --> 00:00:21,800
+Antonio Raíllo (Spain) - RCD Mallorca
+Penampilan: 284 | Gol: 17 | Asis: 8
+
+5
+00:00:21,800 --> 00:00:28,400
+Leo Biagini (Argentina) - RCD Mallorca
+Penampilan: 94 | Gol: 17
+
+6
+00:00:28,400 --> 00:00:35,000
+Walter Pandiani (Uruguay) - RCD Mallorca
+Penampilan: 40 | Gol: 18 | Asis: 8
+
+7
+00:00:35,000 --> 00:00:41,600
+Ante Budimir (Croatia) - RCD Mallorca
+Penampilan: 57 | Gol: 19 | Asis: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Dani García (Spain) - RCD Mallorca
+Penampilan: 49 | Gol: 19
+
+9
+00:00:48,200 --> 00:00:54,800
+Alejandro Alfaro (Spain) - RCD Mallorca
+Penampilan: 105 | Gol: 19 | Asis: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Brandon Thomas (Spain) - RCD Mallorca
+Penampilan: 78 | Gol: 21 | Asis: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Jovan Stankovic (Serbia) - RCD Mallorca
+Penampilan: 170 | Gol: 22 | Asis: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Diego Tristán (Spain) - RCD Mallorca
+Penampilan: 62 | Gol: 23 | Asis: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Tomer Hemed (Israel) - RCD Mallorca
+Penampilan: 97 | Gol: 23 | Asis: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Enrique Magdaleno (Spain) - RCD Mallorca
+Penampilan: 74 | Gol: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Aritz Aduriz (Spain) - RCD Mallorca
+Penampilan: 78 | Gol: 24 | Asis: 10
+
+16
+00:01:34,400 --> 00:01:41,000
+Albert Luque (Spain) - RCD Mallorca
+Penampilan: 88 | Gol: 24 | Asis: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Salva Sevilla (Spain) - RCD Mallorca
+Penampilan: 186 | Gol: 25 | Asis: 21
+
+18
+00:01:47,600 --> 00:01:54,200
+Carlitos (Spain) - RCD Mallorca
+Penampilan: 152 | Gol: 26 | Asis: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Chory Castro (Uruguay) - RCD Mallorca
+Penampilan: 148 | Gol: 27 | Asis: 26
+
+20
+00:02:00,800 --> 00:02:07,400
+Pierre Webó (Cameroon) - RCD Mallorca
+Penampilan: 121 | Gol: 28 | Asis: 15
+
+21
+00:02:07,400 --> 00:02:14,000
+Goran Milojevic (Serbia) - RCD Mallorca
+Penampilan: 69 | Gol: 28
+
+22
+00:02:14,000 --> 00:02:20,600
+Miguel Ángel Nadal (Spain) - RCD Mallorca
+Penampilan: 305 | Gol: 29 | Asis: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Ariel Ibagaza (Argentina) - RCD Mallorca
+Penampilan: 245 | Gol: 30 | Asis: 33
+
+24
+00:02:27,200 --> 00:02:33,800
+Dani Rodríguez (Spain) - RCD Mallorca
+Penampilan: 272 | Gol: 32 | Asis: 38
+
+25
+00:02:33,800 --> 00:02:40,400
+Dani Güiza (Spain) - RCD Mallorca
+Penampilan: 50 | Gol: 32 | Asis: 8
+
+26
+00:02:40,400 --> 00:02:47,000
+Vedat Muriqi (Kosovo) - RCD Mallorca
+Penampilan: 112 | Gol: 35 | Asis: 11
+
+27
+00:02:47,000 --> 00:02:53,600
+Lago Júnior (Cote d'Ivoire) - RCD Mallorca
+Penampilan: 206 | Gol: 36 | Asis: 13
+
+28
+00:02:53,600 --> 00:03:00,200
+Víctor Casadesús (Spain) - RCD Mallorca
+Penampilan: 236 | Gol: 46 | Asis: 23
+
+29
+00:03:00,200 --> 00:03:06,800
+Juan Arango (Venezuela) - RCD Mallorca
+Penampilan: 195 | Gol: 49 | Asis: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Abdón Prats (Spain) - RCD Mallorca
+Penampilan: 263 | Gol: 55 | Asis: 11
+
+31
+00:03:13,400 --> 00:03:20,000
+Samuel Eto'o (Cameroon) - RCD Mallorca
+Penampilan: 162 | Gol: 70 | Asis: 19
+

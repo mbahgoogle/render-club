@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RC Lens Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Wim van Lent (Netherlands) - RC Lens
+Einsätze: 58 | Tore: 32
+
+3
+00:00:08,600 --> 00:00:15,200
+Bernard Lech (France) - RC Lens
+Einsätze: 120 | Tore: 32
+
+4
+00:00:15,200 --> 00:00:21,800
+John Utaka (Nigeria) - RC Lens
+Einsätze: 126 | Tore: 33 | Vorlagen: 5
+
+5
+00:00:21,800 --> 00:00:28,400
+Romain Argyroudis (France) - RC Lens
+Einsätze: 77 | Tore: 33
+
+6
+00:00:28,400 --> 00:00:35,000
+Yoann Touzghar (Tunisia) - RC Lens
+Einsätze: 91 | Tore: 35 | Vorlagen: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Toifilou Maoulida (France) - RC Lens
+Einsätze: 120 | Tore: 35 | Vorlagen: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Cristian López (Spain) - RC Lens
+Einsätze: 73 | Tore: 35 | Vorlagen: 3
+
+9
+00:00:48,200 --> 00:00:54,800
+Issam Jemâa (Tunisia) - RC Lens
+Einsätze: 146 | Tore: 35 | Vorlagen: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Jean-Marie Elie (France) - RC Lens
+Einsätze: 213 | Tore: 38
+
+11
+00:01:01,400 --> 00:01:08,000
+Aruna Dindane (Cote d'Ivoire) - RC Lens
+Einsätze: 132 | Tore: 39 | Vorlagen: 14
+
+12
+00:01:08,000 --> 00:01:14,600
+Joachim Marx (Poland) - RC Lens
+Einsätze: 114 | Tore: 40
+
+13
+00:01:14,600 --> 00:01:21,200
+Tony Vairelles (France) - RC Lens
+Einsätze: 168 | Tore: 40 | Vorlagen: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Florian Sotoca (France) - RC Lens
+Einsätze: 214 | Tore: 40 | Vorlagen: 30
+
+15
+00:01:27,800 --> 00:01:34,400
+Chérif Oudjani (Algeria) - RC Lens
+Einsätze: 112 | Tore: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Jean-Marie Courtin (France) - RC Lens
+Einsätze: 81 | Tore: 41
+
+17
+00:01:41,000 --> 00:01:47,600
+Daniel Xuereb (France) - RC Lens
+Einsätze: 188 | Tore: 43
+
+18
+00:01:47,600 --> 00:01:54,200
+Daniel Cousin (Gabon) - RC Lens
+Einsätze: 139 | Tore: 43 | Vorlagen: 13
+
+19
+00:01:54,200 --> 00:02:00,800
+François Brisson (France) - RC Lens
+Einsätze: 164 | Tore: 46
+
+20
+00:02:00,800 --> 00:02:07,400
+Pascal Françoise (France) - RC Lens
+Einsätze: 156 | Tore: 48
+
+21
+00:02:07,400 --> 00:02:14,000
+Daniel Moreira (France) - RC Lens
+Einsätze: 229 | Tore: 53 | Vorlagen: 8
+
+22
+00:02:14,000 --> 00:02:20,600
+Farès Bousdira (France) - RC Lens
+Einsätze: 192 | Tore: 56 | Vorlagen: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Philippe Vercruysse (France) - RC Lens
+Einsätze: 249 | Tore: 59 | Vorlagen: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Michel Lafranceschina (France) - RC Lens
+Einsätze: 137 | Tore: 61
+
+25
+00:02:33,800 --> 00:02:40,400
+Michel Stievenard (France) - RC Lens
+Einsätze: 199 | Tore: 63
+
+26
+00:02:40,400 --> 00:02:47,000
+Egon Johnsson (Sweden) - RC Lens
+Einsätze: 79 | Tore: 66
+
+27
+00:02:47,000 --> 00:02:53,600
+Jean Deloffre (France) - RC Lens
+Einsätze: 185 | Tore: 68
+
+28
+00:02:53,600 --> 00:03:00,200
+Roger Boli (France) - RC Lens
+Einsätze: 254 | Tore: 75 | Vorlagen: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Georges Lech (France) - RC Lens
+Einsätze: 218 | Tore: 79
+
+30
+00:03:06,800 --> 00:03:13,400
+Maryan Wisniewski (France) - RC Lens
+Einsätze: 313 | Tore: 105
+
+31
+00:03:13,400 --> 00:03:20,000
+Ahmed Oudjani (Algeria) - RC Lens
+Einsätze: 177 | Tore: 118
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AJ Auxerre All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+William Prunier (France) - AJ Auxerre
+Appearances: 256 | Goals: 25
+
+3
+00:00:08,600 --> 00:00:15,200
+Gaëtan Perrin (France) - AJ Auxerre
+Appearances: 148 | Goals: 26 | Assists: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Bernard Ferrer (France) - AJ Auxerre
+Appearances: 127 | Goals: 27 | Assists: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Rémy Dugimont (France) - AJ Auxerre
+Appearances: 137 | Goals: 28 | Assists: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Moussa Saïb (Algeria) - AJ Auxerre
+Appearances: 192 | Goals: 28 | Assists: 15
+
+7
+00:00:35,000 --> 00:00:41,600
+Dennis Oliech (Kenya) - AJ Auxerre
+Appearances: 200 | Goals: 28 | Assists: 24
+
+8
+00:00:41,600 --> 00:00:48,200
+Gauthier Hein (France) - AJ Auxerre
+Appearances: 152 | Goals: 29 | Assists: 20
+
+9
+00:00:48,200 --> 00:00:54,800
+Éric Cantona (France) - AJ Auxerre
+Appearances: 94 | Goals: 29
+
+10
+00:00:54,800 --> 00:01:01,400
+Benjani (Zimbabwe) - AJ Auxerre
+Appearances: 110 | Goals: 29 | Assists: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Enzo Scifo (Belgium) - AJ Auxerre
+Appearances: 81 | Goals: 30 | Assists: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Gaëtan Courtet (France) - AJ Auxerre
+Appearances: 84 | Goals: 31 | Assists: 21
+
+13
+00:01:14,600 --> 00:01:21,200
+Yann Lachuer (France) - AJ Auxerre
+Appearances: 256 | Goals: 31 | Assists: 14
+
+14
+00:01:21,200 --> 00:01:27,800
+Steve Marlet (France) - AJ Auxerre
+Appearances: 135 | Goals: 33 | Assists: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+Bonaventure Kalou (Cote d'Ivoire) - AJ Auxerre
+Appearances: 92 | Goals: 34 | Assists: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Daniel Dutuel (France) - AJ Auxerre
+Appearances: 258 | Goals: 34 | Assists: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Luigi Pieroni (Belgium) - AJ Auxerre
+Appearances: 113 | Goals: 36 | Assists: 7
+
+18
+00:01:47,600 --> 00:01:54,200
+Olivier Kapo (France) - AJ Auxerre
+Appearances: 204 | Goals: 36 | Assists: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Kálmán Kovács (Hungary) - AJ Auxerre
+Appearances: 100 | Goals: 42 | Assists: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Corentin Martins (France) - AJ Auxerre
+Appearances: 207 | Goals: 45 | Assists: 16
+
+21
+00:02:07,400 --> 00:02:14,000
+Bernard Diomède (France) - AJ Auxerre
+Appearances: 224 | Goals: 46 | Assists: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Gérald Baticle (France) - AJ Auxerre
+Appearances: 176 | Goals: 47 | Assists: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Jean-Marc Ferreri (France) - AJ Auxerre
+Appearances: 244 | Goals: 54 | Assists: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Lilian Laslandes (France) - AJ Auxerre
+Appearances: 161 | Goals: 55 | Assists: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Ireneusz Jeleń (Poland) - AJ Auxerre
+Appearances: 164 | Goals: 59 | Assists: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrice Garande (France) - AJ Auxerre
+Appearances: 162 | Goals: 61
+
+27
+00:02:47,000 --> 00:02:53,600
+Pascal Vahirua (France) - AJ Auxerre
+Appearances: 347 | Goals: 69 | Assists: 18
+
+28
+00:02:53,600 --> 00:03:00,200
+Christophe Cocard (France) - AJ Auxerre
+Appearances: 322 | Goals: 72 | Assists: 13
+
+29
+00:03:00,200 --> 00:03:06,800
+Stéphane Guivarc'h (France) - AJ Auxerre
+Appearances: 152 | Goals: 80 | Assists: 4
+
+30
+00:03:06,800 --> 00:03:13,400
+Djibril Cissé (France) - AJ Auxerre
+Appearances: 169 | Goals: 90 | Assists: 5
+
+31
+00:03:13,400 --> 00:03:20,000
+Andrzej Szarmach (Poland) - AJ Auxerre
+Appearances: 158 | Goals: 100
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSMS Medan Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+José Valencia (Colombia) - PSMS Medan
+Penampilan: 5 | Gol: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Alexandros Tanidis (Greece) - PSMS Medan
+Penampilan: 15 | Gol: 2 | Asis: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Fiwi Dwipan (Indonesia) - PSMS Medan
+Penampilan: 12 | Gol: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Ari Supriatna (Indonesia) - PSMS Medan
+Penampilan: 16 | Gol: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Matheus Souza (Brazil) - PSMS Medan
+Penampilan: 6 | Gol: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Eki Saputra (Indonesia) - PSMS Medan
+Penampilan: 7 | Gol: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Denny Rumba (Indonesia) - PSMS Medan
+Penampilan: 19 | Gol: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Fardan Harahap (Indonesia) - PSMS Medan
+Penampilan: 16 | Gol: 3 | Asis: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Ikhsan Chan (Indonesia) - PSMS Medan
+Penampilan: 39 | Gol: 3 | Asis: 5
+
+11
+00:01:01,400 --> 00:01:08,000
+Reinaldo Lobo (Brazil) - PSMS Medan
+Penampilan: 29 | Gol: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Ichsan Pratama (Indonesia) - PSMS Medan
+Penampilan: 35 | Gol: 3 | Asis: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Rafi Angga (Indonesia) - PSMS Medan
+Penampilan: 10 | Gol: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Antoni Nugroho (Indonesia) - PSMS Medan
+Penampilan: 28 | Gol: 3 | Asis: 3
+
+15
+00:01:27,800 --> 00:01:34,400
+Wahyu Illahi (Indonesia) - PSMS Medan
+Penampilan: 28 | Gol: 3 | Asis: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Nastja Ceh (Slovenia) - PSMS Medan
+Penampilan: 14 | Gol: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Kisito Wilfried Yessoh (Cote d'Ivoire) - PSMS Medan
+Penampilan: 16 | Gol: 3 | Asis: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Aidun Utami (Indonesia) - PSMS Medan
+Penampilan: 22 | Gol: 3 | Asis: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Ahmad Ihwan (Indonesia) - PSMS Medan
+Penampilan: 4 | Gol: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Zulkarnain (Indonesia) - PSMS Medan
+Penampilan: 27 | Gol: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Luis Alejandro Peña Sanhueza (Chile) - PSMS Medan
+Penampilan: 15 | Gol: 4
+
+22
+00:02:14,000 --> 00:02:20,600
+Felipe Martins (Brazil) - PSMS Medan
+Penampilan: 16 | Gol: 4 | Asis: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Legimin Raharjo (Indonesia) - PSMS Medan
+Penampilan: 41 | Gol: 5 | Asis: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Suhandi (Indonesia) - PSMS Medan
+Penampilan: 14 | Gol: 5 | Asis: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Ilham Fathoni (Indonesia) - PSMS Medan
+Penampilan: 19 | Gol: 6 | Asis: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Frets Butuan (Indonesia) - PSMS Medan
+Penampilan: 29 | Gol: 7 | Asis: 8
+
+27
+00:02:47,000 --> 00:02:53,600
+Nico Malau (Indonesia) - PSMS Medan
+Penampilan: 36 | Gol: 9
+
+28
+00:02:53,600 --> 00:03:00,200
+Shohei Matsunaga (Japan) - PSMS Medan
+Penampilan: 15 | Gol: 10 | Asis: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Juninho Cabral (Brazil) - PSMS Medan
+Penampilan: 22 | Gol: 15 | Asis: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Osas Saha (Indonesia) - PSMS Medan
+Penampilan: 32 | Gol: 19
+
+31
+00:03:13,400 --> 00:03:20,000
+Rachmad Hidayat (Indonesia) - PSMS Medan
+Penampilan: 61 | Gol: 21 | Asis: 10
+

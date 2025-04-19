@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Nantes Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Jorge Burruchaga (Argentina) - FC Nantes
+Partidas: 162 | Gols: 30 | Assistências: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Jocelyn Gourvennec (France) - FC Nantes
+Partidas: 109 | Gols: 31 | Assistências: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Patrice Rio (France) - FC Nantes
+Partidas: 537 | Gols: 33
+
+5
+00:00:21,800 --> 00:00:28,400
+Reynald Pedros (France) - FC Nantes
+Partidas: 184 | Gols: 34 | Assistências: 28
+
+6
+00:00:28,400 --> 00:00:35,000
+Olivier Monterrubio (France) - FC Nantes
+Partidas: 118 | Gols: 34 | Assistências: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Moses Simon (Nigeria) - FC Nantes
+Partidas: 195 | Gols: 36 | Assistências: 40
+
+8
+00:00:41,600 --> 00:00:48,200
+Thierno Youm (Senegal) - FC Nantes
+Partidas: 135 | Gols: 37 | Assistências: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Ángel Marcos (Argentina) - FC Nantes
+Partidas: 99 | Gols: 39
+
+10
+00:00:54,800 --> 00:01:01,400
+Christophe Robert (France) - FC Nantes
+Partidas: 215 | Gols: 40
+
+11
+00:01:01,400 --> 00:01:08,000
+Oscar Muller (Argentina) - FC Nantes
+Partidas: 243 | Gols: 40 | Assistências: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Marama Vahirua (Tahiti) - FC Nantes
+Partidas: 147 | Gols: 41 | Assistências: 5
+
+13
+00:01:14,600 --> 00:01:21,200
+Ludovic Blas (France) - FC Nantes
+Partidas: 159 | Gols: 45 | Assistências: 18
+
+14
+00:01:21,200 --> 00:01:27,800
+Emiliano Sala (Argentina) - FC Nantes
+Partidas: 133 | Gols: 48 | Assistências: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Patrice Loko (France) - FC Nantes
+Partidas: 206 | Gols: 48 | Assistências: 10
+
+16
+00:01:34,400 --> 00:01:41,000
+Erich Maas (Germany) - FC Nantes
+Partidas: 180 | Gols: 48
+
+17
+00:01:41,000 --> 00:01:47,600
+Viorel Moldovan (Romania) - FC Nantes
+Partidas: 94 | Gols: 50 | Assistências: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Frédéric Da Rocha (France) - FC Nantes
+Partidas: 508 | Gols: 57 | Assistências: 19
+
+19
+00:01:54,200 --> 00:02:00,800
+Filip Djordjevic (Serbia) - FC Nantes
+Partidas: 198 | Gols: 69 | Assistências: 21
+
+20
+00:02:00,800 --> 00:02:07,400
+José Touré (France) - FC Nantes
+Partidas: 207 | Gols: 73 | Assistências: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Bruno Baronchelli (France) - FC Nantes
+Partidas: 391 | Gols: 81
+
+22
+00:02:14,000 --> 00:02:20,600
+Nicolas Ouédec (France) - FC Nantes
+Partidas: 186 | Gols: 83 | Assistências: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+Japhet N'Doram (Chad) - FC Nantes
+Partidas: 228 | Gols: 87 | Assistências: 11
+
+24
+00:02:27,200 --> 00:02:33,800
+Henri Michel (France) - FC Nantes
+Partidas: 640 | Gols: 95
+
+25
+00:02:33,800 --> 00:02:40,400
+Jacky Simon (France) - FC Nantes
+Partidas: 183 | Gols: 96
+
+26
+00:02:40,400 --> 00:02:47,000
+Éric Pécout (France) - FC Nantes
+Partidas: 204 | Gols: 100
+
+27
+00:02:47,000 --> 00:02:53,600
+Gilles Rampillon (France) - FC Nantes
+Partidas: 417 | Gols: 111
+
+28
+00:02:53,600 --> 00:03:00,200
+Vahid Halilhodzic (Bosnia-Herzegovina) - FC Nantes
+Partidas: 192 | Gols: 112
+
+29
+00:03:00,200 --> 00:03:06,800
+Loïc Amisse (France) - FC Nantes
+Partidas: 602 | Gols: 112
+
+30
+00:03:06,800 --> 00:03:13,400
+Bernard Blanchet (France) - FC Nantes
+Partidas: 432 | Gols: 122
+
+31
+00:03:13,400 --> 00:03:20,000
+Philippe Gondet (France) - FC Nantes
+Partidas: 235 | Gols: 127
+

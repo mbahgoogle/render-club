@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PERSIB Bandung Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Herman Abanda (Indonesia) - PERSIB Bandung
+Partidas: 60 | Gols: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Mohammed Rashid (Palestine) - PERSIB Bandung
+Partidas: 27 | Gols: 6 | Assistências: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Supardi (Indonesia) - PERSIB Bandung
+Partidas: 174 | Gols: 6 | Assistências: 10
+
+5
+00:00:21,800 --> 00:00:28,400
+Marcio Souza (Brazil) - PERSIB Bandung
+Partidas: 14 | Gols: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Ezra Walian (Indonesia) - PERSIB Bandung
+Partidas: 88 | Gols: 7 | Assistências: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Achmad Jufriyanto (Indonesia) - PERSIB Bandung
+Partidas: 142 | Gols: 8 | Assistências: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Erwin Ramdani (Indonesia) - PERSIB Bandung
+Partidas: 69 | Gols: 8 | Assistências: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Djibril Coulibaly (Mali) - PERSIB Bandung
+Partidas: 21 | Gols: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+Airlangga Sucipto (Indonesia) - PERSIB Bandung
+Partidas: 58 | Gols: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Nick Kuipers (Netherlands) - PERSIB Bandung
+Partidas: 152 | Gols: 9 | Assistências: 6
+
+12
+00:01:08,000 --> 00:01:14,600
+Raphael Maitimo (Indonesia) - PERSIB Bandung
+Partidas: 28 | Gols: 9 | Assistências: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Vladimir Vujović (Montenegro) - PERSIB Bandung
+Partidas: 67 | Gols: 10 | Assistências: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Ghozali Siregar (Indonesia) - PERSIB Bandung
+Partidas: 64 | Gols: 11 | Assistências: 11
+
+15
+00:01:27,800 --> 00:01:34,400
+Miljan Radovic (Montenegro) - PERSIB Bandung
+Partidas: 32 | Gols: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Kenji Adachihara (Japan) - PERSIB Bandung
+Partidas: 32 | Gols: 11
+
+17
+00:01:41,000 --> 00:01:47,600
+Jonathan Bauman (Argentina) - PERSIB Bandung
+Partidas: 26 | Gols: 12 | Assistências: 8
+
+18
+00:01:47,600 --> 00:01:54,200
+Wander Luiz (Brazil) - PERSIB Bandung
+Partidas: 27 | Gols: 12 | Assistências: 4
+
+19
+00:01:54,200 --> 00:02:00,800
+Ferdinan Sinaga (Indonesia) - PERSIB Bandung
+Partidas: 30 | Gols: 13
+
+20
+00:02:00,800 --> 00:02:07,400
+Makan Konate (Mali) - PERSIB Bandung
+Partidas: 31 | Gols: 14
+
+21
+00:02:07,400 --> 00:02:14,000
+Muhammad Ridwan (Indonesia) - PERSIB Bandung
+Partidas: 55 | Gols: 14
+
+22
+00:02:14,000 --> 00:02:20,600
+Marc Klok (Indonesia) - PERSIB Bandung
+Partidas: 117 | Gols: 14 | Assistências: 21
+
+23
+00:02:20,600 --> 00:02:27,200
+Beckham Putra (Indonesia) - PERSIB Bandung
+Partidas: 129 | Gols: 14 | Assistências: 17
+
+24
+00:02:27,200 --> 00:02:33,800
+Tyronne (Spain) - PERSIB Bandung
+Partidas: 34 | Gols: 15 | Assistências: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Frets Butuan (Indonesia) - PERSIB Bandung
+Partidas: 109 | Gols: 16 | Assistências: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Atep Ahmad Rizal (Indonesia) - PERSIB Bandung
+Partidas: 152 | Gols: 19 | Assistências: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Febri Hariyadi (Indonesia) - PERSIB Bandung
+Partidas: 152 | Gols: 19 | Assistências: 20
+
+28
+00:02:53,600 --> 00:03:00,200
+Sergio van Dijk (Netherlands) - PERSIB Bandung
+Partidas: 38 | Gols: 20 | Assistências: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Ciro Alves (Brazil) - PERSIB Bandung
+Partidas: 103 | Gols: 35 | Assistências: 32
+
+30
+00:03:06,800 --> 00:03:13,400
+Ezechiel Ndouasel (Chad) - PERSIB Bandung
+Partidas: 70 | Gols: 40 | Assistências: 20
+
+31
+00:03:13,400 --> 00:03:20,000
+David da Silva (Brazil) - PERSIB Bandung
+Partidas: 111 | Gols: 73 | Assistências: 18
+

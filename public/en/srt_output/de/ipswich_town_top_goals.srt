@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Ipswich Town Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Jean-Michel d'Avray (South Africa) - Ipswich Town
+Einsätze: 151 | Tore: 29 | Vorlagen: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Kevin Beattie (England) - Ipswich Town
+Einsätze: 290 | Tore: 31 | Vorlagen: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Shefki Kuqi (Finland) - Ipswich Town
+Einsätze: 89 | Tore: 32 | Vorlagen: 6
+
+5
+00:00:21,800 --> 00:00:28,400
+Jonathan Walters (Ireland) - Ipswich Town
+Einsätze: 149 | Tore: 32 | Vorlagen: 25
+
+6
+00:00:28,400 --> 00:00:35,000
+Freddie Sears (England) - Ipswich Town
+Einsätze: 217 | Tore: 34 | Vorlagen: 25
+
+7
+00:00:35,000 --> 00:00:41,600
+Marcus Stewart (England) - Ipswich Town
+Einsätze: 89 | Tore: 34 | Vorlagen: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Alan Lee (Ireland) - Ipswich Town
+Einsätze: 110 | Tore: 34 | Vorlagen: 16
+
+9
+00:00:48,200 --> 00:00:54,800
+Alex Mathie (Scotland) - Ipswich Town
+Einsätze: 97 | Tore: 36 | Vorlagen: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Doug Moran (Scotland) - Ipswich Town
+Einsätze: 119 | Tore: 37 | Vorlagen: 6
+
+11
+00:01:01,400 --> 00:01:08,000
+Colin Viljoen (England) - Ipswich Town
+Einsätze: 307 | Tore: 38 | Vorlagen: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Richard Naylor (England) - Ipswich Town
+Einsätze: 362 | Tore: 39 | Vorlagen: 6
+
+13
+00:01:14,600 --> 00:01:21,200
+Matt Holland (Ireland) - Ipswich Town
+Einsätze: 300 | Tore: 39 | Vorlagen: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Mick Lambert (England) - Ipswich Town
+Einsätze: 247 | Tore: 39 | Vorlagen: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+David Johnson (England) - Ipswich Town
+Einsätze: 171 | Tore: 44
+
+16
+00:01:34,400 --> 00:01:41,000
+David McGoldrick (Ireland) - Ipswich Town
+Einsätze: 159 | Tore: 45 | Vorlagen: 25
+
+17
+00:01:41,000 --> 00:01:47,600
+Tommy Miller (England) - Ipswich Town
+Einsätze: 211 | Tore: 46 | Vorlagen: 9
+
+18
+00:01:47,600 --> 00:01:54,200
+James Scowcroft (England) - Ipswich Town
+Einsätze: 223 | Tore: 52 | Vorlagen: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Bryan Hamilton (Northern Ireland) - Ipswich Town
+Einsätze: 188 | Tore: 53 | Vorlagen: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Conor Chaplin (England) - Ipswich Town
+Einsätze: 162 | Tore: 55 | Vorlagen: 18
+
+21
+00:02:07,400 --> 00:02:14,000
+Darren Bent (England) - Ipswich Town
+Einsätze: 140 | Tore: 56 | Vorlagen: 15
+
+22
+00:02:14,000 --> 00:02:20,600
+David Johnson (Jamaica) - Ipswich Town
+Einsätze: 146 | Tore: 60
+
+23
+00:02:20,600 --> 00:02:27,200
+Ted Phillips (England) - Ipswich Town
+Einsätze: 121 | Tore: 61 | Vorlagen: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Pablo Couñago (Spain) - Ipswich Town
+Einsätze: 241 | Tore: 62 | Vorlagen: 20
+
+25
+00:02:33,800 --> 00:02:40,400
+Daryl Murphy (Ireland) - Ipswich Town
+Einsätze: 225 | Tore: 67 | Vorlagen: 32
+
+26
+00:02:40,400 --> 00:02:47,000
+Alan Brazil (Scotland) - Ipswich Town
+Einsätze: 209 | Tore: 80 | Vorlagen: 26
+
+27
+00:02:47,000 --> 00:02:53,600
+Eric Gates (England) - Ipswich Town
+Einsätze: 380 | Tore: 94 | Vorlagen: 37
+
+28
+00:02:53,600 --> 00:03:00,200
+Trevor Whymark (England) - Ipswich Town
+Einsätze: 317 | Tore: 95 | Vorlagen: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+Ray Crawford (England) - Ipswich Town
+Einsätze: 148 | Tore: 100 | Vorlagen: 14
+
+30
+00:03:06,800 --> 00:03:13,400
+Paul Mariner (England) - Ipswich Town
+Einsätze: 333 | Tore: 132 | Vorlagen: 25
+
+31
+00:03:13,400 --> 00:03:20,000
+John Wark (Scotland) - Ipswich Town
+Einsätze: 529 | Tore: 154 | Vorlagen: 19
+

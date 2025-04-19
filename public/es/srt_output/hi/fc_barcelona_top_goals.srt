@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Barcelona सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Ángel Arocha (Spain) - FC Barcelona
+प्रदर्शन: 92 | गोल: 81
+
+3
+00:00:08,600 --> 00:00:15,200
+Sándor Kocsis (Hungary) - FC Barcelona
+प्रदर्शन: 126 | गोल: 82 | असिस्ट: 7
+
+4
+00:00:15,200 --> 00:00:21,800
+Xavi (Spain) - FC Barcelona
+प्रदर्शन: 767 | गोल: 85 | असिस्ट: 184
+
+5
+00:00:21,800 --> 00:00:28,400
+Julio Salinas (Spain) - FC Barcelona
+प्रदर्शन: 215 | गोल: 85 | असिस्ट: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Josep Samitier (Spain) - FC Barcelona
+प्रदर्शन: 103 | गोल: 86
+
+7
+00:00:35,000 --> 00:00:41,600
+Ronald Koeman (Netherlands) - FC Barcelona
+प्रदर्शन: 264 | गोल: 88 | असिस्ट: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Bernd Schuster (Germany) - FC Barcelona
+प्रदर्शन: 241 | गोल: 89 | असिस्ट: 10
+
+9
+00:00:48,200 --> 00:00:54,800
+Justo Tejada (Spain) - FC Barcelona
+प्रदर्शन: 194 | गोल: 92 | असिस्ट: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+José Mari Bakero (Spain) - FC Barcelona
+प्रदर्शन: 347 | गोल: 94 | असिस्ट: 13
+
+11
+00:01:01,400 --> 00:01:08,000
+Ronaldinho (Brazil) - FC Barcelona
+प्रदर्शन: 207 | गोल: 94 | असिस्ट: 69
+
+12
+00:01:08,000 --> 00:01:14,600
+Robert Lewandowski (Poland) - FC Barcelona
+प्रदर्शन: 138 | गोल: 97 | असिस्ट: 20
+
+13
+00:01:14,600 --> 00:01:21,200
+Pedro (Spain) - FC Barcelona
+प्रदर्शन: 321 | गोल: 99 | असिस्ट: 61
+
+14
+00:01:21,200 --> 00:01:27,800
+Juan Manuel Asensi (Spain) - FC Barcelona
+प्रदर्शन: 396 | गोल: 101 | असिस्ट: 9
+
+15
+00:01:27,800 --> 00:01:34,400
+Neymar (Brazil) - FC Barcelona
+प्रदर्शन: 186 | गोल: 105 | असिस्ट: 76
+
+16
+00:01:34,400 --> 00:01:41,000
+Evaristo de Macedo (Brazil) - FC Barcelona
+प्रदर्शन: 151 | गोल: 105 | असिस्ट: 8
+
+17
+00:01:41,000 --> 00:01:47,600
+Eulogio Martínez (Spain) - FC Barcelona
+प्रदर्शन: 162 | गोल: 105 | असिस्ट: 11
+
+18
+00:01:47,600 --> 00:01:54,200
+José Zaldúa (Spain) - FC Barcelona
+प्रदर्शन: 215 | गोल: 106
+
+19
+00:01:54,200 --> 00:02:00,800
+Luis Enrique (Spain) - FC Barcelona
+प्रदर्शन: 300 | गोल: 108 | असिस्ट: 40
+
+20
+00:02:00,800 --> 00:02:07,400
+Estanislao Basora (Spain) - FC Barcelona
+प्रदर्शन: 296 | गोल: 110 | असिस्ट: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Hristo Stoichkov (Bulgaria) - FC Barcelona
+प्रदर्शन: 255 | गोल: 117 | असिस्ट: 29
+
+22
+00:02:14,000 --> 00:02:20,600
+Josep Escolà (Spain) - FC Barcelona
+प्रदर्शन: 191 | गोल: 120
+
+23
+00:02:20,600 --> 00:02:27,200
+Patrick Kluivert (Netherlands) - FC Barcelona
+प्रदर्शन: 257 | गोल: 122 | असिस्ट: 60
+
+24
+00:02:27,200 --> 00:02:33,800
+Carles Rexach (Spain) - FC Barcelona
+प्रदर्शन: 449 | गोल: 122 | असिस्ट: 22
+
+25
+00:02:33,800 --> 00:02:40,400
+Mariano Martín (Spain) - FC Barcelona
+प्रदर्शन: 144 | गोल: 129
+
+26
+00:02:40,400 --> 00:02:47,000
+Rivaldo (Brazil) - FC Barcelona
+प्रदर्शन: 235 | गोल: 130 | असिस्ट: 46
+
+27
+00:02:47,000 --> 00:02:53,600
+Samuel Eto'o (Cameroon) - FC Barcelona
+प्रदर्शन: 199 | गोल: 130 | असिस्ट: 34
+
+28
+00:02:53,600 --> 00:03:00,200
+László Kubala (Hungary) - FC Barcelona
+प्रदर्शन: 254 | गोल: 193 | असिस्ट: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Luis Suárez (Uruguay) - FC Barcelona
+प्रदर्शन: 283 | गोल: 195 | असिस्ट: 113
+
+30
+00:03:06,800 --> 00:03:13,400
+César Rodríguez (Spain) - FC Barcelona
+प्रदर्शन: 344 | गोल: 226 | असिस्ट: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Lionel Messi (Argentina) - FC Barcelona
+प्रदर्शन: 778 | गोल: 672 | असिस्ट: 303
+

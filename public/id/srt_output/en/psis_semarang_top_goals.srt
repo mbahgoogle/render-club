@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSIS Semarang All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Vitinho (Brazil) - PSIS Semarang
+Appearances: 25 | Goals: 2 | Assists: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Rizky Dwi (Indonesia) - PSIS Semarang
+Appearances: 11 | Goals: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Boubakary Diarra (France) - PSIS Semarang
+Appearances: 55 | Goals: 2 | Assists: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Evandro Brandão (Angola) - PSIS Semarang
+Appearances: 8 | Goals: 2 | Assists: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Pratama Arhan (Indonesia) - PSIS Semarang
+Appearances: 13 | Goals: 2 | Assists: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Rachmad Hidayat (Indonesia) - PSIS Semarang
+Appearances: 19 | Goals: 2 | Assists: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Silvio Escobar (Indonesia) - PSIS Semarang
+Appearances: 15 | Goals: 2 | Assists: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Heru Setyawan (Indonesia) - PSIS Semarang
+Appearances: 17 | Goals: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Eka Febri Setiawan (Indonesia) - PSIS Semarang
+Appearances: 46 | Goals: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Ridho Syuhada (Indonesia) - PSIS Semarang
+Appearances: 51 | Goals: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Fandi Utomo (Indonesia) - PSIS Semarang
+Appearances: 30 | Goals: 4 | Assists: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Abdallah Sudi (Burundi) - PSIS Semarang
+Appearances: 11 | Goals: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Wawan Febrianto (Indonesia) - PSIS Semarang
+Appearances: 42 | Goals: 4 | Assists: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Lucão (Brazil) - PSIS Semarang
+Appearances: 32 | Goals: 4 | Assists: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Komarodin (Indonesia) - PSIS Semarang
+Appearances: 88 | Goals: 5 | Assists: 6
+
+17
+00:01:41,000 --> 00:01:47,600
+Tri Setiawan (Indonesia) - PSIS Semarang
+Appearances: 40 | Goals: 5 | Assists: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Claudir (Brazil) - PSIS Semarang
+Appearances: 17 | Goals: 5 | Assists: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Ibrahim Conteh (Sierra Leone) - PSIS Semarang
+Appearances: 32 | Goals: 5 | Assists: 5
+
+20
+00:02:00,800 --> 00:02:07,400
+Alfeandra Dewangga (Indonesia) - PSIS Semarang
+Appearances: 100 | Goals: 6 | Assists: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Bayu Nugroho (Indonesia) - PSIS Semarang
+Appearances: 65 | Goals: 8 | Assists: 6
+
+22
+00:02:14,000 --> 00:02:20,600
+Fredyan Wahyu (Indonesia) - PSIS Semarang
+Appearances: 113 | Goals: 8 | Assists: 13
+
+23
+00:02:20,600 --> 00:02:27,200
+Riyan Ardiansyah (Indonesia) - PSIS Semarang
+Appearances: 113 | Goals: 12 | Assists: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Taisei Marukawa (Japan) - PSIS Semarang
+Appearances: 70 | Goals: 12 | Assists: 20
+
+25
+00:02:33,800 --> 00:02:40,400
+Paulo Gali (Timor-Leste) - PSIS Semarang
+Appearances: 57 | Goals: 12 | Assists: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Wallace (Brazil) - PSIS Semarang
+Appearances: 65 | Goals: 13
+
+27
+00:02:47,000 --> 00:02:53,600
+Jonathan Cantillana (Palestine) - PSIS Semarang
+Appearances: 64 | Goals: 17 | Assists: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Carlos Fortes (Cape Verde) - PSIS Semarang
+Appearances: 43 | Goals: 18 | Assists: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+David Maulana (Indonesia) - PSIS Semarang
+Appearances: 132 | Goals: 19 | Assists: 17
+
+30
+00:03:06,800 --> 00:03:13,400
+Bruno Silva (Brazil) - PSIS Semarang
+Appearances: 59 | Goals: 26 | Assists: 14
+
+31
+00:03:13,400 --> 00:03:20,000
+Hari Nur (Indonesia) - PSIS Semarang
+Appearances: 131 | Goals: 29 | Assists: 17
+

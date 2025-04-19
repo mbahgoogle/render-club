@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PS Barito Putera Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Beni Oktovianto (Indonesia) - PS Barito Putera
+Einsätze: 35 | Tore: 4 | Vorlagen: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Bagas Kaffa (Indonesia) - PS Barito Putera
+Einsätze: 111 | Tore: 4 | Vorlagen: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Marcel Sacramento (Brazil) - PS Barito Putera
+Einsätze: 14 | Tore: 5 | Vorlagen: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Rafinha (Brazil) - PS Barito Putera
+Einsätze: 24 | Tore: 5 | Vorlagen: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Syahroni (Indonesia) - PS Barito Putera
+Einsätze: 33 | Tore: 5
+
+7
+00:00:35,000 --> 00:00:41,600
+Aleksandar Rakic (Serbia) - PS Barito Putera
+Einsätze: 20 | Tore: 5 | Vorlagen: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Bruno Matos (Brazil) - PS Barito Putera
+Einsätze: 15 | Tore: 5 | Vorlagen: 4
+
+9
+00:00:48,200 --> 00:00:54,800
+Dandi Maulana (Indonesia) - PS Barito Putera
+Einsätze: 88 | Tore: 7 | Vorlagen: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Morelatto (Brazil) - PS Barito Putera
+Einsätze: 26 | Tore: 7 | Vorlagen: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Murilo (Brazil) - PS Barito Putera
+Einsätze: 47 | Tore: 7 | Vorlagen: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Yongki Aribowo (Indonesia) - PS Barito Putera
+Einsätze: 62 | Tore: 8 | Vorlagen: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Paulo Sitanggang (Indonesia) - PS Barito Putera
+Einsätze: 106 | Tore: 8 | Vorlagen: 5
+
+14
+00:01:21,200 --> 00:01:27,800
+Dedi Hartono (Indonesia) - PS Barito Putera
+Einsätze: 91 | Tore: 8 | Vorlagen: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Francisco Torres (Brazil) - PS Barito Putera
+Einsätze: 15 | Tore: 8 | Vorlagen: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Matías Mier (Uruguay) - PS Barito Putera
+Einsätze: 9 | Tore: 8 | Vorlagen: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Bayu Pradana (Indonesia) - PS Barito Putera
+Einsätze: 136 | Tore: 8 | Vorlagen: 5
+
+18
+00:01:47,600 --> 00:01:54,200
+Makan Konate (Mali) - PS Barito Putera
+Einsätze: 30 | Tore: 8 | Vorlagen: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+James Koko Lomell (Liberia) - PS Barito Putera
+Einsätze: 20 | Tore: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Matías Córdoba (Argentina) - PS Barito Putera
+Einsätze: 66 | Tore: 9 | Vorlagen: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Mike Ott (Philippines) - PS Barito Putera
+Einsätze: 60 | Tore: 10 | Vorlagen: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Luiz Júnior (Brazil) - PS Barito Putera
+Einsätze: 12 | Tore: 11
+
+23
+00:02:20,600 --> 00:02:27,200
+Eksel Runtukahu (Indonesia) - PS Barito Putera
+Einsätze: 51 | Tore: 12 | Vorlagen: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Gavin Kwan (Indonesia) - PS Barito Putera
+Einsätze: 71 | Tore: 12 | Vorlagen: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Renan Alves (Brazil) - PS Barito Putera
+Einsätze: 86 | Tore: 18 | Vorlagen: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Douglas Packer (Brazil) - PS Barito Putera
+Einsätze: 62 | Tore: 18 | Vorlagen: 4
+
+27
+00:02:47,000 --> 00:02:53,600
+Samsul Arif (Indonesia) - PS Barito Putera
+Einsätze: 68 | Tore: 19 | Vorlagen: 13
+
+28
+00:02:53,600 --> 00:03:00,200
+Djibril Coulibaly (Mali) - PS Barito Putera
+Einsätze: 30 | Tore: 20
+
+29
+00:03:00,200 --> 00:03:06,800
+Gustavo Tocantins (Brazil) - PS Barito Putera
+Einsätze: 49 | Tore: 21 | Vorlagen: 5
+
+30
+00:03:06,800 --> 00:03:13,400
+Rizky Pora (Indonesia) - PS Barito Putera
+Einsätze: 248 | Tore: 28 | Vorlagen: 64
+
+31
+00:03:13,400 --> 00:03:20,000
+Rafael Silva (Brazil) - PS Barito Putera
+Einsätze: 64 | Tore: 31 | Vorlagen: 9
+

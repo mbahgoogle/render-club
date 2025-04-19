@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Girona FC Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Cristian Herrera (Spain) - Girona FC
+Einsätze: 54 | Tore: 9 | Vorlagen: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Valery Fernández (Spain) - Girona FC
+Einsätze: 140 | Tore: 10 | Vorlagen: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+David Timor (Spain) - Girona FC
+Einsätze: 60 | Tore: 10 | Vorlagen: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Luso (Spain) - Girona FC
+Einsätze: 74 | Tore: 10 | Vorlagen: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Savinho (Brazil) - Girona FC
+Einsätze: 41 | Tore: 11 | Vorlagen: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Chechu Flores (Spain) - Girona FC
+Einsätze: 99 | Tore: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Mamadou Sylla (Senegal) - Girona FC
+Einsätze: 43 | Tore: 11 | Vorlagen: 7
+
+9
+00:00:48,200 --> 00:00:54,800
+Yangel Herrera (Venezuela) - Girona FC
+Einsätze: 77 | Tore: 11 | Vorlagen: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Samu Saiz (Spain) - Girona FC
+Einsätze: 119 | Tore: 12 | Vorlagen: 17
+
+11
+00:01:01,400 --> 00:01:08,000
+Gerard Bordas (Spain) - Girona FC
+Einsätze: 62 | Tore: 13 | Vorlagen: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Viktor Tsygankov (Ukraine) - Girona FC
+Einsätze: 76 | Tore: 13 | Vorlagen: 17
+
+13
+00:01:14,600 --> 00:01:21,200
+Juanpe (Spain) - Girona FC
+Einsätze: 262 | Tore: 13 | Vorlagen: 8
+
+14
+00:01:21,200 --> 00:01:27,800
+Taty Castellanos (Argentina) - Girona FC
+Einsätze: 37 | Tore: 14 | Vorlagen: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Benja (Spain) - Girona FC
+Einsätze: 53 | Tore: 14 | Vorlagen: 8
+
+16
+00:01:34,400 --> 00:01:41,000
+Samuele Longo (Italy) - Girona FC
+Einsätze: 38 | Tore: 14 | Vorlagen: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Kiko Ratón (Spain) - Girona FC
+Einsätze: 76 | Tore: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+Nahuel Bustos (Argentina) - Girona FC
+Einsätze: 82 | Tore: 15 | Vorlagen: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Álex Granell (Spain) - Girona FC
+Einsätze: 232 | Tore: 16 | Vorlagen: 34
+
+20
+00:02:00,800 --> 00:02:07,400
+Ferrán Corominas (Spain) - Girona FC
+Einsätze: 40 | Tore: 18 | Vorlagen: 6
+
+21
+00:02:07,400 --> 00:02:14,000
+Ranko Despotovic (Serbia) - Girona FC
+Einsätze: 35 | Tore: 19
+
+22
+00:02:14,000 --> 00:02:20,600
+Roberto Peragón (Spain) - Girona FC
+Einsätze: 76 | Tore: 20
+
+23
+00:02:20,600 --> 00:02:27,200
+Borja García (Spain) - Girona FC
+Einsätze: 233 | Tore: 21 | Vorlagen: 30
+
+24
+00:02:27,200 --> 00:02:33,800
+Jaime Mata (Spain) - Girona FC
+Einsätze: 82 | Tore: 21 | Vorlagen: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Javi Acuña (Paraguay) - Girona FC
+Einsätze: 57 | Tore: 21 | Vorlagen: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Artem Dovbyk (Ukraine) - Girona FC
+Einsätze: 39 | Tore: 24 | Vorlagen: 10
+
+27
+00:02:47,000 --> 00:02:53,600
+Fran Sandaza (Spain) - Girona FC
+Einsätze: 73 | Tore: 25 | Vorlagen: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Felipe Sanchón (Spain) - Girona FC
+Einsätze: 153 | Tore: 36 | Vorlagen: 22
+
+29
+00:03:00,200 --> 00:03:06,800
+Jandro Castro (Spain) - Girona FC
+Einsätze: 175 | Tore: 37 | Vorlagen: 27
+
+30
+00:03:06,800 --> 00:03:13,400
+Portu (Spain) - Girona FC
+Einsätze: 177 | Tore: 37 | Vorlagen: 26
+
+31
+00:03:13,400 --> 00:03:20,000
+Cristhian Stuani (Uruguay) - Girona FC
+Einsätze: 280 | Tore: 136 | Vorlagen: 12
+

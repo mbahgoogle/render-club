@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+CA Osasuna Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Francisco Javier Bayona (Spain) - CA Osasuna
+Partidos: 148 | Goles: 21
+
+3
+00:00:08,600 --> 00:00:15,200
+Kike Sola (Spain) - CA Osasuna
+Partidos: 98 | Goles: 21 | Asistencias: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+José Luis Areta (Spain) - CA Osasuna
+Partidos: 89 | Goles: 21 | Asistencias: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Raúl García (Spain) - CA Osasuna
+Partidos: 126 | Goles: 21 | Asistencias: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Hormaeche (Spain) - CA Osasuna
+Partidos: 61 | Goles: 21
+
+7
+00:00:35,000 --> 00:00:41,600
+Savo Miloševic (Serbia) - CA Osasuna
+Partidos: 103 | Goles: 22 | Asistencias: 7
+
+8
+00:00:41,600 --> 00:00:48,200
+Jon Andoni Goikoetxea (Spain) - CA Osasuna
+Partidos: 112 | Goles: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Eugenio Bustingorri (Spain) - CA Osasuna
+Partidos: 343 | Goles: 23 | Asistencias: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Valdo (Cape Verde) - CA Osasuna
+Partidos: 141 | Goles: 23 | Asistencias: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Adolfo Marañón (Spain) - CA Osasuna
+Partidos: 91 | Goles: 25
+
+12
+00:01:08,000 --> 00:01:14,600
+Julián Vergara (Spain) - CA Osasuna
+Partidos: 27 | Goles: 25
+
+13
+00:01:14,600 --> 00:01:21,200
+Pierre Webó (Cameroon) - CA Osasuna
+Partidos: 137 | Goles: 26 | Asistencias: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Nino (Spain) - CA Osasuna
+Partidos: 147 | Goles: 27 | Asistencias: 20
+
+15
+00:01:27,800 --> 00:01:34,400
+Rubén García (Spain) - CA Osasuna
+Partidos: 250 | Goles: 27 | Asistencias: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Patxi Puñal (Spain) - CA Osasuna
+Partidos: 477 | Goles: 28 | Asistencias: 32
+
+17
+00:01:41,000 --> 00:01:47,600
+Chimy Ávila (Argentina) - CA Osasuna
+Partidos: 123 | Goles: 29 | Asistencias: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Miguel Sola (Spain) - CA Osasuna
+Partidos: 207 | Goles: 30
+
+19
+00:01:54,200 --> 00:02:00,800
+Patxi Rípodas (Spain) - CA Osasuna
+Partidos: 237 | Goles: 31
+
+20
+00:02:00,800 --> 00:02:07,400
+Iván Rosado (Spain) - CA Osasuna
+Partidos: 137 | Goles: 31 | Asistencias: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Walter Pandiani (Uruguay) - CA Osasuna
+Partidos: 103 | Goles: 31 | Asistencias: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Javad Nekounam (Iran) - CA Osasuna
+Partidos: 198 | Goles: 31 | Asistencias: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+John Aloisi (Australia) - CA Osasuna
+Partidos: 128 | Goles: 32 | Asistencias: 10
+
+24
+00:02:27,200 --> 00:02:33,800
+José Manuel Echeverria (Spain) - CA Osasuna
+Partidos: 189 | Goles: 38 | Asistencias: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Patxi Iriguibel (Spain) - CA Osasuna
+Partidos: 110 | Goles: 38 | Asistencias: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Enrique Martín (Spain) - CA Osasuna
+Partidos: 244 | Goles: 38 | Asistencias: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Cuco Ziganda (Spain) - CA Osasuna
+Partidos: 160 | Goles: 44
+
+28
+00:02:53,600 --> 00:03:00,200
+Jan Urban (Poland) - CA Osasuna
+Partidos: 167 | Goles: 47 | Asistencias: 2
+
+29
+00:03:00,200 --> 00:03:06,800
+Roberto Torres (Spain) - CA Osasuna
+Partidos: 353 | Goles: 60 | Asistencias: 55
+
+30
+00:03:06,800 --> 00:03:13,400
+Ante Budimir (Croatia) - CA Osasuna
+Partidos: 170 | Goles: 65 | Asistencias: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Sabino (Spain) - CA Osasuna
+Partidos: 142 | Goles: 65
+

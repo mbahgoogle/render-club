@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AC Milan All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Egidio Calloni (Italy) - AC Milan
+Appearances: 142 | Goals: 54 | Assists: 13
+
+3
+00:00:08,600 --> 00:00:15,200
+Ruud Gullit (Netherlands) - AC Milan
+Appearances: 171 | Goals: 56 | Assists: 36
+
+4
+00:00:15,200 --> 00:00:21,800
+Ettore Puricelli (Italy) - AC Milan
+Appearances: 115 | Goals: 56 | Assists: 8
+
+5
+00:00:21,800 --> 00:00:28,400
+Juan Schiaffino (Italy) - AC Milan
+Appearances: 167 | Goals: 57 | Assists: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Carlo Galli (Italy) - AC Milan
+Appearances: 124 | Goals: 57 | Assists: 0
+
+7
+00:00:35,000 --> 00:00:41,600
+George Weah (Liberia) - AC Milan
+Appearances: 147 | Goals: 58 | Assists: 36
+
+8
+00:00:41,600 --> 00:00:48,200
+Luciano Chiarugi (Italy) - AC Milan
+Appearances: 155 | Goals: 60 | Assists: 31
+
+9
+00:00:48,200 --> 00:00:54,800
+Clarence Seedorf (Netherlands) - AC Milan
+Appearances: 432 | Goals: 62 | Assists: 67
+
+10
+00:00:54,800 --> 00:01:01,400
+Alexandre Pato (Brazil) - AC Milan
+Appearances: 150 | Goals: 63 | Assists: 18
+
+11
+00:01:01,400 --> 00:01:08,000
+Angelo Sormani (Italy) - AC Milan
+Appearances: 180 | Goals: 65 | Assists: 30
+
+12
+00:01:08,000 --> 00:01:14,600
+Giovanni Moretti (Italy) - AC Milan
+Appearances: 223 | Goals: 67 | Assists: 0
+
+13
+00:01:14,600 --> 00:01:21,200
+Rafael Leão (Portugal) - AC Milan
+Appearances: 248 | Goals: 68 | Assists: 53
+
+14
+00:01:21,200 --> 00:01:27,800
+Daniele Massaro (Italy) - AC Milan
+Appearances: 306 | Goals: 70 | Assists: 32
+
+15
+00:01:27,800 --> 00:01:34,400
+Pietro Arcari (Italy) - AC Milan
+Appearances: 186 | Goals: 70 | Assists: 0
+
+16
+00:01:34,400 --> 00:01:41,000
+Marco Simone (Italy) - AC Milan
+Appearances: 260 | Goals: 75 | Assists: 34
+
+17
+00:01:41,000 --> 00:01:47,600
+Pietro Paolo Virdis (Italy) - AC Milan
+Appearances: 184 | Goals: 76 | Assists: 29
+
+18
+00:01:47,600 --> 00:01:54,200
+Nils Liedholm (Sweden) - AC Milan
+Appearances: 380 | Goals: 82 | Assists: 8
+
+19
+00:01:54,200 --> 00:02:00,800
+Renzo Burini (Italy) - AC Milan
+Appearances: 190 | Goals: 88 | Assists: 5
+
+20
+00:02:00,800 --> 00:02:07,400
+Alberto Bigon (Italy) - AC Milan
+Appearances: 329 | Goals: 90 | Assists: 49
+
+21
+00:02:07,400 --> 00:02:14,000
+Zlatan Ibrahimović (Sweden) - AC Milan
+Appearances: 163 | Goals: 93 | Assists: 35
+
+22
+00:02:14,000 --> 00:02:20,600
+Pierino Prati (Italy) - AC Milan
+Appearances: 209 | Goals: 102 | Assists: 43
+
+23
+00:02:20,600 --> 00:02:27,200
+Ricardo Izecson dos Santos Leite (Brazil) - AC Milan
+Appearances: 307 | Goals: 104 | Assists: 81
+
+24
+00:02:27,200 --> 00:02:33,800
+Giuseppe Santagostino (Italy) - AC Milan
+Appearances: 236 | Goals: 105 | Assists: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Marco van Basten (Netherlands) - AC Milan
+Appearances: 201 | Goals: 125 | Assists: 49
+
+26
+00:02:40,400 --> 00:02:47,000
+Filippo Inzaghi (Italy) - AC Milan
+Appearances: 300 | Goals: 126 | Assists: 21
+
+27
+00:02:47,000 --> 00:02:53,600
+Aldo Boffi (Italy) - AC Milan
+Appearances: 188 | Goals: 130 | Assists: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+José Altafini (Italy) - AC Milan
+Appearances: 235 | Goals: 150 | Assists: 0
+
+29
+00:03:00,200 --> 00:03:06,800
+Gianni Rivera (Italy) - AC Milan
+Appearances: 654 | Goals: 163 | Assists: 158
+
+30
+00:03:06,800 --> 00:03:13,400
+Andriy Shevchenko (Ukraine) - AC Milan
+Appearances: 322 | Goals: 175 | Assists: 46
+
+31
+00:03:13,400 --> 00:03:20,000
+Gunnar Nordahl (Sweden) - AC Milan
+Appearances: 262 | Goals: 214 | Assists: 2
+

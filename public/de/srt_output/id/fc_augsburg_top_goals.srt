@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Augsburg Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Gerhard Niklasch (Germany) - FC Augsburg
+Penampilan: 256 | Gol: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Elton da Costa (Brazil) - FC Augsburg
+Penampilan: 128 | Gol: 24 | Asis: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Nando Rafael (Angola) - FC Augsburg
+Penampilan: 48 | Gol: 25 | Asis: 6
+
+5
+00:00:21,800 --> 00:00:28,400
+Dieter Eckstein (Germany) - FC Augsburg
+Penampilan: 49 | Gol: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Franz Becker (Germany) - FC Augsburg
+Penampilan: 86 | Gol: 26
+
+7
+00:00:35,000 --> 00:00:41,600
+Mark Römer (Germany) - FC Augsburg
+Penampilan: 55 | Gol: 27
+
+8
+00:00:41,600 --> 00:00:48,200
+Joseph Babatunde (Nigeria) - FC Augsburg
+Penampilan: 66 | Gol: 27
+
+9
+00:00:48,200 --> 00:00:54,800
+Raúl Bobadilla (Paraguay) - FC Augsburg
+Penampilan: 105 | Gol: 29 | Asis: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Klaus Vöhringer (Germany) - FC Augsburg
+Penampilan: 105 | Gol: 29
+
+11
+00:01:01,400 --> 00:01:08,000
+Florian Niederlechner (Germany) - FC Augsburg
+Penampilan: 107 | Gol: 30 | Asis: 21
+
+12
+00:01:08,000 --> 00:01:14,600
+Vladimir Manislavić (Serbia) - FC Augsburg
+Penampilan: 65 | Gol: 30 | Asis: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Otmar Maurus (Germany) - FC Augsburg
+Penampilan: 101 | Gol: 31
+
+14
+00:01:21,200 --> 00:01:27,800
+Michael Gregoritsch (Austria) - FC Augsburg
+Penampilan: 129 | Gol: 31 | Asis: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Gert Fröhlich (Germany) - FC Augsburg
+Penampilan: 56 | Gol: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Willi Hoffmann (Germany) - FC Augsburg
+Penampilan: 97 | Gol: 32 | Asis: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Christian Okpala (Nigeria) - FC Augsburg
+Penampilan: 67 | Gol: 34
+
+18
+00:01:47,600 --> 00:01:54,200
+Mikheil Sajaia (Georgia) - FC Augsburg
+Penampilan: 96 | Gol: 34
+
+19
+00:01:54,200 --> 00:02:00,800
+André Hahn (Germany) - FC Augsburg
+Penampilan: 171 | Gol: 36 | Asis: 31
+
+20
+00:02:00,800 --> 00:02:07,400
+Tobias Werner (Germany) - FC Augsburg
+Penampilan: 208 | Gol: 38 | Asis: 38
+
+21
+00:02:07,400 --> 00:02:14,000
+Alfred Finnbogason (Iceland) - FC Augsburg
+Penampilan: 122 | Gol: 39 | Asis: 14
+
+22
+00:02:14,000 --> 00:02:20,600
+Gerhard Müller (Germany) - FC Augsburg
+Penampilan: 182 | Gol: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Helmut Haller (Germany) - FC Augsburg
+Penampilan: 157 | Gol: 40
+
+24
+00:02:27,200 --> 00:02:33,800
+Georg Beichle (Germany) - FC Augsburg
+Penampilan: 114 | Gol: 43
+
+25
+00:02:33,800 --> 00:02:40,400
+Ludwig Schlump (Germany) - FC Augsburg
+Penampilan: 182 | Gol: 46
+
+26
+00:02:40,400 --> 00:02:47,000
+Michael Thurk (Germany) - FC Augsburg
+Penampilan: 114 | Gol: 56 | Asis: 18
+
+27
+00:02:47,000 --> 00:02:53,600
+Hans Jörg (Germany) - FC Augsburg
+Penampilan: 207 | Gol: 58 | Asis: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Christian Radlmaier (Germany) - FC Augsburg
+Penampilan: 117 | Gol: 62
+
+29
+00:03:00,200 --> 00:03:06,800
+Ludwig Schuller (Germany) - FC Augsburg
+Penampilan: 139 | Gol: 71
+
+30
+00:03:06,800 --> 00:03:13,400
+Georg Platzer (Germany) - FC Augsburg
+Penampilan: 204 | Gol: 87
+
+31
+00:03:13,400 --> 00:03:20,000
+Ulrich Biesinger (Germany) - FC Augsburg
+Penampilan: 223 | Gol: 121
+

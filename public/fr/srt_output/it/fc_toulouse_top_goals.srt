@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Toulouse Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Rafael Ratão (Brazil) - FC Toulouse
+Presenze: 64 | Gol: 19 | Assist: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Laurent Sachy (France) - FC Toulouse
+Presenze: 90 | Gol: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Batlles (France) - FC Toulouse
+Presenze: 264 | Gol: 19 | Assist: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Jean-François Domergue (France) - FC Toulouse
+Presenze: 124 | Gol: 20
+
+6
+00:00:28,400 --> 00:00:35,000
+Gérard Soler (France) - FC Toulouse
+Presenze: 64 | Gol: 20
+
+7
+00:00:35,000 --> 00:00:41,600
+Vladimir Petrovic (Croatia) - FC Toulouse
+Presenze: 65 | Gol: 22
+
+8
+00:00:41,600 --> 00:00:48,200
+Bernard Ferrer (France) - FC Toulouse
+Presenze: 76 | Gol: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Daniel Moreira (France) - FC Toulouse
+Presenze: 71 | Gol: 23 | Assist: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+Jean-Marc Ferratge (France) - FC Toulouse
+Presenze: 139 | Gol: 23
+
+11
+00:01:01,400 --> 00:01:08,000
+Johan Elmander (Sweden) - FC Toulouse
+Presenze: 73 | Gol: 23 | Assist: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Branco van den Boomen (Netherlands) - FC Toulouse
+Presenze: 121 | Gol: 23 | Assist: 45
+
+13
+00:01:14,600 --> 00:01:21,200
+Moussa Sissoko (France) - FC Toulouse
+Presenze: 220 | Gol: 24 | Assist: 15
+
+14
+00:01:21,200 --> 00:01:27,800
+Thierry Moreau (France) - FC Toulouse
+Presenze: 241 | Gol: 25 | Assist: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Zakaria Aboukhlal (Morocco) - FC Toulouse
+Presenze: 80 | Gol: 25 | Assist: 7
+
+16
+00:01:34,400 --> 00:01:41,000
+Achille Emaná (Cameroon) - FC Toulouse
+Presenze: 220 | Gol: 27 | Assist: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Max Gradel (Cote d'Ivoire) - FC Toulouse
+Presenze: 96 | Gol: 28 | Assist: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Anthony Bancarel (France) - FC Toulouse
+Presenze: 132 | Gol: 30 | Assist: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Michel Pavon (France) - FC Toulouse
+Presenze: 214 | Gol: 31 | Assist: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Jean-Philippe Durand (France) - FC Toulouse
+Presenze: 223 | Gol: 33
+
+21
+00:02:07,400 --> 00:02:14,000
+Cédric Fauré (France) - FC Toulouse
+Presenze: 78 | Gol: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Thijs Dallinga (Netherlands) - FC Toulouse
+Presenze: 86 | Gol: 37 | Assist: 8
+
+23
+00:02:20,600 --> 00:02:27,200
+Rhys Healey (England) - FC Toulouse
+Presenze: 77 | Gol: 39 | Assist: 7
+
+24
+00:02:27,200 --> 00:02:33,800
+Martin Braithwaite (Denmark) - FC Toulouse
+Presenze: 149 | Gol: 40 | Assist: 15
+
+25
+00:02:33,800 --> 00:02:40,400
+André-Pierre Gignac (France) - FC Toulouse
+Presenze: 119 | Gol: 42 | Assist: 11
+
+26
+00:02:40,400 --> 00:02:47,000
+Gérald Passi (France) - FC Toulouse
+Presenze: 163 | Gol: 47
+
+27
+00:02:47,000 --> 00:02:53,600
+Francois Calderaro (France) - FC Toulouse
+Presenze: 97 | Gol: 49
+
+28
+00:02:53,600 --> 00:03:00,200
+Robert Pintenat (France) - FC Toulouse
+Presenze: 100 | Gol: 57
+
+29
+00:03:00,200 --> 00:03:06,800
+Yannick Stopyra (France) - FC Toulouse
+Presenze: 172 | Gol: 59
+
+30
+00:03:06,800 --> 00:03:13,400
+Alberto Márcico (Argentina) - FC Toulouse
+Presenze: 248 | Gol: 67 | Assist: 3
+
+31
+00:03:13,400 --> 00:03:20,000
+Wissam Ben Yedder (France) - FC Toulouse
+Presenze: 174 | Gol: 71 | Assist: 21
+

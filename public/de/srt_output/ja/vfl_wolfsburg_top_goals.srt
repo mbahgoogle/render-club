@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+VfL Wolfsburg 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Fredi Rotermund (Germany) - VfL Wolfsburg
+出場数: 90 | ゴール: 23
+
+3
+00:00:08,600 --> 00:00:15,200
+Diego (Brazil) - VfL Wolfsburg
+出場数: 87 | ゴール: 24 | アシスト: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Zvjezdan Misimovic (Bosnia-Herzegovina) - VfL Wolfsburg
+出場数: 92 | ゴール: 25 | アシスト: 48
+
+5
+00:00:21,800 --> 00:00:28,400
+Charles Akonnor (Ghana) - VfL Wolfsburg
+出場数: 142 | ゴール: 25 | アシスト: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Jacek Frackiewicz (Poland) - VfL Wolfsburg
+出場数: 108 | ゴール: 31
+
+7
+00:00:35,000 --> 00:00:41,600
+Jonas Wind (Denmark) - VfL Wolfsburg
+出場数: 106 | ゴール: 33 | アシスト: 13
+
+8
+00:00:41,600 --> 00:00:48,200
+Tomislav Maric (Croatia) - VfL Wolfsburg
+出場数: 97 | ゴール: 33 | アシスト: 12
+
+9
+00:00:48,200 --> 00:00:54,800
+Ivica Olic (Croatia) - VfL Wolfsburg
+出場数: 94 | ゴール: 33 | アシスト: 14
+
+10
+00:00:54,800 --> 00:01:01,400
+Jürgen Mosert (Germany) - VfL Wolfsburg
+出場数: 75 | ゴール: 35 | アシスト: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Michael Geiger (Germany) - VfL Wolfsburg
+出場数: 231 | ゴール: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Peter Ament (Germany) - VfL Wolfsburg
+出場数: 245 | ゴール: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+Manfred Wuttich (Germany) - VfL Wolfsburg
+出場数: 57 | ゴール: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Martin Petrov (Bulgaria) - VfL Wolfsburg
+出場数: 136 | ゴール: 38 | アシスト: 38
+
+15
+00:01:27,800 --> 00:01:34,400
+Roy Präger (Germany) - VfL Wolfsburg
+出場数: 170 | ゴール: 41 | アシスト: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Wolf-Rüdiger Krause (Germany) - VfL Wolfsburg
+出場数: 97 | ゴール: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Wolfgang Wallek (Germany) - VfL Wolfsburg
+出場数: 92 | ゴール: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+Maximilian Arnold (Germany) - VfL Wolfsburg
+出場数: 443 | ゴール: 47 | アシスト: 55
+
+19
+00:01:54,200 --> 00:02:00,800
+Bas Dost (Netherlands) - VfL Wolfsburg
+出場数: 117 | ゴール: 48 | アシスト: 14
+
+20
+00:02:00,800 --> 00:02:07,400
+Andrzej Juskowiak (Poland) - VfL Wolfsburg
+出場数: 131 | ゴール: 49 | アシスト: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Holger Fiebich (Germany) - VfL Wolfsburg
+出場数: 228 | ゴール: 63 | アシスト: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Matthias Fiebich (Germany) - VfL Wolfsburg
+出場数: 212 | ゴール: 69
+
+23
+00:02:20,600 --> 00:02:27,200
+Hans Kircher (Germany) - VfL Wolfsburg
+出場数: 86 | ゴール: 70
+
+24
+00:02:27,200 --> 00:02:33,800
+Wout Weghorst (Netherlands) - VfL Wolfsburg
+出場数: 144 | ゴール: 70 | アシスト: 22
+
+25
+00:02:33,800 --> 00:02:40,400
+Diego Klimowicz (Argentina) - VfL Wolfsburg
+出場数: 173 | ゴール: 71 | アシスト: 23
+
+26
+00:02:40,400 --> 00:02:47,000
+Grafite (Brazil) - VfL Wolfsburg
+出場数: 130 | ゴール: 75 | アシスト: 25
+
+27
+00:02:47,000 --> 00:02:53,600
+Wilfried Kemmer (Germany) - VfL Wolfsburg
+出場数: 184 | ゴール: 82 | アシスト: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Edin Džeko (Bosnia-Herzegovina) - VfL Wolfsburg
+出場数: 142 | ゴール: 85 | アシスト: 35
+
+29
+00:03:00,200 --> 00:03:06,800
+Siegfried Reich (Germany) - VfL Wolfsburg
+出場数: 169 | ゴール: 95
+
+30
+00:03:06,800 --> 00:03:13,400
+Frank Plagge (Germany) - VfL Wolfsburg
+出場数: 189 | ゴール: 111
+
+31
+00:03:13,400 --> 00:03:20,000
+Olaf Ansorge (Germany) - VfL Wolfsburg
+出場数: 381 | ゴール: 123
+

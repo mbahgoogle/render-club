@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Aston Villa सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Brian Little (England) - Aston Villa
+प्रदर्शन: 198 | गोल: 41 | असिस्ट: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Ian Taylor (England) - Aston Villa
+प्रदर्शन: 290 | गोल: 42 | असिस्ट: 16
+
+4
+00:00:15,200 --> 00:00:21,800
+Mark Walters (England) - Aston Villa
+प्रदर्शन: 195 | गोल: 42 | असिस्ट: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Julian Joachim (England) - Aston Villa
+प्रदर्शन: 170 | गोल: 44 | असिस्ट: 17
+
+6
+00:00:28,400 --> 00:00:35,000
+Bobby Thomson (Scotland) - Aston Villa
+प्रदर्शन: 125 | गोल: 45 | असिस्ट: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Darius Vassell (England) - Aston Villa
+प्रदर्शन: 201 | गोल: 45 | असिस्ट: 15
+
+8
+00:00:41,600 --> 00:00:48,200
+Tom Waring (England) - Aston Villa
+प्रदर्शन: 46 | गोल: 46
+
+9
+00:00:48,200 --> 00:00:54,800
+Dean Saunders (Wales) - Aston Villa
+प्रदर्शन: 141 | गोल: 47 | असिस्ट: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+John Carew (Norway) - Aston Villa
+प्रदर्शन: 131 | गोल: 48 | असिस्ट: 12
+
+11
+00:01:01,400 --> 00:01:08,000
+John Deehan (England) - Aston Villa
+प्रदर्शन: 129 | गोल: 48
+
+12
+00:01:08,000 --> 00:01:14,600
+Christian Benteke (Belgium) - Aston Villa
+प्रदर्शन: 101 | गोल: 49 | असिस्ट: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Gareth Barry (England) - Aston Villa
+प्रदर्शन: 439 | गोल: 52 | असिस्ट: 47
+
+14
+00:01:21,200 --> 00:01:27,800
+Allan Evans (Scotland) - Aston Villa
+प्रदर्शन: 435 | गोल: 57 | असिस्ट: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Gordon Cowans (England) - Aston Villa
+प्रदर्शन: 506 | गोल: 58 | असिस्ट: 33
+
+16
+00:01:34,400 --> 00:01:41,000
+Harry Burrows (England) - Aston Villa
+प्रदर्शन: 159 | गोल: 58 | असिस्ट: 4
+
+17
+00:01:41,000 --> 00:01:47,600
+Dion Dublin (England) - Aston Villa
+प्रदर्शन: 189 | गोल: 58 | असिस्ट: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+David Platt (England) - Aston Villa
+प्रदर्शन: 136 | गोल: 59 | असिस्ट: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Trevor Ford (Wales) - Aston Villa
+प्रदर्शन: 122 | गोल: 60
+
+20
+00:02:00,800 --> 00:02:07,400
+Juan Pablo Ángel (Colombia) - Aston Villa
+प्रदर्शन: 205 | गोल: 62 | असिस्ट: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Andy Gray (Scotland) - Aston Villa
+प्रदर्शन: 193 | गोल: 67
+
+22
+00:02:14,000 --> 00:02:20,600
+Tommy Thompson (England) - Aston Villa
+प्रदर्शन: 157 | गोल: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Gerry Hitchens (England) - Aston Villa
+प्रदर्शन: 114 | गोल: 68 | असिस्ट: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Tony Hateley (England) - Aston Villa
+प्रदर्शन: 138 | गोल: 74 | असिस्ट: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Gary Shaw (England) - Aston Villa
+प्रदर्शन: 207 | गोल: 75 | असिस्ट: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Ollie Watkins (England) - Aston Villa
+प्रदर्शन: 212 | गोल: 84 | असिस्ट: 38
+
+27
+00:02:47,000 --> 00:02:53,600
+Gabriel Agbonlahor (England) - Aston Villa
+प्रदर्शन: 391 | गोल: 86 | असिस्ट: 43
+
+28
+00:02:53,600 --> 00:03:00,200
+Peter Withe (England) - Aston Villa
+प्रदर्शन: 229 | गोल: 91 | असिस्ट: 29
+
+29
+00:03:00,200 --> 00:03:06,800
+Dwight Yorke (Trinidad and Tobago) - Aston Villa
+प्रदर्शन: 282 | गोल: 95 | असिस्ट: 31
+
+30
+00:03:06,800 --> 00:03:13,400
+Peter McParland (Northern Ireland) - Aston Villa
+प्रदर्शन: 279 | गोल: 95 | असिस्ट: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Johnny Dixon (England) - Aston Villa
+प्रदर्शन: 403 | गोल: 137 | असिस्ट: 2
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Le Havre AC Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Jean-Philippe Mateta (France) - Le Havre AC
+Partidos: 38 | Goles: 20
+
+3
+00:00:08,600 --> 00:00:15,200
+Amadou Alassane (France) - Le Havre AC
+Partidos: 81 | Goles: 20 | Asistencias: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Alessandro Frigerio (Switzerland) - Le Havre AC
+Partidos: 32 | Goles: 21
+
+5
+00:00:21,800 --> 00:00:28,400
+Brice Jovial (Guadeloupe) - Le Havre AC
+Partidos: 50 | Goles: 23 | Asistencias: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Ryan Mendes (Cape Verde) - Le Havre AC
+Partidos: 94 | Goles: 24 | Asistencias: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Eduardo Di Loreto (Argentina) - Le Havre AC
+Partidos: 46 | Goles: 25
+
+8
+00:00:41,600 --> 00:00:48,200
+Philippe Jacquet (France) - Le Havre AC
+Partidos: 98 | Goles: 25
+
+9
+00:00:48,200 --> 00:00:54,800
+Hocine Bouchache (Algeria) - Le Havre AC
+Partidos: 54 | Goles: 27
+
+10
+00:00:54,800 --> 00:01:01,400
+Ignace Valorisek (France) - Le Havre AC
+Partidos: 138 | Goles: 27
+
+11
+00:01:01,400 --> 00:01:08,000
+Tino Kadewere (Zimbabwe) - Le Havre AC
+Partidos: 51 | Goles: 27 | Asistencias: 9
+
+12
+00:01:08,000 --> 00:01:14,600
+Mickaël Le Bihan (France) - Le Havre AC
+Partidos: 73 | Goles: 27 | Asistencias: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Jean-Pascal Fontaine (Réunion) - Le Havre AC
+Partidos: 383 | Goles: 28 | Asistencias: 38
+
+14
+00:01:21,200 --> 00:01:27,800
+Thomas Deniaud (France) - Le Havre AC
+Partidos: 104 | Goles: 28
+
+15
+00:01:27,800 --> 00:01:34,400
+Walid Mesloub (Algeria) - Le Havre AC
+Partidos: 172 | Goles: 29 | Asistencias: 25
+
+16
+00:01:34,400 --> 00:01:41,000
+Pascal Pain (France) - Le Havre AC
+Partidos: 153 | Goles: 31
+
+17
+00:01:41,000 --> 00:01:47,600
+Jamal Thiaré (Senegal) - Le Havre AC
+Partidos: 129 | Goles: 31 | Asistencias: 16
+
+18
+00:01:47,600 --> 00:01:54,200
+Bruno Roux (France) - Le Havre AC
+Partidos: 118 | Goles: 31
+
+19
+00:01:54,200 --> 00:02:00,800
+Yvon Douis (France) - Le Havre AC
+Partidos: 81 | Goles: 33
+
+20
+00:02:00,800 --> 00:02:07,400
+Kandia Traoré (Cote d'Ivoire) - Le Havre AC
+Partidos: 80 | Goles: 33
+
+21
+00:02:07,400 --> 00:02:14,000
+Robert Llorens (France) - Le Havre AC
+Partidos: 168 | Goles: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Guillaume Hoarau (France) - Le Havre AC
+Partidos: 93 | Goles: 38
+
+23
+00:02:20,600 --> 00:02:27,200
+Yohann Rivière (France) - Le Havre AC
+Partidos: 117 | Goles: 38 | Asistencias: 9
+
+24
+00:02:27,200 --> 00:02:33,800
+Zarko Olarevic (Serbia) - Le Havre AC
+Partidos: 76 | Goles: 46
+
+25
+00:02:33,800 --> 00:02:40,400
+Alexandre Bonnet (France) - Le Havre AC
+Partidos: 470 | Goles: 51 | Asistencias: 49
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrick Martet (France) - Le Havre AC
+Partidos: 124 | Goles: 63
+
+27
+00:02:47,000 --> 00:02:53,600
+Joël Tiéhi (Cote d'Ivoire) - Le Havre AC
+Partidos: 172 | Goles: 63 | Asistencias: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Philippe Prieur (France) - Le Havre AC
+Partidos: 176 | Goles: 64
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean Saunier (France) - Le Havre AC
+Partidos: 107 | Goles: 68
+
+30
+00:03:06,800 --> 00:03:13,400
+Alain Caveglia (France) - Le Havre AC
+Partidos: 163 | Goles: 71 | Asistencias: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Jean-Michel Lesage (France) - Le Havre AC
+Partidos: 354 | Goles: 82 | Asistencias: 8
+

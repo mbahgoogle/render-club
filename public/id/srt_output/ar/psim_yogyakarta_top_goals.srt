@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSIM Yogyakarta أفضل الهدافين عبر التاريخ
+
+2
+00:00:02,000 --> 00:00:08,600
+Saldi (Indonesia) - PSIM Yogyakarta
+الظهور: 16 | الأهداف: 1 | التمريرات الحاسمة: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Irvan Mofu (Indonesia) - PSIM Yogyakarta
+الظهور: 15 | الأهداف: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Muammar Khadafi (Indonesia) - PSIM Yogyakarta
+الظهور: 14 | الأهداف: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Indra Setiawan (Indonesia) - PSIM Yogyakarta
+الظهور: 12 | الأهداف: 1 | التمريرات الحاسمة: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Muhammad Fariz (Indonesia) - PSIM Yogyakarta
+الظهور: 12 | الأهداف: 1 | التمريرات الحاسمة: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Rudiyana (Indonesia) - PSIM Yogyakarta
+الظهور: 6 | الأهداف: 1 | التمريرات الحاسمة: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Alfriyanto Nico (Indonesia) - PSIM Yogyakarta
+الظهور: 5 | الأهداف: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Krisna Sulistia (Indonesia) - PSIM Yogyakarta
+الظهور: 4 | الأهداف: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Arbeta Rockyawan (Indonesia) - PSIM Yogyakarta
+الظهور: 11 | الأهداف: 1 | التمريرات الحاسمة: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Ichsan Pratama (Indonesia) - PSIM Yogyakarta
+الظهور: 8 | الأهداف: 1 | التمريرات الحاسمة: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Omid Popalzay (Afghanistan) - PSIM Yogyakarta
+الظهور: 10 | الأهداف: 1 | التمريرات الحاسمة: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Vengko Armedya (Indonesia) - PSIM Yogyakarta
+الظهور: 9 | الأهداف: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Augusto Neto (Brazil) - PSIM Yogyakarta
+الظهور: 9 | الأهداف: 1 | التمريرات الحاسمة: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Ahmad Ihwan (Indonesia) - PSIM Yogyakarta
+الظهور: 4 | الأهداف: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Raphael Maitimo (Indonesia) - PSIM Yogyakarta
+الظهور: 7 | الأهداف: 2 | التمريرات الحاسمة: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Rosi Noprihanis (Indonesia) - PSIM Yogyakarta
+الظهور: 7 | الأهداف: 2 | التمريرات الحاسمة: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Roken Tampubolon (Indonesia) - PSIM Yogyakarta
+الظهور: 9 | الأهداف: 2 | التمريرات الحاسمة: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Syarif Wijianto (Indonesia) - PSIM Yogyakarta
+الظهور: 19 | الأهداف: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Achmad Faris Ardiansyah (Indonesia) - PSIM Yogyakarta
+الظهور: 17 | الأهداف: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Ilham Irhaz (Indonesia) - PSIM Yogyakarta
+الظهور: 11 | الأهداف: 2 | التمريرات الحاسمة: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Bryan Cesar (Indonesia) - PSIM Yogyakarta
+الظهور: 15 | الأهداف: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Cristian Gonzáles (Indonesia) - PSIM Yogyakarta
+الظهور: 10 | الأهداف: 3 | التمريرات الحاسمة: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Yudha Alkanza (Indonesia) - PSIM Yogyakarta
+الظهور: 39 | الأهداف: 4 | التمريرات الحاسمة: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Nyoman Sukarja (Indonesia) - PSIM Yogyakarta
+الظهور: 16 | الأهداف: 4 | التمريرات الحاسمة: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Arlyansyah Abdulmanan (Indonesia) - PSIM Yogyakarta
+الظهور: 12 | الأهداف: 4 | التمريرات الحاسمة: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Aditya Putra Dewa (Indonesia) - PSIM Yogyakarta
+الظهور: 30 | الأهداف: 4 | التمريرات الحاسمة: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Ari Maring (Indonesia) - PSIM Yogyakarta
+الظهور: 17 | الأهداف: 5 | التمريرات الحاسمة: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Sugeng Efendi (Indonesia) - PSIM Yogyakarta
+الظهور: 13 | الأهداف: 5
+
+30
+00:03:06,800 --> 00:03:13,400
+Savio Sheva (Indonesia) - PSIM Yogyakarta
+الظهور: 41 | الأهداف: 6 | التمريرات الحاسمة: 3
+
+31
+00:03:13,400 --> 00:03:20,000
+Rafinha (Brazil) - PSIM Yogyakarta
+الظهور: 22 | الأهداف: 20
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Wolverhampton Wanderers Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Peter Knowles (England) - Wolverhampton Wanderers
+Partidos: 127 | Goles: 35 | Asistencias: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Andy Gray (Scotland) - Wolverhampton Wanderers
+Partidos: 120 | Goles: 35 | Asistencias: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Nouha Dicko (Mali) - Wolverhampton Wanderers
+Partidos: 108 | Goles: 35 | Asistencias: 16
+
+5
+00:00:21,800 --> 00:00:28,400
+Ron Flowers (England) - Wolverhampton Wanderers
+Partidos: 450 | Goles: 35 | Asistencias: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Bakary Sako (Mali) - Wolverhampton Wanderers
+Partidos: 124 | Goles: 38 | Asistencias: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Sammy Smyth (Northern Ireland) - Wolverhampton Wanderers
+Partidos: 106 | Goles: 38 | Asistencias: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Ray Crawford (England) - Wolverhampton Wanderers
+Partidos: 58 | Goles: 39
+
+9
+00:00:48,200 --> 00:00:54,800
+Hugh Curran (Scotland) - Wolverhampton Wanderers
+Partidos: 87 | Goles: 40 | Asistencias: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Jim McCalliog (Scotland) - Wolverhampton Wanderers
+Partidos: 183 | Goles: 41 | Asistencias: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+David Edwards (Wales) - Wolverhampton Wanderers
+Partidos: 307 | Goles: 44 | Asistencias: 16
+
+12
+00:01:08,000 --> 00:01:14,600
+Diogo Jota (Portugal) - Wolverhampton Wanderers
+Partidos: 131 | Goles: 44 | Asistencias: 19
+
+13
+00:01:14,600 --> 00:01:21,200
+Ted Farmer (England) - Wolverhampton Wanderers
+Partidos: 60 | Goles: 44 | Asistencias: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Terry Wharton (England) - Wolverhampton Wanderers
+Partidos: 158 | Goles: 51
+
+15
+00:01:27,800 --> 00:01:34,400
+Bobby Mason (England) - Wolverhampton Wanderers
+Partidos: 172 | Goles: 55 | Asistencias: 5
+
+16
+00:01:34,400 --> 00:01:41,000
+Dennis Westcott (England) - Wolverhampton Wanderers
+Partidos: 63 | Goles: 55
+
+17
+00:01:41,000 --> 00:01:47,600
+Raúl Jiménez (Mexico) - Wolverhampton Wanderers
+Partidos: 166 | Goles: 57 | Asistencias: 23
+
+18
+00:01:47,600 --> 00:01:54,200
+Kenny Miller (Scotland) - Wolverhampton Wanderers
+Partidos: 185 | Goles: 61 | Asistencias: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Sylvan Ebanks-Blake (England) - Wolverhampton Wanderers
+Partidos: 193 | Goles: 62 | Asistencias: 19
+
+20
+00:02:00,800 --> 00:02:07,400
+Norman Deeley (England) - Wolverhampton Wanderers
+Partidos: 235 | Goles: 76 | Asistencias: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Kenny Hibbitt (England) - Wolverhampton Wanderers
+Partidos: 456 | Goles: 82
+
+22
+00:02:14,000 --> 00:02:20,600
+Jesse Pye (England) - Wolverhampton Wanderers
+Partidos: 197 | Goles: 91
+
+23
+00:02:20,600 --> 00:02:27,200
+Derek Dougan (Northern Ireland) - Wolverhampton Wanderers
+Partidos: 277 | Goles: 100 | Asistencias: 3
+
+24
+00:02:27,200 --> 00:02:33,800
+Jimmy Mullen (England) - Wolverhampton Wanderers
+Partidos: 460 | Goles: 105 | Asistencias: 10
+
+25
+00:02:33,800 --> 00:02:40,400
+Dennis Wilshaw (England) - Wolverhampton Wanderers
+Partidos: 213 | Goles: 105 | Asistencias: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Roy Swinbourne (England) - Wolverhampton Wanderers
+Partidos: 218 | Goles: 112
+
+27
+00:02:47,000 --> 00:02:53,600
+Peter Broadbent (England) - Wolverhampton Wanderers
+Partidos: 487 | Goles: 143 | Asistencias: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+John Richards (England) - Wolverhampton Wanderers
+Partidos: 410 | Goles: 153 | Asistencias: 2
+
+29
+00:03:00,200 --> 00:03:06,800
+Johnny Hancocks (England) - Wolverhampton Wanderers
+Partidos: 359 | Goles: 159 | Asistencias: 1
+
+30
+00:03:06,800 --> 00:03:13,400
+Jimmy Murray (England) - Wolverhampton Wanderers
+Partidos: 296 | Goles: 166 | Asistencias: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Steve Bull (England) - Wolverhampton Wanderers
+Partidos: 279 | Goles: 183 | Asistencias: 1
+

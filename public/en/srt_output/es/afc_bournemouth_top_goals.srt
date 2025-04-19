@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AFC Bournemouth Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Garreth O'Connor (Ireland) - AFC Bournemouth
+Partidos: 160 | Goles: 17 | Asistencias: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Arnaut Danjuma (Netherlands) - AFC Bournemouth
+Partidos: 52 | Goles: 17 | Asistencias: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Charlie Daniels (England) - AFC Bournemouth
+Partidos: 265 | Goles: 17 | Asistencias: 26
+
+5
+00:00:21,800 --> 00:00:28,400
+Antoine Semenyo (Ghana) - AFC Bournemouth
+Partidos: 81 | Goles: 18 | Asistencias: 8
+
+6
+00:00:28,400 --> 00:00:35,000
+Josh McQuoid (Northern Ireland) - AFC Bournemouth
+Partidos: 123 | Goles: 18 | Asistencias: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Carl Fletcher (Wales) - AFC Bournemouth
+Partidos: 172 | Goles: 20
+
+8
+00:00:41,600 --> 00:00:48,200
+Steve Cook (England) - AFC Bournemouth
+Partidos: 387 | Goles: 21 | Asistencias: 11
+
+9
+00:00:48,200 --> 00:00:54,800
+Dan Gosling (England) - AFC Bournemouth
+Partidos: 192 | Goles: 22 | Asistencias: 8
+
+10
+00:00:54,800 --> 00:01:01,400
+David Brooks (Wales) - AFC Bournemouth
+Partidos: 141 | Goles: 22 | Asistencias: 17
+
+11
+00:01:01,400 --> 00:01:08,000
+Justin Kluivert (Netherlands) - AFC Bournemouth
+Partidos: 69 | Goles: 22 | Asistencias: 10
+
+12
+00:01:08,000 --> 00:01:14,600
+Jermain Defoe (England) - AFC Bournemouth
+Partidos: 64 | Goles: 23 | Asistencias: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Ryan Fraser (Scotland) - AFC Bournemouth
+Partidos: 208 | Goles: 24 | Asistencias: 30
+
+14
+00:01:21,200 --> 00:01:27,800
+Yann Kermorgant (France) - AFC Bournemouth
+Partidos: 69 | Goles: 27 | Asistencias: 14
+
+15
+00:01:27,800 --> 00:01:34,400
+Danny Hollands (England) - AFC Bournemouth
+Partidos: 219 | Goles: 28 | Asistencias: 6
+
+16
+00:01:34,400 --> 00:01:41,000
+Harry Arter (Ireland) - AFC Bournemouth
+Partidos: 256 | Goles: 29 | Asistencias: 20
+
+17
+00:01:41,000 --> 00:01:47,600
+Warren Feeney (Northern Ireland) - AFC Bournemouth
+Partidos: 101 | Goles: 30
+
+18
+00:01:47,600 --> 00:01:54,200
+Wade Elliott (England) - AFC Bournemouth
+Partidos: 202 | Goles: 30 | Asistencias: 14
+
+19
+00:01:54,200 --> 00:02:00,800
+Matt Ritchie (Scotland) - AFC Bournemouth
+Partidos: 142 | Goles: 31 | Asistencias: 29
+
+20
+00:02:00,800 --> 00:02:07,400
+Philip Billing (Denmark) - AFC Bournemouth
+Partidos: 201 | Goles: 31 | Asistencias: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Mark Stein (England) - AFC Bournemouth
+Partidos: 106 | Goles: 35
+
+22
+00:02:14,000 --> 00:02:20,600
+Lewis Grabban (Jamaica) - AFC Bournemouth
+Partidos: 115 | Goles: 36 | Asistencias: 14
+
+23
+00:02:20,600 --> 00:02:27,200
+Stephen Robinson (Northern Ireland) - AFC Bournemouth
+Partidos: 166 | Goles: 37
+
+24
+00:02:27,200 --> 00:02:33,800
+Junior Stanislas (England) - AFC Bournemouth
+Partidos: 179 | Goles: 37 | Asistencias: 24
+
+25
+00:02:33,800 --> 00:02:40,400
+Joshua King (Norway) - AFC Bournemouth
+Partidos: 184 | Goles: 53 | Asistencias: 18
+
+26
+00:02:40,400 --> 00:02:47,000
+Marc Pugh (England) - AFC Bournemouth
+Partidos: 312 | Goles: 56 | Asistencias: 50
+
+27
+00:02:47,000 --> 00:02:53,600
+Callum Wilson (England) - AFC Bournemouth
+Partidos: 187 | Goles: 67 | Asistencias: 26
+
+28
+00:02:53,600 --> 00:03:00,200
+Dominic Solanke (England) - AFC Bournemouth
+Partidos: 216 | Goles: 77 | Asistencias: 29
+
+29
+00:03:00,200 --> 00:03:06,800
+Steve Fletcher (England) - AFC Bournemouth
+Partidos: 526 | Goles: 92 | Asistencias: 26
+
+30
+00:03:06,800 --> 00:03:13,400
+James Hayter (England) - AFC Bournemouth
+Partidos: 343 | Goles: 93 | Asistencias: 10
+
+31
+00:03:13,400 --> 00:03:20,000
+Brett Pitman (Jersey) - AFC Bournemouth
+Partidos: 302 | Goles: 102 | Asistencias: 18
+

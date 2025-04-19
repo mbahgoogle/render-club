@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Augsburg 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Gerhard Niklasch (Germany) - FC Augsburg
+출전: 256 | 골: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Elton da Costa (Brazil) - FC Augsburg
+출전: 128 | 골: 24 | 도움: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Nando Rafael (Angola) - FC Augsburg
+출전: 48 | 골: 25 | 도움: 6
+
+5
+00:00:21,800 --> 00:00:28,400
+Dieter Eckstein (Germany) - FC Augsburg
+출전: 49 | 골: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Franz Becker (Germany) - FC Augsburg
+출전: 86 | 골: 26
+
+7
+00:00:35,000 --> 00:00:41,600
+Mark Römer (Germany) - FC Augsburg
+출전: 55 | 골: 27
+
+8
+00:00:41,600 --> 00:00:48,200
+Joseph Babatunde (Nigeria) - FC Augsburg
+출전: 66 | 골: 27
+
+9
+00:00:48,200 --> 00:00:54,800
+Raúl Bobadilla (Paraguay) - FC Augsburg
+출전: 105 | 골: 29 | 도움: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Klaus Vöhringer (Germany) - FC Augsburg
+출전: 105 | 골: 29
+
+11
+00:01:01,400 --> 00:01:08,000
+Florian Niederlechner (Germany) - FC Augsburg
+출전: 107 | 골: 30 | 도움: 21
+
+12
+00:01:08,000 --> 00:01:14,600
+Vladimir Manislavić (Serbia) - FC Augsburg
+출전: 65 | 골: 30 | 도움: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Otmar Maurus (Germany) - FC Augsburg
+출전: 101 | 골: 31
+
+14
+00:01:21,200 --> 00:01:27,800
+Michael Gregoritsch (Austria) - FC Augsburg
+출전: 129 | 골: 31 | 도움: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Gert Fröhlich (Germany) - FC Augsburg
+출전: 56 | 골: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Willi Hoffmann (Germany) - FC Augsburg
+출전: 97 | 골: 32 | 도움: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Christian Okpala (Nigeria) - FC Augsburg
+출전: 67 | 골: 34
+
+18
+00:01:47,600 --> 00:01:54,200
+Mikheil Sajaia (Georgia) - FC Augsburg
+출전: 96 | 골: 34
+
+19
+00:01:54,200 --> 00:02:00,800
+André Hahn (Germany) - FC Augsburg
+출전: 171 | 골: 36 | 도움: 31
+
+20
+00:02:00,800 --> 00:02:07,400
+Tobias Werner (Germany) - FC Augsburg
+출전: 208 | 골: 38 | 도움: 38
+
+21
+00:02:07,400 --> 00:02:14,000
+Alfred Finnbogason (Iceland) - FC Augsburg
+출전: 122 | 골: 39 | 도움: 14
+
+22
+00:02:14,000 --> 00:02:20,600
+Gerhard Müller (Germany) - FC Augsburg
+출전: 182 | 골: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Helmut Haller (Germany) - FC Augsburg
+출전: 157 | 골: 40
+
+24
+00:02:27,200 --> 00:02:33,800
+Georg Beichle (Germany) - FC Augsburg
+출전: 114 | 골: 43
+
+25
+00:02:33,800 --> 00:02:40,400
+Ludwig Schlump (Germany) - FC Augsburg
+출전: 182 | 골: 46
+
+26
+00:02:40,400 --> 00:02:47,000
+Michael Thurk (Germany) - FC Augsburg
+출전: 114 | 골: 56 | 도움: 18
+
+27
+00:02:47,000 --> 00:02:53,600
+Hans Jörg (Germany) - FC Augsburg
+출전: 207 | 골: 58 | 도움: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Christian Radlmaier (Germany) - FC Augsburg
+출전: 117 | 골: 62
+
+29
+00:03:00,200 --> 00:03:06,800
+Ludwig Schuller (Germany) - FC Augsburg
+출전: 139 | 골: 71
+
+30
+00:03:06,800 --> 00:03:13,400
+Georg Platzer (Germany) - FC Augsburg
+출전: 204 | 골: 87
+
+31
+00:03:13,400 --> 00:03:20,000
+Ulrich Biesinger (Germany) - FC Augsburg
+출전: 223 | 골: 121
+

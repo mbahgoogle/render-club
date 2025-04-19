@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Arsenal FC 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Ronnie Rooke (England) - Arsenal FC
+출전: 93 | 골: 70
+
+3
+00:00:08,600 --> 00:00:15,200
+Alexandre Lacazette (France) - Arsenal FC
+출전: 206 | 골: 71 | 도움: 32
+
+4
+00:00:15,200 --> 00:00:21,800
+Freddie Ljungberg (Sweden) - Arsenal FC
+출전: 328 | 골: 72 | 도움: 40
+
+5
+00:00:21,800 --> 00:00:28,400
+George Graham (Scotland) - Arsenal FC
+출전: 278 | 골: 73 | 도움: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Geoff Strong (England) - Arsenal FC
+출전: 133 | 골: 75 | 도움: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Alexis Sánchez (Chile) - Arsenal FC
+출전: 166 | 골: 80 | 도움: 44
+
+8
+00:00:41,600 --> 00:00:48,200
+Cliff Holton (England) - Arsenal FC
+출전: 205 | 골: 84
+
+9
+00:00:48,200 --> 00:00:54,800
+Robert Pirès (France) - Arsenal FC
+출전: 284 | 골: 84 | 도움: 63
+
+10
+00:00:54,800 --> 00:01:01,400
+Alan Sunderland (England) - Arsenal FC
+출전: 270 | 골: 88 | 도움: 20
+
+11
+00:01:01,400 --> 00:01:08,000
+Joe Hulme (England) - Arsenal FC
+출전: 208 | 골: 90 | 도움: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Don Roper (England) - Arsenal FC
+출전: 308 | 골: 91
+
+13
+00:01:14,600 --> 00:01:21,200
+Pierre-Emerick Aubameyang (Gabon) - Arsenal FC
+출전: 163 | 골: 92 | 도움: 20
+
+14
+00:01:21,200 --> 00:01:27,800
+Jack Lambert (England) - Arsenal FC
+출전: 110 | 골: 97
+
+15
+00:01:27,800 --> 00:01:34,400
+Joe Baker (England) - Arsenal FC
+출전: 150 | 골: 99
+
+16
+00:01:34,400 --> 00:01:41,000
+David Herd (Scotland) - Arsenal FC
+출전: 169 | 골: 99 | 도움: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Paul Merson (England) - Arsenal FC
+출전: 423 | 골: 99 | 도움: 51
+
+18
+00:01:47,600 --> 00:01:54,200
+Reg Lewis (England) - Arsenal FC
+출전: 153 | 골: 102
+
+19
+00:01:54,200 --> 00:02:00,800
+David Jack (England) - Arsenal FC
+출전: 146 | 골: 103
+
+20
+00:02:00,800 --> 00:02:07,400
+Olivier Giroud (France) - Arsenal FC
+출전: 253 | 골: 105 | 도움: 37
+
+21
+00:02:07,400 --> 00:02:14,000
+Frank Stapleton (Ireland) - Arsenal FC
+출전: 293 | 골: 106 | 도움: 21
+
+22
+00:02:14,000 --> 00:02:20,600
+Theo Walcott (England) - Arsenal FC
+출전: 397 | 골: 108 | 도움: 67
+
+23
+00:02:20,600 --> 00:02:27,200
+Alan Smith (England) - Arsenal FC
+출전: 341 | 골: 113 | 도움: 22
+
+24
+00:02:27,200 --> 00:02:33,800
+Ted Drake (England) - Arsenal FC
+출전: 110 | 골: 113
+
+25
+00:02:33,800 --> 00:02:40,400
+Dennis Bergkamp (Netherlands) - Arsenal FC
+출전: 422 | 골: 120 | 도움: 116
+
+26
+00:02:40,400 --> 00:02:47,000
+Doug Lishman (England) - Arsenal FC
+출전: 235 | 골: 128
+
+27
+00:02:47,000 --> 00:02:53,600
+John Radford (England) - Arsenal FC
+출전: 445 | 골: 132 | 도움: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Robin van Persie (Netherlands) - Arsenal FC
+출전: 278 | 골: 132 | 도움: 55
+
+29
+00:03:00,200 --> 00:03:06,800
+Cliff Bastin (England) - Arsenal FC
+출전: 266 | 골: 151
+
+30
+00:03:06,800 --> 00:03:13,400
+Ian Wright (England) - Arsenal FC
+출전: 288 | 골: 185 | 도움: 31
+
+31
+00:03:13,400 --> 00:03:20,000
+Thierry Henry (France) - Arsenal FC
+출전: 377 | 골: 228 | 도움: 96
+

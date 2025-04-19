@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSMS Medan أفضل الهدافين عبر التاريخ
+
+2
+00:00:02,000 --> 00:00:08,600
+José Valencia (Colombia) - PSMS Medan
+الظهور: 5 | الأهداف: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Alexandros Tanidis (Greece) - PSMS Medan
+الظهور: 15 | الأهداف: 2 | التمريرات الحاسمة: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Fiwi Dwipan (Indonesia) - PSMS Medan
+الظهور: 12 | الأهداف: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Ari Supriatna (Indonesia) - PSMS Medan
+الظهور: 16 | الأهداف: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Matheus Souza (Brazil) - PSMS Medan
+الظهور: 6 | الأهداف: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Eki Saputra (Indonesia) - PSMS Medan
+الظهور: 7 | الأهداف: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Denny Rumba (Indonesia) - PSMS Medan
+الظهور: 19 | الأهداف: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Fardan Harahap (Indonesia) - PSMS Medan
+الظهور: 16 | الأهداف: 3 | التمريرات الحاسمة: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Ikhsan Chan (Indonesia) - PSMS Medan
+الظهور: 39 | الأهداف: 3 | التمريرات الحاسمة: 5
+
+11
+00:01:01,400 --> 00:01:08,000
+Reinaldo Lobo (Brazil) - PSMS Medan
+الظهور: 29 | الأهداف: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Ichsan Pratama (Indonesia) - PSMS Medan
+الظهور: 35 | الأهداف: 3 | التمريرات الحاسمة: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Rafi Angga (Indonesia) - PSMS Medan
+الظهور: 10 | الأهداف: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Antoni Nugroho (Indonesia) - PSMS Medan
+الظهور: 28 | الأهداف: 3 | التمريرات الحاسمة: 3
+
+15
+00:01:27,800 --> 00:01:34,400
+Wahyu Illahi (Indonesia) - PSMS Medan
+الظهور: 28 | الأهداف: 3 | التمريرات الحاسمة: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Nastja Ceh (Slovenia) - PSMS Medan
+الظهور: 14 | الأهداف: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Kisito Wilfried Yessoh (Cote d'Ivoire) - PSMS Medan
+الظهور: 16 | الأهداف: 3 | التمريرات الحاسمة: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Aidun Utami (Indonesia) - PSMS Medan
+الظهور: 22 | الأهداف: 3 | التمريرات الحاسمة: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Ahmad Ihwan (Indonesia) - PSMS Medan
+الظهور: 4 | الأهداف: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Zulkarnain (Indonesia) - PSMS Medan
+الظهور: 27 | الأهداف: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Luis Alejandro Peña Sanhueza (Chile) - PSMS Medan
+الظهور: 15 | الأهداف: 4
+
+22
+00:02:14,000 --> 00:02:20,600
+Felipe Martins (Brazil) - PSMS Medan
+الظهور: 16 | الأهداف: 4 | التمريرات الحاسمة: 4
+
+23
+00:02:20,600 --> 00:02:27,200
+Legimin Raharjo (Indonesia) - PSMS Medan
+الظهور: 41 | الأهداف: 5 | التمريرات الحاسمة: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Suhandi (Indonesia) - PSMS Medan
+الظهور: 14 | الأهداف: 5 | التمريرات الحاسمة: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Ilham Fathoni (Indonesia) - PSMS Medan
+الظهور: 19 | الأهداف: 6 | التمريرات الحاسمة: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Frets Butuan (Indonesia) - PSMS Medan
+الظهور: 29 | الأهداف: 7 | التمريرات الحاسمة: 8
+
+27
+00:02:47,000 --> 00:02:53,600
+Nico Malau (Indonesia) - PSMS Medan
+الظهور: 36 | الأهداف: 9
+
+28
+00:02:53,600 --> 00:03:00,200
+Shohei Matsunaga (Japan) - PSMS Medan
+الظهور: 15 | الأهداف: 10 | التمريرات الحاسمة: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Juninho Cabral (Brazil) - PSMS Medan
+الظهور: 22 | الأهداف: 15 | التمريرات الحاسمة: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Osas Saha (Indonesia) - PSMS Medan
+الظهور: 32 | الأهداف: 19
+
+31
+00:03:13,400 --> 00:03:20,000
+Rachmad Hidayat (Indonesia) - PSMS Medan
+الظهور: 61 | الأهداف: 21 | التمريرات الحاسمة: 10
+

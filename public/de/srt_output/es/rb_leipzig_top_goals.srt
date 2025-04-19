@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RB Leipzig Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Timo Röttger (Germany) - RB Leipzig
+Partidos: 89 | Goles: 10 | Asistencias: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Bastian Schulz (Germany) - RB Leipzig
+Partidos: 64 | Goles: 11 | Asistencias: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Christian Reimann (Germany) - RB Leipzig
+Partidos: 30 | Goles: 11 | Asistencias: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Angeliño (Spain) - RB Leipzig
+Partidos: 100 | Goles: 11 | Asistencias: 29
+
+6
+00:00:28,400 --> 00:00:35,000
+Lars Müller (Germany) - RB Leipzig
+Partidos: 62 | Goles: 13 | Asistencias: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Thiago Rockenbach (Brazil) - RB Leipzig
+Partidos: 85 | Goles: 14 | Asistencias: 30
+
+8
+00:00:41,600 --> 00:00:48,200
+Jochen Höfler (Germany) - RB Leipzig
+Partidos: 30 | Goles: 14 | Asistencias: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Lukas Klostermann (Germany) - RB Leipzig
+Partidos: 320 | Goles: 14 | Asistencias: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Davie Selke (Germany) - RB Leipzig
+Partidos: 53 | Goles: 14 | Asistencias: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Konrad Laimer (Austria) - RB Leipzig
+Partidos: 190 | Goles: 15 | Asistencias: 19
+
+12
+00:01:08,000 --> 00:01:14,600
+Amadou Haidara (Mali) - RB Leipzig
+Partidos: 217 | Goles: 15 | Asistencias: 10
+
+13
+00:01:14,600 --> 00:01:21,200
+Marcel Halstenberg (Germany) - RB Leipzig
+Partidos: 240 | Goles: 16 | Asistencias: 27
+
+14
+00:01:21,200 --> 00:01:27,800
+Naby Keïta (Guinea) - RB Leipzig
+Partidos: 71 | Goles: 17 | Asistencias: 14
+
+15
+00:01:27,800 --> 00:01:34,400
+Xavi Simons (Netherlands) - RB Leipzig
+Partidos: 70 | Goles: 18 | Asistencias: 20
+
+16
+00:01:34,400 --> 00:01:41,000
+Nico Frommer (Germany) - RB Leipzig
+Partidos: 42 | Goles: 19 | Asistencias: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Dominik Szoboszlai (Hungary) - RB Leipzig
+Partidos: 91 | Goles: 20 | Asistencias: 22
+
+18
+00:01:47,600 --> 00:01:54,200
+Jean-Kévin Augustin (France) - RB Leipzig
+Partidos: 67 | Goles: 20 | Asistencias: 8
+
+19
+00:01:54,200 --> 00:02:00,800
+André Silva (Portugal) - RB Leipzig
+Partidos: 110 | Goles: 27 | Asistencias: 20
+
+20
+00:02:00,800 --> 00:02:07,400
+Stefan Kutschke (Germany) - RB Leipzig
+Partidos: 86 | Goles: 27 | Asistencias: 17
+
+21
+00:02:07,400 --> 00:02:14,000
+Dani Olmo (Spain) - RB Leipzig
+Partidos: 148 | Goles: 29 | Asistencias: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Willi Orbán (Hungary) - RB Leipzig
+Partidos: 347 | Goles: 33 | Asistencias: 10
+
+23
+00:02:20,600 --> 00:02:27,200
+Dominik Kaiser (Germany) - RB Leipzig
+Partidos: 167 | Goles: 34 | Asistencias: 35
+
+24
+00:02:27,200 --> 00:02:33,800
+Benjamin Sesko (Slovenia) - RB Leipzig
+Partidos: 80 | Goles: 36 | Asistencias: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Loïs Openda (Belgium) - RB Leipzig
+Partidos: 83 | Goles: 40 | Asistencias: 16
+
+26
+00:02:40,400 --> 00:02:47,000
+Marcel Sabitzer (Austria) - RB Leipzig
+Partidos: 229 | Goles: 52 | Asistencias: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Christopher Nkunku (France) - RB Leipzig
+Partidos: 172 | Goles: 70 | Asistencias: 47
+
+28
+00:02:53,600 --> 00:03:00,200
+Emil Forsberg (Sweden) - RB Leipzig
+Partidos: 325 | Goles: 71 | Asistencias: 68
+
+29
+00:03:00,200 --> 00:03:06,800
+Daniel Frahn (Germany) - RB Leipzig
+Partidos: 154 | Goles: 87 | Asistencias: 34
+
+30
+00:03:06,800 --> 00:03:13,400
+Yussuf Poulsen (Denmark) - RB Leipzig
+Partidos: 419 | Goles: 93 | Asistencias: 60
+
+31
+00:03:13,400 --> 00:03:20,000
+Timo Werner (Germany) - RB Leipzig
+Partidos: 213 | Goles: 113 | Asistencias: 47
+

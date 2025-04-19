@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSM Makassar Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Daisuke Sakai (Japan) - PSM Makassar
+Penampilan: 27 | Gol: 4 | Asis: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Saldi (Indonesia) - PSM Makassar
+Penampilan: 44 | Gol: 4 | Asis: 5
+
+4
+00:00:15,200 --> 00:00:21,800
+Titus Bonai (Indonesia) - PSM Makassar
+Penampilan: 22 | Gol: 4 | Asis: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Giancarlo (Brazil) - PSM Makassar
+Penampilan: 7 | Gol: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Sandro (Hongkong) - PSM Makassar
+Penampilan: 11 | Gol: 4 | Asis: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Ponaryo Astaman (Indonesia) - PSM Makassar
+Penampilan: 13 | Gol: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Aaron Evans (Australia) - PSM Makassar
+Penampilan: 47 | Gol: 5 | Asis: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Anco Jansen (Netherlands) - PSM Makassar
+Penampilan: 20 | Gol: 5 | Asis: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Hamka Hamzah (Indonesia) - PSM Makassar
+Penampilan: 30 | Gol: 5 | Asis: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Rizky Eka Pratama (Indonesia) - PSM Makassar
+Penampilan: 166 | Gol: 5 | Asis: 15
+
+12
+00:01:08,000 --> 00:01:14,600
+Aloísio Neto (Brazil) - PSM Makassar
+Penampilan: 34 | Gol: 5 | Asis: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Amido Baldé (Guinea-Bissau) - PSM Makassar
+Penampilan: 14 | Gol: 6 | Asis: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Yance Sayuri (Indonesia) - PSM Makassar
+Penampilan: 94 | Gol: 7 | Asis: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Rasyid Bakri (Indonesia) - PSM Makassar
+Penampilan: 169 | Gol: 8 | Asis: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Reinaldo (Brazil) - PSM Makassar
+Penampilan: 17 | Gol: 9 | Asis: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Adilson Silva (Portugal) - PSM Makassar
+Penampilan: 54 | Gol: 11 | Asis: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Eero Markkanen (Finland) - PSM Makassar
+Penampilan: 21 | Gol: 11 | Asis: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Ramadhan Sananta (Indonesia) - PSM Makassar
+Penampilan: 28 | Gol: 11 | Asis: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Guy Junior (Indonesia) - PSM Makassar
+Penampilan: 54 | Gol: 13 | Asis: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Everton (Brazil) - PSM Makassar
+Penampilan: 61 | Gol: 14 | Asis: 8
+
+22
+00:02:14,000 --> 00:02:20,600
+Nermin Haljeta (Slovenia) - PSM Makassar
+Penampilan: 31 | Gol: 14 | Asis: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Yuran Fernandes (Cape Verde) - PSM Makassar
+Penampilan: 102 | Gol: 15 | Asis: 8
+
+24
+00:02:27,200 --> 00:02:33,800
+Rizky Pellu (Indonesia) - PSM Makassar
+Penampilan: 121 | Gol: 16 | Asis: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Marc Klok (Indonesia) - PSM Makassar
+Penampilan: 102 | Gol: 17 | Asis: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Rahmat (Indonesia) - PSM Makassar
+Penampilan: 124 | Gol: 22 | Asis: 15
+
+27
+00:02:47,000 --> 00:02:53,600
+Kenzo Nambu (Japan) - PSM Makassar
+Penampilan: 74 | Gol: 23 | Asis: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Yakob Sayuri (Indonesia) - PSM Makassar
+Penampilan: 105 | Gol: 25 | Asis: 16
+
+29
+00:03:00,200 --> 00:03:06,800
+Zulham Zamrun (Indonesia) - PSM Makassar
+Penampilan: 75 | Gol: 25 | Asis: 10
+
+30
+00:03:06,800 --> 00:03:13,400
+Wiljan Pluim (Netherlands) - PSM Makassar
+Penampilan: 178 | Gol: 47 | Asis: 51
+
+31
+00:03:13,400 --> 00:03:20,000
+Ferdinan Sinaga (Indonesia) - PSM Makassar
+Penampilan: 126 | Gol: 47 | Asis: 9
+

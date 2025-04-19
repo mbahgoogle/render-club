@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persijap Jepara Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Alvin Nur Rizqi (Indonesia) - Persijap Jepara
+Apparitions: 5 | Buts: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Léo Lelis (Brazil) - Persijap Jepara
+Apparitions: 6 | Buts: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Alan Sabilah (Indonesia) - Persijap Jepara
+Apparitions: 3 | Buts: 1 | Passes décisives: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Busari (Indonesia) - Persijap Jepara
+Apparitions: 7 | Buts: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Carlos Raúl Sciucatti (Argentina) - Persijap Jepara
+Apparitions: 8 | Buts: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Ahmad Nufiandani (Indonesia) - Persijap Jepara
+Apparitions: 12 | Buts: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Haru Nakagaki (Japan) - Persijap Jepara
+Apparitions: 9 | Buts: 1 | Passes décisives: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Diva Tarkas (Indonesia) - Persijap Jepara
+Apparitions: 2 | Buts: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Rachmat Rivai (Indonesia) - Persijap Jepara
+Apparitions: 8 | Buts: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Faldi Tama (Indonesia) - Persijap Jepara
+Apparitions: 10 | Buts: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Elias (Brazil) - Persijap Jepara
+Apparitions: 12 | Buts: 1 | Passes décisives: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Fahmi Al-Ayyubi (Indonesia) - Persijap Jepara
+Apparitions: 7 | Buts: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Bhima Wibnu (Indonesia) - Persijap Jepara
+Apparitions: 17 | Buts: 2 | Passes décisives: 3
+
+15
+00:01:27,800 --> 00:01:34,400
+Noor Hadi (Indonesia) - Persijap Jepara
+Apparitions: 9 | Buts: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Crah Angger (Indonesia) - Persijap Jepara
+Apparitions: 9 | Buts: 2 | Passes décisives: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+David Laly (Indonesia) - Persijap Jepara
+Apparitions: 19 | Buts: 2 | Passes décisives: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Rendy Setiawan (Indonesia) - Persijap Jepara
+Apparitions: 8 | Buts: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Danial (Indonesia) - Persijap Jepara
+Apparitions: 9 | Buts: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Ardi Ardiana (Indonesia) - Persijap Jepara
+Apparitions: 14 | Buts: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Claudinho (Brazil) - Persijap Jepara
+Apparitions: 10 | Buts: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Safna Delpi (Indonesia) - Persijap Jepara
+Apparitions: 14 | Buts: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Kervens Belfort (Haiti) - Persijap Jepara
+Apparitions: 9 | Buts: 3 | Passes décisives: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Fikron Afriyanto (Indonesia) - Persijap Jepara
+Apparitions: 43 | Buts: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Ricki Ariansyah (Indonesia) - Persijap Jepara
+Apparitions: 9 | Buts: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Iqmal Samsu (Indonesia) - Persijap Jepara
+Apparitions: 26 | Buts: 5 | Passes décisives: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Prince Kallon (Indonesia) - Persijap Jepara
+Apparitions: 29 | Buts: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Qischil Gandrum (Indonesia) - Persijap Jepara
+Apparitions: 23 | Buts: 5
+
+29
+00:03:00,200 --> 00:03:06,800
+Rizki Hidayat (Indonesia) - Persijap Jepara
+Apparitions: 42 | Buts: 5 | Passes décisives: 8
+
+30
+00:03:06,800 --> 00:03:13,400
+Indra Arya (Indonesia) - Persijap Jepara
+Apparitions: 47 | Buts: 7 | Passes décisives: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Rosalvo (Brazil) - Persijap Jepara
+Apparitions: 22 | Buts: 10 | Passes décisives: 1
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Augsburg सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Gerhard Niklasch (Germany) - FC Augsburg
+प्रदर्शन: 256 | गोल: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Elton da Costa (Brazil) - FC Augsburg
+प्रदर्शन: 128 | गोल: 24 | असिस्ट: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Nando Rafael (Angola) - FC Augsburg
+प्रदर्शन: 48 | गोल: 25 | असिस्ट: 6
+
+5
+00:00:21,800 --> 00:00:28,400
+Dieter Eckstein (Germany) - FC Augsburg
+प्रदर्शन: 49 | गोल: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Franz Becker (Germany) - FC Augsburg
+प्रदर्शन: 86 | गोल: 26
+
+7
+00:00:35,000 --> 00:00:41,600
+Mark Römer (Germany) - FC Augsburg
+प्रदर्शन: 55 | गोल: 27
+
+8
+00:00:41,600 --> 00:00:48,200
+Joseph Babatunde (Nigeria) - FC Augsburg
+प्रदर्शन: 66 | गोल: 27
+
+9
+00:00:48,200 --> 00:00:54,800
+Raúl Bobadilla (Paraguay) - FC Augsburg
+प्रदर्शन: 105 | गोल: 29 | असिस्ट: 10
+
+10
+00:00:54,800 --> 00:01:01,400
+Klaus Vöhringer (Germany) - FC Augsburg
+प्रदर्शन: 105 | गोल: 29
+
+11
+00:01:01,400 --> 00:01:08,000
+Florian Niederlechner (Germany) - FC Augsburg
+प्रदर्शन: 107 | गोल: 30 | असिस्ट: 21
+
+12
+00:01:08,000 --> 00:01:14,600
+Vladimir Manislavić (Serbia) - FC Augsburg
+प्रदर्शन: 65 | गोल: 30 | असिस्ट: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Otmar Maurus (Germany) - FC Augsburg
+प्रदर्शन: 101 | गोल: 31
+
+14
+00:01:21,200 --> 00:01:27,800
+Michael Gregoritsch (Austria) - FC Augsburg
+प्रदर्शन: 129 | गोल: 31 | असिस्ट: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Gert Fröhlich (Germany) - FC Augsburg
+प्रदर्शन: 56 | गोल: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Willi Hoffmann (Germany) - FC Augsburg
+प्रदर्शन: 97 | गोल: 32 | असिस्ट: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Christian Okpala (Nigeria) - FC Augsburg
+प्रदर्शन: 67 | गोल: 34
+
+18
+00:01:47,600 --> 00:01:54,200
+Mikheil Sajaia (Georgia) - FC Augsburg
+प्रदर्शन: 96 | गोल: 34
+
+19
+00:01:54,200 --> 00:02:00,800
+André Hahn (Germany) - FC Augsburg
+प्रदर्शन: 171 | गोल: 36 | असिस्ट: 31
+
+20
+00:02:00,800 --> 00:02:07,400
+Tobias Werner (Germany) - FC Augsburg
+प्रदर्शन: 208 | गोल: 38 | असिस्ट: 38
+
+21
+00:02:07,400 --> 00:02:14,000
+Alfred Finnbogason (Iceland) - FC Augsburg
+प्रदर्शन: 122 | गोल: 39 | असिस्ट: 14
+
+22
+00:02:14,000 --> 00:02:20,600
+Gerhard Müller (Germany) - FC Augsburg
+प्रदर्शन: 182 | गोल: 40
+
+23
+00:02:20,600 --> 00:02:27,200
+Helmut Haller (Germany) - FC Augsburg
+प्रदर्शन: 157 | गोल: 40
+
+24
+00:02:27,200 --> 00:02:33,800
+Georg Beichle (Germany) - FC Augsburg
+प्रदर्शन: 114 | गोल: 43
+
+25
+00:02:33,800 --> 00:02:40,400
+Ludwig Schlump (Germany) - FC Augsburg
+प्रदर्शन: 182 | गोल: 46
+
+26
+00:02:40,400 --> 00:02:47,000
+Michael Thurk (Germany) - FC Augsburg
+प्रदर्शन: 114 | गोल: 56 | असिस्ट: 18
+
+27
+00:02:47,000 --> 00:02:53,600
+Hans Jörg (Germany) - FC Augsburg
+प्रदर्शन: 207 | गोल: 58 | असिस्ट: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Christian Radlmaier (Germany) - FC Augsburg
+प्रदर्शन: 117 | गोल: 62
+
+29
+00:03:00,200 --> 00:03:06,800
+Ludwig Schuller (Germany) - FC Augsburg
+प्रदर्शन: 139 | गोल: 71
+
+30
+00:03:06,800 --> 00:03:13,400
+Georg Platzer (Germany) - FC Augsburg
+प्रदर्शन: 204 | गोल: 87
+
+31
+00:03:13,400 --> 00:03:20,000
+Ulrich Biesinger (Germany) - FC Augsburg
+प्रदर्शन: 223 | गोल: 121
+

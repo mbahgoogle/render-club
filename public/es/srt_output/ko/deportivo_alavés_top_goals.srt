@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Deportivo Alavés 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Óscar Martínez (Spain) - Deportivo Alavés
+출전: 51 | 골: 13 | 도움: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Quique de Lucas (Spain) - Deportivo Alavés
+출전: 107 | 골: 13
+
+4
+00:00:15,200 --> 00:00:21,800
+Munir El Haddadi (Morocco) - Deportivo Alavés
+출전: 37 | 골: 14 | 도움: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Baltasar Albéniz (Spain) - Deportivo Alavés
+출전: 36 | 골: 14
+
+6
+00:00:28,400 --> 00:00:35,000
+Primi (Spain) - Deportivo Alavés
+출전: 59 | 골: 15
+
+7
+00:00:35,000 --> 00:00:41,600
+Edgar Méndez (Spain) - Deportivo Alavés
+출전: 118 | 골: 15 | 도움: 3
+
+8
+00:00:41,600 --> 00:00:48,200
+Lucas Pérez (Spain) - Deportivo Alavés
+출전: 62 | 골: 15 | 도움: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+John Aloisi (Australia) - Deportivo Alavés
+출전: 59 | 골: 16
+
+10
+00:00:54,800 --> 00:01:01,400
+Kike García (Spain) - Deportivo Alavés
+출전: 63 | 골: 16 | 도움: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Sendoa Agirre (Spain) - Deportivo Alavés
+출전: 72 | 골: 17 | 도움: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Ibai Gómez (Spain) - Deportivo Alavés
+출전: 92 | 골: 17 | 도움: 11
+
+13
+00:01:14,600 --> 00:01:21,200
+Wilson Jones (Spain) - Deportivo Alavés
+출전: 22 | 골: 17
+
+14
+00:01:21,200 --> 00:01:27,800
+Miguel Echaniz (Spain) - Deportivo Alavés
+출전: 59 | 골: 18
+
+15
+00:01:27,800 --> 00:01:34,400
+Manu Barreiro (Spain) - Deportivo Alavés
+출전: 70 | 골: 18 | 도움: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Martín Astudillo (Argentina) - Deportivo Alavés
+출전: 308 | 골: 19 | 도움: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Manu García (Spain) - Deportivo Alavés
+출전: 308 | 골: 19 | 도움: 12
+
+18
+00:01:47,600 --> 00:01:54,200
+Nenê (Brazil) - Deportivo Alavés
+출전: 78 | 골: 20
+
+19
+00:01:54,200 --> 00:02:00,800
+Iván Alonso (Uruguay) - Deportivo Alavés
+출전: 122 | 골: 21 | 도움: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Magno (Brazil) - Deportivo Alavés
+출전: 181 | 골: 22 | 도움: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Geni (Spain) - Deportivo Alavés
+출전: 110 | 골: 22 | 도움: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Luis Rioja (Spain) - Deportivo Alavés
+출전: 189 | 골: 22 | 도움: 17
+
+23
+00:02:20,600 --> 00:02:27,200
+Pablo Gómez (Spain) - Deportivo Alavés
+출전: 229 | 골: 22 | 도움: 9
+
+24
+00:02:27,200 --> 00:02:33,800
+Jito (Spain) - Deportivo Alavés
+출전: 65 | 골: 23
+
+25
+00:02:33,800 --> 00:02:40,400
+Rodolfo Bodipo (Equatorial Guinea) - Deportivo Alavés
+출전: 74 | 골: 23
+
+26
+00:02:40,400 --> 00:02:47,000
+Manuel Serrano (Spain) - Deportivo Alavés
+출전: 61 | 골: 24
+
+27
+00:02:47,000 --> 00:02:53,600
+Vicente Echeandía (Spain) - Deportivo Alavés
+출전: 72 | 골: 24
+
+28
+00:02:53,600 --> 00:03:00,200
+Joselu (Spain) - Deportivo Alavés
+출전: 113 | 골: 36 | 도움: 11
+
+29
+00:03:00,200 --> 00:03:06,800
+Javi Moreno (Spain) - Deportivo Alavés
+출전: 86 | 골: 36 | 도움: 6
+
+30
+00:03:06,800 --> 00:03:13,400
+Rubén Navarro (Spain) - Deportivo Alavés
+출전: 166 | 골: 43 | 도움: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Borja Viguera (Spain) - Deportivo Alavés
+출전: 86 | 골: 46 | 도움: 7
+

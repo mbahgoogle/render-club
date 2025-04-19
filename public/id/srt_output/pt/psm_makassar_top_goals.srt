@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSM Makassar Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Daisuke Sakai (Japan) - PSM Makassar
+Partidas: 27 | Gols: 4 | Assistências: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Saldi (Indonesia) - PSM Makassar
+Partidas: 44 | Gols: 4 | Assistências: 5
+
+4
+00:00:15,200 --> 00:00:21,800
+Titus Bonai (Indonesia) - PSM Makassar
+Partidas: 22 | Gols: 4 | Assistências: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Giancarlo (Brazil) - PSM Makassar
+Partidas: 7 | Gols: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Sandro (Hongkong) - PSM Makassar
+Partidas: 11 | Gols: 4 | Assistências: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Ponaryo Astaman (Indonesia) - PSM Makassar
+Partidas: 13 | Gols: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Aaron Evans (Australia) - PSM Makassar
+Partidas: 47 | Gols: 5 | Assistências: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Anco Jansen (Netherlands) - PSM Makassar
+Partidas: 20 | Gols: 5 | Assistências: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Hamka Hamzah (Indonesia) - PSM Makassar
+Partidas: 30 | Gols: 5 | Assistências: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Rizky Eka Pratama (Indonesia) - PSM Makassar
+Partidas: 166 | Gols: 5 | Assistências: 15
+
+12
+00:01:08,000 --> 00:01:14,600
+Aloísio Neto (Brazil) - PSM Makassar
+Partidas: 34 | Gols: 5 | Assistências: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Amido Baldé (Guinea-Bissau) - PSM Makassar
+Partidas: 14 | Gols: 6 | Assistências: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Yance Sayuri (Indonesia) - PSM Makassar
+Partidas: 94 | Gols: 7 | Assistências: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Rasyid Bakri (Indonesia) - PSM Makassar
+Partidas: 169 | Gols: 8 | Assistências: 11
+
+16
+00:01:34,400 --> 00:01:41,000
+Reinaldo (Brazil) - PSM Makassar
+Partidas: 17 | Gols: 9 | Assistências: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Adilson Silva (Portugal) - PSM Makassar
+Partidas: 54 | Gols: 11 | Assistências: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Eero Markkanen (Finland) - PSM Makassar
+Partidas: 21 | Gols: 11 | Assistências: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Ramadhan Sananta (Indonesia) - PSM Makassar
+Partidas: 28 | Gols: 11 | Assistências: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Guy Junior (Indonesia) - PSM Makassar
+Partidas: 54 | Gols: 13 | Assistências: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Everton (Brazil) - PSM Makassar
+Partidas: 61 | Gols: 14 | Assistências: 8
+
+22
+00:02:14,000 --> 00:02:20,600
+Nermin Haljeta (Slovenia) - PSM Makassar
+Partidas: 31 | Gols: 14 | Assistências: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Yuran Fernandes (Cape Verde) - PSM Makassar
+Partidas: 102 | Gols: 15 | Assistências: 8
+
+24
+00:02:27,200 --> 00:02:33,800
+Rizky Pellu (Indonesia) - PSM Makassar
+Partidas: 121 | Gols: 16 | Assistências: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Marc Klok (Indonesia) - PSM Makassar
+Partidas: 102 | Gols: 17 | Assistências: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Rahmat (Indonesia) - PSM Makassar
+Partidas: 124 | Gols: 22 | Assistências: 15
+
+27
+00:02:47,000 --> 00:02:53,600
+Kenzo Nambu (Japan) - PSM Makassar
+Partidas: 74 | Gols: 23 | Assistências: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Yakob Sayuri (Indonesia) - PSM Makassar
+Partidas: 105 | Gols: 25 | Assistências: 16
+
+29
+00:03:00,200 --> 00:03:06,800
+Zulham Zamrun (Indonesia) - PSM Makassar
+Partidas: 75 | Gols: 25 | Assistências: 10
+
+30
+00:03:06,800 --> 00:03:13,400
+Wiljan Pluim (Netherlands) - PSM Makassar
+Partidas: 178 | Gols: 47 | Assistências: 51
+
+31
+00:03:13,400 --> 00:03:20,000
+Ferdinan Sinaga (Indonesia) - PSM Makassar
+Partidas: 126 | Gols: 47 | Assistências: 9
+

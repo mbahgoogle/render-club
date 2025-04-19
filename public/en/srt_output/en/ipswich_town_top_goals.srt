@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Ipswich Town All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Jean-Michel d'Avray (South Africa) - Ipswich Town
+Appearances: 151 | Goals: 29 | Assists: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Kevin Beattie (England) - Ipswich Town
+Appearances: 290 | Goals: 31 | Assists: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Shefki Kuqi (Finland) - Ipswich Town
+Appearances: 89 | Goals: 32 | Assists: 6
+
+5
+00:00:21,800 --> 00:00:28,400
+Jonathan Walters (Ireland) - Ipswich Town
+Appearances: 149 | Goals: 32 | Assists: 25
+
+6
+00:00:28,400 --> 00:00:35,000
+Freddie Sears (England) - Ipswich Town
+Appearances: 217 | Goals: 34 | Assists: 25
+
+7
+00:00:35,000 --> 00:00:41,600
+Marcus Stewart (England) - Ipswich Town
+Appearances: 89 | Goals: 34 | Assists: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Alan Lee (Ireland) - Ipswich Town
+Appearances: 110 | Goals: 34 | Assists: 16
+
+9
+00:00:48,200 --> 00:00:54,800
+Alex Mathie (Scotland) - Ipswich Town
+Appearances: 97 | Goals: 36 | Assists: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Doug Moran (Scotland) - Ipswich Town
+Appearances: 119 | Goals: 37 | Assists: 6
+
+11
+00:01:01,400 --> 00:01:08,000
+Colin Viljoen (England) - Ipswich Town
+Appearances: 307 | Goals: 38 | Assists: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Richard Naylor (England) - Ipswich Town
+Appearances: 362 | Goals: 39 | Assists: 6
+
+13
+00:01:14,600 --> 00:01:21,200
+Matt Holland (Ireland) - Ipswich Town
+Appearances: 300 | Goals: 39 | Assists: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Mick Lambert (England) - Ipswich Town
+Appearances: 247 | Goals: 39 | Assists: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+David Johnson (England) - Ipswich Town
+Appearances: 171 | Goals: 44
+
+16
+00:01:34,400 --> 00:01:41,000
+David McGoldrick (Ireland) - Ipswich Town
+Appearances: 159 | Goals: 45 | Assists: 25
+
+17
+00:01:41,000 --> 00:01:47,600
+Tommy Miller (England) - Ipswich Town
+Appearances: 211 | Goals: 46 | Assists: 9
+
+18
+00:01:47,600 --> 00:01:54,200
+James Scowcroft (England) - Ipswich Town
+Appearances: 223 | Goals: 52 | Assists: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Bryan Hamilton (Northern Ireland) - Ipswich Town
+Appearances: 188 | Goals: 53 | Assists: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Conor Chaplin (England) - Ipswich Town
+Appearances: 162 | Goals: 55 | Assists: 18
+
+21
+00:02:07,400 --> 00:02:14,000
+Darren Bent (England) - Ipswich Town
+Appearances: 140 | Goals: 56 | Assists: 15
+
+22
+00:02:14,000 --> 00:02:20,600
+David Johnson (Jamaica) - Ipswich Town
+Appearances: 146 | Goals: 60
+
+23
+00:02:20,600 --> 00:02:27,200
+Ted Phillips (England) - Ipswich Town
+Appearances: 121 | Goals: 61 | Assists: 5
+
+24
+00:02:27,200 --> 00:02:33,800
+Pablo Couñago (Spain) - Ipswich Town
+Appearances: 241 | Goals: 62 | Assists: 20
+
+25
+00:02:33,800 --> 00:02:40,400
+Daryl Murphy (Ireland) - Ipswich Town
+Appearances: 225 | Goals: 67 | Assists: 32
+
+26
+00:02:40,400 --> 00:02:47,000
+Alan Brazil (Scotland) - Ipswich Town
+Appearances: 209 | Goals: 80 | Assists: 26
+
+27
+00:02:47,000 --> 00:02:53,600
+Eric Gates (England) - Ipswich Town
+Appearances: 380 | Goals: 94 | Assists: 37
+
+28
+00:02:53,600 --> 00:03:00,200
+Trevor Whymark (England) - Ipswich Town
+Appearances: 317 | Goals: 95 | Assists: 6
+
+29
+00:03:00,200 --> 00:03:06,800
+Ray Crawford (England) - Ipswich Town
+Appearances: 148 | Goals: 100 | Assists: 14
+
+30
+00:03:06,800 --> 00:03:13,400
+Paul Mariner (England) - Ipswich Town
+Appearances: 333 | Goals: 132 | Assists: 25
+
+31
+00:03:13,400 --> 00:03:20,000
+John Wark (Scotland) - Ipswich Town
+Appearances: 529 | Goals: 154 | Assists: 19
+

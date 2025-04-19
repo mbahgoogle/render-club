@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+FC Barcelona Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Ángel Arocha (Spain) - FC Barcelona
+Partidos: 92 | Goles: 81
+
+3
+00:00:08,600 --> 00:00:15,200
+Sándor Kocsis (Hungary) - FC Barcelona
+Partidos: 126 | Goles: 82 | Asistencias: 7
+
+4
+00:00:15,200 --> 00:00:21,800
+Xavi (Spain) - FC Barcelona
+Partidos: 767 | Goles: 85 | Asistencias: 184
+
+5
+00:00:21,800 --> 00:00:28,400
+Julio Salinas (Spain) - FC Barcelona
+Partidos: 215 | Goles: 85 | Asistencias: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Josep Samitier (Spain) - FC Barcelona
+Partidos: 103 | Goles: 86
+
+7
+00:00:35,000 --> 00:00:41,600
+Ronald Koeman (Netherlands) - FC Barcelona
+Partidos: 264 | Goles: 88 | Asistencias: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Bernd Schuster (Germany) - FC Barcelona
+Partidos: 241 | Goles: 89 | Asistencias: 10
+
+9
+00:00:48,200 --> 00:00:54,800
+Justo Tejada (Spain) - FC Barcelona
+Partidos: 194 | Goles: 92 | Asistencias: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+José Mari Bakero (Spain) - FC Barcelona
+Partidos: 347 | Goles: 94 | Asistencias: 13
+
+11
+00:01:01,400 --> 00:01:08,000
+Ronaldinho (Brazil) - FC Barcelona
+Partidos: 207 | Goles: 94 | Asistencias: 69
+
+12
+00:01:08,000 --> 00:01:14,600
+Robert Lewandowski (Poland) - FC Barcelona
+Partidos: 138 | Goles: 97 | Asistencias: 20
+
+13
+00:01:14,600 --> 00:01:21,200
+Pedro (Spain) - FC Barcelona
+Partidos: 321 | Goles: 99 | Asistencias: 61
+
+14
+00:01:21,200 --> 00:01:27,800
+Juan Manuel Asensi (Spain) - FC Barcelona
+Partidos: 396 | Goles: 101 | Asistencias: 9
+
+15
+00:01:27,800 --> 00:01:34,400
+Neymar (Brazil) - FC Barcelona
+Partidos: 186 | Goles: 105 | Asistencias: 76
+
+16
+00:01:34,400 --> 00:01:41,000
+Evaristo de Macedo (Brazil) - FC Barcelona
+Partidos: 151 | Goles: 105 | Asistencias: 8
+
+17
+00:01:41,000 --> 00:01:47,600
+Eulogio Martínez (Spain) - FC Barcelona
+Partidos: 162 | Goles: 105 | Asistencias: 11
+
+18
+00:01:47,600 --> 00:01:54,200
+José Zaldúa (Spain) - FC Barcelona
+Partidos: 215 | Goles: 106
+
+19
+00:01:54,200 --> 00:02:00,800
+Luis Enrique (Spain) - FC Barcelona
+Partidos: 300 | Goles: 108 | Asistencias: 40
+
+20
+00:02:00,800 --> 00:02:07,400
+Estanislao Basora (Spain) - FC Barcelona
+Partidos: 296 | Goles: 110 | Asistencias: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Hristo Stoichkov (Bulgaria) - FC Barcelona
+Partidos: 255 | Goles: 117 | Asistencias: 29
+
+22
+00:02:14,000 --> 00:02:20,600
+Josep Escolà (Spain) - FC Barcelona
+Partidos: 191 | Goles: 120
+
+23
+00:02:20,600 --> 00:02:27,200
+Patrick Kluivert (Netherlands) - FC Barcelona
+Partidos: 257 | Goles: 122 | Asistencias: 60
+
+24
+00:02:27,200 --> 00:02:33,800
+Carles Rexach (Spain) - FC Barcelona
+Partidos: 449 | Goles: 122 | Asistencias: 22
+
+25
+00:02:33,800 --> 00:02:40,400
+Mariano Martín (Spain) - FC Barcelona
+Partidos: 144 | Goles: 129
+
+26
+00:02:40,400 --> 00:02:47,000
+Rivaldo (Brazil) - FC Barcelona
+Partidos: 235 | Goles: 130 | Asistencias: 46
+
+27
+00:02:47,000 --> 00:02:53,600
+Samuel Eto'o (Cameroon) - FC Barcelona
+Partidos: 199 | Goles: 130 | Asistencias: 34
+
+28
+00:02:53,600 --> 00:03:00,200
+László Kubala (Hungary) - FC Barcelona
+Partidos: 254 | Goles: 193 | Asistencias: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Luis Suárez (Uruguay) - FC Barcelona
+Partidos: 283 | Goles: 195 | Asistencias: 113
+
+30
+00:03:06,800 --> 00:03:13,400
+César Rodríguez (Spain) - FC Barcelona
+Partidos: 344 | Goles: 226 | Asistencias: 2
+
+31
+00:03:13,400 --> 00:03:20,000
+Lionel Messi (Argentina) - FC Barcelona
+Partidos: 778 | Goles: 672 | Asistencias: 303
+

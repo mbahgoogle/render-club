@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AS Saint-Étienne 历史最佳射手榜
+
+2
+00:00:02,000 --> 00:00:08,600
+Antoine Cuissard (France) - AS Saint-Étienne
+出场数: 147 | 进球: 37
+
+3
+00:00:08,600 --> 00:00:15,200
+Alex Dias (Brazil) - AS Saint-Étienne
+出场数: 91 | 进球: 37 | 助攻: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Jacques Zimako (France) - AS Saint-Étienne
+出场数: 152 | 进球: 38 | 助攻: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Pascal Feindouno (Guinea) - AS Saint-Étienne
+出场数: 150 | 进球: 38 | 助攻: 19
+
+6
+00:00:28,400 --> 00:00:35,000
+Philippe Tibeuf (France) - AS Saint-Étienne
+出场数: 128 | 进球: 39
+
+7
+00:00:35,000 --> 00:00:41,600
+Pierre-Emerick Aubameyang (Gabon) - AS Saint-Étienne
+出场数: 97 | 进球: 41 | 助攻: 18
+
+8
+00:00:41,600 --> 00:00:48,200
+René Ferrier (France) - AS Saint-Étienne
+出场数: 283 | 进球: 41
+
+9
+00:00:48,200 --> 00:00:54,800
+René Domingo (France) - AS Saint-Étienne
+出场数: 493 | 进球: 42
+
+10
+00:00:54,800 --> 00:01:01,400
+Étienne Mendy (France) - AS Saint-Étienne
+出场数: 158 | 进球: 42 | 助攻: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Bafétimbi Gomis (France) - AS Saint-Étienne
+出场数: 165 | 进球: 49 | 助攻: 14
+
+12
+00:01:08,000 --> 00:01:14,600
+Jean-François Larios (France) - AS Saint-Étienne
+出场数: 216 | 进球: 49 | 助攻: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Laurent Roussey (France) - AS Saint-Étienne
+出场数: 145 | 进球: 50
+
+14
+00:01:21,200 --> 00:01:27,800
+André Guy (France) - AS Saint-Étienne
+出场数: 77 | 进球: 52
+
+15
+00:01:27,800 --> 00:01:34,400
+Jacques Santini (France) - AS Saint-Étienne
+出场数: 343 | 进球: 54
+
+16
+00:01:34,400 --> 00:01:41,000
+Kees Rijvers (Netherlands) - AS Saint-Étienne
+出场数: 225 | 进球: 55
+
+17
+00:01:41,000 --> 00:01:47,600
+Dominique Rocheteau (France) - AS Saint-Étienne
+出场数: 199 | 进球: 56
+
+18
+00:01:47,600 --> 00:01:54,200
+Ginès Liron (France) - AS Saint-Étienne
+出场数: 113 | 进球: 58
+
+19
+00:01:54,200 --> 00:02:00,800
+Johnny Rep (Netherlands) - AS Saint-Étienne
+出场数: 176 | 进球: 60 | 助攻: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Romain Hamouma (France) - AS Saint-Étienne
+出场数: 321 | 进球: 62 | 助攻: 48
+
+21
+00:02:07,400 --> 00:02:14,000
+René Alpsteg (France) - AS Saint-Étienne
+出场数: 209 | 进球: 62
+
+22
+00:02:14,000 --> 00:02:20,600
+Jacques Foix (France) - AS Saint-Étienne
+出场数: 149 | 进球: 63
+
+23
+00:02:20,600 --> 00:02:27,200
+Georges Bereta (France) - AS Saint-Étienne
+出场数: 358 | 进球: 71
+
+24
+00:02:27,200 --> 00:02:33,800
+Michel Platini (France) - AS Saint-Étienne
+出场数: 145 | 进球: 83 | 助攻: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Robert Herbin (France) - AS Saint-Étienne
+出场数: 464 | 进球: 84
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrick Revelli (France) - AS Saint-Étienne
+出场数: 303 | 进球: 87 | 助攻: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Eugène Njo-Léa (Cameroon) - AS Saint-Étienne
+出场数: 155 | 进球: 91
+
+28
+00:02:53,600 --> 00:03:00,200
+Jean-Michel Larqué (France) - AS Saint-Étienne
+出场数: 416 | 进球: 105
+
+29
+00:03:00,200 --> 00:03:06,800
+Rachid Mekhloufi (Algeria) - AS Saint-Étienne
+出场数: 314 | 进球: 137
+
+30
+00:03:06,800 --> 00:03:13,400
+Salif Keita (Mali) - AS Saint-Étienne
+出场数: 189 | 进球: 142
+
+31
+00:03:13,400 --> 00:03:20,000
+Hervé Revelli (France) - AS Saint-Étienne
+出场数: 414 | 进球: 220
+

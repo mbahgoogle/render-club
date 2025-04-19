@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Reims أفضل الهدافين عبر التاريخ
+
+2
+00:00:02,000 --> 00:00:08,600
+Boulaye Dia (Senegal) - Stade Reims
+الظهور: 88 | الأهداف: 28 | التمريرات الحاسمة: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Djamel Tlemcani (Algeria) - Stade Reims
+الظهور: 63 | الأهداف: 28
+
+4
+00:00:15,200 --> 00:00:21,800
+Michel Hidalgo (France) - Stade Reims
+الظهور: 78 | الأهداف: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+Paul Sauvage (France) - Stade Reims
+الظهور: 121 | الأهداف: 29
+
+6
+00:00:28,400 --> 00:00:35,000
+André Petitfils (France) - Stade Reims
+الظهور: 127 | الأهداف: 30
+
+7
+00:00:35,000 --> 00:00:41,600
+Bernard Lech (France) - Stade Reims
+الظهور: 138 | الأهداف: 31
+
+8
+00:00:41,600 --> 00:00:48,200
+Pierre Bini (France) - Stade Reims
+الظهور: 96 | الأهداف: 31
+
+9
+00:00:48,200 --> 00:00:54,800
+Ivo Basay (Chile) - Stade Reims
+الظهور: 73 | الأهداف: 34
+
+10
+00:00:54,800 --> 00:01:01,400
+Michel Leblond (France) - Stade Reims
+الظهور: 325 | الأهداف: 35
+
+11
+00:01:01,400 --> 00:01:08,000
+Jean-François Charbonnier (France) - Stade Reims
+الظهور: 120 | الأهداف: 35
+
+12
+00:01:08,000 --> 00:01:14,600
+Jean Templin (France) - Stade Reims
+الظهور: 174 | الأهداف: 38
+
+13
+00:01:14,600 --> 00:01:21,200
+Armand Penverne (France) - Stade Reims
+الظهور: 377 | الأهداف: 39
+
+14
+00:01:21,200 --> 00:01:27,800
+Alain Richard (France) - Stade Reims
+الظهور: 206 | الأهداف: 40
+
+15
+00:01:27,800 --> 00:01:34,400
+Pierre Flamion (France) - Stade Reims
+الظهور: 102 | الأهداف: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Delio Onnis (Argentina) - Stade Reims
+الظهور: 76 | الأهداف: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Francis Méano (France) - Stade Reims
+الظهور: 118 | الأهداف: 52
+
+18
+00:01:47,600 --> 00:01:54,200
+Santiago Santamaría (Argentina) - Stade Reims
+الظهور: 170 | الأهداف: 52
+
+19
+00:01:54,200 --> 00:02:00,800
+Francois Calderaro (France) - Stade Reims
+الظهور: 147 | الأهداف: 58
+
+20
+00:02:00,800 --> 00:02:07,400
+Hassan Akesbi (Morocco) - Stade Reims
+الظهور: 94 | الأهداف: 60
+
+21
+00:02:07,400 --> 00:02:14,000
+Jean-Pierre Bertolino (France) - Stade Reims
+الظهور: 220 | الأهداف: 63
+
+22
+00:02:14,000 --> 00:02:20,600
+Pierre Sinibaldi (France) - Stade Reims
+الظهور: 135 | الأهداف: 72
+
+23
+00:02:20,600 --> 00:02:27,200
+Léon Glovacki (France) - Stade Reims
+الظهور: 220 | الأهداف: 85
+
+24
+00:02:27,200 --> 00:02:33,800
+Raymond Kopa (France) - Stade Reims
+الظهور: 400 | الأهداف: 89 | التمريرات الحاسمة: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Cédric Fauré (France) - Stade Reims
+الظهور: 212 | الأهداف: 90 | التمريرات الحاسمة: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Jean Vincent (France) - Stade Reims
+الظهور: 319 | الأهداف: 92
+
+27
+00:02:47,000 --> 00:02:53,600
+Bram Appel (Netherlands) - Stade Reims
+الظهور: 164 | الأهداف: 109
+
+28
+00:02:53,600 --> 00:03:00,200
+René Bliard (France) - Stade Reims
+الظهور: 182 | الأهداف: 117 | التمريرات الحاسمة: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Roger Piantoni (France) - Stade Reims
+الظهور: 198 | الأهداف: 132
+
+30
+00:03:06,800 --> 00:03:13,400
+Carlos Bianchi (Argentina) - Stade Reims
+الظهور: 162 | الأهداف: 139
+
+31
+00:03:13,400 --> 00:03:20,000
+Just Fontaine (France) - Stade Reims
+الظهور: 151 | الأهداف: 145 | التمريرات الحاسمة: 1
+

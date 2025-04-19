@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persela Lamongan 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+José Coelho (Portugal) - Persela Lamongan
+出場数: 32 | ゴール: 4 | アシスト: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Wilkson (Brazil) - Persela Lamongan
+出場数: 13 | ゴール: 4 | アシスト: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Do-hyun Kim (Korea, South) - Persela Lamongan
+出場数: 21 | ゴール: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Shohei Matsunaga (Japan) - Persela Lamongan
+出場数: 16 | ゴール: 4 | アシスト: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Arif Ariyanto (Indonesia) - Persela Lamongan
+出場数: 24 | ゴール: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Fandi Utomo (Indonesia) - Persela Lamongan
+出場数: 23 | ゴール: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Birrul Walidain (Indonesia) - Persela Lamongan
+出場数: 109 | ゴール: 5 | アシスト: 7
+
+9
+00:00:48,200 --> 00:00:54,800
+Sugeng Efendi (Indonesia) - Persela Lamongan
+出場数: 61 | ゴール: 5 | アシスト: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Rahel Radiansyah (Indonesia) - Persela Lamongan
+出場数: 31 | ゴール: 6 | アシスト: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Malik Risaldi (Indonesia) - Persela Lamongan
+出場数: 69 | ゴール: 6 | アシスト: 7
+
+12
+00:01:08,000 --> 00:01:14,600
+Diego Assis (Brazil) - Persela Lamongan
+出場数: 28 | ゴール: 6 | アシスト: 7
+
+13
+00:01:14,600 --> 00:01:21,200
+Taufiq Kasrun (Indonesia) - Persela Lamongan
+出場数: 94 | ゴール: 6 | アシスト: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Riyatno Abiyoso (Indonesia) - Persela Lamongan
+出場数: 47 | ゴール: 6 | アシスト: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Srdjan Lopicic (Montenegro) - Persela Lamongan
+出場数: 24 | ゴール: 7
+
+16
+00:01:34,400 --> 00:01:41,000
+Herman Dzumafo (Indonesia) - Persela Lamongan
+出場数: 27 | ゴール: 7 | アシスト: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Jimmy Suparno (Indonesia) - Persela Lamongan
+出場数: 64 | ゴール: 9
+
+18
+00:01:47,600 --> 00:01:54,200
+Roman Golian (Slovakia) - Persela Lamongan
+出場数: 85 | ゴール: 9
+
+19
+00:01:54,200 --> 00:02:00,800
+Zulham Zamrun (Indonesia) - Persela Lamongan
+出場数: 23 | ゴール: 9 | アシスト: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Addison (Brazil) - Persela Lamongan
+出場数: 23 | ゴール: 9
+
+21
+00:02:07,400 --> 00:02:14,000
+Fahmi Al-Ayyubi (Indonesia) - Persela Lamongan
+出場数: 48 | ゴール: 10 | アシスト: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Dendy Sulistyawan (Indonesia) - Persela Lamongan
+出場数: 27 | ゴール: 11 | アシスト: 5
+
+23
+00:02:20,600 --> 00:02:27,200
+Rafinha (Brazil) - Persela Lamongan
+出場数: 35 | ゴール: 11 | アシスト: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Gustavo López (Argentina) - Persela Lamongan
+出場数: 58 | ゴール: 12
+
+25
+00:02:33,800 --> 00:02:40,400
+Ivan Carlos (Brazil) - Persela Lamongan
+出場数: 28 | ゴール: 12 | アシスト: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Ezechiel Ndouasel (Chad) - Persela Lamongan
+出場数: 18 | ゴール: 14 | アシスト: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Loris Arnaud (France) - Persela Lamongan
+出場数: 29 | ゴール: 15 | アシスト: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Alex Gonçalves (Brazil) - Persela Lamongan
+出場数: 29 | ゴール: 17 | アシスト: 5
+
+29
+00:03:00,200 --> 00:03:06,800
+Zainal Arifin (Indonesia) - Persela Lamongan
+出場数: 112 | ゴール: 17 | アシスト: 1
+
+30
+00:03:06,800 --> 00:03:13,400
+Samsul Arif (Indonesia) - Persela Lamongan
+出場数: 78 | ゴール: 32 | アシスト: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Mario Costas (Argentina) - Persela Lamongan
+出場数: 66 | ゴール: 34
+

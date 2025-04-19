@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+CA Osasuna Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Francisco Javier Bayona (Spain) - CA Osasuna
+Partidas: 148 | Gols: 21
+
+3
+00:00:08,600 --> 00:00:15,200
+Kike Sola (Spain) - CA Osasuna
+Partidas: 98 | Gols: 21 | Assistências: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+José Luis Areta (Spain) - CA Osasuna
+Partidas: 89 | Gols: 21 | Assistências: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Raúl García (Spain) - CA Osasuna
+Partidas: 126 | Gols: 21 | Assistências: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Hormaeche (Spain) - CA Osasuna
+Partidas: 61 | Gols: 21
+
+7
+00:00:35,000 --> 00:00:41,600
+Savo Miloševic (Serbia) - CA Osasuna
+Partidas: 103 | Gols: 22 | Assistências: 7
+
+8
+00:00:41,600 --> 00:00:48,200
+Jon Andoni Goikoetxea (Spain) - CA Osasuna
+Partidas: 112 | Gols: 22
+
+9
+00:00:48,200 --> 00:00:54,800
+Eugenio Bustingorri (Spain) - CA Osasuna
+Partidas: 343 | Gols: 23 | Assistências: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Valdo (Cape Verde) - CA Osasuna
+Partidas: 141 | Gols: 23 | Assistências: 11
+
+11
+00:01:01,400 --> 00:01:08,000
+Adolfo Marañón (Spain) - CA Osasuna
+Partidas: 91 | Gols: 25
+
+12
+00:01:08,000 --> 00:01:14,600
+Julián Vergara (Spain) - CA Osasuna
+Partidas: 27 | Gols: 25
+
+13
+00:01:14,600 --> 00:01:21,200
+Pierre Webó (Cameroon) - CA Osasuna
+Partidas: 137 | Gols: 26 | Assistências: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Nino (Spain) - CA Osasuna
+Partidas: 147 | Gols: 27 | Assistências: 20
+
+15
+00:01:27,800 --> 00:01:34,400
+Rubén García (Spain) - CA Osasuna
+Partidas: 250 | Gols: 27 | Assistências: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Patxi Puñal (Spain) - CA Osasuna
+Partidas: 477 | Gols: 28 | Assistências: 32
+
+17
+00:01:41,000 --> 00:01:47,600
+Chimy Ávila (Argentina) - CA Osasuna
+Partidas: 123 | Gols: 29 | Assistências: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Miguel Sola (Spain) - CA Osasuna
+Partidas: 207 | Gols: 30
+
+19
+00:01:54,200 --> 00:02:00,800
+Patxi Rípodas (Spain) - CA Osasuna
+Partidas: 237 | Gols: 31
+
+20
+00:02:00,800 --> 00:02:07,400
+Iván Rosado (Spain) - CA Osasuna
+Partidas: 137 | Gols: 31 | Assistências: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Walter Pandiani (Uruguay) - CA Osasuna
+Partidas: 103 | Gols: 31 | Assistências: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Javad Nekounam (Iran) - CA Osasuna
+Partidas: 198 | Gols: 31 | Assistências: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+John Aloisi (Australia) - CA Osasuna
+Partidas: 128 | Gols: 32 | Assistências: 10
+
+24
+00:02:27,200 --> 00:02:33,800
+José Manuel Echeverria (Spain) - CA Osasuna
+Partidas: 189 | Gols: 38 | Assistências: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Patxi Iriguibel (Spain) - CA Osasuna
+Partidas: 110 | Gols: 38 | Assistências: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Enrique Martín (Spain) - CA Osasuna
+Partidas: 244 | Gols: 38 | Assistências: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Cuco Ziganda (Spain) - CA Osasuna
+Partidas: 160 | Gols: 44
+
+28
+00:02:53,600 --> 00:03:00,200
+Jan Urban (Poland) - CA Osasuna
+Partidas: 167 | Gols: 47 | Assistências: 2
+
+29
+00:03:00,200 --> 00:03:06,800
+Roberto Torres (Spain) - CA Osasuna
+Partidas: 353 | Gols: 60 | Assistências: 55
+
+30
+00:03:06,800 --> 00:03:13,400
+Ante Budimir (Croatia) - CA Osasuna
+Partidas: 170 | Gols: 65 | Assistências: 7
+
+31
+00:03:13,400 --> 00:03:20,000
+Sabino (Spain) - CA Osasuna
+Partidas: 142 | Gols: 65
+

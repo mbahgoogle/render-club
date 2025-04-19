@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Sriwijaya FC Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Reyhan Firdaus (Indonesia) - Sriwijaya FC
+Матчи: 19 | Голы: 4 | Голевые передачи: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Marckho Merauje (Indonesia) - Sriwijaya FC
+Матчи: 58 | Голы: 4 | Голевые передачи: 3
+
+4
+00:00:15,200 --> 00:00:21,800
+Vendry Mofu (Indonesia) - Sriwijaya FC
+Матчи: 17 | Голы: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Asri Akbar (Indonesia) - Sriwijaya FC
+Матчи: 17 | Голы: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Hamka Hamzah (Indonesia) - Sriwijaya FC
+Матчи: 15 | Голы: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Siswanto (Indonesia) - Sriwijaya FC
+Матчи: 52 | Голы: 4 | Голевые передачи: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Achmad Jufriyanto (Indonesia) - Sriwijaya FC
+Матчи: 65 | Голы: 5 | Голевые передачи: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Ponaryo Astaman (Indonesia) - Sriwijaya FC
+Матчи: 67 | Голы: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Nur Iskandar (Indonesia) - Sriwijaya FC
+Матчи: 85 | Голы: 5 | Голевые передачи: 10
+
+11
+00:01:01,400 --> 00:01:08,000
+Rivaldi Bawuo (Indonesia) - Sriwijaya FC
+Матчи: 18 | Голы: 5 | Голевые передачи: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Airlangga Sucipto (Indonesia) - Sriwijaya FC
+Матчи: 24 | Голы: 5 | Голевые передачи: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Tijani Belaid (Tunisia) - Sriwijaya FC
+Матчи: 26 | Голы: 5 | Голевые передачи: 12
+
+14
+00:01:21,200 --> 00:01:27,800
+Muhammad Fadly (Indonesia) - Sriwijaya FC
+Матчи: 16 | Голы: 6
+
+15
+00:01:27,800 --> 00:01:34,400
+Lewis Eric Weeks (Liberia) - Sriwijaya FC
+Матчи: 18 | Голы: 6
+
+16
+00:01:34,400 --> 00:01:41,000
+Dedi Hartono (Indonesia) - Sriwijaya FC
+Матчи: 13 | Голы: 6 | Голевые передачи: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Firman Utina (Indonesia) - Sriwijaya FC
+Матчи: 40 | Голы: 6
+
+18
+00:01:47,600 --> 00:01:54,200
+Habibi Jusuf (Indonesia) - Sriwijaya FC
+Матчи: 11 | Голы: 7 | Голевые передачи: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Lancine Kone (Cote d'Ivoire) - Sriwijaya FC
+Матчи: 17 | Голы: 7
+
+20
+00:02:00,800 --> 00:02:07,400
+Ramdani Lestaluhu (Indonesia) - Sriwijaya FC
+Матчи: 25 | Голы: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Herman Dzumafo (Indonesia) - Sriwijaya FC
+Матчи: 16 | Голы: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Manuchekhr Dzhalilov (Tajikistan) - Sriwijaya FC
+Матчи: 30 | Голы: 7 | Голевые передачи: 5
+
+23
+00:02:20,600 --> 00:02:27,200
+Thierry Gathuessi (Cameroon) - Sriwijaya FC
+Матчи: 36 | Голы: 7
+
+24
+00:02:27,200 --> 00:02:33,800
+Boakay Foday (Liberia) - Sriwijaya FC
+Матчи: 28 | Голы: 9
+
+25
+00:02:33,800 --> 00:02:40,400
+Muhammad Ridwan (Indonesia) - Sriwijaya FC
+Матчи: 47 | Голы: 9 | Голевые передачи: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Tantan (Indonesia) - Sriwijaya FC
+Матчи: 32 | Голы: 9
+
+27
+00:02:47,000 --> 00:02:53,600
+Chencho Gyeltshen (Bhutan) - Sriwijaya FC
+Матчи: 28 | Голы: 11 | Голевые передачи: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Esteban Vizcarra (Indonesia) - Sriwijaya FC
+Матчи: 32 | Голы: 11 | Голевые передачи: 4
+
+29
+00:03:00,200 --> 00:03:06,800
+Keith Gumbs (St. Kitts & Nevis) - Sriwijaya FC
+Матчи: 46 | Голы: 28
+
+30
+00:03:06,800 --> 00:03:13,400
+Beto (Indonesia) - Sriwijaya FC
+Матчи: 70 | Голы: 37 | Голевые передачи: 9
+
+31
+00:03:13,400 --> 00:03:20,000
+Hilton Moreira (Indonesia) - Sriwijaya FC
+Матчи: 84 | Голы: 40 | Голевые передачи: 6
+

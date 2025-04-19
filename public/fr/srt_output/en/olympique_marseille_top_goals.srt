@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Olympique Marseille All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Philippe Vercruysse (France) - Olympique Marseille
+Appearances: 131 | Goals: 36 | Assists: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Hervé Florès (France) - Olympique Marseille
+Appearances: 153 | Goals: 37
+
+4
+00:00:15,200 --> 00:00:21,800
+Djibril Cissé (France) - Olympique Marseille
+Appearances: 80 | Goals: 37 | Assists: 9
+
+5
+00:00:21,800 --> 00:00:28,400
+Georges Dard (France) - Olympique Marseille
+Appearances: 177 | Goals: 38
+
+6
+00:00:28,400 --> 00:00:35,000
+Mathieu Valbuena (France) - Olympique Marseille
+Appearances: 330 | Goals: 38 | Assists: 58
+
+7
+00:00:35,000 --> 00:00:41,600
+Robert Buigues (France) - Olympique Marseille
+Appearances: 230 | Goals: 38 | Assists: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Franck Sauzée (France) - Olympique Marseille
+Appearances: 164 | Goals: 39 | Assists: 11
+
+9
+00:00:48,200 --> 00:00:54,800
+Vilmos Kohut (Hungary) - Olympique Marseille
+Appearances: 82 | Goals: 39 | Assists: 3
+
+10
+00:00:54,800 --> 00:01:01,400
+Didier Couécou (France) - Olympique Marseille
+Appearances: 107 | Goals: 39
+
+11
+00:01:01,400 --> 00:01:08,000
+Mario Zatelli (France) - Olympique Marseille
+Appearances: 53 | Goals: 40
+
+12
+00:01:08,000 --> 00:01:14,600
+Albert Emon (France) - Olympique Marseille
+Appearances: 152 | Goals: 41
+
+13
+00:01:14,600 --> 00:01:21,200
+Marc Libbra (France) - Olympique Marseille
+Appearances: 149 | Goals: 41 | Assists: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Loïc Rémy (France) - Olympique Marseille
+Appearances: 111 | Goals: 42 | Assists: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Joseph Alcazar (France) - Olympique Marseille
+Appearances: 53 | Goals: 42 | Assists: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Charly Loubet (France) - Olympique Marseille
+Appearances: 90 | Goals: 43
+
+17
+00:01:41,000 --> 00:01:47,600
+Marc Berdoll (France) - Olympique Marseille
+Appearances: 107 | Goals: 53
+
+18
+00:01:47,600 --> 00:01:54,200
+Joseph Bonnel (France) - Olympique Marseille
+Appearances: 250 | Goals: 58
+
+19
+00:01:54,200 --> 00:02:00,800
+Roger Scotti (France) - Olympique Marseille
+Appearances: 341 | Goals: 58
+
+20
+00:02:00,800 --> 00:02:07,400
+André Ayew (Ghana) - Olympique Marseille
+Appearances: 209 | Goals: 60 | Assists: 20
+
+21
+00:02:07,400 --> 00:02:14,000
+Tony Cascarino (Ireland) - Olympique Marseille
+Appearances: 105 | Goals: 70 | Assists: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Boubacar Sarr (Senegal) - Olympique Marseille
+Appearances: 169 | Goals: 70
+
+23
+00:02:20,600 --> 00:02:27,200
+Marc Pascal (France) - Olympique Marseille
+Appearances: 173 | Goals: 72
+
+24
+00:02:27,200 --> 00:02:33,800
+André-Pierre Gignac (France) - Olympique Marseille
+Appearances: 188 | Goals: 77 | Assists: 13
+
+25
+00:02:33,800 --> 00:02:40,400
+Dimitri Payet (France) - Olympique Marseille
+Appearances: 326 | Goals: 78 | Assists: 95
+
+26
+00:02:40,400 --> 00:02:47,000
+Florian Thauvin (France) - Olympique Marseille
+Appearances: 281 | Goals: 86 | Assists: 61
+
+27
+00:02:47,000 --> 00:02:53,600
+Joseph Yegba Maya (Cameroon) - Olympique Marseille
+Appearances: 160 | Goals: 88
+
+28
+00:02:53,600 --> 00:03:00,200
+Mamadou Niang (Senegal) - Olympique Marseille
+Appearances: 227 | Goals: 100 | Assists: 36
+
+29
+00:03:00,200 --> 00:03:06,800
+Jean-Pierre Papin (France) - Olympique Marseille
+Appearances: 275 | Goals: 182 | Assists: 10
+
+30
+00:03:06,800 --> 00:03:13,400
+Josip Skoblar (Croatia) - Olympique Marseille
+Appearances: 218 | Goals: 185
+
+31
+00:03:13,400 --> 00:03:20,000
+Gunnar Andersson (Sweden) - Olympique Marseille
+Appearances: 248 | Goals: 194
+

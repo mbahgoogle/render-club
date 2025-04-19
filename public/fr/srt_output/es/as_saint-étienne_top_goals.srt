@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AS Saint-Étienne Máximos Goleadores Históricos
+
+2
+00:00:02,000 --> 00:00:08,600
+Antoine Cuissard (France) - AS Saint-Étienne
+Partidos: 147 | Goles: 37
+
+3
+00:00:08,600 --> 00:00:15,200
+Alex Dias (Brazil) - AS Saint-Étienne
+Partidos: 91 | Goles: 37 | Asistencias: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Jacques Zimako (France) - AS Saint-Étienne
+Partidos: 152 | Goles: 38 | Asistencias: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Pascal Feindouno (Guinea) - AS Saint-Étienne
+Partidos: 150 | Goles: 38 | Asistencias: 19
+
+6
+00:00:28,400 --> 00:00:35,000
+Philippe Tibeuf (France) - AS Saint-Étienne
+Partidos: 128 | Goles: 39
+
+7
+00:00:35,000 --> 00:00:41,600
+Pierre-Emerick Aubameyang (Gabon) - AS Saint-Étienne
+Partidos: 97 | Goles: 41 | Asistencias: 18
+
+8
+00:00:41,600 --> 00:00:48,200
+René Ferrier (France) - AS Saint-Étienne
+Partidos: 283 | Goles: 41
+
+9
+00:00:48,200 --> 00:00:54,800
+René Domingo (France) - AS Saint-Étienne
+Partidos: 493 | Goles: 42
+
+10
+00:00:54,800 --> 00:01:01,400
+Étienne Mendy (France) - AS Saint-Étienne
+Partidos: 158 | Goles: 42 | Asistencias: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Bafétimbi Gomis (France) - AS Saint-Étienne
+Partidos: 165 | Goles: 49 | Asistencias: 14
+
+12
+00:01:08,000 --> 00:01:14,600
+Jean-François Larios (France) - AS Saint-Étienne
+Partidos: 216 | Goles: 49 | Asistencias: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Laurent Roussey (France) - AS Saint-Étienne
+Partidos: 145 | Goles: 50
+
+14
+00:01:21,200 --> 00:01:27,800
+André Guy (France) - AS Saint-Étienne
+Partidos: 77 | Goles: 52
+
+15
+00:01:27,800 --> 00:01:34,400
+Jacques Santini (France) - AS Saint-Étienne
+Partidos: 343 | Goles: 54
+
+16
+00:01:34,400 --> 00:01:41,000
+Kees Rijvers (Netherlands) - AS Saint-Étienne
+Partidos: 225 | Goles: 55
+
+17
+00:01:41,000 --> 00:01:47,600
+Dominique Rocheteau (France) - AS Saint-Étienne
+Partidos: 199 | Goles: 56
+
+18
+00:01:47,600 --> 00:01:54,200
+Ginès Liron (France) - AS Saint-Étienne
+Partidos: 113 | Goles: 58
+
+19
+00:01:54,200 --> 00:02:00,800
+Johnny Rep (Netherlands) - AS Saint-Étienne
+Partidos: 176 | Goles: 60 | Asistencias: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Romain Hamouma (France) - AS Saint-Étienne
+Partidos: 321 | Goles: 62 | Asistencias: 48
+
+21
+00:02:07,400 --> 00:02:14,000
+René Alpsteg (France) - AS Saint-Étienne
+Partidos: 209 | Goles: 62
+
+22
+00:02:14,000 --> 00:02:20,600
+Jacques Foix (France) - AS Saint-Étienne
+Partidos: 149 | Goles: 63
+
+23
+00:02:20,600 --> 00:02:27,200
+Georges Bereta (France) - AS Saint-Étienne
+Partidos: 358 | Goles: 71
+
+24
+00:02:27,200 --> 00:02:33,800
+Michel Platini (France) - AS Saint-Étienne
+Partidos: 145 | Goles: 83 | Asistencias: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Robert Herbin (France) - AS Saint-Étienne
+Partidos: 464 | Goles: 84
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrick Revelli (France) - AS Saint-Étienne
+Partidos: 303 | Goles: 87 | Asistencias: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Eugène Njo-Léa (Cameroon) - AS Saint-Étienne
+Partidos: 155 | Goles: 91
+
+28
+00:02:53,600 --> 00:03:00,200
+Jean-Michel Larqué (France) - AS Saint-Étienne
+Partidos: 416 | Goles: 105
+
+29
+00:03:00,200 --> 00:03:06,800
+Rachid Mekhloufi (Algeria) - AS Saint-Étienne
+Partidos: 314 | Goles: 137
+
+30
+00:03:06,800 --> 00:03:13,400
+Salif Keita (Mali) - AS Saint-Étienne
+Partidos: 189 | Goles: 142
+
+31
+00:03:13,400 --> 00:03:20,000
+Hervé Revelli (France) - AS Saint-Étienne
+Partidos: 414 | Goles: 220
+

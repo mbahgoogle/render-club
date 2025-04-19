@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AS Saint-Étienne 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Antoine Cuissard (France) - AS Saint-Étienne
+出場数: 147 | ゴール: 37
+
+3
+00:00:08,600 --> 00:00:15,200
+Alex Dias (Brazil) - AS Saint-Étienne
+出場数: 91 | ゴール: 37 | アシスト: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Jacques Zimako (France) - AS Saint-Étienne
+出場数: 152 | ゴール: 38 | アシスト: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Pascal Feindouno (Guinea) - AS Saint-Étienne
+出場数: 150 | ゴール: 38 | アシスト: 19
+
+6
+00:00:28,400 --> 00:00:35,000
+Philippe Tibeuf (France) - AS Saint-Étienne
+出場数: 128 | ゴール: 39
+
+7
+00:00:35,000 --> 00:00:41,600
+Pierre-Emerick Aubameyang (Gabon) - AS Saint-Étienne
+出場数: 97 | ゴール: 41 | アシスト: 18
+
+8
+00:00:41,600 --> 00:00:48,200
+René Ferrier (France) - AS Saint-Étienne
+出場数: 283 | ゴール: 41
+
+9
+00:00:48,200 --> 00:00:54,800
+René Domingo (France) - AS Saint-Étienne
+出場数: 493 | ゴール: 42
+
+10
+00:00:54,800 --> 00:01:01,400
+Étienne Mendy (France) - AS Saint-Étienne
+出場数: 158 | ゴール: 42 | アシスト: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Bafétimbi Gomis (France) - AS Saint-Étienne
+出場数: 165 | ゴール: 49 | アシスト: 14
+
+12
+00:01:08,000 --> 00:01:14,600
+Jean-François Larios (France) - AS Saint-Étienne
+出場数: 216 | ゴール: 49 | アシスト: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Laurent Roussey (France) - AS Saint-Étienne
+出場数: 145 | ゴール: 50
+
+14
+00:01:21,200 --> 00:01:27,800
+André Guy (France) - AS Saint-Étienne
+出場数: 77 | ゴール: 52
+
+15
+00:01:27,800 --> 00:01:34,400
+Jacques Santini (France) - AS Saint-Étienne
+出場数: 343 | ゴール: 54
+
+16
+00:01:34,400 --> 00:01:41,000
+Kees Rijvers (Netherlands) - AS Saint-Étienne
+出場数: 225 | ゴール: 55
+
+17
+00:01:41,000 --> 00:01:47,600
+Dominique Rocheteau (France) - AS Saint-Étienne
+出場数: 199 | ゴール: 56
+
+18
+00:01:47,600 --> 00:01:54,200
+Ginès Liron (France) - AS Saint-Étienne
+出場数: 113 | ゴール: 58
+
+19
+00:01:54,200 --> 00:02:00,800
+Johnny Rep (Netherlands) - AS Saint-Étienne
+出場数: 176 | ゴール: 60 | アシスト: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Romain Hamouma (France) - AS Saint-Étienne
+出場数: 321 | ゴール: 62 | アシスト: 48
+
+21
+00:02:07,400 --> 00:02:14,000
+René Alpsteg (France) - AS Saint-Étienne
+出場数: 209 | ゴール: 62
+
+22
+00:02:14,000 --> 00:02:20,600
+Jacques Foix (France) - AS Saint-Étienne
+出場数: 149 | ゴール: 63
+
+23
+00:02:20,600 --> 00:02:27,200
+Georges Bereta (France) - AS Saint-Étienne
+出場数: 358 | ゴール: 71
+
+24
+00:02:27,200 --> 00:02:33,800
+Michel Platini (France) - AS Saint-Étienne
+出場数: 145 | ゴール: 83 | アシスト: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Robert Herbin (France) - AS Saint-Étienne
+出場数: 464 | ゴール: 84
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrick Revelli (France) - AS Saint-Étienne
+出場数: 303 | ゴール: 87 | アシスト: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Eugène Njo-Léa (Cameroon) - AS Saint-Étienne
+出場数: 155 | ゴール: 91
+
+28
+00:02:53,600 --> 00:03:00,200
+Jean-Michel Larqué (France) - AS Saint-Étienne
+出場数: 416 | ゴール: 105
+
+29
+00:03:00,200 --> 00:03:06,800
+Rachid Mekhloufi (Algeria) - AS Saint-Étienne
+出場数: 314 | ゴール: 137
+
+30
+00:03:06,800 --> 00:03:13,400
+Salif Keita (Mali) - AS Saint-Étienne
+出場数: 189 | ゴール: 142
+
+31
+00:03:13,400 --> 00:03:20,000
+Hervé Revelli (France) - AS Saint-Étienne
+出場数: 414 | ゴール: 220
+

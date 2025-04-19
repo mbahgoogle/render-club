@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RCD Espanyol Barcelona Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Francisco Iriondo (Spain) - RCD Espanyol Barcelona
+Partidas: 39 | Gols: 35
+
+3
+00:00:08,600 --> 00:00:15,200
+Oscar Coll (Argentina) - RCD Espanyol Barcelona
+Partidas: 91 | Gols: 35
+
+4
+00:00:15,200 --> 00:00:21,800
+Tintín Márquez (Spain) - RCD Espanyol Barcelona
+Partidas: 161 | Gols: 35
+
+5
+00:00:21,800 --> 00:00:28,400
+José Juncosa (Spain) - RCD Espanyol Barcelona
+Partidas: 47 | Gols: 35
+
+6
+00:00:28,400 --> 00:00:35,000
+Vicente Martínez (Spain) - RCD Espanyol Barcelona
+Partidas: 47 | Gols: 35
+
+7
+00:00:35,000 --> 00:00:41,600
+Moisés Arteaga (Spain) - RCD Espanyol Barcelona
+Partidas: 291 | Gols: 36 | Assistências: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+John Lauridsen (Denmark) - RCD Espanyol Barcelona
+Partidas: 243 | Gols: 36 | Assistências: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Roberto Martínez (Spain) - RCD Espanyol Barcelona
+Partidas: 116 | Gols: 37
+
+10
+00:00:54,800 --> 00:01:01,400
+José Egea Gómez (Spain) - RCD Espanyol Barcelona
+Partidas: 83 | Gols: 38 | Assistências: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+José Prat (Spain) - RCD Espanyol Barcelona
+Partidas: 134 | Gols: 39
+
+12
+00:01:08,000 --> 00:01:14,600
+Gerard Moreno (Spain) - RCD Espanyol Barcelona
+Partidas: 118 | Gols: 39 | Assistências: 9
+
+13
+00:01:14,600 --> 00:01:21,200
+Daniel Solsona (Spain) - RCD Espanyol Barcelona
+Partidas: 245 | Gols: 40
+
+14
+00:01:21,200 --> 00:01:27,800
+Edelmiro Lorenzo (Spain) - RCD Espanyol Barcelona
+Partidas: 107 | Gols: 41
+
+15
+00:01:27,800 --> 00:01:34,400
+Rodilla (Spain) - RCD Espanyol Barcelona
+Partidas: 143 | Gols: 42
+
+16
+00:01:34,400 --> 00:01:41,000
+Juan Mari Amiano (Spain) - RCD Espanyol Barcelona
+Partidas: 185 | Gols: 43
+
+17
+00:01:41,000 --> 00:01:47,600
+Raúl de Tomás (Spain) - RCD Espanyol Barcelona
+Partidas: 89 | Gols: 45 | Assistências: 6
+
+18
+00:01:47,600 --> 00:01:54,200
+José María (Spain) - RCD Espanyol Barcelona
+Partidas: 285 | Gols: 49
+
+19
+00:01:54,200 --> 00:02:00,800
+Orlando Giménez (Paraguay) - RCD Espanyol Barcelona
+Partidas: 163 | Gols: 50 | Assistências: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Sergio García (Spain) - RCD Espanyol Barcelona
+Partidas: 231 | Gols: 50 | Assistências: 45
+
+21
+00:02:07,400 --> 00:02:14,000
+Jordi Lardín (Spain) - RCD Espanyol Barcelona
+Partidas: 192 | Gols: 53
+
+22
+00:02:14,000 --> 00:02:20,600
+Rosendo Hernández (Spain) - RCD Espanyol Barcelona
+Partidas: 131 | Gols: 54 | Assistências: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Javi Puado (Spain) - RCD Espanyol Barcelona
+Partidas: 203 | Gols: 55 | Assistências: 17
+
+24
+00:02:27,200 --> 00:02:33,800
+Michel Pineda (France) - RCD Espanyol Barcelona
+Partidas: 199 | Gols: 58
+
+25
+00:02:33,800 --> 00:02:40,400
+Gabriel Jorge (Spain) - RCD Espanyol Barcelona
+Partidas: 180 | Gols: 60
+
+26
+00:02:40,400 --> 00:02:47,000
+Luis García (Spain) - RCD Espanyol Barcelona
+Partidas: 261 | Gols: 62 | Assistências: 25
+
+27
+00:02:47,000 --> 00:02:53,600
+Javier Marcet (Spain) - RCD Espanyol Barcelona
+Partidas: 160 | Gols: 65 | Assistências: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Ángel Calvo (Spain) - RCD Espanyol Barcelona
+Partidas: 129 | Gols: 73
+
+29
+00:03:00,200 --> 00:03:06,800
+Julián Arcas (Spain) - RCD Espanyol Barcelona
+Partidas: 214 | Gols: 97 | Assistências: 2
+
+30
+00:03:06,800 --> 00:03:13,400
+Rafa Marañón (Spain) - RCD Espanyol Barcelona
+Partidas: 274 | Gols: 117 | Assistências: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Raúl Tamudo (Spain) - RCD Espanyol Barcelona
+Partidas: 385 | Gols: 140 | Assistências: 19
+

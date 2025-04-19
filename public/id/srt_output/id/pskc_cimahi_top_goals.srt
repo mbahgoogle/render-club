@@ -1,0 +1,123 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSKC Cimahi Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Agus Nova (Indonesia) - PSKC Cimahi
+Penampilan: 17 | Gol: 1 | Asis: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Imanuel Sayuri (Indonesia) - PSKC Cimahi
+Penampilan: 16 | Gol: 1 | Asis: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Rudiyana (Indonesia) - PSKC Cimahi
+Penampilan: 16 | Gol: 1 | Asis: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Achmad Faris (Indonesia) - PSKC Cimahi
+Penampilan: 20 | Gol: 1 | Asis: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Dicky Kurniawan (Indonesia) - PSKC Cimahi
+Penampilan: 8 | Gol: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Muhammad Idris (Indonesia) - PSKC Cimahi
+Penampilan: 5 | Gol: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Mukhammadali Tursunov (Uzbekistan) - PSKC Cimahi
+Penampilan: 12 | Gol: 1 | Asis: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Anan Lestaluhu (Indonesia) - PSKC Cimahi
+Penampilan: 6 | Gol: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Rezky Renaldy (Indonesia) - PSKC Cimahi
+Penampilan: 6 | Gol: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Irvan Mofu (Indonesia) - PSKC Cimahi
+Penampilan: 4 | Gol: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Ichsan Kurniawan (Indonesia) - PSKC Cimahi
+Penampilan: 21 | Gol: 2 | Asis: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Suhandi (Indonesia) - PSKC Cimahi
+Penampilan: 29 | Gol: 2 | Asis: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Hambali Tholib (Indonesia) - PSKC Cimahi
+Penampilan: 19 | Gol: 2 | Asis: 8
+
+15
+00:01:27,800 --> 00:01:34,400
+Joao Rodríguez (Colombia) - PSKC Cimahi
+Penampilan: 6 | Gol: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Fareed Sadat (Afghanistan) - PSKC Cimahi
+Penampilan: 13 | Gol: 2 | Asis: 4
+
+17
+00:01:41,000 --> 00:01:47,600
+Dheco Zacky (Indonesia) - PSKC Cimahi
+Penampilan: 17 | Gol: 2 | Asis: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Reksa Maulana (Indonesia) - PSKC Cimahi
+Penampilan: 11 | Gol: 2 | Asis: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Gufroni Al Maruf (Indonesia) - PSKC Cimahi
+Penampilan: 16 | Gol: 2 | Asis: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Adlin Cahya (Indonesia) - PSKC Cimahi
+Penampilan: 30 | Gol: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Chencho Gyeltshen (Bhutan) - PSKC Cimahi
+Penampilan: 8 | Gol: 3 | Asis: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Rishadi Fauzi (Indonesia) - PSKC Cimahi
+Penampilan: 15 | Gol: 3
+
+23
+00:02:20,600 --> 00:02:27,200
+Nyoman Sukarja (Indonesia) - PSKC Cimahi
+Penampilan: 12 | Gol: 4
+
+24
+00:02:27,200 --> 00:02:33,800
+Afdal Yusra (Indonesia) - PSKC Cimahi
+Penampilan: 14 | Gol: 7 | Asis: 1
+
+25
+00:02:33,800 --> 00:02:40,400
+Matheus (Brazil) - PSKC Cimahi
+Penampilan: 12 | Gol: 9 | Asis: 2

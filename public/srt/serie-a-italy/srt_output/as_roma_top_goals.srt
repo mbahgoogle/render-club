@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AS Roma All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Paulo Dybala (Argentina) - AS Roma
+Appearances: 111 | Goals: 42 | Assists: 22
+
+3
+00:00:08,600 --> 00:00:15,200
+Raffaele Costantino (Italy) - AS Roma
+Appearances: 161 | Goals: 42 | Assists: 0
+
+4
+00:00:15,200 --> 00:00:21,800
+Enrique Guaita (Argentina) - AS Roma
+Appearances: 62 | Goals: 42 | Assists: 0
+
+5
+00:00:21,800 --> 00:00:28,400
+Fulvio Bernardini (Italy) - AS Roma
+Appearances: 302 | Goals: 46 | Assists: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Michelangelo Pantò (Argentina) - AS Roma
+Appearances: 155 | Goals: 47 | Assists: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Bruno Conti (Italy) - AS Roma
+Appearances: 402 | Goals: 47 | Assists: 17
+
+8
+00:00:41,600 --> 00:00:48,200
+Simone Perrotta (Italy) - AS Roma
+Appearances: 325 | Goals: 49 | Assists: 24
+
+9
+00:00:48,200 --> 00:00:54,800
+Antonio Cassano (Italy) - AS Roma
+Appearances: 161 | Goals: 52 | Assists: 27
+
+10
+00:00:54,800 --> 00:01:01,400
+Carlo Galli (Italy) - AS Roma
+Appearances: 125 | Goals: 55 | Assists: 0
+
+11
+00:01:01,400 --> 00:01:08,000
+Ruggiero Rizzitelli (Italy) - AS Roma
+Appearances: 211 | Goals: 55 | Assists: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Lorenzo Pellegrini (Italy) - AS Roma
+Appearances: 311 | Goals: 56 | Assists: 59
+
+13
+00:01:14,600 --> 00:01:21,200
+Arturo Chini Luduena (Argentina) - AS Roma
+Appearances: 166 | Goals: 57 | Assists: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Mancini (Brazil) - AS Roma
+Appearances: 222 | Goals: 59 | Assists: 39
+
+15
+00:01:27,800 --> 00:01:34,400
+Cesare Fasanelli (Italy) - AS Roma
+Appearances: 169 | Goals: 62 | Assists: 0
+
+16
+00:01:34,400 --> 00:01:41,000
+Daniele De Rossi (Italy) - AS Roma
+Appearances: 616 | Goals: 63 | Assists: 61
+
+17
+00:01:41,000 --> 00:01:47,600
+Stephan El Shaarawy (Italy) - AS Roma
+Appearances: 309 | Goals: 64 | Assists: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+Mirko Vucinić (Montenegro) - AS Roma
+Appearances: 203 | Goals: 64 | Assists: 28
+
+19
+00:01:54,200 --> 00:02:00,800
+Rudi Völler (Germany) - AS Roma
+Appearances: 198 | Goals: 68 | Assists: 7
+
+20
+00:02:00,800 --> 00:02:07,400
+Agostino Di Bartolomei (Italy) - AS Roma
+Appearances: 314 | Goals: 69 | Assists: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Giuseppe Giannini (Italy) - AS Roma
+Appearances: 437 | Goals: 76 | Assists: 21
+
+22
+00:02:14,000 --> 00:02:20,600
+Dino Da Costa (Italy) - AS Roma
+Appearances: 163 | Goals: 79 | Assists: 0
+
+23
+00:02:20,600 --> 00:02:27,200
+Marco Delvecchio (Italy) - AS Roma
+Appearances: 300 | Goals: 83 | Assists: 25
+
+24
+00:02:27,200 --> 00:02:33,800
+Abel Balbo (Argentina) - AS Roma
+Appearances: 182 | Goals: 87 | Assists: 11
+
+25
+00:02:33,800 --> 00:02:40,400
+Vincenzo Montella (Italy) - AS Roma
+Appearances: 258 | Goals: 101 | Assists: 31
+
+26
+00:02:40,400 --> 00:02:47,000
+Pedro Manfredini (Argentina) - AS Roma
+Appearances: 164 | Goals: 101 | Assists: 0
+
+27
+00:02:47,000 --> 00:02:53,600
+Rodolfo Volk (Italy) - AS Roma
+Appearances: 160 | Goals: 106 | Assists: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Amedeo Amadei (Italy) - AS Roma
+Appearances: 234 | Goals: 110 | Assists: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Edin Džeko (Bosnia-Herzegovina) - AS Roma
+Appearances: 260 | Goals: 119 | Assists: 54
+
+30
+00:03:06,800 --> 00:03:13,400
+Roberto Pruzzo (Italy) - AS Roma
+Appearances: 315 | Goals: 138 | Assists: 11
+
+31
+00:03:13,400 --> 00:03:20,000
+Francesco Totti (Italy) - AS Roma
+Appearances: 785 | Goals: 307 | Assists: 205
+

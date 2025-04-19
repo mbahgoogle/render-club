@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RB Leipzig 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Timo Röttger (Germany) - RB Leipzig
+出場数: 89 | ゴール: 10 | アシスト: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Bastian Schulz (Germany) - RB Leipzig
+出場数: 64 | ゴール: 11 | アシスト: 8
+
+4
+00:00:15,200 --> 00:00:21,800
+Christian Reimann (Germany) - RB Leipzig
+出場数: 30 | ゴール: 11 | アシスト: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Angeliño (Spain) - RB Leipzig
+出場数: 100 | ゴール: 11 | アシスト: 29
+
+6
+00:00:28,400 --> 00:00:35,000
+Lars Müller (Germany) - RB Leipzig
+出場数: 62 | ゴール: 13 | アシスト: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Thiago Rockenbach (Brazil) - RB Leipzig
+出場数: 85 | ゴール: 14 | アシスト: 30
+
+8
+00:00:41,600 --> 00:00:48,200
+Jochen Höfler (Germany) - RB Leipzig
+出場数: 30 | ゴール: 14 | アシスト: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Lukas Klostermann (Germany) - RB Leipzig
+出場数: 320 | ゴール: 14 | アシスト: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Davie Selke (Germany) - RB Leipzig
+出場数: 53 | ゴール: 14 | アシスト: 4
+
+11
+00:01:01,400 --> 00:01:08,000
+Konrad Laimer (Austria) - RB Leipzig
+出場数: 190 | ゴール: 15 | アシスト: 19
+
+12
+00:01:08,000 --> 00:01:14,600
+Amadou Haidara (Mali) - RB Leipzig
+出場数: 217 | ゴール: 15 | アシスト: 10
+
+13
+00:01:14,600 --> 00:01:21,200
+Marcel Halstenberg (Germany) - RB Leipzig
+出場数: 240 | ゴール: 16 | アシスト: 27
+
+14
+00:01:21,200 --> 00:01:27,800
+Naby Keïta (Guinea) - RB Leipzig
+出場数: 71 | ゴール: 17 | アシスト: 14
+
+15
+00:01:27,800 --> 00:01:34,400
+Xavi Simons (Netherlands) - RB Leipzig
+出場数: 70 | ゴール: 18 | アシスト: 20
+
+16
+00:01:34,400 --> 00:01:41,000
+Nico Frommer (Germany) - RB Leipzig
+出場数: 42 | ゴール: 19 | アシスト: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Dominik Szoboszlai (Hungary) - RB Leipzig
+出場数: 91 | ゴール: 20 | アシスト: 22
+
+18
+00:01:47,600 --> 00:01:54,200
+Jean-Kévin Augustin (France) - RB Leipzig
+出場数: 67 | ゴール: 20 | アシスト: 8
+
+19
+00:01:54,200 --> 00:02:00,800
+André Silva (Portugal) - RB Leipzig
+出場数: 110 | ゴール: 27 | アシスト: 20
+
+20
+00:02:00,800 --> 00:02:07,400
+Stefan Kutschke (Germany) - RB Leipzig
+出場数: 86 | ゴール: 27 | アシスト: 17
+
+21
+00:02:07,400 --> 00:02:14,000
+Dani Olmo (Spain) - RB Leipzig
+出場数: 148 | ゴール: 29 | アシスト: 34
+
+22
+00:02:14,000 --> 00:02:20,600
+Willi Orbán (Hungary) - RB Leipzig
+出場数: 347 | ゴール: 33 | アシスト: 10
+
+23
+00:02:20,600 --> 00:02:27,200
+Dominik Kaiser (Germany) - RB Leipzig
+出場数: 167 | ゴール: 34 | アシスト: 35
+
+24
+00:02:27,200 --> 00:02:33,800
+Benjamin Sesko (Slovenia) - RB Leipzig
+出場数: 80 | ゴール: 36 | アシスト: 8
+
+25
+00:02:33,800 --> 00:02:40,400
+Loïs Openda (Belgium) - RB Leipzig
+出場数: 83 | ゴール: 40 | アシスト: 16
+
+26
+00:02:40,400 --> 00:02:47,000
+Marcel Sabitzer (Austria) - RB Leipzig
+出場数: 229 | ゴール: 52 | アシスト: 42
+
+27
+00:02:47,000 --> 00:02:53,600
+Christopher Nkunku (France) - RB Leipzig
+出場数: 172 | ゴール: 70 | アシスト: 47
+
+28
+00:02:53,600 --> 00:03:00,200
+Emil Forsberg (Sweden) - RB Leipzig
+出場数: 325 | ゴール: 71 | アシスト: 68
+
+29
+00:03:00,200 --> 00:03:06,800
+Daniel Frahn (Germany) - RB Leipzig
+出場数: 154 | ゴール: 87 | アシスト: 34
+
+30
+00:03:06,800 --> 00:03:13,400
+Yussuf Poulsen (Denmark) - RB Leipzig
+出場数: 419 | ゴール: 93 | アシスト: 60
+
+31
+00:03:13,400 --> 00:03:20,000
+Timo Werner (Germany) - RB Leipzig
+出場数: 213 | ゴール: 113 | アシスト: 47
+

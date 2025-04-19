@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSBS Biak 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Arjuna Agung (Indonesia) - PSBS Biak
+출전: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Anthonius Kipin (Indonesia) - PSBS Biak
+출전: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Muhammad Tahir (Indonesia) - PSBS Biak
+출전: 40 | 골: 1 | 도움: 7
+
+5
+00:00:21,800 --> 00:00:28,400
+Fabiano Beltrame (Indonesia) - PSBS Biak
+출전: 36 | 골: 1 | 도움: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Marten Raweyai (Indonesia) - PSBS Biak
+출전: 5 | 골: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Marckho Merauje (Indonesia) - PSBS Biak
+출전: 23 | 골: 1 | 도움: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Takuya Matsunaga (Japan) - PSBS Biak
+출전: 23 | 골: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Armando Oropa (Indonesia) - PSBS Biak
+출전: 20 | 골: 1 | 도움: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Otávio Dutra (Indonesia) - PSBS Biak
+출전: 10 | 골: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Hermansyah Muchlis (Indonesia) - PSBS Biak
+출전: 6 | 골: 1 | 도움: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Febrianto Uopmabin (Indonesia) - PSBS Biak
+출전: 47 | 골: 1 | 도움: 7
+
+13
+00:01:14,600 --> 00:01:21,200
+Ariel Nahuelpán (Argentina) - PSBS Biak
+출전: 8 | 골: 1 | 도움: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Melcior Majefat (Indonesia) - PSBS Biak
+출전: 16 | 골: 1 | 도움: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Wawan Samma (Indonesia) - PSBS Biak
+출전: 8 | 골: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Melvis Uaga (Indonesia) - PSBS Biak
+출전: 14 | 골: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Rudy Kurni (Indonesia) - PSBS Biak
+출전: 5 | 골: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Yano Putra (Indonesia) - PSBS Biak
+출전: 8 | 골: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Charles Rumbino (Indonesia) - PSBS Biak
+출전: 14 | 골: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Gustavo Suebu (Indonesia) - PSBS Biak
+출전: 7 | 골: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Adrian Msen (Indonesia) - PSBS Biak
+출전: 23 | 골: 2 | 도움: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Osas Saha (Indonesia) - PSBS Biak
+출전: 12 | 골: 2 | 도움: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Jeam Kelly Sroyer (Indonesia) - PSBS Biak
+출전: 37 | 골: 3 | 도움: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Julián Velázquez (Argentina) - PSBS Biak
+출전: 23 | 골: 3
+
+25
+00:02:33,800 --> 00:02:40,400
+Toumahuw Ronald (Indonesia) - PSBS Biak
+출전: 12 | 골: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Ananias Fingkreuw (Indonesia) - PSBS Biak
+출전: 12 | 골: 5 | 도움: 1
+
+27
+00:02:47,000 --> 00:02:53,600
+Williams Lugo (Venezuela) - PSBS Biak
+출전: 24 | 골: 5 | 도움: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Abel Argañaraz (Argentina) - PSBS Biak
+출전: 26 | 골: 7 | 도움: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Mamadou Barry (Indonesia) - PSBS Biak
+출전: 19 | 골: 8
+
+30
+00:03:06,800 --> 00:03:13,400
+Beto (Indonesia) - PSBS Biak
+출전: 39 | 골: 11 | 도움: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Alexsandro (Brazil) - PSBS Biak
+출전: 46 | 골: 28 | 도움: 5
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Borussia Mönchengladbach Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Ewald Nienhaus (Germany) - Borussia Mönchengladbach
+Presenze: 115 | Gol: 46
+
+3
+00:00:08,600 --> 00:00:15,200
+Thorgan Hazard (Belgium) - Borussia Mönchengladbach
+Presenze: 182 | Gol: 46 | Assist: 44
+
+4
+00:00:15,200 --> 00:00:21,800
+Willi Wicken (Germany) - Borussia Mönchengladbach
+Presenze: 183 | Gol: 46
+
+5
+00:00:21,800 --> 00:00:28,400
+Jonas Hofmann (Germany) - Borussia Mönchengladbach
+Presenze: 214 | Gol: 48 | Assist: 51
+
+6
+00:00:28,400 --> 00:00:35,000
+Horst Köppel (Germany) - Borussia Mönchengladbach
+Presenze: 219 | Gol: 51 | Assist: 14
+
+7
+00:00:35,000 --> 00:00:41,600
+Karl Heinz Mülhausen (Germany) - Borussia Mönchengladbach
+Presenze: 179 | Gol: 51
+
+8
+00:00:41,600 --> 00:00:48,200
+Lothar Matthäus (Germany) - Borussia Mönchengladbach
+Presenze: 200 | Gol: 51 | Assist: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Ewald Lienen (Germany) - Borussia Mönchengladbach
+Presenze: 329 | Gol: 51 | Assist: 6
+
+10
+00:00:54,800 --> 00:01:01,400
+Patrick Herrmann (Germany) - Borussia Mönchengladbach
+Presenze: 420 | Gol: 56 | Assist: 66
+
+11
+00:01:01,400 --> 00:01:08,000
+Christian Kulik (Germany) - Borussia Mönchengladbach
+Presenze: 324 | Gol: 58 | Assist: 11
+
+12
+00:01:08,000 --> 00:01:14,600
+Henning Jensen (Denmark) - Borussia Mönchengladbach
+Presenze: 182 | Gol: 60 | Assist: 13
+
+13
+00:01:14,600 --> 00:01:21,200
+Christian Hochstätter (Germany) - Borussia Mönchengladbach
+Presenze: 395 | Gol: 61 | Assist: 28
+
+14
+00:01:21,200 --> 00:01:27,800
+Arie van Lent (Netherlands) - Borussia Mönchengladbach
+Presenze: 158 | Gol: 62 | Assist: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Rainer Bonhof (Germany) - Borussia Mönchengladbach
+Presenze: 329 | Gol: 63 | Assist: 19
+
+16
+00:01:34,400 --> 00:01:41,000
+Alassane Pléa (France) - Borussia Mönchengladbach
+Presenze: 230 | Gol: 67 | Assist: 52
+
+17
+00:01:41,000 --> 00:01:47,600
+Herbert Wimmer (Germany) - Borussia Mönchengladbach
+Presenze: 469 | Gol: 68 | Assist: 45
+
+18
+00:01:47,600 --> 00:01:54,200
+Martin Dahlin (Sweden) - Borussia Mönchengladbach
+Presenze: 146 | Gol: 68 | Assist: 22
+
+19
+00:01:54,200 --> 00:02:00,800
+Raffael (Brazil) - Borussia Mönchengladbach
+Presenze: 201 | Gol: 71 | Assist: 35
+
+20
+00:02:00,800 --> 00:02:07,400
+Wilfried Hannes (Germany) - Borussia Mönchengladbach
+Presenze: 326 | Gol: 72 | Assist: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Lars Stindl (Germany) - Borussia Mönchengladbach
+Presenze: 271 | Gol: 83 | Assist: 61
+
+22
+00:02:14,000 --> 00:02:20,600
+Hans-Günter Bruns (Germany) - Borussia Mönchengladbach
+Presenze: 407 | Gol: 85 | Assist: 9
+
+23
+00:02:20,600 --> 00:02:27,200
+Frank Mill (Germany) - Borussia Mönchengladbach
+Presenze: 190 | Gol: 86 | Assist: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Ulrich Kohn (Germany) - Borussia Mönchengladbach
+Presenze: 150 | Gol: 87
+
+25
+00:02:33,800 --> 00:02:40,400
+Bernd Rupp (Germany) - Borussia Mönchengladbach
+Presenze: 201 | Gol: 100 | Assist: 41
+
+26
+00:02:40,400 --> 00:02:47,000
+Uwe Rahn (Germany) - Borussia Mönchengladbach
+Presenze: 288 | Gol: 113 | Assist: 4
+
+27
+00:02:47,000 --> 00:02:53,600
+Hans-Jörg Criens (Germany) - Borussia Mönchengladbach
+Presenze: 347 | Gol: 117 | Assist: 19
+
+28
+00:02:53,600 --> 00:03:00,200
+Allan Simonsen (Denmark) - Borussia Mönchengladbach
+Presenze: 249 | Gol: 117 | Assist: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Günter Netzer (Germany) - Borussia Mönchengladbach
+Presenze: 358 | Gol: 137 | Assist: 75
+
+30
+00:03:06,800 --> 00:03:13,400
+Herbert Laumen (Germany) - Borussia Mönchengladbach
+Presenze: 274 | Gol: 141 | Assist: 19
+
+31
+00:03:13,400 --> 00:03:20,000
+Jupp Heynckes (Germany) - Borussia Mönchengladbach
+Presenze: 417 | Gol: 298 | Assist: 49
+

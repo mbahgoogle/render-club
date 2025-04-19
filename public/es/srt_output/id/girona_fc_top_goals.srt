@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Girona FC Pencetak Gol Terbanyak Sepanjang Masa
+
+2
+00:00:02,000 --> 00:00:08,600
+Cristian Herrera (Spain) - Girona FC
+Penampilan: 54 | Gol: 9 | Asis: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Valery Fernández (Spain) - Girona FC
+Penampilan: 140 | Gol: 10 | Asis: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+David Timor (Spain) - Girona FC
+Penampilan: 60 | Gol: 10 | Asis: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Luso (Spain) - Girona FC
+Penampilan: 74 | Gol: 10 | Asis: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Savinho (Brazil) - Girona FC
+Penampilan: 41 | Gol: 11 | Asis: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Chechu Flores (Spain) - Girona FC
+Penampilan: 99 | Gol: 11
+
+8
+00:00:41,600 --> 00:00:48,200
+Mamadou Sylla (Senegal) - Girona FC
+Penampilan: 43 | Gol: 11 | Asis: 7
+
+9
+00:00:48,200 --> 00:00:54,800
+Yangel Herrera (Venezuela) - Girona FC
+Penampilan: 77 | Gol: 11 | Asis: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Samu Saiz (Spain) - Girona FC
+Penampilan: 119 | Gol: 12 | Asis: 17
+
+11
+00:01:01,400 --> 00:01:08,000
+Gerard Bordas (Spain) - Girona FC
+Penampilan: 62 | Gol: 13 | Asis: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Viktor Tsygankov (Ukraine) - Girona FC
+Penampilan: 76 | Gol: 13 | Asis: 17
+
+13
+00:01:14,600 --> 00:01:21,200
+Juanpe (Spain) - Girona FC
+Penampilan: 262 | Gol: 13 | Asis: 8
+
+14
+00:01:21,200 --> 00:01:27,800
+Taty Castellanos (Argentina) - Girona FC
+Penampilan: 37 | Gol: 14 | Asis: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Benja (Spain) - Girona FC
+Penampilan: 53 | Gol: 14 | Asis: 8
+
+16
+00:01:34,400 --> 00:01:41,000
+Samuele Longo (Italy) - Girona FC
+Penampilan: 38 | Gol: 14 | Asis: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Kiko Ratón (Spain) - Girona FC
+Penampilan: 76 | Gol: 15
+
+18
+00:01:47,600 --> 00:01:54,200
+Nahuel Bustos (Argentina) - Girona FC
+Penampilan: 82 | Gol: 15 | Asis: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Álex Granell (Spain) - Girona FC
+Penampilan: 232 | Gol: 16 | Asis: 34
+
+20
+00:02:00,800 --> 00:02:07,400
+Ferrán Corominas (Spain) - Girona FC
+Penampilan: 40 | Gol: 18 | Asis: 6
+
+21
+00:02:07,400 --> 00:02:14,000
+Ranko Despotovic (Serbia) - Girona FC
+Penampilan: 35 | Gol: 19
+
+22
+00:02:14,000 --> 00:02:20,600
+Roberto Peragón (Spain) - Girona FC
+Penampilan: 76 | Gol: 20
+
+23
+00:02:20,600 --> 00:02:27,200
+Borja García (Spain) - Girona FC
+Penampilan: 233 | Gol: 21 | Asis: 30
+
+24
+00:02:27,200 --> 00:02:33,800
+Jaime Mata (Spain) - Girona FC
+Penampilan: 82 | Gol: 21 | Asis: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Javi Acuña (Paraguay) - Girona FC
+Penampilan: 57 | Gol: 21 | Asis: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Artem Dovbyk (Ukraine) - Girona FC
+Penampilan: 39 | Gol: 24 | Asis: 10
+
+27
+00:02:47,000 --> 00:02:53,600
+Fran Sandaza (Spain) - Girona FC
+Penampilan: 73 | Gol: 25 | Asis: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Felipe Sanchón (Spain) - Girona FC
+Penampilan: 153 | Gol: 36 | Asis: 22
+
+29
+00:03:00,200 --> 00:03:06,800
+Jandro Castro (Spain) - Girona FC
+Penampilan: 175 | Gol: 37 | Asis: 27
+
+30
+00:03:06,800 --> 00:03:13,400
+Portu (Spain) - Girona FC
+Penampilan: 177 | Gol: 37 | Asis: 26
+
+31
+00:03:13,400 --> 00:03:20,000
+Cristhian Stuani (Uruguay) - Girona FC
+Penampilan: 280 | Gol: 136 | Asis: 12
+

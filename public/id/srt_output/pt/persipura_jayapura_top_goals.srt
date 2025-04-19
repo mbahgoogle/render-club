@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persipura Jayapura Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Reno Salampessy (Indonesia) - Persipura Jayapura
+Partidas: 10 | Gols: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Ricardo Salampessy (Indonesia) - Persipura Jayapura
+Partidas: 174 | Gols: 5 | Assistências: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Enzo Célestine (France) - Persipura Jayapura
+Partidas: 18 | Gols: 5 | Assistências: 2
+
+5
+00:00:21,800 --> 00:00:28,400
+Marinus Wanewar (Indonesia) - Persipura Jayapura
+Partidas: 62 | Gols: 6 | Assistências: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Osvaldo Haay (Indonesia) - Persipura Jayapura
+Partidas: 24 | Gols: 6 | Assistências: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Gerald Pangkali (Indonesia) - Persipura Jayapura
+Partidas: 99 | Gols: 7 | Assistências: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Elisa Basna (Indonesia) - Persipura Jayapura
+Partidas: 87 | Gols: 7 | Assistências: 6
+
+9
+00:00:48,200 --> 00:00:54,800
+Arody Uopdana (Indonesia) - Persipura Jayapura
+Partidas: 23 | Gols: 7 | Assistências: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Marcel Sacramento (Brazil) - Persipura Jayapura
+Partidas: 16 | Gols: 7 | Assistências: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Friska Womsiwor (Indonesia) - Persipura Jayapura
+Partidas: 58 | Gols: 8 | Assistências: 10
+
+12
+00:01:08,000 --> 00:01:14,600
+Yevgen Bokhashvili (Ukraine) - Persipura Jayapura
+Partidas: 26 | Gols: 8 | Assistências: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Yustinus Pae (Indonesia) - Persipura Jayapura
+Partidas: 259 | Gols: 9 | Assistências: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Ricky Kayame (Indonesia) - Persipura Jayapura
+Partidas: 54 | Gols: 9 | Assistências: 4
+
+15
+00:01:27,800 --> 00:01:34,400
+Robertino Pugliara (Argentina) - Persipura Jayapura
+Partidas: 24 | Gols: 9 | Assistências: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Todd Ferre (Indonesia) - Persipura Jayapura
+Partidas: 58 | Gols: 10 | Assistências: 10
+
+17
+00:01:41,000 --> 00:01:47,600
+Otávio Dutra (Indonesia) - Persipura Jayapura
+Partidas: 31 | Gols: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Imanuel Wanggai (Indonesia) - Persipura Jayapura
+Partidas: 149 | Gols: 11 | Assistências: 6
+
+19
+00:01:54,200 --> 00:02:00,800
+Hilton Moreira (Indonesia) - Persipura Jayapura
+Partidas: 29 | Gols: 11 | Assistências: 4
+
+20
+00:02:00,800 --> 00:02:07,400
+Patrich Wanggai (Indonesia) - Persipura Jayapura
+Partidas: 29 | Gols: 12
+
+21
+00:02:07,400 --> 00:02:14,000
+Gunansar Mandowen (Indonesia) - Persipura Jayapura
+Partidas: 94 | Gols: 12 | Assistências: 20
+
+22
+00:02:14,000 --> 00:02:20,600
+Lukas Mandowen (Indonesia) - Persipura Jayapura
+Partidas: 80 | Gols: 13 | Assistências: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Bio Paulin (Indonesia) - Persipura Jayapura
+Partidas: 112 | Gols: 15 | Assistências: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Zah Rahan Krangar (Liberia) - Persipura Jayapura
+Partidas: 60 | Gols: 16
+
+25
+00:02:33,800 --> 00:02:40,400
+Addison (Brazil) - Persipura Jayapura
+Partidas: 46 | Gols: 20 | Assistências: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Titus Bonai (Indonesia) - Persipura Jayapura
+Partidas: 66 | Gols: 22 | Assistências: 3
+
+27
+00:02:47,000 --> 00:02:53,600
+Beto (Indonesia) - Persipura Jayapura
+Partidas: 39 | Gols: 24
+
+28
+00:02:53,600 --> 00:03:00,200
+Ian Kabes (Indonesia) - Persipura Jayapura
+Partidas: 256 | Gols: 27 | Assistências: 17
+
+29
+00:03:00,200 --> 00:03:06,800
+Yohanes Pahabol (Indonesia) - Persipura Jayapura
+Partidas: 135 | Gols: 30 | Assistências: 16
+
+30
+00:03:06,800 --> 00:03:13,400
+Ramai Rumakiek (Indonesia) - Persipura Jayapura
+Partidas: 53 | Gols: 37 | Assistências: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Boaz Solossa (Indonesia) - Persipura Jayapura
+Partidas: 209 | Gols: 98 | Assistências: 32
+

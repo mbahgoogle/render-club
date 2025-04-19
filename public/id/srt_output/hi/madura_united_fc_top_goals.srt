@@ -1,0 +1,149 @@
+1
+00:00:00,000 --> 00:00:02,000
+Madura United FC सभी समय के शीर्ष गोल स्कोरर
+
+2
+00:00:02,000 --> 00:00:08,600
+Youssef Ezzejjari (Spain) - Madura United FC
+प्रदर्शन: 11 | गोल: 4 | असिस्ट: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Beto (Brazil) - Madura United FC
+प्रदर्शन: 17 | गोल: 4 | असिस्ट: 3
+
+4
+00:00:15,200 --> 00:00:21,800
+Beto (Brazil) - Madura United FC
+प्रदर्शन: 17 | गोल: 4 | असिस्ट: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Maxuel Cássio (Brazil) - Madura United FC
+प्रदर्शन: 21 | गोल: 4 | असिस्ट: 3
+
+6
+00:00:28,400 --> 00:00:35,000
+Fachruddin Aryanto (Indonesia) - Madura United FC
+प्रदर्शन: 145 | गोल: 4 | असिस्ट: 3
+
+7
+00:00:35,000 --> 00:00:41,600
+Andi Irfan (Indonesia) - Madura United FC
+प्रदर्शन: 26 | गोल: 4 | असिस्ट: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Andik Vermansyah (Indonesia) - Madura United FC
+प्रदर्शन: 32 | गोल: 4 | असिस्ट: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Renan Silva (Brazil) - Madura United FC
+प्रदर्शन: 12 | गोल: 4
+
+10
+00:00:54,800 --> 00:01:01,400
+David Laly (Indonesia) - Madura United FC
+प्रदर्शन: 61 | गोल: 5 | असिस्ट: 6
+
+11
+00:01:01,400 --> 00:01:08,000
+Dane Milovanovic (Australia) - Madura United FC
+प्रदर्शन: 24 | गोल: 5 | असिस्ट: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Dalberto (Brazil) - Madura United FC
+प्रदर्शन: 17 | गोल: 6 | असिस्ट: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Engelberd Sani (Indonesia) - Madura United FC
+प्रदर्शन: 79 | गोल: 6 | असिस्ट: 3
+
+14
+00:01:21,200 --> 00:01:27,800
+Mamadou Samassa (Mali) - Madura United FC
+प्रदर्शन: 13 | गोल: 6 | असिस्ट: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Jaime (Brazil) - Madura United FC
+प्रदर्शन: 76 | गोल: 6 | असिस्ट: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Rafael Silva (Brazil) - Madura United FC
+प्रदर्शन: 12 | गोल: 6
+
+17
+00:01:41,000 --> 00:01:47,600
+Zah Rahan Krangar (Liberia) - Madura United FC
+प्रदर्शन: 39 | गोल: 6 | असिस्ट: 12
+
+18
+00:01:47,600 --> 00:01:54,200
+Junior Brandão (Brazil) - Madura United FC
+प्रदर्शन: 20 | गोल: 9 | असिस्ट: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Francisco Rivera (Mexico) - Madura United FC
+प्रदर्शन: 36 | गोल: 9 | असिस्ट: 18
+
+20
+00:02:00,800 --> 00:02:07,400
+Pablo Rodríguez (Spain) - Madura United FC
+प्रदर्शन: 10 | गोल: 9 | असिस्ट: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Bayu Gatra (Indonesia) - Madura United FC
+प्रदर्शन: 153 | गोल: 12 | असिस्ट: 23
+
+22
+00:02:14,000 --> 00:02:20,600
+Fabiano Beltrame (Indonesia) - Madura United FC
+प्रदर्शन: 72 | गोल: 12
+
+23
+00:02:20,600 --> 00:02:27,200
+Peter Odemwingie (Nigeria) - Madura United FC
+प्रदर्शन: 23 | गोल: 15 | असिस्ट: 8
+
+24
+00:02:27,200 --> 00:02:33,800
+Malik Risaldi (Indonesia) - Madura United FC
+प्रदर्शन: 66 | गोल: 16 | असिस्ट: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Aleksandar Rakic (Serbia) - Madura United FC
+प्रदर्शन: 41 | गोल: 20 | असिस्ट: 10
+
+26
+00:02:40,400 --> 00:02:47,000
+Slamet Nurcahyono (Indonesia) - Madura United FC
+प्रदर्शन: 174 | गोल: 21 | असिस्ट: 20
+
+27
+00:02:47,000 --> 00:02:53,600
+Greg Nwokolo (Indonesia) - Madura United FC
+प्रदर्शन: 89 | गोल: 25 | असिस्ट: 20
+
+28
+00:02:53,600 --> 00:03:00,200
+Jajá (Brazil) - Madura United FC
+प्रदर्शन: 103 | गोल: 25 | असिस्ट: 14
+
+29
+00:03:00,200 --> 00:03:06,800
+Lulinha (Brazil) - Madura United FC
+प्रदर्शन: 83 | गोल: 30 | असिस्ट: 12
+
+30
+00:03:06,800 --> 00:03:13,400
+Beto (Indonesia) - Madura United FC
+प्रदर्शन: 105 | गोल: 47 | असिस्ट: 18
+

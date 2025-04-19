@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PERSIS Solo 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Alfath Faathier (Indonesia) - PERSIS Solo
+出場数: 34 | ゴール: 1 | アシスト: 3
+
+3
+00:00:08,600 --> 00:00:15,200
+Fransiskus Alesandro (Indonesia) - PERSIS Solo
+出場数: 11 | ゴール: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Cleylton (Brazil) - PERSIS Solo
+出場数: 7 | ゴール: 1 | アシスト: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Sunarto (Indonesia) - PERSIS Solo
+出場数: 1 | ゴール: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Sho Yamamoto (Japan) - PERSIS Solo
+出場数: 45 | ゴール: 2 | アシスト: 8
+
+7
+00:00:35,000 --> 00:00:41,600
+Jaime (Brazil) - PERSIS Solo
+出場数: 54 | ゴール: 2 | アシスト: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Zanadin Fariz (Indonesia) - PERSIS Solo
+出場数: 36 | ゴール: 2 | アシスト: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Muhammad Isa (Indonesia) - PERSIS Solo
+出場数: 6 | ゴール: 2
+
+10
+00:00:54,800 --> 00:01:01,400
+Iman Budi (Indonesia) - PERSIS Solo
+出場数: 8 | ゴール: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Jhon Cley (Brazil) - PERSIS Solo
+出場数: 9 | ゴール: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Karim Rossi (Switzerland) - PERSIS Solo
+出場数: 24 | ゴール: 2 | アシスト: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Miftahul Hamdi (Indonesia) - PERSIS Solo
+出場数: 15 | ゴール: 2 | アシスト: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Ricardo Lima (Brazil) - PERSIS Solo
+出場数: 12 | ゴール: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Eky Taufik (Indonesia) - PERSIS Solo
+出場数: 86 | ゴール: 3 | アシスト: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Sutanto Tan (Indonesia) - PERSIS Solo
+出場数: 78 | ゴール: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Lautaro Belleggia (Argentina) - PERSIS Solo
+出場数: 10 | ゴール: 3 | アシスト: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Irfan Jauhari (Indonesia) - PERSIS Solo
+出場数: 63 | ゴール: 4 | アシスト: 4
+
+19
+00:01:54,200 --> 00:02:00,800
+Fabiano Beltrame (Indonesia) - PERSIS Solo
+出場数: 35 | ゴール: 4 | アシスト: 1
+
+20
+00:02:00,800 --> 00:02:07,400
+Rivaldi Bawuo (Indonesia) - PERSIS Solo
+出場数: 12 | ゴール: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Irfan Bachdim (Indonesia) - PERSIS Solo
+出場数: 27 | ゴール: 4 | アシスト: 4
+
+22
+00:02:14,000 --> 00:02:20,600
+Ferdinan Sinaga (Indonesia) - PERSIS Solo
+出場数: 41 | ゴール: 5 | アシスト: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Samsul Arif (Indonesia) - PERSIS Solo
+出場数: 33 | ゴール: 5 | アシスト: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Althaf Alrizky (Indonesia) - PERSIS Solo
+出場数: 74 | ゴール: 5 | アシスト: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Roni (Spain) - PERSIS Solo
+出場数: 33 | ゴール: 7 | アシスト: 8
+
+26
+00:02:40,400 --> 00:02:47,000
+Ryo Matsumura (Japan) - PERSIS Solo
+出場数: 28 | ゴール: 11 | アシスト: 6
+
+27
+00:02:47,000 --> 00:02:53,600
+Beto Gonçalves (Indonesia) - PERSIS Solo
+出場数: 14 | ゴール: 11 | アシスト: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Alexis Messidoro (Argentina) - PERSIS Solo
+出場数: 67 | ゴール: 14 | アシスト: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Ramadhan Sananta (Indonesia) - PERSIS Solo
+出場数: 51 | ゴール: 15 | アシスト: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Fernando Rodríguez (Spain) - PERSIS Solo
+出場数: 40 | ゴール: 17 | アシスト: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Moussa Sidibé (Mali) - PERSIS Solo
+出場数: 54 | ゴール: 19 | アシスト: 9
+

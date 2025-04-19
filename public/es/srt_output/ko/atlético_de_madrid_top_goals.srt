@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Atlético de Madrid 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+José Luis Caminero (Spain) - Atlético de Madrid
+출전: 185 | 골: 48 | 도움: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Negro Cabrera (Argentina) - Atlético de Madrid
+출전: 151 | 골: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Futre (Portugal) - Atlético de Madrid
+출전: 209 | 골: 51 | 도움: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Rubén Ayala (Argentina) - Atlético de Madrid
+출전: 203 | 골: 57
+
+6
+00:00:28,400 --> 00:00:35,000
+Larbi Ben Barek (Morocco) - Atlético de Madrid
+출전: 117 | 골: 58 | 도움: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Álvaro Morata (Spain) - Atlético de Madrid
+출전: 154 | 골: 58 | 도움: 14
+
+8
+00:00:41,600 --> 00:00:48,200
+Roberto Marina (Spain) - Atlético de Madrid
+출전: 295 | 골: 58 | 도움: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Baltazar (Brazil) - Atlético de Madrid
+출전: 90 | 골: 60
+
+10
+00:00:54,800 --> 00:01:01,400
+Javier Irureta (Spain) - Atlético de Madrid
+출전: 257 | 골: 60
+
+11
+00:01:01,400 --> 00:01:08,000
+Kiko Narváez (Spain) - Atlético de Madrid
+출전: 277 | 골: 64 | 도움: 13
+
+12
+00:01:08,000 --> 00:01:14,600
+Miguel González (Spain) - Atlético de Madrid
+출전: 233 | 골: 68 | 도움: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Radamel Falcao (Colombia) - Atlético de Madrid
+출전: 91 | 골: 70 | 도움: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Hugo Sánchez (Mexico) - Atlético de Madrid
+출전: 150 | 골: 75
+
+15
+00:01:27,800 --> 00:01:34,400
+José Juncosa (Spain) - Atlético de Madrid
+출전: 194 | 골: 82 | 도움: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Diego Costa (Spain) - Atlético de Madrid
+출전: 216 | 골: 83 | 도움: 36
+
+17
+00:01:41,000 --> 00:01:47,600
+Jorge Mendonça (Portugal) - Atlético de Madrid
+출전: 217 | 골: 83
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Correa (Argentina) - Atlético de Madrid
+출전: 460 | 골: 87 | 도움: 65
+
+19
+00:01:54,200 --> 00:02:00,800
+Enrique Collar (Spain) - Atlético de Madrid
+출전: 415 | 골: 89 | 도움: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Rubén Cano (Spain) - Atlético de Madrid
+출전: 190 | 골: 90
+
+21
+00:02:07,400 --> 00:02:14,000
+Manolo (Spain) - Atlético de Madrid
+출전: 267 | 골: 92 | 도움: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Diego Forlán (Uruguay) - Atlético de Madrid
+출전: 198 | 골: 96 | 도움: 31
+
+23
+00:02:20,600 --> 00:02:27,200
+Adelardo (Spain) - Atlético de Madrid
+출전: 500 | 골: 98
+
+24
+00:02:27,200 --> 00:02:33,800
+Sergio Agüero (Argentina) - Atlético de Madrid
+출전: 234 | 골: 101 | 도움: 47
+
+25
+00:02:33,800 --> 00:02:40,400
+Joaquín Peiró (Spain) - Atlético de Madrid
+출전: 193 | 골: 113
+
+26
+00:02:40,400 --> 00:02:47,000
+Paco Campos (Spain) - Atlético de Madrid
+출전: 206 | 골: 123
+
+27
+00:02:47,000 --> 00:02:53,600
+José Eulogio Gárate (Spain) - Atlético de Madrid
+출전: 299 | 골: 125 | 도움: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Fernando Torres (Spain) - Atlético de Madrid
+출전: 403 | 골: 129 | 도움: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Adrián Escudero (Spain) - Atlético de Madrid
+출전: 293 | 골: 153 | 도움: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Luis Aragonés (Spain) - Atlético de Madrid
+출전: 332 | 골: 158
+
+31
+00:03:13,400 --> 00:03:20,000
+Antoine Griezmann (France) - Atlético de Madrid
+출전: 433 | 골: 197 | 도움: 91
+

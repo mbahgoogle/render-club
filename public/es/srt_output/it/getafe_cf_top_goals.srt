@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Getafe CF Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Alexis Ruano (Spain) - Getafe CF
+Presenze: 152 | Gol: 10 | Assist: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Mason Greenwood (England) - Getafe CF
+Presenze: 36 | Gol: 10 | Assist: 6
+
+4
+00:00:15,200 --> 00:00:21,800
+Maikel (Spain) - Getafe CF
+Presenze: 28 | Gol: 10
+
+5
+00:00:21,800 --> 00:00:28,400
+Dani Parejo (Spain) - Getafe CF
+Presenze: 80 | Gol: 11 | Assist: 11
+
+6
+00:00:28,400 --> 00:00:35,000
+Pedro Ríos (Spain) - Getafe CF
+Presenze: 84 | Gol: 13 | Assist: 8
+
+7
+00:00:35,000 --> 00:00:41,600
+Esteban Granero (Spain) - Getafe CF
+Presenze: 79 | Gol: 13 | Assist: 9
+
+8
+00:00:41,600 --> 00:00:48,200
+Veljko Paunovic (Serbia) - Getafe CF
+Presenze: 52 | Gol: 14
+
+9
+00:00:48,200 --> 00:00:54,800
+Riki (Spain) - Getafe CF
+Presenze: 62 | Gol: 14
+
+10
+00:00:54,800 --> 00:01:01,400
+Mauro Arambarri (Uruguay) - Getafe CF
+Presenze: 222 | Gol: 14 | Assist: 12
+
+11
+00:01:01,400 --> 00:01:08,000
+Mariano Pernía (Spain) - Getafe CF
+Presenze: 73 | Gol: 14
+
+12
+00:01:08,000 --> 00:01:14,600
+Ikechukwu Uche (Nigeria) - Getafe CF
+Presenze: 65 | Gol: 14 | Assist: 7
+
+13
+00:01:14,600 --> 00:01:21,200
+Ángel Lafita (Spain) - Getafe CF
+Presenze: 93 | Gol: 15 | Assist: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Sergio Pachón (Spain) - Getafe CF
+Presenze: 79 | Gol: 15
+
+15
+00:01:27,800 --> 00:01:34,400
+Pablo Sarabia (Spain) - Getafe CF
+Presenze: 146 | Gol: 15 | Assist: 20
+
+16
+00:01:34,400 --> 00:01:41,000
+Jaime Gavilán (Spain) - Getafe CF
+Presenze: 207 | Gol: 16 | Assist: 26
+
+17
+00:01:41,000 --> 00:01:47,600
+Álvaro Vázquez (Spain) - Getafe CF
+Presenze: 94 | Gol: 19 | Assist: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Adrián Colunga (Spain) - Getafe CF
+Presenze: 98 | Gol: 19 | Assist: 8
+
+19
+00:01:54,200 --> 00:02:00,800
+Diego Castro (Spain) - Getafe CF
+Presenze: 137 | Gol: 19 | Assist: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Juan Albín (Uruguay) - Getafe CF
+Presenze: 149 | Gol: 22 | Assist: 17
+
+21
+00:02:07,400 --> 00:02:14,000
+Pedro León (Spain) - Getafe CF
+Presenze: 188 | Gol: 25 | Assist: 39
+
+22
+00:02:14,000 --> 00:02:20,600
+Javi Casquero (Spain) - Getafe CF
+Presenze: 231 | Gol: 28 | Assist: 9
+
+23
+00:02:20,600 --> 00:02:27,200
+Miku (Venezuela) - Getafe CF
+Presenze: 108 | Gol: 28 | Assist: 9
+
+24
+00:02:27,200 --> 00:02:33,800
+Dani Güiza (Spain) - Getafe CF
+Presenze: 104 | Gol: 30 | Assist: 2
+
+25
+00:02:33,800 --> 00:02:40,400
+Roberto Soldado (Spain) - Getafe CF
+Presenze: 66 | Gol: 33 | Assist: 5
+
+26
+00:02:40,400 --> 00:02:47,000
+Enes Ünal (Türkiye) - Getafe CF
+Presenze: 109 | Gol: 36 | Assist: 10
+
+27
+00:02:47,000 --> 00:02:53,600
+Borja Mayoral (Spain) - Getafe CF
+Presenze: 105 | Gol: 37 | Assist: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Manu del Moral (Spain) - Getafe CF
+Presenze: 195 | Gol: 39 | Assist: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Jaime Mata (Spain) - Getafe CF
+Presenze: 196 | Gol: 46 | Assist: 14
+
+30
+00:03:06,800 --> 00:03:13,400
+Ángel Rodríguez (Spain) - Getafe CF
+Presenze: 153 | Gol: 46 | Assist: 10
+
+31
+00:03:13,400 --> 00:03:20,000
+Jorge Molina (Spain) - Getafe CF
+Presenze: 163 | Gol: 52 | Assist: 21
+

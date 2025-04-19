@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Angers SCO 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Albert Poli (Italy) - Angers SCO
+출전: 280 | 골: 24
+
+3
+00:00:08,600 --> 00:00:15,200
+Karl Toko Ekambi (Cameroon) - Angers SCO
+출전: 72 | 골: 25 | 도움: 11
+
+4
+00:00:15,200 --> 00:00:21,800
+Joël Pillard (France) - Angers SCO
+출전: 68 | 골: 26
+
+5
+00:00:21,800 --> 00:00:28,400
+Jean-Paul Gaidoz (France) - Angers SCO
+출전: 105 | 골: 26
+
+6
+00:00:28,400 --> 00:00:35,000
+Paul Alo'o Efoulou (Cameroon) - Angers SCO
+출전: 74 | 골: 27 | 도움: 10
+
+7
+00:00:35,000 --> 00:00:41,600
+Alphonse Le Gall (France) - Angers SCO
+출전: 213 | 골: 28
+
+8
+00:00:41,600 --> 00:00:48,200
+Jean-Pierre Thomas (France) - Angers SCO
+출전: 66 | 골: 28
+
+9
+00:00:48,200 --> 00:00:54,800
+Stéphane Bahoken (Cameroon) - Angers SCO
+출전: 120 | 골: 28 | 도움: 7
+
+10
+00:00:54,800 --> 00:01:01,400
+Charles Diers (France) - Angers SCO
+출전: 268 | 골: 30 | 도움: 20
+
+11
+00:01:01,400 --> 00:01:08,000
+Thomas Mangani (France) - Angers SCO
+출전: 257 | 골: 30 | 도움: 29
+
+12
+00:01:08,000 --> 00:01:14,600
+Gaëtan Charbonnier (France) - Angers SCO
+출전: 107 | 골: 31 | 도움: 12
+
+13
+00:01:14,600 --> 00:01:21,200
+Vladimir Kovacevic (Serbia) - Angers SCO
+출전: 75 | 골: 33
+
+14
+00:01:21,200 --> 00:01:27,800
+Yvan Roy (France) - Angers SCO
+출전: 136 | 골: 33
+
+15
+00:01:27,800 --> 00:01:34,400
+Marcel Loncle (France) - Angers SCO
+출전: 150 | 골: 35
+
+16
+00:01:34,400 --> 00:01:41,000
+Jean Deloffre (France) - Angers SCO
+출전: 123 | 골: 37
+
+17
+00:01:41,000 --> 00:01:47,600
+Claude Dubaële (France) - Angers SCO
+출전: 112 | 골: 37
+
+18
+00:01:47,600 --> 00:01:54,200
+Fabrice Do Marcolino (Gabon) - Angers SCO
+출전: 108 | 골: 37 | 도움: 3
+
+19
+00:01:54,200 --> 00:02:00,800
+Cédric Daury (France) - Angers SCO
+출전: 142 | 골: 37 | 도움: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Robert Lamartine (France) - Angers SCO
+출전: 105 | 골: 38
+
+21
+00:02:07,400 --> 00:02:14,000
+Jean-Pierre Dogliani (France) - Angers SCO
+출전: 152 | 골: 39
+
+22
+00:02:14,000 --> 00:02:20,600
+Michel Margottin (France) - Angers SCO
+출전: 91 | 골: 41
+
+23
+00:02:20,600 --> 00:02:27,200
+Patrice Sauvaget (France) - Angers SCO
+출전: 139 | 골: 42
+
+24
+00:02:27,200 --> 00:02:33,800
+Claudiu Keerü (Romania) - Angers SCO
+출전: 127 | 골: 42 | 도움: 18
+
+25
+00:02:33,800 --> 00:02:40,400
+Bosko Antic (Serbia) - Angers SCO
+출전: 116 | 골: 46
+
+26
+00:02:40,400 --> 00:02:47,000
+Ignace Wognin (Cote d'Ivoire) - Angers SCO
+출전: 141 | 골: 59
+
+27
+00:02:47,000 --> 00:02:53,600
+Michel Stievenard (France) - Angers SCO
+출전: 272 | 골: 70
+
+28
+00:02:53,600 --> 00:03:00,200
+Éric Edwige (France) - Angers SCO
+출전: 297 | 골: 70
+
+29
+00:03:00,200 --> 00:03:06,800
+Marc Berdoll (France) - Angers SCO
+출전: 203 | 골: 87
+
+30
+00:03:06,800 --> 00:03:13,400
+Christophe Lagrange (France) - Angers SCO
+출전: 203 | 골: 93 | 도움: 6
+
+31
+00:03:13,400 --> 00:03:20,000
+Stéphane Bruey (France) - Angers SCO
+출전: 285 | 골: 107
+

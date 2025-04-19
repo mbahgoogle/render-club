@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Tottenham Hotspur Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Tommy Harmer (England) - Tottenham Hotspur
+Матчи: 219 | Голы: 51 | Голевые передачи: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Dave Mackay (Scotland) - Tottenham Hotspur
+Матчи: 320 | Голы: 52 | Голевые передачи: 19
+
+4
+00:00:15,200 --> 00:00:21,800
+Sonny Walters (England) - Tottenham Hotspur
+Матчи: 169 | Голы: 54
+
+5
+00:00:21,800 --> 00:00:28,400
+Les Bennett (England) - Tottenham Hotspur
+Матчи: 141 | Голы: 55
+
+6
+00:00:28,400 --> 00:00:35,000
+Terry Dyson (England) - Tottenham Hotspur
+Матчи: 208 | Голы: 56 | Голевые передачи: 28
+
+7
+00:00:35,000 --> 00:00:41,600
+George Robb (England) - Tottenham Hotspur
+Матчи: 193 | Голы: 57 | Голевые передачи: 2
+
+8
+00:00:41,600 --> 00:00:48,200
+Chris Armstrong (England) - Tottenham Hotspur
+Матчи: 173 | Голы: 62 | Голевые передачи: 9
+
+9
+00:00:48,200 --> 00:00:54,800
+Les Allen (England) - Tottenham Hotspur
+Матчи: 137 | Голы: 63 | Голевые передачи: 38
+
+10
+00:00:54,800 --> 00:01:01,400
+Dele Alli (England) - Tottenham Hotspur
+Матчи: 269 | Голы: 67 | Голевые передачи: 55
+
+11
+00:01:01,400 --> 00:01:08,000
+Christian Eriksen (Denmark) - Tottenham Hotspur
+Матчи: 305 | Голы: 69 | Голевые передачи: 88
+
+12
+00:01:08,000 --> 00:01:14,600
+Terry Medwin (Wales) - Tottenham Hotspur
+Матчи: 213 | Голы: 70 | Голевые передачи: 13
+
+13
+00:01:14,600 --> 00:01:21,200
+Garth Crooks (England) - Tottenham Hotspur
+Матчи: 174 | Голы: 70 | Голевые передачи: 12
+
+14
+00:01:21,200 --> 00:01:27,800
+Martin Peters (England) - Tottenham Hotspur
+Матчи: 249 | Голы: 71 | Голевые передачи: 3
+
+15
+00:01:27,800 --> 00:01:34,400
+Gareth Bale (Wales) - Tottenham Hotspur
+Матчи: 237 | Голы: 71 | Голевые передачи: 53
+
+16
+00:01:34,400 --> 00:01:41,000
+Steve Archibald (Scotland) - Tottenham Hotspur
+Матчи: 184 | Голы: 75 | Голевые передачи: 15
+
+17
+00:01:41,000 --> 00:01:47,600
+Len Duquemin (Guernsey) - Tottenham Hotspur
+Матчи: 182 | Голы: 76
+
+18
+00:01:47,600 --> 00:01:54,200
+Gary Lineker (England) - Tottenham Hotspur
+Матчи: 139 | Голы: 80 | Голевые передачи: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Clive Allen (England) - Tottenham Hotspur
+Матчи: 133 | Голы: 82 | Голевые передачи: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Mark Falco (England) - Tottenham Hotspur
+Матчи: 224 | Голы: 89 | Голевые передачи: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+Glenn Hoddle (England) - Tottenham Hotspur
+Матчи: 435 | Голы: 96 | Голевые передачи: 50
+
+22
+00:02:14,000 --> 00:02:20,600
+Robbie Keane (Ireland) - Tottenham Hotspur
+Матчи: 306 | Голы: 122 | Голевые передачи: 39
+
+23
+00:02:20,600 --> 00:02:27,200
+Teddy Sheringham (England) - Tottenham Hotspur
+Матчи: 277 | Голы: 125 | Голевые передачи: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Alan Gilzean (Scotland) - Tottenham Hotspur
+Матчи: 424 | Голы: 128 | Голевые передачи: 19
+
+25
+00:02:33,800 --> 00:02:40,400
+Jermain Defoe (England) - Tottenham Hotspur
+Матчи: 363 | Голы: 143 | Голевые передачи: 29
+
+26
+00:02:40,400 --> 00:02:47,000
+Cliff Jones (Wales) - Tottenham Hotspur
+Матчи: 377 | Голы: 159 | Голевые передачи: 36
+
+27
+00:02:47,000 --> 00:02:53,600
+Martin Chivers (England) - Tottenham Hotspur
+Матчи: 349 | Голы: 167 | Голевые передачи: 10
+
+28
+00:02:53,600 --> 00:03:00,200
+Heung-min Son (Korea, South) - Tottenham Hotspur
+Матчи: 449 | Голы: 173 | Голевые передачи: 96
+
+29
+00:03:00,200 --> 00:03:06,800
+Bobby Smith (England) - Tottenham Hotspur
+Матчи: 316 | Голы: 211 | Голевые передачи: 31
+
+30
+00:03:06,800 --> 00:03:13,400
+Jimmy Greaves (England) - Tottenham Hotspur
+Матчи: 376 | Голы: 266 | Голевые передачи: 45
+
+31
+00:03:13,400 --> 00:03:20,000
+Harry Kane (England) - Tottenham Hotspur
+Матчи: 435 | Голы: 280 | Голевые передачи: 61
+

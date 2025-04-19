@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persita Tangerang Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Ryuji Utomo (Indonesia) - Persita Tangerang
+Apparitions: 15 | Buts: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Jalwandi Jamal (Indonesia) - Persita Tangerang
+Apparitions: 7 | Buts: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Aldi Al Achya (Indonesia) - Persita Tangerang
+Apparitions: 29 | Buts: 2 | Passes décisives: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Kasim Botan (Indonesia) - Persita Tangerang
+Apparitions: 17 | Buts: 2 | Passes décisives: 3
+
+6
+00:00:28,400 --> 00:00:35,000
+Mohcine Hassan (Morocco) - Persita Tangerang
+Apparitions: 11 | Buts: 2 | Passes décisives: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Fahreza Sudin (Indonesia) - Persita Tangerang
+Apparitions: 87 | Buts: 3 | Passes décisives: 3
+
+8
+00:00:41,600 --> 00:00:48,200
+Javlon Guseynov (Uzbekistan) - Persita Tangerang
+Apparitions: 66 | Buts: 3 | Passes décisives: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Éber Bessa (Brazil) - Persita Tangerang
+Apparitions: 7 | Buts: 3 | Passes décisives: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Dong-chan Kim (Korea, South) - Persita Tangerang
+Apparitions: 30 | Buts: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Elisa Basna (Indonesia) - Persita Tangerang
+Apparitions: 27 | Buts: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Andre Agustiar Prakoso (Indonesia) - Persita Tangerang
+Apparitions: 24 | Buts: 3 | Passes décisives: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Christian Rontini (Philippines) - Persita Tangerang
+Apparitions: 29 | Buts: 3 | Passes décisives: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Taylon Nicolas Correa Marcolino (Brazil) - Persita Tangerang
+Apparitions: 14 | Buts: 4 | Passes décisives: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Mohammad Edo Febriansah (Indonesia) - Persita Tangerang
+Apparitions: 28 | Buts: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Ade Jantra (Indonesia) - Persita Tangerang
+Apparitions: 58 | Buts: 5 | Passes décisives: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Sin-young Bae (Korea, South) - Persita Tangerang
+Apparitions: 118 | Buts: 5 | Passes décisives: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Luis Edmundo Durán Riquelme (Chile) - Persita Tangerang
+Apparitions: 46 | Buts: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Chandra Waskito Kusumawardana (Indonesia) - Persita Tangerang
+Apparitions: 24 | Buts: 6 | Passes décisives: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Ahmad Nur Hardianto (Indonesia) - Persita Tangerang
+Apparitions: 47 | Buts: 7 | Passes décisives: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Harrison (Brazil) - Persita Tangerang
+Apparitions: 23 | Buts: 7 | Passes décisives: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Rifky Dwi Septiawan (Indonesia) - Persita Tangerang
+Apparitions: 61 | Buts: 7 | Passes décisives: 3
+
+23
+00:02:20,600 --> 00:02:27,200
+Mochammad Wildan Ramdhani Nugraha (Indonesia) - Persita Tangerang
+Apparitions: 31 | Buts: 7 | Passes décisives: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Kenji Adachihara (Japan) - Persita Tangerang
+Apparitions: 19 | Buts: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Esal Sahrul Muhrom (Indonesia) - Persita Tangerang
+Apparitions: 36 | Buts: 8 | Passes décisives: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Marios Ogboe (Greece) - Persita Tangerang
+Apparitions: 23 | Buts: 8
+
+27
+00:02:47,000 --> 00:02:53,600
+Irsyad Maulana (Indonesia) - Persita Tangerang
+Apparitions: 77 | Buts: 10 | Passes décisives: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Cristian Carrasco (Indonesia) - Persita Tangerang
+Apparitions: 46 | Buts: 15
+
+29
+00:03:00,200 --> 00:03:06,800
+Norberto Ezequiel Vidal (Argentina) - Persita Tangerang
+Apparitions: 63 | Buts: 17 | Passes décisives: 14
+
+30
+00:03:06,800 --> 00:03:13,400
+Sirvi Arvani (Indonesia) - Persita Tangerang
+Apparitions: 69 | Buts: 19 | Passes décisives: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Ramiro Fergonzi (Argentina) - Persita Tangerang
+Apparitions: 68 | Buts: 23 | Passes décisives: 13
+

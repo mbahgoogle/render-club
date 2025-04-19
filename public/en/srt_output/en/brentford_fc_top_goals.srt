@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Brentford FC All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Jonathan Douglas (Ireland) - Brentford FC
+Appearances: 187 | Goals: 17 | Assists: 11
+
+3
+00:00:08,600 --> 00:00:15,200
+Ben Burgess (Ireland) - Brentford FC
+Appearances: 45 | Goals: 17
+
+4
+00:00:15,200 --> 00:00:21,800
+Marcus Forss (Finland) - Brentford FC
+Appearances: 74 | Goals: 19 | Assists: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Isaiah Rankin (England) - Brentford FC
+Appearances: 94 | Goals: 19 | Assists: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Andre Gray (Jamaica) - Brentford FC
+Appearances: 52 | Goals: 20 | Assists: 7
+
+7
+00:00:35,000 --> 00:00:41,600
+Robert Taylor (England) - Brentford FC
+Appearances: 69 | Goals: 21
+
+8
+00:00:41,600 --> 00:00:48,200
+Glenn Poole (England) - Brentford FC
+Appearances: 78 | Goals: 21 | Assists: 5
+
+9
+00:00:48,200 --> 00:00:54,800
+Scott Hogan (Ireland) - Brentford FC
+Appearances: 36 | Goals: 21 | Assists: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Jay Tabb (Ireland) - Brentford FC
+Appearances: 147 | Goals: 22 | Assists: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Josh Dasilva (England) - Brentford FC
+Appearances: 157 | Goals: 22 | Assists: 12
+
+12
+00:01:08,000 --> 00:01:14,600
+Jota Peleteiro (Spain) - Brentford FC
+Appearances: 78 | Goals: 23 | Assists: 11
+
+13
+00:01:14,600 --> 00:01:21,200
+Marcello Trotta (Italy) - Brentford FC
+Appearances: 69 | Goals: 23 | Assists: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Andy Scott (England) - Brentford FC
+Appearances: 92 | Goals: 25
+
+15
+00:01:27,800 --> 00:01:34,400
+Alan Judge (Ireland) - Brentford FC
+Appearances: 140 | Goals: 26 | Assists: 31
+
+16
+00:01:34,400 --> 00:01:41,000
+Gary Alexander (England) - Brentford FC
+Appearances: 77 | Goals: 26 | Assists: 5
+
+17
+00:01:41,000 --> 00:01:47,600
+Paul Evans (Wales) - Brentford FC
+Appearances: 125 | Goals: 28
+
+18
+00:01:47,600 --> 00:01:54,200
+Stephen Hunt (Ireland) - Brentford FC
+Appearances: 149 | Goals: 28
+
+19
+00:01:54,200 --> 00:02:00,800
+Saïd Benrahma (Algeria) - Brentford FC
+Appearances: 94 | Goals: 30 | Assists: 26
+
+20
+00:02:00,800 --> 00:02:07,400
+Sam Saunders (England) - Brentford FC
+Appearances: 206 | Goals: 30 | Assists: 32
+
+21
+00:02:07,400 --> 00:02:14,000
+Sergi Canós (Spain) - Brentford FC
+Appearances: 249 | Goals: 36 | Assists: 32
+
+22
+00:02:14,000 --> 00:02:20,600
+Lasse Vibe (Denmark) - Brentford FC
+Appearances: 97 | Goals: 37 | Assists: 13
+
+23
+00:02:20,600 --> 00:02:27,200
+Kevin O'Connor (Ireland) - Brentford FC
+Appearances: 481 | Goals: 41 | Assists: 6
+
+24
+00:02:27,200 --> 00:02:33,800
+Yoane Wissa (DR Congo) - Brentford FC
+Appearances: 141 | Goals: 44 | Assists: 10
+
+25
+00:02:33,800 --> 00:02:40,400
+Charlie MacDonald (England) - Brentford FC
+Appearances: 127 | Goals: 45 | Assists: 19
+
+26
+00:02:40,400 --> 00:02:47,000
+Ollie Watkins (England) - Brentford FC
+Appearances: 143 | Goals: 49 | Assists: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Neal Maupay (France) - Brentford FC
+Appearances: 126 | Goals: 49 | Assists: 17
+
+28
+00:02:53,600 --> 00:03:00,200
+Clayton Donaldson (Jamaica) - Brentford FC
+Appearances: 155 | Goals: 53 | Assists: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Lloyd Owusu (Ghana) - Brentford FC
+Appearances: 181 | Goals: 59 | Assists: 5
+
+30
+00:03:06,800 --> 00:03:13,400
+Bryan Mbeumo (Cameroon) - Brentford FC
+Appearances: 234 | Goals: 66 | Assists: 47
+
+31
+00:03:13,400 --> 00:03:20,000
+Ivan Toney (England) - Brentford FC
+Appearances: 141 | Goals: 72 | Assists: 23
+

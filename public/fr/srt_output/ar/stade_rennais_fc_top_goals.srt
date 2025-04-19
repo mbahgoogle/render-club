@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Stade Rennais FC أفضل الهدافين عبر التاريخ
+
+2
+00:00:02,000 --> 00:00:08,600
+Marco Grassi (Switzerland) - Stade Rennais FC
+الظهور: 60 | الأهداف: 28 | التمريرات الحاسمة: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+John Utaka (Nigeria) - Stade Rennais FC
+الظهور: 75 | الأهداف: 28 | التمريرات الحاسمة: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Laurent Pokou (Cote d'Ivoire) - Stade Rennais FC
+الظهور: 56 | الأهداف: 29
+
+5
+00:00:21,800 --> 00:00:28,400
+M'Baye Niang (Senegal) - Stade Rennais FC
+الظهور: 92 | الأهداف: 30 | التمريرات الحاسمة: 6
+
+6
+00:00:28,400 --> 00:00:35,000
+Stéphane Guivarc'h (France) - Stade Rennais FC
+الظهور: 45 | الأهداف: 30
+
+7
+00:00:35,000 --> 00:00:41,600
+Amine Gouiri (Algeria) - Stade Rennais FC
+الظهور: 103 | الأهداف: 31 | التمريرات الحاسمة: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Robert Rico (France) - Stade Rennais FC
+الظهور: 165 | الأهداف: 36
+
+9
+00:00:48,200 --> 00:00:54,800
+Arnaud Kalimuendo (France) - Stade Rennais FC
+الظهور: 105 | الأهداف: 36 | التمريرات الحاسمة: 9
+
+10
+00:00:54,800 --> 00:01:01,400
+Adrien Hunou (France) - Stade Rennais FC
+الظهور: 160 | الأهداف: 36 | التمريرات الحاسمة: 5
+
+11
+00:01:01,400 --> 00:01:08,000
+Shabani Nonda (DR Congo) - Stade Rennais FC
+الظهور: 77 | الأهداف: 37
+
+12
+00:01:08,000 --> 00:01:14,600
+Marcel Loncle (France) - Stade Rennais FC
+الظهور: 155 | الأهداف: 37
+
+13
+00:01:14,600 --> 00:01:21,200
+Claude Dubaële (France) - Stade Rennais FC
+الظهور: 101 | الأهداف: 37
+
+14
+00:01:21,200 --> 00:01:27,800
+Olivier Monterrubio (France) - Stade Rennais FC
+الظهور: 216 | الأهداف: 41 | التمريرات الحاسمة: 33
+
+15
+00:01:27,800 --> 00:01:34,400
+Farès Bousdira (France) - Stade Rennais FC
+الظهور: 121 | الأهداف: 41
+
+16
+00:01:34,400 --> 00:01:41,000
+Laurent Delamontagne (France) - Stade Rennais FC
+الظهور: 213 | الأهداف: 42
+
+17
+00:01:41,000 --> 00:01:47,600
+Jimmy Briand (France) - Stade Rennais FC
+الظهور: 212 | الأهداف: 43 | التمريرات الحاسمة: 27
+
+18
+00:01:47,600 --> 00:01:54,200
+Jocelyn Gourvennec (France) - Stade Rennais FC
+الظهور: 179 | الأهداف: 43 | التمريرات الحاسمة: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Silvester Takac (Serbia) - Stade Rennais FC
+الظهور: 94 | الأهداف: 44
+
+20
+00:02:00,800 --> 00:02:07,400
+Sylvain Wiltord (France) - Stade Rennais FC
+الظهور: 178 | الأهداف: 45 | التمريرات الحاسمة: 7
+
+21
+00:02:07,400 --> 00:02:14,000
+Hervé Guermeur (France) - Stade Rennais FC
+الظهور: 204 | الأهداف: 46 | التمريرات الحاسمة: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Erik-Jan van den Boogaard (Netherlands) - Stade Rennais FC
+الظهور: 93 | الأهداف: 49
+
+23
+00:02:20,600 --> 00:02:27,200
+Mario Relmy (France) - Stade Rennais FC
+الظهور: 130 | الأهداف: 49
+
+24
+00:02:27,200 --> 00:02:33,800
+Martin Terrier (France) - Stade Rennais FC
+الظهور: 141 | الأهداف: 51 | التمريرات الحاسمة: 24
+
+25
+00:02:33,800 --> 00:02:40,400
+Alex Frei (Switzerland) - Stade Rennais FC
+الظهور: 117 | الأهداف: 52 | التمريرات الحاسمة: 3
+
+26
+00:02:40,400 --> 00:02:47,000
+Serge Lenoir (France) - Stade Rennais FC
+الظهور: 132 | الأهداف: 55
+
+27
+00:02:47,000 --> 00:02:53,600
+Benjamin Bourigeaud (France) - Stade Rennais FC
+الظهور: 311 | الأهداف: 66 | التمريرات الحاسمة: 66
+
+28
+00:02:53,600 --> 00:03:00,200
+Khennane Mahi (Algeria) - Stade Rennais FC
+الظهور: 179 | الأهداف: 70
+
+29
+00:03:00,200 --> 00:03:06,800
+Giovanni Pellegrini (France) - Stade Rennais FC
+الظهور: 176 | الأهداف: 78
+
+30
+00:03:06,800 --> 00:03:13,400
+Jean Grumellon (France) - Stade Rennais FC
+الظهور: 134 | الأهداف: 92
+
+31
+00:03:13,400 --> 00:03:20,000
+Daniel Rodighiero (France) - Stade Rennais FC
+الظهور: 228 | الأهداف: 125
+

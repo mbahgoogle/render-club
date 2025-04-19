@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Cagliari Calcio All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Mauricio Pinilla (Chile) - Cagliari Calcio
+Appearances: 67 | Goals: 25 | Assists: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Massimiliano Cappioli (Italy) - Cagliari Calcio
+Appearances: 155 | Goals: 25 | Assists: 0
+
+4
+00:00:15,200 --> 00:00:21,800
+Anderson Miguel da Silva (Brazil) - Cagliari Calcio
+Appearances: 129 | Goals: 26 | Assists: 6
+
+5
+00:00:21,800 --> 00:00:28,400
+Julio Dely Valdés (Panama) - Cagliari Calcio
+Appearances: 78 | Goals: 26 | Assists: 3
+
+6
+00:00:28,400 --> 00:00:35,000
+Gianfranco Zola (Italy) - Cagliari Calcio
+Appearances: 81 | Goals: 27 | Assists: 21
+
+7
+00:00:35,000 --> 00:00:41,600
+Fabrizio Cammarata (Italy) - Cagliari Calcio
+Appearances: 112 | Goals: 28 | Assists: 0
+
+8
+00:00:41,600 --> 00:00:48,200
+Roberto Boninsegna (Italy) - Cagliari Calcio
+Appearances: 103 | Goals: 29 | Assists: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Franco Selvaggi (Italy) - Cagliari Calcio
+Appearances: 97 | Goals: 29 | Assists: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Pietro Paolo Virdis (Italy) - Cagliari Calcio
+Appearances: 113 | Goals: 30 | Assists: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Ricciotti Greatti (Italy) - Cagliari Calcio
+Appearances: 315 | Goals: 30 | Assists: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Claudio Olinto de Carvalho (Brazil) - Cagliari Calcio
+Appearances: 377 | Goals: 31 | Assists: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Gianluca Lapadula (Peru) - Cagliari Calcio
+Appearances: 82 | Goals: 31 | Assists: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Giancarlo Mezzalira (Italy) - Cagliari Calcio
+Appearances: 141 | Goals: 32 | Assists: 0
+
+15
+00:01:27,800 --> 00:01:34,400
+Francesco Rizzo (Italy) - Cagliari Calcio
+Appearances: 175 | Goals: 33 | Assists: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Diego Farias (Brazil) - Cagliari Calcio
+Appearances: 142 | Goals: 33 | Assists: 28
+
+17
+00:01:41,000 --> 00:01:47,600
+Robert Acquafresca (Italy) - Cagliari Calcio
+Appearances: 110 | Goals: 35 | Assists: 4
+
+18
+00:01:47,600 --> 00:01:54,200
+Carlo Regalia (Italy) - Cagliari Calcio
+Appearances: 96 | Goals: 37 | Assists: 0
+
+19
+00:01:54,200 --> 00:02:00,800
+Alessandro Matri (Italy) - Cagliari Calcio
+Appearances: 131 | Goals: 38 | Assists: 11
+
+20
+00:02:00,800 --> 00:02:07,400
+Sergio Gori (Italy) - Cagliari Calcio
+Appearances: 207 | Goals: 39 | Assists: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Mario Brugnera (Italy) - Cagliari Calcio
+Appearances: 403 | Goals: 47 | Assists: 0
+
+22
+00:02:14,000 --> 00:02:20,600
+Marco Sau (Italy) - Cagliari Calcio
+Appearances: 202 | Goals: 49 | Assists: 21
+
+23
+00:02:20,600 --> 00:02:27,200
+Leonardo Pavoletti (Italy) - Cagliari Calcio
+Appearances: 211 | Goals: 51 | Assists: 8
+
+24
+00:02:27,200 --> 00:02:33,800
+Daniele Conti (Italy) - Cagliari Calcio
+Appearances: 464 | Goals: 51 | Assists: 32
+
+25
+00:02:33,800 --> 00:02:40,400
+Luis Oliveira (Belgium) - Cagliari Calcio
+Appearances: 173 | Goals: 55 | Assists: 8
+
+26
+00:02:40,400 --> 00:02:47,000
+Roberto Muzzi (Italy) - Cagliari Calcio
+Appearances: 158 | Goals: 64 | Assists: 7
+
+27
+00:02:47,000 --> 00:02:53,600
+Mauro Esposito (Italy) - Cagliari Calcio
+Appearances: 214 | Goals: 65 | Assists: 21
+
+28
+00:02:53,600 --> 00:03:00,200
+João Pedro (Italy) - Cagliari Calcio
+Appearances: 271 | Goals: 86 | Assists: 28
+
+29
+00:03:00,200 --> 00:03:06,800
+David Suazo (Honduras) - Cagliari Calcio
+Appearances: 275 | Goals: 102 | Assists: 18
+
+30
+00:03:06,800 --> 00:03:13,400
+Luigi Piras (Italy) - Cagliari Calcio
+Appearances: 377 | Goals: 104 | Assists: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Luigi Riva (Italy) - Cagliari Calcio
+Appearances: 374 | Goals: 205 | Assists: 2
+

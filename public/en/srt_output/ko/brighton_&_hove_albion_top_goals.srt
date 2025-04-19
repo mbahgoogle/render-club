@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Brighton & Hove Albion 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Gerry Ryan (Ireland) - Brighton & Hove Albion
+출전: 102 | 골: 18
+
+3
+00:00:08,600 --> 00:00:15,200
+Gordon Smith (Scotland) - Brighton & Hove Albion
+출전: 98 | 골: 19 | 도움: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Iñigo Calderón (Spain) - Brighton & Hove Albion
+출전: 232 | 골: 19 | 도움: 14
+
+5
+00:00:21,800 --> 00:00:28,400
+Will Buckley (England) - Brighton & Hove Albion
+출전: 109 | 골: 19 | 도움: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Sam Baldock (England) - Brighton & Hove Albion
+출전: 94 | 골: 20 | 도움: 18
+
+7
+00:00:35,000 --> 00:00:41,600
+Alexis Mac Allister (Argentina) - Brighton & Hove Albion
+출전: 112 | 골: 20 | 도움: 9
+
+8
+00:00:41,600 --> 00:00:48,200
+Jake Robinson (England) - Brighton & Hove Albion
+출전: 144 | 골: 20 | 도움: 4
+
+9
+00:00:48,200 --> 00:00:54,800
+Kaoru Mitoma (Japan) - Brighton & Hove Albion
+출전: 102 | 골: 21 | 도움: 15
+
+10
+00:00:54,800 --> 00:01:01,400
+Peter Ward (England) - Brighton & Hove Albion
+출전: 75 | 골: 22 | 도움: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Dean Cox (England) - Brighton & Hove Albion
+출전: 177 | 골: 22 | 도움: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Kazenga LuaLua (DR Congo) - Brighton & Hove Albion
+출전: 183 | 골: 22 | 도움: 25
+
+13
+00:01:14,600 --> 00:01:21,200
+Andy Ritchie (England) - Brighton & Hove Albion
+출전: 93 | 골: 24
+
+14
+00:01:21,200 --> 00:01:27,800
+Craig Mackail-Smith (Scotland) - Brighton & Hove Albion
+출전: 122 | 골: 24 | 도움: 13
+
+15
+00:01:27,800 --> 00:01:34,400
+Leandro Trossard (Belgium) - Brighton & Hove Albion
+출전: 121 | 골: 25 | 도움: 13
+
+16
+00:01:34,400 --> 00:01:41,000
+Solly March (England) - Brighton & Hove Albion
+출전: 292 | 골: 26 | 도움: 29
+
+17
+00:01:41,000 --> 00:01:47,600
+Dean Hammond (England) - Brighton & Hove Albion
+출전: 193 | 골: 26 | 도움: 2
+
+18
+00:01:47,600 --> 00:01:54,200
+Neal Maupay (France) - Brighton & Hove Albion
+출전: 109 | 골: 27 | 도움: 7
+
+19
+00:01:54,200 --> 00:02:00,800
+Anthony Knockaert (France) - Brighton & Hove Albion
+출전: 139 | 골: 27 | 도움: 25
+
+20
+00:02:00,800 --> 00:02:07,400
+Leonardo Ulloa (Argentina) - Brighton & Hove Albion
+출전: 70 | 골: 28 | 도움: 8
+
+21
+00:02:07,400 --> 00:02:14,000
+João Pedro (Brazil) - Brighton & Hove Albion
+출전: 67 | 골: 28 | 도움: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Lewis Dunk (England) - Brighton & Hove Albion
+출전: 481 | 골: 31 | 도움: 15
+
+23
+00:02:20,600 --> 00:02:27,200
+Pascal Groß (Germany) - Brighton & Hove Albion
+출전: 261 | 골: 32 | 도움: 52
+
+24
+00:02:27,200 --> 00:02:33,800
+Tomer Hemed (Israel) - Brighton & Hove Albion
+출전: 108 | 골: 33 | 도움: 12
+
+25
+00:02:33,800 --> 00:02:40,400
+Danny Welbeck (England) - Brighton & Hove Albion
+출전: 154 | 골: 34 | 도움: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Leon Knight (England) - Brighton & Hove Albion
+출전: 114 | 골: 34 | 도움: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Michael Robinson (Ireland) - Brighton & Hove Albion
+출전: 120 | 골: 39 | 도움: 3
+
+28
+00:02:53,600 --> 00:03:00,200
+Nicky Forster (England) - Brighton & Hove Albion
+출전: 118 | 골: 51 | 도움: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Bobby Zamora (England) - Brighton & Hove Albion
+출전: 108 | 골: 51 | 도움: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Ashley Barnes (England) - Brighton & Hove Albion
+출전: 170 | 골: 53 | 도움: 22
+
+31
+00:03:13,400 --> 00:03:20,000
+Glenn Murray (England) - Brighton & Hove Albion
+출전: 287 | 골: 111 | 도움: 20
+

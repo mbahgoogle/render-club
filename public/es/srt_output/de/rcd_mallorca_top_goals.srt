@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+RCD Mallorca Rekordtorschützen Aller Zeiten
+
+2
+00:00:02,000 --> 00:00:08,600
+Manuel Haro (Spain) - RCD Mallorca
+Einsätze: 58 | Tore: 15
+
+3
+00:00:08,600 --> 00:00:15,200
+Emilio Nsue (Equatorial Guinea) - RCD Mallorca
+Einsätze: 154 | Tore: 16 | Vorlagen: 12
+
+4
+00:00:15,200 --> 00:00:21,800
+Antonio Raíllo (Spain) - RCD Mallorca
+Einsätze: 284 | Tore: 17 | Vorlagen: 8
+
+5
+00:00:21,800 --> 00:00:28,400
+Leo Biagini (Argentina) - RCD Mallorca
+Einsätze: 94 | Tore: 17
+
+6
+00:00:28,400 --> 00:00:35,000
+Walter Pandiani (Uruguay) - RCD Mallorca
+Einsätze: 40 | Tore: 18 | Vorlagen: 8
+
+7
+00:00:35,000 --> 00:00:41,600
+Ante Budimir (Croatia) - RCD Mallorca
+Einsätze: 57 | Tore: 19 | Vorlagen: 4
+
+8
+00:00:41,600 --> 00:00:48,200
+Dani García (Spain) - RCD Mallorca
+Einsätze: 49 | Tore: 19
+
+9
+00:00:48,200 --> 00:00:54,800
+Alejandro Alfaro (Spain) - RCD Mallorca
+Einsätze: 105 | Tore: 19 | Vorlagen: 12
+
+10
+00:00:54,800 --> 00:01:01,400
+Brandon Thomas (Spain) - RCD Mallorca
+Einsätze: 78 | Tore: 21 | Vorlagen: 7
+
+11
+00:01:01,400 --> 00:01:08,000
+Jovan Stankovic (Serbia) - RCD Mallorca
+Einsätze: 170 | Tore: 22 | Vorlagen: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Diego Tristán (Spain) - RCD Mallorca
+Einsätze: 62 | Tore: 23 | Vorlagen: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Tomer Hemed (Israel) - RCD Mallorca
+Einsätze: 97 | Tore: 23 | Vorlagen: 4
+
+14
+00:01:21,200 --> 00:01:27,800
+Enrique Magdaleno (Spain) - RCD Mallorca
+Einsätze: 74 | Tore: 23
+
+15
+00:01:27,800 --> 00:01:34,400
+Aritz Aduriz (Spain) - RCD Mallorca
+Einsätze: 78 | Tore: 24 | Vorlagen: 10
+
+16
+00:01:34,400 --> 00:01:41,000
+Albert Luque (Spain) - RCD Mallorca
+Einsätze: 88 | Tore: 24 | Vorlagen: 7
+
+17
+00:01:41,000 --> 00:01:47,600
+Salva Sevilla (Spain) - RCD Mallorca
+Einsätze: 186 | Tore: 25 | Vorlagen: 21
+
+18
+00:01:47,600 --> 00:01:54,200
+Carlitos (Spain) - RCD Mallorca
+Einsätze: 152 | Tore: 26 | Vorlagen: 1
+
+19
+00:01:54,200 --> 00:02:00,800
+Chory Castro (Uruguay) - RCD Mallorca
+Einsätze: 148 | Tore: 27 | Vorlagen: 26
+
+20
+00:02:00,800 --> 00:02:07,400
+Pierre Webó (Cameroon) - RCD Mallorca
+Einsätze: 121 | Tore: 28 | Vorlagen: 15
+
+21
+00:02:07,400 --> 00:02:14,000
+Goran Milojevic (Serbia) - RCD Mallorca
+Einsätze: 69 | Tore: 28
+
+22
+00:02:14,000 --> 00:02:20,600
+Miguel Ángel Nadal (Spain) - RCD Mallorca
+Einsätze: 305 | Tore: 29 | Vorlagen: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Ariel Ibagaza (Argentina) - RCD Mallorca
+Einsätze: 245 | Tore: 30 | Vorlagen: 33
+
+24
+00:02:27,200 --> 00:02:33,800
+Dani Rodríguez (Spain) - RCD Mallorca
+Einsätze: 272 | Tore: 32 | Vorlagen: 38
+
+25
+00:02:33,800 --> 00:02:40,400
+Dani Güiza (Spain) - RCD Mallorca
+Einsätze: 50 | Tore: 32 | Vorlagen: 8
+
+26
+00:02:40,400 --> 00:02:47,000
+Vedat Muriqi (Kosovo) - RCD Mallorca
+Einsätze: 112 | Tore: 35 | Vorlagen: 11
+
+27
+00:02:47,000 --> 00:02:53,600
+Lago Júnior (Cote d'Ivoire) - RCD Mallorca
+Einsätze: 206 | Tore: 36 | Vorlagen: 13
+
+28
+00:02:53,600 --> 00:03:00,200
+Víctor Casadesús (Spain) - RCD Mallorca
+Einsätze: 236 | Tore: 46 | Vorlagen: 23
+
+29
+00:03:00,200 --> 00:03:06,800
+Juan Arango (Venezuela) - RCD Mallorca
+Einsätze: 195 | Tore: 49 | Vorlagen: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Abdón Prats (Spain) - RCD Mallorca
+Einsätze: 263 | Tore: 55 | Vorlagen: 11
+
+31
+00:03:13,400 --> 00:03:20,000
+Samuel Eto'o (Cameroon) - RCD Mallorca
+Einsätze: 162 | Tore: 70 | Vorlagen: 19
+

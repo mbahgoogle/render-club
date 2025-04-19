@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persebaya Surabaya 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Ahmad Nufiandani (Indonesia) - Persebaya Surabaya
+出場数: 32 | ゴール: 4 | アシスト: 6
+
+3
+00:00:08,600 --> 00:00:15,200
+Paulo Henrique (Brazil) - Persebaya Surabaya
+出場数: 15 | ゴール: 4 | アシスト: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Misbakus Solikin (Indonesia) - Persebaya Surabaya
+出場数: 60 | ゴール: 4 | アシスト: 5
+
+5
+00:00:21,800 --> 00:00:28,400
+Rishadi Fauzi (Indonesia) - Persebaya Surabaya
+出場数: 18 | ゴール: 4 | アシスト: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Muhammad Iqbal (Indonesia) - Persebaya Surabaya
+出場数: 25 | ゴール: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Oktafianus Fernando (Indonesia) - Persebaya Surabaya
+出場数: 83 | ゴール: 5 | アシスト: 12
+
+8
+00:00:41,600 --> 00:00:48,200
+Fandi Utomo (Indonesia) - Persebaya Surabaya
+出場数: 47 | ゴール: 5 | アシスト: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Sílvio Junior (Brazil) - Persebaya Surabaya
+出場数: 19 | ゴール: 5 | アシスト: 3
+
+10
+00:00:54,800 --> 00:01:01,400
+Léo Lelis (Brazil) - Persebaya Surabaya
+出場数: 31 | ゴール: 6
+
+11
+00:01:01,400 --> 00:01:08,000
+Wilkson (Brazil) - Persebaya Surabaya
+出場数: 13 | ゴール: 6 | アシスト: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Flávio Silva (Portugal) - Persebaya Surabaya
+出場数: 26 | ゴール: 6 | アシスト: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Mohammed Rashid (Palestine) - Persebaya Surabaya
+出場数: 26 | ゴール: 6
+
+14
+00:01:21,200 --> 00:01:27,800
+Damián Lizio (Bolivia) - Persebaya Surabaya
+出場数: 25 | ゴール: 6 | アシスト: 5
+
+15
+00:01:27,800 --> 00:01:34,400
+Ricky Kambuaya (Indonesia) - Persebaya Surabaya
+出場数: 25 | ゴール: 6 | アシスト: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Zé Valente (Portugal) - Persebaya Surabaya
+出場数: 29 | ゴール: 6 | アシスト: 9
+
+17
+00:01:41,000 --> 00:01:47,600
+Marselino Ferdinan (Indonesia) - Persebaya Surabaya
+出場数: 34 | ゴール: 7 | アシスト: 9
+
+18
+00:01:47,600 --> 00:01:54,200
+Francisco Rivera (Mexico) - Persebaya Surabaya
+出場数: 23 | ゴール: 7 | アシスト: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Otávio Dutra (Indonesia) - Persebaya Surabaya
+出場数: 54 | ゴール: 7 | アシスト: 5
+
+20
+00:02:00,800 --> 00:02:07,400
+Diogo Campos (Brazil) - Persebaya Surabaya
+出場数: 14 | ゴール: 7 | アシスト: 3
+
+21
+00:02:07,400 --> 00:02:14,000
+Rendi Irwan Saputra (Indonesia) - Persebaya Surabaya
+出場数: 81 | ゴール: 8 | アシスト: 13
+
+22
+00:02:14,000 --> 00:02:20,600
+Paulo Victor (Brazil) - Persebaya Surabaya
+出場数: 29 | ゴール: 8 | アシスト: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Manuchekhr Dzhalilov (Tajikistan) - Persebaya Surabaya
+出場数: 27 | ゴール: 8 | アシスト: 7
+
+24
+00:02:27,200 --> 00:02:33,800
+Sho Yamamoto (Japan) - Persebaya Surabaya
+出場数: 54 | ゴール: 12 | アシスト: 11
+
+25
+00:02:33,800 --> 00:02:40,400
+Samsul Arif (Indonesia) - Persebaya Surabaya
+出場数: 30 | ゴール: 13
+
+26
+00:02:40,400 --> 00:02:47,000
+Taisei Marukawa (Japan) - Persebaya Surabaya
+出場数: 32 | ゴール: 17 | アシスト: 10
+
+27
+00:02:47,000 --> 00:02:53,600
+Osvaldo Haay (Indonesia) - Persebaya Surabaya
+出場数: 49 | ゴール: 18 | アシスト: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Irfan Jaya (Indonesia) - Persebaya Surabaya
+出場数: 60 | ゴール: 18 | アシスト: 11
+
+29
+00:03:00,200 --> 00:03:06,800
+Amido Baldé (Guinea-Bissau) - Persebaya Surabaya
+出場数: 21 | ゴール: 19 | アシスト: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Bruno (Brazil) - Persebaya Surabaya
+出場数: 85 | ゴール: 23 | アシスト: 10
+
+31
+00:03:13,400 --> 00:03:20,000
+David da Silva (Brazil) - Persebaya Surabaya
+出場数: 43 | ゴール: 39 | アシスト: 6
+

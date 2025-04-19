@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+PSIM Yogyakarta Migliori Marcatori di Sempre
+
+2
+00:00:02,000 --> 00:00:08,600
+Saldi (Indonesia) - PSIM Yogyakarta
+Presenze: 16 | Gol: 1 | Assist: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Irvan Mofu (Indonesia) - PSIM Yogyakarta
+Presenze: 15 | Gol: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Muammar Khadafi (Indonesia) - PSIM Yogyakarta
+Presenze: 14 | Gol: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Indra Setiawan (Indonesia) - PSIM Yogyakarta
+Presenze: 12 | Gol: 1 | Assist: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Muhammad Fariz (Indonesia) - PSIM Yogyakarta
+Presenze: 12 | Gol: 1 | Assist: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Rudiyana (Indonesia) - PSIM Yogyakarta
+Presenze: 6 | Gol: 1 | Assist: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Alfriyanto Nico (Indonesia) - PSIM Yogyakarta
+Presenze: 5 | Gol: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Krisna Sulistia (Indonesia) - PSIM Yogyakarta
+Presenze: 4 | Gol: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Arbeta Rockyawan (Indonesia) - PSIM Yogyakarta
+Presenze: 11 | Gol: 1 | Assist: 2
+
+11
+00:01:01,400 --> 00:01:08,000
+Ichsan Pratama (Indonesia) - PSIM Yogyakarta
+Presenze: 8 | Gol: 1 | Assist: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Omid Popalzay (Afghanistan) - PSIM Yogyakarta
+Presenze: 10 | Gol: 1 | Assist: 3
+
+13
+00:01:14,600 --> 00:01:21,200
+Vengko Armedya (Indonesia) - PSIM Yogyakarta
+Presenze: 9 | Gol: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Augusto Neto (Brazil) - PSIM Yogyakarta
+Presenze: 9 | Gol: 1 | Assist: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Ahmad Ihwan (Indonesia) - PSIM Yogyakarta
+Presenze: 4 | Gol: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Raphael Maitimo (Indonesia) - PSIM Yogyakarta
+Presenze: 7 | Gol: 2 | Assist: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+Rosi Noprihanis (Indonesia) - PSIM Yogyakarta
+Presenze: 7 | Gol: 2 | Assist: 1
+
+18
+00:01:47,600 --> 00:01:54,200
+Roken Tampubolon (Indonesia) - PSIM Yogyakarta
+Presenze: 9 | Gol: 2 | Assist: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+Syarif Wijianto (Indonesia) - PSIM Yogyakarta
+Presenze: 19 | Gol: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Achmad Faris Ardiansyah (Indonesia) - PSIM Yogyakarta
+Presenze: 17 | Gol: 2
+
+21
+00:02:07,400 --> 00:02:14,000
+Ilham Irhaz (Indonesia) - PSIM Yogyakarta
+Presenze: 11 | Gol: 2 | Assist: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Bryan Cesar (Indonesia) - PSIM Yogyakarta
+Presenze: 15 | Gol: 2
+
+23
+00:02:20,600 --> 00:02:27,200
+Cristian Gonzáles (Indonesia) - PSIM Yogyakarta
+Presenze: 10 | Gol: 3 | Assist: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Yudha Alkanza (Indonesia) - PSIM Yogyakarta
+Presenze: 39 | Gol: 4 | Assist: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Nyoman Sukarja (Indonesia) - PSIM Yogyakarta
+Presenze: 16 | Gol: 4 | Assist: 2
+
+26
+00:02:40,400 --> 00:02:47,000
+Arlyansyah Abdulmanan (Indonesia) - PSIM Yogyakarta
+Presenze: 12 | Gol: 4 | Assist: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Aditya Putra Dewa (Indonesia) - PSIM Yogyakarta
+Presenze: 30 | Gol: 4 | Assist: 2
+
+28
+00:02:53,600 --> 00:03:00,200
+Ari Maring (Indonesia) - PSIM Yogyakarta
+Presenze: 17 | Gol: 5 | Assist: 3
+
+29
+00:03:00,200 --> 00:03:06,800
+Sugeng Efendi (Indonesia) - PSIM Yogyakarta
+Presenze: 13 | Gol: 5
+
+30
+00:03:06,800 --> 00:03:13,400
+Savio Sheva (Indonesia) - PSIM Yogyakarta
+Presenze: 41 | Gol: 6 | Assist: 3
+
+31
+00:03:13,400 --> 00:03:20,000
+Rafinha (Brazil) - PSIM Yogyakarta
+Presenze: 22 | Gol: 20
+

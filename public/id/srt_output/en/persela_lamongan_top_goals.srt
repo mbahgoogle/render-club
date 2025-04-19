@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persela Lamongan All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+José Coelho (Portugal) - Persela Lamongan
+Appearances: 32 | Goals: 4 | Assists: 4
+
+3
+00:00:08,600 --> 00:00:15,200
+Wilkson (Brazil) - Persela Lamongan
+Appearances: 13 | Goals: 4 | Assists: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Do-hyun Kim (Korea, South) - Persela Lamongan
+Appearances: 21 | Goals: 4
+
+5
+00:00:21,800 --> 00:00:28,400
+Shohei Matsunaga (Japan) - Persela Lamongan
+Appearances: 16 | Goals: 4 | Assists: 4
+
+6
+00:00:28,400 --> 00:00:35,000
+Arif Ariyanto (Indonesia) - Persela Lamongan
+Appearances: 24 | Goals: 4
+
+7
+00:00:35,000 --> 00:00:41,600
+Fandi Utomo (Indonesia) - Persela Lamongan
+Appearances: 23 | Goals: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Birrul Walidain (Indonesia) - Persela Lamongan
+Appearances: 109 | Goals: 5 | Assists: 7
+
+9
+00:00:48,200 --> 00:00:54,800
+Sugeng Efendi (Indonesia) - Persela Lamongan
+Appearances: 61 | Goals: 5 | Assists: 5
+
+10
+00:00:54,800 --> 00:01:01,400
+Rahel Radiansyah (Indonesia) - Persela Lamongan
+Appearances: 31 | Goals: 6 | Assists: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Malik Risaldi (Indonesia) - Persela Lamongan
+Appearances: 69 | Goals: 6 | Assists: 7
+
+12
+00:01:08,000 --> 00:01:14,600
+Diego Assis (Brazil) - Persela Lamongan
+Appearances: 28 | Goals: 6 | Assists: 7
+
+13
+00:01:14,600 --> 00:01:21,200
+Taufiq Kasrun (Indonesia) - Persela Lamongan
+Appearances: 94 | Goals: 6 | Assists: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Riyatno Abiyoso (Indonesia) - Persela Lamongan
+Appearances: 47 | Goals: 6 | Assists: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Srdjan Lopicic (Montenegro) - Persela Lamongan
+Appearances: 24 | Goals: 7
+
+16
+00:01:34,400 --> 00:01:41,000
+Herman Dzumafo (Indonesia) - Persela Lamongan
+Appearances: 27 | Goals: 7 | Assists: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Jimmy Suparno (Indonesia) - Persela Lamongan
+Appearances: 64 | Goals: 9
+
+18
+00:01:47,600 --> 00:01:54,200
+Roman Golian (Slovakia) - Persela Lamongan
+Appearances: 85 | Goals: 9
+
+19
+00:01:54,200 --> 00:02:00,800
+Zulham Zamrun (Indonesia) - Persela Lamongan
+Appearances: 23 | Goals: 9 | Assists: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Addison (Brazil) - Persela Lamongan
+Appearances: 23 | Goals: 9
+
+21
+00:02:07,400 --> 00:02:14,000
+Fahmi Al-Ayyubi (Indonesia) - Persela Lamongan
+Appearances: 48 | Goals: 10 | Assists: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Dendy Sulistyawan (Indonesia) - Persela Lamongan
+Appearances: 27 | Goals: 11 | Assists: 5
+
+23
+00:02:20,600 --> 00:02:27,200
+Rafinha (Brazil) - Persela Lamongan
+Appearances: 35 | Goals: 11 | Assists: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Gustavo López (Argentina) - Persela Lamongan
+Appearances: 58 | Goals: 12
+
+25
+00:02:33,800 --> 00:02:40,400
+Ivan Carlos (Brazil) - Persela Lamongan
+Appearances: 28 | Goals: 12 | Assists: 1
+
+26
+00:02:40,400 --> 00:02:47,000
+Ezechiel Ndouasel (Chad) - Persela Lamongan
+Appearances: 18 | Goals: 14 | Assists: 2
+
+27
+00:02:47,000 --> 00:02:53,600
+Loris Arnaud (France) - Persela Lamongan
+Appearances: 29 | Goals: 15 | Assists: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Alex Gonçalves (Brazil) - Persela Lamongan
+Appearances: 29 | Goals: 17 | Assists: 5
+
+29
+00:03:00,200 --> 00:03:06,800
+Zainal Arifin (Indonesia) - Persela Lamongan
+Appearances: 112 | Goals: 17 | Assists: 1
+
+30
+00:03:06,800 --> 00:03:13,400
+Samsul Arif (Indonesia) - Persela Lamongan
+Appearances: 78 | Goals: 32 | Assists: 4
+
+31
+00:03:13,400 --> 00:03:20,000
+Mario Costas (Argentina) - Persela Lamongan
+Appearances: 66 | Goals: 34
+

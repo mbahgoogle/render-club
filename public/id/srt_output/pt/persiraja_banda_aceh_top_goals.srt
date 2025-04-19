@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persiraja Banda Aceh Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+Zikri Ferdiansyah (Indonesia) - Persiraja Banda Aceh
+Partidas: 24 | Gols: 1 | Assistências: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Rizky Nasution (Indonesia) - Persiraja Banda Aceh
+Partidas: 53 | Gols: 1 | Assistências: 1
+
+4
+00:00:15,200 --> 00:00:21,800
+Akhirul Wadhan (Indonesia) - Persiraja Banda Aceh
+Partidas: 14 | Gols: 1
+
+5
+00:00:21,800 --> 00:00:28,400
+Imral Usman (Indonesia) - Persiraja Banda Aceh
+Partidas: 2 | Gols: 1
+
+6
+00:00:28,400 --> 00:00:35,000
+Indra Rianto (Indonesia) - Persiraja Banda Aceh
+Partidas: 13 | Gols: 1 | Assistências: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Martunis BA (Indonesia) - Persiraja Banda Aceh
+Partidas: 5 | Gols: 1
+
+8
+00:00:41,600 --> 00:00:48,200
+Jabar Sharza (Afghanistan) - Persiraja Banda Aceh
+Partidas: 11 | Gols: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Fadilla Akbar (Indonesia) - Persiraja Banda Aceh
+Partidas: 2 | Gols: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Andri Abu Bakar (Indonesia) - Persiraja Banda Aceh
+Partidas: 9 | Gols: 1 | Assistências: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Ricardo Pires (Brazil) - Persiraja Banda Aceh
+Partidas: 4 | Gols: 2
+
+12
+00:01:08,000 --> 00:01:14,600
+Adam Maulana (Indonesia) - Persiraja Banda Aceh
+Partidas: 32 | Gols: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Léo Lelis (Brazil) - Persiraja Banda Aceh
+Partidas: 29 | Gols: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Muammar Khadafi (Indonesia) - Persiraja Banda Aceh
+Partidas: 18 | Gols: 2
+
+15
+00:01:27,800 --> 00:01:34,400
+Patrick Ghigani (Tunisia) - Persiraja Banda Aceh
+Partidas: 2 | Gols: 2 | Assistências: 1
+
+16
+00:01:34,400 --> 00:01:41,000
+Zamrony (Indonesia) - Persiraja Banda Aceh
+Partidas: 13 | Gols: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Al Muzanni (Indonesia) - Persiraja Banda Aceh
+Partidas: 22 | Gols: 2 | Assistências: 3
+
+18
+00:01:47,600 --> 00:01:54,200
+Matheus Machado (Brazil) - Persiraja Banda Aceh
+Partidas: 7 | Gols: 2 | Assistências: 4
+
+19
+00:01:54,200 --> 00:02:00,800
+Perda Rahman (Indonesia) - Persiraja Banda Aceh
+Partidas: 3 | Gols: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Islom Karimov (Uzbekistan) - Persiraja Banda Aceh
+Partidas: 12 | Gols: 2 | Assistências: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+David Laly (Indonesia) - Persiraja Banda Aceh
+Partidas: 18 | Gols: 2 | Assistências: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Bruno Dybal (Brazil) - Persiraja Banda Aceh
+Partidas: 17 | Gols: 3 | Assistências: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Vivi Asrizal (Indonesia) - Persiraja Banda Aceh
+Partidas: 31 | Gols: 5 | Assistências: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Andik Vermansyah (Indonesia) - Persiraja Banda Aceh
+Partidas: 33 | Gols: 5 | Assistências: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Ferdinan Sinaga (Indonesia) - Persiraja Banda Aceh
+Partidas: 13 | Gols: 5
+
+26
+00:02:40,400 --> 00:02:47,000
+Paulo Henrique (Brazil) - Persiraja Banda Aceh
+Partidas: 12 | Gols: 6
+
+27
+00:02:47,000 --> 00:02:53,600
+Ramadhan (Indonesia) - Persiraja Banda Aceh
+Partidas: 44 | Gols: 7 | Assistências: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Defri Rizki (Indonesia) - Persiraja Banda Aceh
+Partidas: 45 | Gols: 7 | Assistências: 1
+
+29
+00:03:00,200 --> 00:03:06,800
+Miftahul Hamdi (Indonesia) - Persiraja Banda Aceh
+Partidas: 27 | Gols: 9 | Assistências: 8
+
+30
+00:03:06,800 --> 00:03:13,400
+Assanur Rijal (Indonesia) - Persiraja Banda Aceh
+Partidas: 38 | Gols: 10 | Assistências: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Deri Corfe (England) - Persiraja Banda Aceh
+Partidas: 21 | Gols: 14 | Assistências: 3
+

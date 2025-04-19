@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Atlético de Madrid Maiores Artilheiros de Todos os Tempos
+
+2
+00:00:02,000 --> 00:00:08,600
+José Luis Caminero (Spain) - Atlético de Madrid
+Partidas: 185 | Gols: 48 | Assistências: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Negro Cabrera (Argentina) - Atlético de Madrid
+Partidas: 151 | Gols: 49
+
+4
+00:00:15,200 --> 00:00:21,800
+Futre (Portugal) - Atlético de Madrid
+Partidas: 209 | Gols: 51 | Assistências: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Rubén Ayala (Argentina) - Atlético de Madrid
+Partidas: 203 | Gols: 57
+
+6
+00:00:28,400 --> 00:00:35,000
+Larbi Ben Barek (Morocco) - Atlético de Madrid
+Partidas: 117 | Gols: 58 | Assistências: 2
+
+7
+00:00:35,000 --> 00:00:41,600
+Álvaro Morata (Spain) - Atlético de Madrid
+Partidas: 154 | Gols: 58 | Assistências: 14
+
+8
+00:00:41,600 --> 00:00:48,200
+Roberto Marina (Spain) - Atlético de Madrid
+Partidas: 295 | Gols: 58 | Assistências: 1
+
+9
+00:00:48,200 --> 00:00:54,800
+Baltazar (Brazil) - Atlético de Madrid
+Partidas: 90 | Gols: 60
+
+10
+00:00:54,800 --> 00:01:01,400
+Javier Irureta (Spain) - Atlético de Madrid
+Partidas: 257 | Gols: 60
+
+11
+00:01:01,400 --> 00:01:08,000
+Kiko Narváez (Spain) - Atlético de Madrid
+Partidas: 277 | Gols: 64 | Assistências: 13
+
+12
+00:01:08,000 --> 00:01:14,600
+Miguel González (Spain) - Atlético de Madrid
+Partidas: 233 | Gols: 68 | Assistências: 1
+
+13
+00:01:14,600 --> 00:01:21,200
+Radamel Falcao (Colombia) - Atlético de Madrid
+Partidas: 91 | Gols: 70 | Assistências: 9
+
+14
+00:01:21,200 --> 00:01:27,800
+Hugo Sánchez (Mexico) - Atlético de Madrid
+Partidas: 150 | Gols: 75
+
+15
+00:01:27,800 --> 00:01:34,400
+José Juncosa (Spain) - Atlético de Madrid
+Partidas: 194 | Gols: 82 | Assistências: 3
+
+16
+00:01:34,400 --> 00:01:41,000
+Diego Costa (Spain) - Atlético de Madrid
+Partidas: 216 | Gols: 83 | Assistências: 36
+
+17
+00:01:41,000 --> 00:01:47,600
+Jorge Mendonça (Portugal) - Atlético de Madrid
+Partidas: 217 | Gols: 83
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Correa (Argentina) - Atlético de Madrid
+Partidas: 460 | Gols: 87 | Assistências: 65
+
+19
+00:01:54,200 --> 00:02:00,800
+Enrique Collar (Spain) - Atlético de Madrid
+Partidas: 415 | Gols: 89 | Assistências: 3
+
+20
+00:02:00,800 --> 00:02:07,400
+Rubén Cano (Spain) - Atlético de Madrid
+Partidas: 190 | Gols: 90
+
+21
+00:02:07,400 --> 00:02:14,000
+Manolo (Spain) - Atlético de Madrid
+Partidas: 267 | Gols: 92 | Assistências: 2
+
+22
+00:02:14,000 --> 00:02:20,600
+Diego Forlán (Uruguay) - Atlético de Madrid
+Partidas: 198 | Gols: 96 | Assistências: 31
+
+23
+00:02:20,600 --> 00:02:27,200
+Adelardo (Spain) - Atlético de Madrid
+Partidas: 500 | Gols: 98
+
+24
+00:02:27,200 --> 00:02:33,800
+Sergio Agüero (Argentina) - Atlético de Madrid
+Partidas: 234 | Gols: 101 | Assistências: 47
+
+25
+00:02:33,800 --> 00:02:40,400
+Joaquín Peiró (Spain) - Atlético de Madrid
+Partidas: 193 | Gols: 113
+
+26
+00:02:40,400 --> 00:02:47,000
+Paco Campos (Spain) - Atlético de Madrid
+Partidas: 206 | Gols: 123
+
+27
+00:02:47,000 --> 00:02:53,600
+José Eulogio Gárate (Spain) - Atlético de Madrid
+Partidas: 299 | Gols: 125 | Assistências: 1
+
+28
+00:02:53,600 --> 00:03:00,200
+Fernando Torres (Spain) - Atlético de Madrid
+Partidas: 403 | Gols: 129 | Assistências: 21
+
+29
+00:03:00,200 --> 00:03:06,800
+Adrián Escudero (Spain) - Atlético de Madrid
+Partidas: 293 | Gols: 153 | Assistências: 3
+
+30
+00:03:06,800 --> 00:03:13,400
+Luis Aragonés (Spain) - Atlético de Madrid
+Partidas: 332 | Gols: 158
+
+31
+00:03:13,400 --> 00:03:20,000
+Antoine Griezmann (France) - Atlético de Madrid
+Partidas: 433 | Gols: 197 | Assistências: 91
+

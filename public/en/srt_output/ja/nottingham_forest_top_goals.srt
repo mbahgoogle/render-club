@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Nottingham Forest 歴代最多得点者
+
+2
+00:00:02,000 --> 00:00:08,600
+Ian Woan (England) - Nottingham Forest
+出場数: 248 | ゴール: 38 | アシスト: 27
+
+3
+00:00:08,600 --> 00:00:15,200
+Stan Collymore (England) - Nottingham Forest
+出場数: 57 | ゴール: 38 | アシスト: 7
+
+4
+00:00:15,200 --> 00:00:21,800
+Kris Commons (Scotland) - Nottingham Forest
+出場数: 157 | ゴール: 38 | アシスト: 23
+
+5
+00:00:21,800 --> 00:00:28,400
+Ian Wallace (Scotland) - Nottingham Forest
+出場数: 154 | ゴール: 38 | アシスト: 2
+
+6
+00:00:28,400 --> 00:00:35,000
+Colin Booth (England) - Nottingham Forest
+出場数: 90 | ゴール: 39 | アシスト: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Martin O'Neill (Northern Ireland) - Nottingham Forest
+出場数: 209 | ゴール: 40 | アシスト: 16
+
+8
+00:00:41,600 --> 00:00:48,200
+Nathan Tyson (England) - Nottingham Forest
+出場数: 209 | ゴール: 40 | アシスト: 19
+
+9
+00:00:48,200 --> 00:00:54,800
+Andy Reid (Ireland) - Nottingham Forest
+出場数: 288 | ゴール: 41 | アシスト: 49
+
+10
+00:00:54,800 --> 00:01:01,400
+Geoff Vowden (England) - Nottingham Forest
+出場数: 100 | ゴール: 42 | アシスト: 1
+
+11
+00:01:01,400 --> 00:01:08,000
+Robert Earnshaw (Wales) - Nottingham Forest
+出場数: 110 | ゴール: 43 | アシスト: 5
+
+12
+00:01:08,000 --> 00:01:14,600
+Dexter Blackstock (Antigua and Barbuda) - Nottingham Forest
+出場数: 187 | ゴール: 44 | アシスト: 23
+
+13
+00:01:14,600 --> 00:01:21,200
+Lewis McGugan (England) - Nottingham Forest
+出場数: 229 | ゴール: 44 | アシスト: 27
+
+14
+00:01:21,200 --> 00:01:27,800
+Joe Baker (England) - Nottingham Forest
+出場数: 127 | ゴール: 45 | アシスト: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Tony Woodcock (England) - Nottingham Forest
+出場数: 139 | ゴール: 46 | アシスト: 34
+
+16
+00:01:34,400 --> 00:01:41,000
+Frank Wignall (England) - Nottingham Forest
+出場数: 167 | ゴール: 48 | アシスト: 1
+
+17
+00:01:41,000 --> 00:01:47,600
+David Johnson (Jamaica) - Nottingham Forest
+出場数: 163 | ゴール: 48 | アシスト: 7
+
+18
+00:01:47,600 --> 00:01:54,200
+Marlon Harewood (England) - Nottingham Forest
+出場数: 204 | ゴール: 54 | アシスト: 2
+
+19
+00:01:54,200 --> 00:02:00,800
+John Quigley (Scotland) - Nottingham Forest
+出場数: 252 | ゴール: 54 | アシスト: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Neil Webb (England) - Nottingham Forest
+出場数: 195 | ゴール: 55 | アシスト: 4
+
+21
+00:02:07,400 --> 00:02:14,000
+Lewis Grabban (Jamaica) - Nottingham Forest
+出場数: 149 | ゴール: 56 | アシスト: 10
+
+22
+00:02:14,000 --> 00:02:20,600
+Tommy Wilson (England) - Nottingham Forest
+出場数: 123 | ゴール: 56
+
+23
+00:02:20,600 --> 00:02:27,200
+Peter Davenport (England) - Nottingham Forest
+出場数: 136 | ゴール: 57
+
+24
+00:02:27,200 --> 00:02:33,800
+Ian Bowyer (England) - Nottingham Forest
+出場数: 397 | ゴール: 59 | アシスト: 9
+
+25
+00:02:33,800 --> 00:02:40,400
+Steve Hodge (England) - Nottingham Forest
+出場数: 255 | ゴール: 63 | アシスト: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Colin Addison (England) - Nottingham Forest
+出場数: 169 | ゴール: 65
+
+27
+00:02:47,000 --> 00:02:53,600
+John Robertson (Scotland) - Nottingham Forest
+出場数: 350 | ゴール: 71 | アシスト: 36
+
+28
+00:02:53,600 --> 00:03:00,200
+Stuart Pearce (England) - Nottingham Forest
+出場数: 464 | ゴール: 75 | アシスト: 9
+
+29
+00:03:00,200 --> 00:03:06,800
+Garry Birtles (England) - Nottingham Forest
+出場数: 266 | ゴール: 89 | アシスト: 19
+
+30
+00:03:06,800 --> 00:03:13,400
+Ian Storey-Moore (England) - Nottingham Forest
+出場数: 251 | ゴール: 113 | アシスト: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Nigel Clough (England) - Nottingham Forest
+出場数: 385 | ゴール: 124 | アシスト: 10
+

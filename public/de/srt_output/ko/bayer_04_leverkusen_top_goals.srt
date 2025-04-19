@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bayer 04 Leverkusen 역대 최다 득점자
+
+2
+00:00:02,000 --> 00:00:08,600
+Dieter Herzog (Germany) - Bayer 04 Leverkusen
+출전: 212 | 골: 36 | 도움: 1
+
+3
+00:00:08,600 --> 00:00:15,200
+Andriy Voronin (Ukraine) - Bayer 04 Leverkusen
+출전: 119 | 골: 37 | 도움: 21
+
+4
+00:00:15,200 --> 00:00:21,800
+Matthias Brücken (Germany) - Bayer 04 Leverkusen
+출전: 97 | 골: 38
+
+5
+00:00:21,800 --> 00:00:28,400
+Patrick Helmes (Germany) - Bayer 04 Leverkusen
+출전: 72 | 골: 38 | 도움: 7
+
+6
+00:00:28,400 --> 00:00:35,000
+Javier Hernández Balcázar (Mexico) - Bayer 04 Leverkusen
+출전: 76 | 골: 39 | 도움: 9
+
+7
+00:00:35,000 --> 00:00:41,600
+Leon Bailey (Jamaica) - Bayer 04 Leverkusen
+출전: 156 | 골: 39 | 도움: 23
+
+8
+00:00:41,600 --> 00:00:48,200
+Peter Szech (Germany) - Bayer 04 Leverkusen
+출전: 138 | 골: 39
+
+9
+00:00:48,200 --> 00:00:54,800
+Julian Brandt (Germany) - Bayer 04 Leverkusen
+출전: 215 | 골: 42 | 도움: 52
+
+10
+00:00:54,800 --> 00:01:01,400
+Michael Ballack (Germany) - Bayer 04 Leverkusen
+출전: 155 | 골: 42 | 도움: 28
+
+11
+00:01:01,400 --> 00:01:08,000
+Kai Havertz (Germany) - Bayer 04 Leverkusen
+출전: 150 | 골: 46 | 도움: 31
+
+12
+00:01:08,000 --> 00:01:14,600
+Hans-Otto Peters (Germany) - Bayer 04 Leverkusen
+출전: 95 | 골: 48
+
+13
+00:01:14,600 --> 00:01:21,200
+Simon Rolfes (Germany) - Bayer 04 Leverkusen
+출전: 377 | 골: 49 | 도움: 36
+
+14
+00:01:21,200 --> 00:01:27,800
+Moussa Diaby (France) - Bayer 04 Leverkusen
+출전: 172 | 골: 49 | 도움: 46
+
+15
+00:01:27,800 --> 00:01:34,400
+Kevin Volland (Germany) - Bayer 04 Leverkusen
+출전: 148 | 골: 50 | 도움: 32
+
+16
+00:01:34,400 --> 00:01:41,000
+Arne Økland (Norway) - Bayer 04 Leverkusen
+출전: 114 | 골: 51 | 도움: 2
+
+17
+00:01:41,000 --> 00:01:47,600
+Bernd Schneider (Germany) - Bayer 04 Leverkusen
+출전: 366 | 골: 52 | 도움: 81
+
+18
+00:01:47,600 --> 00:01:54,200
+Andreas Thom (Germany) - Bayer 04 Leverkusen
+출전: 204 | 골: 55 | 도움: 49
+
+19
+00:01:54,200 --> 00:02:00,800
+Oliver Neuville (Germany) - Bayer 04 Leverkusen
+출전: 227 | 골: 56 | 도움: 41
+
+20
+00:02:00,800 --> 00:02:07,400
+Florian Wirtz (Germany) - Bayer 04 Leverkusen
+출전: 191 | 골: 56 | 도움: 63
+
+21
+00:02:07,400 --> 00:02:14,000
+Karim Bellarabi (Germany) - Bayer 04 Leverkusen
+출전: 290 | 골: 57 | 도움: 63
+
+22
+00:02:14,000 --> 00:02:20,600
+Lucas Alario (Argentina) - Bayer 04 Leverkusen
+출전: 164 | 골: 58 | 도움: 16
+
+23
+00:02:20,600 --> 00:02:27,200
+Fredi Hennecken (Germany) - Bayer 04 Leverkusen
+출전: 189 | 골: 60
+
+24
+00:02:27,200 --> 00:02:33,800
+Bum-kun Cha (Korea, South) - Bayer 04 Leverkusen
+출전: 215 | 골: 63 | 도움: 5
+
+25
+00:02:33,800 --> 00:02:40,400
+Paulo Sérgio (Brazil) - Bayer 04 Leverkusen
+출전: 150 | 골: 64 | 도움: 12
+
+26
+00:02:40,400 --> 00:02:47,000
+Patrik Schick (Czech Republic) - Bayer 04 Leverkusen
+출전: 161 | 골: 77 | 도움: 12
+
+27
+00:02:47,000 --> 00:02:53,600
+Christian Schreier (Germany) - Bayer 04 Leverkusen
+출전: 244 | 골: 83 | 도움: 8
+
+28
+00:02:53,600 --> 00:03:00,200
+Herbert Waas (Germany) - Bayer 04 Leverkusen
+출전: 246 | 골: 87 | 도움: 8
+
+29
+00:03:00,200 --> 00:03:06,800
+Dimitar Berbatov (Bulgaria) - Bayer 04 Leverkusen
+출전: 202 | 골: 91 | 도움: 34
+
+30
+00:03:06,800 --> 00:03:13,400
+Stefan Kießling (Germany) - Bayer 04 Leverkusen
+출전: 444 | 골: 162 | 도움: 76
+
+31
+00:03:13,400 --> 00:03:20,000
+Ulf Kirsten (Germany) - Bayer 04 Leverkusen
+출전: 448 | 골: 240 | 도움: 51
+

@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+TSG 1899 Hoffenheim Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Kai Herdling (Germany) - TSG 1899 Hoffenheim
+Матчи: 89 | Голы: 14 | Голевые передачи: 5
+
+3
+00:00:08,600 --> 00:00:15,200
+Dragan Paljic (Germany) - TSG 1899 Hoffenheim
+Матчи: 99 | Голы: 14 | Голевые передачи: 4
+
+4
+00:00:15,200 --> 00:00:21,800
+Thorsten Thee (Germany) - TSG 1899 Hoffenheim
+Матчи: 130 | Голы: 15
+
+5
+00:00:21,800 --> 00:00:28,400
+Sandro Cescutti (Germany) - TSG 1899 Hoffenheim
+Матчи: 71 | Голы: 15
+
+6
+00:00:28,400 --> 00:00:35,000
+Sebastian Rudy (Germany) - TSG 1899 Hoffenheim
+Матчи: 327 | Голы: 17 | Голевые передачи: 47
+
+7
+00:00:35,000 --> 00:00:41,600
+Guido Streichsbier (Germany) - TSG 1899 Hoffenheim
+Матчи: 48 | Голы: 17
+
+8
+00:00:41,600 --> 00:00:48,200
+Pavel Kaderabek (Czech Republic) - TSG 1899 Hoffenheim
+Матчи: 282 | Голы: 17 | Голевые передачи: 35
+
+9
+00:00:48,200 --> 00:00:54,800
+Tomislav Maric (Croatia) - TSG 1899 Hoffenheim
+Матчи: 47 | Голы: 17
+
+10
+00:00:54,800 --> 00:01:01,400
+Ishak Belfodil (Algeria) - TSG 1899 Hoffenheim
+Матчи: 60 | Голы: 18 | Голевые передачи: 8
+
+11
+00:01:01,400 --> 00:01:08,000
+Sandro Wagner (Germany) - TSG 1899 Hoffenheim
+Матчи: 50 | Голы: 18 | Голевые передачи: 8
+
+12
+00:01:08,000 --> 00:01:14,600
+Maximilian Beier (Germany) - TSG 1899 Hoffenheim
+Матчи: 46 | Голы: 18 | Голевые передачи: 4
+
+13
+00:01:14,600 --> 00:01:21,200
+Carlos Eduardo (Brazil) - TSG 1899 Hoffenheim
+Матчи: 90 | Голы: 19 | Голевые передачи: 22
+
+14
+00:01:21,200 --> 00:01:27,800
+Anthony Modeste (France) - TSG 1899 Hoffenheim
+Матчи: 62 | Голы: 23 | Голевые передачи: 7
+
+15
+00:01:27,800 --> 00:01:34,400
+Heiko Throm (Germany) - TSG 1899 Hoffenheim
+Матчи: 79 | Голы: 23 | Голевые передачи: 2
+
+16
+00:01:34,400 --> 00:01:41,000
+Ádám Szalai (Hungary) - TSG 1899 Hoffenheim
+Матчи: 113 | Голы: 25 | Голевые передачи: 13
+
+17
+00:01:41,000 --> 00:01:47,600
+Sven Schipplock (Germany) - TSG 1899 Hoffenheim
+Матчи: 98 | Голы: 26 | Голевые передачи: 19
+
+18
+00:01:47,600 --> 00:01:54,200
+Chinedu Obasi (Nigeria) - TSG 1899 Hoffenheim
+Матчи: 102 | Голы: 27 | Голевые передачи: 16
+
+19
+00:01:54,200 --> 00:02:00,800
+Francisco Copado (Germany) - TSG 1899 Hoffenheim
+Матчи: 70 | Голы: 28 | Голевые передачи: 9
+
+20
+00:02:00,800 --> 00:02:07,400
+Munas Dabbur (Israel) - TSG 1899 Hoffenheim
+Матчи: 99 | Голы: 29 | Голевые передачи: 10
+
+21
+00:02:07,400 --> 00:02:14,000
+Christoph Baumgartner (Austria) - TSG 1899 Hoffenheim
+Матчи: 138 | Голы: 30 | Голевые передачи: 22
+
+22
+00:02:14,000 --> 00:02:20,600
+Mark Uth (Germany) - TSG 1899 Hoffenheim
+Матчи: 86 | Голы: 33 | Голевые передачи: 15
+
+23
+00:02:20,600 --> 00:02:27,200
+Christoph Teinert (Germany) - TSG 1899 Hoffenheim
+Матчи: 93 | Голы: 34
+
+24
+00:02:27,200 --> 00:02:33,800
+Kevin Volland (Germany) - TSG 1899 Hoffenheim
+Матчи: 144 | Голы: 36 | Голевые передачи: 39
+
+25
+00:02:33,800 --> 00:02:40,400
+Ihlas Bebou (Togo) - TSG 1899 Hoffenheim
+Матчи: 158 | Голы: 37 | Голевые передачи: 22
+
+26
+00:02:40,400 --> 00:02:47,000
+Demba Ba (Senegal) - TSG 1899 Hoffenheim
+Матчи: 106 | Голы: 40 | Голевые передачи: 14
+
+27
+00:02:47,000 --> 00:02:53,600
+Thomas Ollhoff (Germany) - TSG 1899 Hoffenheim
+Матчи: 97 | Голы: 42 | Голевые передачи: 5
+
+28
+00:02:53,600 --> 00:03:00,200
+Roberto Firmino (Brazil) - TSG 1899 Hoffenheim
+Матчи: 153 | Голы: 49 | Голевые передачи: 36
+
+29
+00:03:00,200 --> 00:03:06,800
+Vedad Ibisevic (Bosnia-Herzegovina) - TSG 1899 Hoffenheim
+Матчи: 135 | Голы: 54 | Голевые передачи: 22
+
+30
+00:03:06,800 --> 00:03:13,400
+Sejad Salihovic (Bosnia-Herzegovina) - TSG 1899 Hoffenheim
+Матчи: 249 | Голы: 67 | Голевые передачи: 61
+
+31
+00:03:13,400 --> 00:03:20,000
+Andrej Kramaric (Croatia) - TSG 1899 Hoffenheim
+Матчи: 318 | Голы: 140 | Голевые передачи: 63
+

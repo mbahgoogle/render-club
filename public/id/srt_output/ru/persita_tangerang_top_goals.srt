@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Persita Tangerang Лучшие бомбардиры всех времён
+
+2
+00:00:02,000 --> 00:00:08,600
+Ryuji Utomo (Indonesia) - Persita Tangerang
+Матчи: 15 | Голы: 2
+
+3
+00:00:08,600 --> 00:00:15,200
+Jalwandi Jamal (Indonesia) - Persita Tangerang
+Матчи: 7 | Голы: 2
+
+4
+00:00:15,200 --> 00:00:21,800
+Aldi Al Achya (Indonesia) - Persita Tangerang
+Матчи: 29 | Голы: 2 | Голевые передачи: 3
+
+5
+00:00:21,800 --> 00:00:28,400
+Kasim Botan (Indonesia) - Persita Tangerang
+Матчи: 17 | Голы: 2 | Голевые передачи: 3
+
+6
+00:00:28,400 --> 00:00:35,000
+Mohcine Hassan (Morocco) - Persita Tangerang
+Матчи: 11 | Голы: 2 | Голевые передачи: 1
+
+7
+00:00:35,000 --> 00:00:41,600
+Fahreza Sudin (Indonesia) - Persita Tangerang
+Матчи: 87 | Голы: 3 | Голевые передачи: 3
+
+8
+00:00:41,600 --> 00:00:48,200
+Javlon Guseynov (Uzbekistan) - Persita Tangerang
+Матчи: 66 | Голы: 3 | Голевые передачи: 2
+
+9
+00:00:48,200 --> 00:00:54,800
+Éber Bessa (Brazil) - Persita Tangerang
+Матчи: 7 | Голы: 3 | Голевые передачи: 1
+
+10
+00:00:54,800 --> 00:01:01,400
+Dong-chan Kim (Korea, South) - Persita Tangerang
+Матчи: 30 | Голы: 3
+
+11
+00:01:01,400 --> 00:01:08,000
+Elisa Basna (Indonesia) - Persita Tangerang
+Матчи: 27 | Голы: 3
+
+12
+00:01:08,000 --> 00:01:14,600
+Andre Agustiar Prakoso (Indonesia) - Persita Tangerang
+Матчи: 24 | Голы: 3 | Голевые передачи: 2
+
+13
+00:01:14,600 --> 00:01:21,200
+Christian Rontini (Philippines) - Persita Tangerang
+Матчи: 29 | Голы: 3 | Голевые передачи: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Taylon Nicolas Correa Marcolino (Brazil) - Persita Tangerang
+Матчи: 14 | Голы: 4 | Голевые передачи: 1
+
+15
+00:01:27,800 --> 00:01:34,400
+Mohammad Edo Febriansah (Indonesia) - Persita Tangerang
+Матчи: 28 | Голы: 4
+
+16
+00:01:34,400 --> 00:01:41,000
+Ade Jantra (Indonesia) - Persita Tangerang
+Матчи: 58 | Голы: 5 | Голевые передачи: 3
+
+17
+00:01:41,000 --> 00:01:47,600
+Sin-young Bae (Korea, South) - Persita Tangerang
+Матчи: 118 | Голы: 5 | Голевые передачи: 10
+
+18
+00:01:47,600 --> 00:01:54,200
+Luis Edmundo Durán Riquelme (Chile) - Persita Tangerang
+Матчи: 46 | Голы: 5
+
+19
+00:01:54,200 --> 00:02:00,800
+Chandra Waskito Kusumawardana (Indonesia) - Persita Tangerang
+Матчи: 24 | Голы: 6 | Голевые передачи: 2
+
+20
+00:02:00,800 --> 00:02:07,400
+Ahmad Nur Hardianto (Indonesia) - Persita Tangerang
+Матчи: 47 | Голы: 7 | Голевые передачи: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Harrison (Brazil) - Persita Tangerang
+Матчи: 23 | Голы: 7 | Голевые передачи: 7
+
+22
+00:02:14,000 --> 00:02:20,600
+Rifky Dwi Septiawan (Indonesia) - Persita Tangerang
+Матчи: 61 | Голы: 7 | Голевые передачи: 3
+
+23
+00:02:20,600 --> 00:02:27,200
+Mochammad Wildan Ramdhani Nugraha (Indonesia) - Persita Tangerang
+Матчи: 31 | Голы: 7 | Голевые передачи: 1
+
+24
+00:02:27,200 --> 00:02:33,800
+Kenji Adachihara (Japan) - Persita Tangerang
+Матчи: 19 | Голы: 7
+
+25
+00:02:33,800 --> 00:02:40,400
+Esal Sahrul Muhrom (Indonesia) - Persita Tangerang
+Матчи: 36 | Голы: 8 | Голевые передачи: 4
+
+26
+00:02:40,400 --> 00:02:47,000
+Marios Ogboe (Greece) - Persita Tangerang
+Матчи: 23 | Голы: 8
+
+27
+00:02:47,000 --> 00:02:53,600
+Irsyad Maulana (Indonesia) - Persita Tangerang
+Матчи: 77 | Голы: 10 | Голевые передачи: 7
+
+28
+00:02:53,600 --> 00:03:00,200
+Cristian Carrasco (Indonesia) - Persita Tangerang
+Матчи: 46 | Голы: 15
+
+29
+00:03:00,200 --> 00:03:06,800
+Norberto Ezequiel Vidal (Argentina) - Persita Tangerang
+Матчи: 63 | Голы: 17 | Голевые передачи: 14
+
+30
+00:03:06,800 --> 00:03:13,400
+Sirvi Arvani (Indonesia) - Persita Tangerang
+Матчи: 69 | Голы: 19 | Голевые передачи: 1
+
+31
+00:03:13,400 --> 00:03:20,000
+Ramiro Fergonzi (Argentina) - Persita Tangerang
+Матчи: 68 | Голы: 23 | Голевые передачи: 13
+

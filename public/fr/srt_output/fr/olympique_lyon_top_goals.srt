@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+Olympique Lyon Meilleurs Buteurs de Tous les Temps
+
+2
+00:00:02,000 --> 00:00:08,600
+Franck Durix (France) - Olympique Lyon
+Apparitions: 118 | Buts: 39
+
+3
+00:00:08,600 --> 00:00:15,200
+Corentin Tolisso (France) - Olympique Lyon
+Apparitions: 262 | Buts: 40 | Passes décisives: 26
+
+4
+00:00:15,200 --> 00:00:21,800
+Houssem Aouar (Algeria) - Olympique Lyon
+Apparitions: 233 | Buts: 41 | Passes décisives: 35
+
+5
+00:00:21,800 --> 00:00:28,400
+Fred (Brazil) - Olympique Lyon
+Apparitions: 125 | Buts: 43 | Passes décisives: 9
+
+6
+00:00:28,400 --> 00:00:35,000
+Jacques Fatton (Switzerland) - Olympique Lyon
+Apparitions: 98 | Buts: 43
+
+7
+00:00:35,000 --> 00:00:41,600
+Péguy Luyindula (France) - Olympique Lyon
+Apparitions: 126 | Buts: 46 | Passes décisives: 5
+
+8
+00:00:41,600 --> 00:00:48,200
+Lucien Cossou (France) - Olympique Lyon
+Apparitions: 102 | Buts: 47
+
+9
+00:00:48,200 --> 00:00:54,800
+Jean-Pierre Orts (France) - Olympique Lyon
+Apparitions: 83 | Buts: 50
+
+10
+00:00:54,800 --> 00:01:01,400
+Maxwel Cornet (Cote d'Ivoire) - Olympique Lyon
+Apparitions: 252 | Buts: 51 | Passes décisives: 28
+
+11
+00:01:01,400 --> 00:01:08,000
+Florian Maurice (France) - Olympique Lyon
+Apparitions: 141 | Buts: 51 | Passes décisives: 9
+
+12
+00:01:08,000 --> 00:01:14,600
+Ernest Schultz (France) - Olympique Lyon
+Apparitions: 112 | Buts: 56
+
+13
+00:01:14,600 --> 00:01:21,200
+Alain Caveglia (France) - Olympique Lyon
+Apparitions: 138 | Buts: 62 | Passes décisives: 1
+
+14
+00:01:21,200 --> 00:01:27,800
+Eugène Kabongo (DR Congo) - Olympique Lyon
+Apparitions: 97 | Buts: 63
+
+15
+00:01:27,800 --> 00:01:34,400
+Karim Benzema (France) - Olympique Lyon
+Apparitions: 148 | Buts: 66 | Passes décisives: 25
+
+16
+00:01:34,400 --> 00:01:41,000
+Nabil Fekir (France) - Olympique Lyon
+Apparitions: 193 | Buts: 69 | Passes décisives: 45
+
+17
+00:01:41,000 --> 00:01:47,600
+Moussa Dembélé (France) - Olympique Lyon
+Apparitions: 172 | Buts: 70 | Passes décisives: 18
+
+18
+00:01:47,600 --> 00:01:54,200
+Ángel Rambert (France) - Olympique Lyon
+Apparitions: 380 | Buts: 71
+
+19
+00:01:54,200 --> 00:02:00,800
+Memphis Depay (Netherlands) - Olympique Lyon
+Apparitions: 178 | Buts: 76 | Passes décisives: 54
+
+20
+00:02:00,800 --> 00:02:07,400
+André Guy (France) - Olympique Lyon
+Apparitions: 129 | Buts: 76
+
+21
+00:02:07,400 --> 00:02:14,000
+Sima Nikolic (Bosnia-Herzegovina) - Olympique Lyon
+Apparitions: 167 | Buts: 77
+
+22
+00:02:14,000 --> 00:02:20,600
+Sidney Govou (France) - Olympique Lyon
+Apparitions: 412 | Buts: 77 | Passes décisives: 38
+
+23
+00:02:20,600 --> 00:02:27,200
+Lisandro López (Argentina) - Olympique Lyon
+Apparitions: 168 | Buts: 82 | Passes décisives: 24
+
+24
+00:02:27,200 --> 00:02:33,800
+Sonny Anderson (Brazil) - Olympique Lyon
+Apparitions: 161 | Buts: 94 | Passes décisives: 4
+
+25
+00:02:33,800 --> 00:02:40,400
+Nestor Combin (France) - Olympique Lyon
+Apparitions: 164 | Buts: 94
+
+26
+00:02:40,400 --> 00:02:47,000
+Bafétimbi Gomis (France) - Olympique Lyon
+Apparitions: 244 | Buts: 95 | Passes décisives: 21
+
+27
+00:02:47,000 --> 00:02:53,600
+Juninho Pernambucano (Brazil) - Olympique Lyon
+Apparitions: 344 | Buts: 100 | Passes décisives: 77
+
+28
+00:02:53,600 --> 00:03:00,200
+Serge Chiesa (France) - Olympique Lyon
+Apparitions: 547 | Buts: 135
+
+29
+00:03:00,200 --> 00:03:06,800
+Bernard Lacombe (France) - Olympique Lyon
+Apparitions: 258 | Buts: 149
+
+30
+00:03:06,800 --> 00:03:13,400
+Alexandre Lacazette (France) - Olympique Lyon
+Apparitions: 383 | Buts: 195 | Passes décisives: 47
+
+31
+00:03:13,400 --> 00:03:20,000
+Fleury Di Nallo (France) - Olympique Lyon
+Apparitions: 494 | Buts: 222
+

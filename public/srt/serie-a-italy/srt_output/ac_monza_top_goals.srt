@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:02,000
+AC Monza All-Time Top Goal Scorers
+
+2
+00:00:02,000 --> 00:00:08,600
+Paolo Ferrario (Italy) - AC Monza
+Appearances: 27 | Goals: 18 | Assists: 0
+
+3
+00:00:08,600 --> 00:00:15,200
+Andrea Colpani (Italy) - AC Monza
+Appearances: 133 | Goals: 18 | Assists: 9
+
+4
+00:00:15,200 --> 00:00:21,800
+Lorenzo Marronaro (Italy) - AC Monza
+Appearances: 74 | Goals: 19 | Assists: 0
+
+5
+00:00:21,800 --> 00:00:28,400
+Luigi Sanseverino (Italy) - AC Monza
+Appearances: 105 | Goals: 19 | Assists: 0
+
+6
+00:00:28,400 --> 00:00:35,000
+Ugo Tosetto (Italy) - AC Monza
+Appearances: 62 | Goals: 19 | Assists: 0
+
+7
+00:00:35,000 --> 00:00:41,600
+Paolo Rossi (Italy) - AC Monza
+Appearances: 43 | Goals: 19 | Assists: 0
+
+8
+00:00:41,600 --> 00:00:48,200
+Guido Vivarelli (Italy) - AC Monza
+Appearances: 154 | Goals: 19 | Assists: 0
+
+9
+00:00:48,200 --> 00:00:54,800
+Salvatore Giorgio (Italy) - AC Monza
+Appearances: 76 | Goals: 20 | Assists: 0
+
+10
+00:00:54,800 --> 00:01:01,400
+Mariano Melonari (Italy) - AC Monza
+Appearances: 177 | Goals: 22 | Assists: 0
+
+11
+00:01:01,400 --> 00:01:08,000
+Carlo Ferrario (Italy) - AC Monza
+Appearances: 82 | Goals: 22 | Assists: 1
+
+12
+00:01:08,000 --> 00:01:14,600
+Christian Gytkjaer (Denmark) - AC Monza
+Appearances: 86 | Goals: 22 | Assists: 6
+
+13
+00:01:14,600 --> 00:01:21,200
+Anselmo Robbiati (Italy) - AC Monza
+Appearances: 171 | Goals: 24 | Assists: 2
+
+14
+00:01:21,200 --> 00:01:27,800
+Alessio Vita (Italy) - AC Monza
+Appearances: 96 | Goals: 24 | Assists: 4
+
+15
+00:01:27,800 --> 00:01:34,400
+Matteo Beretta (Italy) - AC Monza
+Appearances: 87 | Goals: 24 | Assists: 6
+
+16
+00:01:34,400 --> 00:01:41,000
+Claudio Ambu (Italy) - AC Monza
+Appearances: 104 | Goals: 24 | Assists: 0
+
+17
+00:01:41,000 --> 00:01:47,600
+Achille Fraschini (Italy) - AC Monza
+Appearances: 104 | Goals: 24 | Assists: 0
+
+18
+00:01:47,600 --> 00:01:54,200
+Giovanni Cuzzoni (Italy) - AC Monza
+Appearances: 86 | Goals: 24 | Assists: 0
+
+19
+00:01:54,200 --> 00:02:00,800
+Aldo Strada (Italy) - AC Monza
+Appearances: 93 | Goals: 24 | Assists: 0
+
+20
+00:02:00,800 --> 00:02:07,400
+Andrea Gasbarroni (Italy) - AC Monza
+Appearances: 56 | Goals: 25 | Assists: 1
+
+21
+00:02:07,400 --> 00:02:14,000
+Davide Sinigaglia (Italy) - AC Monza
+Appearances: 58 | Goals: 25 | Assists: 1
+
+22
+00:02:14,000 --> 00:02:20,600
+Italo Carminati (Italy) - AC Monza
+Appearances: 105 | Goals: 27 | Assists: 1
+
+23
+00:02:20,600 --> 00:02:27,200
+Stefano Guidoni (Italy) - AC Monza
+Appearances: 61 | Goals: 27 | Assists: 2
+
+24
+00:02:27,200 --> 00:02:33,800
+Vincenzo Traspedini (Italy) - AC Monza
+Appearances: 64 | Goals: 28 | Assists: 0
+
+25
+00:02:33,800 --> 00:02:40,400
+Loris Palazzo (Italy) - AC Monza
+Appearances: 70 | Goals: 29 | Assists: 0
+
+26
+00:02:40,400 --> 00:02:47,000
+Massimo Silva (Italy) - AC Monza
+Appearances: 80 | Goals: 32 | Assists: 0
+
+27
+00:02:47,000 --> 00:02:53,600
+Mattia Finotto (Italy) - AC Monza
+Appearances: 107 | Goals: 33 | Assists: 8
+
+28
+00:02:53,600 --> 00:03:00,200
+Dany Mota (Portugal) - AC Monza
+Appearances: 164 | Goals: 34 | Assists: 24
+
+29
+00:03:00,200 --> 00:03:06,800
+Aurelio Milani (Italy) - AC Monza
+Appearances: 64 | Goals: 38 | Assists: 0
+
+30
+00:03:06,800 --> 00:03:13,400
+Vincenzo Iacopino (Italy) - AC Monza
+Appearances: 175 | Goals: 42 | Assists: 3
+
+31
+00:03:13,400 --> 00:03:20,000
+Andrea D'Errico (Italy) - AC Monza
+Appearances: 203 | Goals: 48 | Assists: 27
+
