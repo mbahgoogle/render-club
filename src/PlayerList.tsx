@@ -37,8 +37,8 @@ import { getLogoCode } from "./utils/getLogoClub";
 // import rawTopPlayers from "../public/es/real_valladolid_cf_top_goals.json";
 // import rawTopPlayers from "../public/es/sevilla_fc_top_goals.json";
 // import rawTopPlayers from "../public/es/ud_las_palmas_top_goals.json";
-import rawTopPlayers from "../public/es/valencia_cf_top_goals.json";
-// import rawTopPlayers from "../public/es/villarreal_cf_top_goals.json";
+// import rawTopPlayers from "../public/es/valencia_cf_top_goals.json";
+import rawTopPlayers from "../public/es/villarreal_cf_top_goals.json";
 
 
 const { fontFamily: rubikFont } = loadRubik();
