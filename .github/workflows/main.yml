@@ -3,7 +3,7 @@ name: Render Remotion Video
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 permissions:

@@ -18,19 +18,19 @@ import { PlayerCard } from "./components/PlayerCardv1";
 import { getLogoCode } from "./utils/getLogoClub";
 
 
-// import rawTopPlayers from "../public/es/athletic_bilbao_top_goals.json";
-// import rawTopPlayers from "../public/es/atlético_de_madrid_top_goals.json";
-// import rawTopPlayers from "../public/es/ca_osasuna_top_goals.json";
-// import rawTopPlayers from "../public/es/cd_leganés_top_goals.json";
-// import rawTopPlayers from "../public/es/celta_de_vigo_top_goals.json";
-// import rawTopPlayers from "../public/es/deportivo_alavés_top_goals.json";
-// import rawTopPlayers from "../public/es/fc_barcelona_top_goals.json";
-// import rawTopPlayers from "../public/es/getafe_cf_top_goals.json";
-// import rawTopPlayers from "../public/es/girona_fc_top_goals.json";
-// import rawTopPlayers from "../public/es/rayo_vallecano_top_goals.json";
+// import rawTopPlayers from "../public/es/athletic_bilbao_top_goals.json"; //sudah
+// import rawTopPlayers from "../public/es/atlético_de_madrid_top_goals.json"; //sudah
+// import rawTopPlayers from "../public/es/ca_osasuna_top_goals.json"; //sudah
+// import rawTopPlayers from "../public/es/cd_leganés_top_goals.json"; //sudah
+// import rawTopPlayers from "../public/es/celta_de_vigo_top_goals.json"; //sudah
+// import rawTopPlayers from "../public/es/deportivo_alavés_top_goals.json"; //sudah
+// import rawTopPlayers from "../public/es/fc_barcelona_top_goals.json"; //sudah
+// import rawTopPlayers from "../public/es/getafe_cf_top_goals.json"; //sudah
+// import rawTopPlayers from "../public/es/girona_fc_top_goals.json"; //sudah
+// import rawTopPlayers from "../public/es/rayo_vallecano_top_goals.json"; //sudah
 
-import rawTopPlayers from "../public/es/rcd_espanyol_barcelona_top_goals.json";
-// import rawTopPlayers from "../public/es/rcd_mallorca_top_goals.json";
+// import rawTopPlayers from "../public/es/rcd_espanyol_barcelona_top_goals.json"; //sudah
+import rawTopPlayers from "../public/es/rcd_mallorca_top_goals.json";
 // import rawTopPlayers from "../public/es/real_betis_balompié_top_goals.json";
 // import rawTopPlayers from "../public/es/real_madrid_top_goals.json";
 // import rawTopPlayers from "../public/es/real_sociedad_top_goals.json";
