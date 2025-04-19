@@ -20,7 +20,7 @@ import { getLogoCode } from "./utils/getLogoClub";
 
 // import rawTopPlayers from "../public/es/athletic_bilbao_top_goals.json"; //sudah
 // import rawTopPlayers from "../public/es/atlético_de_madrid_top_goals.json"; //sudah
-import rawTopPlayers from "../public/es/ca_osasuna_top_goals.json"; //sudah
+// import rawTopPlayers from "../public/es/ca_osasuna_top_goals.json"; //sudah
 // import rawTopPlayers from "../public/es/cd_leganés_top_goals.json"; //sudah
 // import rawTopPlayers from "../public/es/celta_de_vigo_top_goals.json"; //sudah
 // import rawTopPlayers from "../public/es/deportivo_alavés_top_goals.json"; //sudah
@@ -35,7 +35,7 @@ import rawTopPlayers from "../public/es/ca_osasuna_top_goals.json"; //sudah
 // import rawTopPlayers from "../public/es/real_madrid_top_goals.json";
 // import rawTopPlayers from "../public/es/real_sociedad_top_goals.json";
 // import rawTopPlayers from "../public/es/real_valladolid_cf_top_goals.json";
-// import rawTopPlayers from "../public/es/sevilla_fc_top_goals.json";
+import rawTopPlayers from "../public/es/sevilla_fc_top_goals.json";
 // import rawTopPlayers from "../public/es/ud_las_palmas_top_goals.json";
 // import rawTopPlayers from "../public/es/valencia_cf_top_goals.json";
 // import rawTopPlayers from "../public/es/villarreal_cf_top_goals.json";
