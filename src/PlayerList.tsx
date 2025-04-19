@@ -32,7 +32,7 @@ import { getLogoCode } from "./utils/getLogoClub";
 // import rawTopPlayers from "../public/es/rcd_espanyol_barcelona_top_goals.json"; //sudah
 // import rawTopPlayers from "../public/es/rcd_mallorca_top_goals.json";
 // import rawTopPlayers from "../public/es/real_betis_balompié_top_goals.json";
-import rawTopPlayers from "../public/es/real_madrid_top_goals.json";
+// import rawTopPlayers from "../public/es/real_madrid_top_goals.json";
 // import rawTopPlayers from "../public/es/real_sociedad_top_goals.json";
 // import rawTopPlayers from "../public/es/real_valladolid_cf_top_goals.json";
 // import rawTopPlayers from "../public/es/sevilla_fc_top_goals.json";
