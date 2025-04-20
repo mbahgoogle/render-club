@@ -30,7 +30,7 @@ import { getLogoCode } from "./utils/getLogoClub";
 // import rawTopPlayers from "../public/en/fulham_fc_top_goals.json";
 // import rawTopPlayers from "../public/en/ipswich_town_top_goals.json";
 
-// import rawTopPlayers from "../public/en/leicester_city_top_goals.json";
+import rawTopPlayers from "../public/en/leicester_city_top_goals.json";
 // import rawTopPlayers from "../public/en/liverpool_fc_top_goals.json";
 // import rawTopPlayers from "../public/en/manchester_city_top_goals.json";
 // import rawTopPlayers from "../public/en/manchester_united_top_goals.json";
@@ -40,7 +40,7 @@ import { getLogoCode } from "./utils/getLogoClub";
 // import rawTopPlayers from "../public/en/southampton_fc_top_goals.json";
 // import rawTopPlayers from "../public/en/tottenham_hotspur_top_goals.json";
 // import rawTopPlayers from "../public/en/west_ham_united_top_goals.json";
-import rawTopPlayers from "../public/en/wolverhampton_wanderers_top_goals.json";
+// import rawTopPlayers from "../public/en/wolverhampton_wanderers_top_goals.json";
 
 
 const { fontFamily: rubikFont } = loadRubik();
