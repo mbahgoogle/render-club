@@ -28,7 +28,7 @@ import { getLogoCode } from "./utils/getLogoClub";
 // import rawTopPlayers from "../public/en/crystal_palace_top_goals.json";
 // import rawTopPlayers from "../public/en/everton_fc_top_goals.json";
 // import rawTopPlayers from "../public/en/fulham_fc_top_goals.json";
-import rawTopPlayers from "../public/en/ipswich_town_top_goals.json";
+// import rawTopPlayers from "../public/en/ipswich_town_top_goals.json";
 
 // import rawTopPlayers from "../public/en/leicester_city_top_goals.json";
 // import rawTopPlayers from "../public/en/liverpool_fc_top_goals.json";
