@@ -20,8 +20,8 @@ import { getLogoCode } from "./utils/getLogoClub";
 
 // import rawTopPlayers from "../public/en/afc_bournemouth_top_goals.json";
 // import rawTopPlayers from "../public/en/arsenal_fc_top_goals.json";
-import rawTopPlayers from "../public/en/aston_villa_top_goals.json";
-// import rawTopPlayers from "../public/en/brentford_fc_top_goals.json";
+// import rawTopPlayers from "../public/en/aston_villa_top_goals.json";
+import rawTopPlayers from "../public/en/brentford_fc_top_goals.json";
 // import rawTopPlayers from "../public/en/brighton_&_hove_albion_top_goals.json";
 
 // import rawTopPlayers from "../public/en/chelsea_fc_top_goals.json";
