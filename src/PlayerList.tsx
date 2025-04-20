@@ -18,27 +18,29 @@ import { PlayerCard } from "./components/PlayerCardv1";
 import { getLogoCode } from "./utils/getLogoClub";
 
 
-// import rawTopPlayers from "../public/es/athletic_bilbao_top_goals.json"; //sudah
-// import rawTopPlayers from "../public/es/atlético_de_madrid_top_goals.json"; //sudah
-// import rawTopPlayers from "../public/es/ca_osasuna_top_goals.json"; //sudah
-// import rawTopPlayers from "../public/es/cd_leganés_top_goals.json"; //sudah
-// import rawTopPlayers from "../public/es/celta_de_vigo_top_goals.json"; //sudah
-// import rawTopPlayers from "../public/es/deportivo_alavés_top_goals.json"; //sudah
-// import rawTopPlayers from "../public/es/fc_barcelona_top_goals.json"; //sudah
-// import rawTopPlayers from "../public/es/getafe_cf_top_goals.json"; //sudah
-// import rawTopPlayers from "../public/es/girona_fc_top_goals.json"; //sudah
-// import rawTopPlayers from "../public/es/rayo_vallecano_top_goals.json"; //sudah
+import rawTopPlayers from "../public/en/afc_bournemouth_top_goals.json";
+// import rawTopPlayers from "../public/en/arsenal_fc_top_goals.json";
+// import rawTopPlayers from "../public/en/aston_villa_top_goals.json";
+// import rawTopPlayers from "../public/en/brentford_fc_top_goals.json";
+// import rawTopPlayers from "../public/en/brighton_&_hove_albion_top_goals.json";
 
-// import rawTopPlayers from "../public/es/rcd_espanyol_barcelona_top_goals.json"; //sudah
-// import rawTopPlayers from "../public/es/rcd_mallorca_top_goals.json";
-// import rawTopPlayers from "../public/es/real_betis_balompié_top_goals.json";
-// import rawTopPlayers from "../public/es/real_madrid_top_goals.json";
-import rawTopPlayers from "../public/es/real_sociedad_top_goals.json";
-// import rawTopPlayers from "../public/es/real_valladolid_cf_top_goals.json";
-// import rawTopPlayers from "../public/es/sevilla_fc_top_goals.json";
-// import rawTopPlayers from "../public/es/ud_las_palmas_top_goals.json";
-// import rawTopPlayers from "../public/es/valencia_cf_top_goals.json";
-// import rawTopPlayers from "../public/es/villarreal_cf_top_goals.json";
+// import rawTopPlayers from "../public/en/chelsea_fc_top_goals.json";
+// import rawTopPlayers from "../public/en/crystal_palace_top_goals.json";
+// import rawTopPlayers from "../public/en/everton_fc_top_goals.json";
+// import rawTopPlayers from "../public/en/fulham_fc_top_goals.json";
+// import rawTopPlayers from "../public/en/ipswich_town_top_goals.json";
+
+// import rawTopPlayers from "../public/en/leicester_city_top_goals.json";
+// import rawTopPlayers from "../public/en/liverpool_fc_top_goals.json";
+// import rawTopPlayers from "../public/en/manchester_city_top_goals.json";
+// import rawTopPlayers from "../public/en/manchester_united_top_goals.json";
+// import rawTopPlayers from "../public/en/newcastle_united_top_goals.json";
+
+// import rawTopPlayers from "../public/en/nottingham_forest_top_goals.json";
+// import rawTopPlayers from "../public/en/southampton_fc_top_goals.json";
+// import rawTopPlayers from "../public/en/tottenham_hotspur_top_goals.json";
+// import rawTopPlayers from "../public/en/west_ham_united_top_goals.json";
+// import rawTopPlayers from "../public/en/wolverhampton_wanderers_top_goals.json";
 
 
 const { fontFamily: rubikFont } = loadRubik();
