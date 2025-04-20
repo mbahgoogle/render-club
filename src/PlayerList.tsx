@@ -33,8 +33,8 @@ import { getLogoCode } from "./utils/getLogoClub";
 // import rawTopPlayers from "../public/en/leicester_city_top_goals.json";
 // import rawTopPlayers from "../public/en/liverpool_fc_top_goals.json";
 // import rawTopPlayers from "../public/en/manchester_city_top_goals.json";
-import rawTopPlayers from "../public/en/manchester_united_top_goals.json";
-// import rawTopPlayers from "../public/en/newcastle_united_top_goals.json";
+// import rawTopPlayers from "../public/en/manchester_united_top_goals.json";
+import rawTopPlayers from "../public/en/newcastle_united_top_goals.json";
 
 // import rawTopPlayers from "../public/en/nottingham_forest_top_goals.json";
 // import rawTopPlayers from "../public/en/southampton_fc_top_goals.json";
